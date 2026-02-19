@@ -121,6 +121,10 @@ const ALLOWED_DOMAINS = [
   'english.alarabiya.net',
   'www.arabnews.com',
   'www.timesofisrael.com',
+  // イラン専門メディア（2026-02-20追加）
+  'www.iranintl.com',     // Iran International（反体制、英語）
+  'www.radiofarda.com',   // Radio Farda（RFE/RL ペルシャ語サービス）
+  'www.tehrantimes.com',  // Tehran Times（政府系、参考用）
   'www.scmp.com',
   'kyivindependent.com',
   'www.themoscowtimes.com',

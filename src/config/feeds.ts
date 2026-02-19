@@ -135,6 +135,11 @@ export const SOURCE_TIERS: Record<string, number> = {
   'Wamda (MENA)': 3,
   'Magnitt': 3,
 
+  // Iran Coverage
+  'Iran International': 2,
+  'Radio Farda': 2,
+  'Tehran Times': 4,
+
   // Tier 3 - Think Tanks
   'Brookings Tech': 3,
   'CSIS Tech': 3,
@@ -228,6 +233,8 @@ export const SOURCE_TYPES: Record<string, SourceType> = {
   'Guardian World': 'mainstream', 'Guardian ME': 'mainstream',
   'NPR News': 'mainstream', 'Al Jazeera': 'mainstream',
   'CNN World': 'mainstream', 'Politico': 'mainstream',
+  'Iran International': 'mainstream', 'Radio Farda': 'mainstream',
+  'Tehran Times': 'other',
 
   // Market/Finance
   'CNBC': 'market', 'MarketWatch': 'market', 'Yahoo Finance': 'market',
@@ -297,6 +304,11 @@ export const SOURCE_PROPAGANDA_RISK: Record<string, SourceRiskProfile> = {
   'Kyiv Independent': { risk: 'medium', knownBiases: ['Pro-Ukraine'], note: 'Ukrainian perspective on Russia-Ukraine war' },
   'Moscow Times': { risk: 'medium', knownBiases: ['Anti-Kremlin'], note: 'Independent, critical of Russian government' },
 
+  // Iran-related sources
+  'Tehran Times': { risk: 'high', stateAffiliated: 'Iran', note: 'English-language daily aligned with Iranian government positions' },
+  'Iran International': { risk: 'low', note: 'Independent Persian broadcaster, critical of Iranian government' },
+  'Radio Farda': { risk: 'medium', stateAffiliated: 'USA', note: 'RFE/RL Persian service, US government-funded' },
+
   // Low risk - Independent with editorial standards (explicit)
   'Reuters': { risk: 'low', note: 'Wire service, strict editorial standards' },
   'AP News': { risk: 'low', note: 'Wire service, nonprofit cooperative' },
@@ -335,6 +347,11 @@ const FULL_FEEDS: Record<string, Feed[]> = {
     // Arab News and Times of Israel removed — 403 from cloud IPs
     { name: 'Guardian ME', url: rss('https://www.theguardian.com/world/middleeast/rss') },
     { name: 'CNN World', url: rss('http://rss.cnn.com/rss/cnn_world.rss') },
+    // イラン専門メディア
+    { name: 'Iran International', url: rss('https://www.iranintl.com/en/rss') },
+    { name: 'Radio Farda', url: rss('https://www.radiofarda.com/api/z-pqpevi-qpp') },
+    // 政府系（比較参考用 tier 4）
+    { name: 'Tehran Times', url: rss('https://www.tehrantimes.com/rss') },
   ],
   tech: [
     { name: 'Hacker News', url: rss('https://hnrss.org/frontpage') },
