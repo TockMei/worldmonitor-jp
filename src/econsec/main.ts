@@ -2,6 +2,9 @@
 // Data is fetched from the auth-protected route handler, never bundled into
 // public assets.
 import './econsec.css';
+import './panel-live.css';
+import { LiveNewsPanel } from '@/components/LiveNewsPanel';
+import { EconsecMap } from './map';
 import type { EconsecData, EconsecFilterState, EconsecTier } from './types';
 import {
   TIER_LABELS,
@@ -24,6 +27,7 @@ const state: EconsecFilterState = {
 };
 
 let data: EconsecData | null = null;
+let map: EconsecMap | null = null;
 
 function $(id: string): HTMLElement {
   const el = document.getElementById(id);
@@ -54,6 +58,14 @@ function renderList(): void {
   $('econsec-count').textContent = `${filtered.length} / ${data.sources.length} 件`;
 }
 
+// Region filter shared by the select box and the map markers.
+function setRegion(region: string): void {
+  state.region = region;
+  ($('econsec-filter-region') as HTMLSelectElement).value = region;
+  map?.setActiveRegion(region === 'all' ? null : region);
+  renderList();
+}
+
 function bindEvents(): void {
   $('econsec-tabs').addEventListener('click', (e) => {
     const btn = (e.target as HTMLElement).closest<HTMLElement>('.tier-tab');
@@ -63,13 +75,15 @@ function bindEvents(): void {
     renderList();
   });
 
-  const bindSelect = (id: string, key: 'region' | 'category' | 'cost') => {
+  const bindSelect = (id: string, key: 'category' | 'cost') => {
     $(id).addEventListener('change', (e) => {
       state[key] = (e.target as HTMLSelectElement).value;
       renderList();
     });
   };
-  bindSelect('econsec-filter-region', 'region');
+  $('econsec-filter-region').addEventListener('change', (e) => {
+    setRegion((e.target as HTMLSelectElement).value);
+  });
   bindSelect('econsec-filter-category', 'category');
   bindSelect('econsec-filter-cost', 'cost');
 
@@ -100,6 +114,20 @@ async function init(): Promise<void> {
   renderTabs();
   renderList();
   bindEvents();
+
+  // World map: chokepoints + region markers. Marker click filters the list
+  // below by region (clicking the active region again clears the filter).
+  map = new EconsecMap($('econsec-map'), {
+    onRegionSelect: (region) => {
+      setRegion(state.region === region ? 'all' : region);
+    },
+    getSourceById: (id) => data?.sources.find((s) => s.id === id),
+  });
+  void map.init();
+
+  // Live video panel (official YouTube embeds only, reused from the
+  // dashboard's LiveNewsPanel).
+  $('live-news').appendChild(new LiveNewsPanel().getElement());
 }
 
 init();

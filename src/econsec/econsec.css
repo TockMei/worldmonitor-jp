@@ -11,6 +11,11 @@
   --red: #ff4444;
   --green: #44ff88;
   --yellow: #ffaa00;
+  --panel-bg: #141414;
+  --map-bg: #020a08;
+  --map-grid: #0a2a20;
+  --map-country: #0a2018;
+  --map-stroke: #0f5040;
 }
 
 * {
@@ -29,9 +34,166 @@ body {
 }
 
 .econsec-page {
-  max-width: 1100px;
+  max-width: 1280px;
   margin: 0 auto;
   padding: 16px;
+}
+
+/* Top section: world map + live video */
+.econsec-top {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(300px, 1fr);
+  gap: 12px;
+  margin-top: 12px;
+}
+
+@media (max-width: 900px) {
+  .econsec-top {
+    grid-template-columns: 1fr;
+  }
+}
+
+.econsec-map-container {
+  position: relative;
+  background: var(--map-bg);
+  border: 1px solid var(--border);
+  min-height: 240px;
+}
+
+.econsec-map-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.econsec-map-sea {
+  fill: var(--map-bg);
+}
+
+.econsec-map-country {
+  fill: var(--map-country);
+  stroke: var(--map-stroke);
+  stroke-width: 0.5;
+}
+
+.econsec-map-error {
+  color: var(--text-dim);
+  padding: 24px;
+  text-align: center;
+}
+
+.econsec-region-marker circle {
+  fill: rgba(232, 232, 232, 0.15);
+  stroke: var(--text);
+  stroke-width: 1;
+}
+
+.econsec-region-marker:hover circle {
+  fill: rgba(232, 232, 232, 0.35);
+}
+
+.econsec-region-marker.active circle {
+  fill: var(--green);
+  stroke: var(--green);
+}
+
+.econsec-region-marker text {
+  fill: var(--text);
+  font-size: 11px;
+  font-family: inherit;
+  paint-order: stroke;
+  stroke: var(--map-bg);
+  stroke-width: 3;
+}
+
+.econsec-chokepoint rect {
+  fill: var(--yellow);
+  stroke: var(--map-bg);
+  stroke-width: 1;
+}
+
+.econsec-chokepoint:hover rect {
+  fill: #ffd060;
+}
+
+.econsec-chokepoint text {
+  fill: var(--yellow);
+  font-size: 9px;
+  font-family: inherit;
+  paint-order: stroke;
+  stroke: var(--map-bg);
+  stroke-width: 3;
+}
+
+.econsec-map-popup {
+  position: absolute;
+  transform: translate(-50%, 12px);
+  min-width: 180px;
+  max-width: 260px;
+  background: var(--surface);
+  border: 1px solid var(--yellow);
+  padding: 8px 10px;
+  z-index: 10;
+}
+
+.econsec-popup-close {
+  position: absolute;
+  top: 4px;
+  right: 6px;
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-family: inherit;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.econsec-popup-close:hover {
+  color: var(--text);
+}
+
+.econsec-popup-title {
+  font-weight: 600;
+  font-size: 12px;
+  padding-right: 16px;
+}
+
+.econsec-popup-desc {
+  color: var(--text-dim);
+  font-size: 10px;
+  margin-top: 2px;
+}
+
+.econsec-popup-links-label {
+  margin-top: 6px;
+  font-size: 10px;
+  color: var(--text-dim);
+}
+
+.econsec-popup-links {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-top: 2px;
+}
+
+.econsec-popup-links a {
+  color: var(--green);
+  font-size: 11px;
+  text-decoration: none;
+}
+
+.econsec-popup-links a:hover {
+  text-decoration: underline;
+}
+
+.econsec-popup-none {
+  color: var(--text-dim);
+  font-size: 11px;
+}
+
+.econsec-video .panel {
+  border-color: var(--border);
 }
 
 .econsec-header {
