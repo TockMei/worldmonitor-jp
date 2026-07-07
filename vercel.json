@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    {
+      "source": "/internal/econsec/sources.json",
+      "destination": "/api/internal/econsec-sources"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/internal/(.*)",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "noindex, nofollow" },
+        { "key": "Cache-Control", "value": "private, no-store" }
+      ]
+    },
+    {
+      "source": "/api/internal/(.*)",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "noindex, nofollow" },
+        { "key": "Cache-Control", "value": "private, no-store" }
+      ]
+    }
+  ]
+}

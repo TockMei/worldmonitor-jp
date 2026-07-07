@@ -1,5 +1,6 @@
 import { defineConfig, type Plugin } from 'vite';
 import { resolve } from 'path';
+import { readFileSync } from 'fs';
 import pkg from './package.json';
 
 const VARIANT_META: Record<string, {
@@ -59,7 +60,11 @@ function htmlVariantPlugin(): Plugin {
 
   return {
     name: 'html-variant',
-    transformIndexHtml(html) {
+    transformIndexHtml(html, ctx) {
+      // Internal pages (/internal/*) manage their own meta; skip variant rewrite.
+      if (ctx.filename.includes(`${resolve(__dirname, 'internal')}/`)) {
+        return html;
+      }
       return html
         .replace(/<title>.*?<\/title>/, `<title>${meta.title}</title>`)
         .replace(/<meta name="title" content=".*?" \/>/, `<meta name="title" content="${meta.title}" />`)
@@ -119,11 +124,37 @@ function youtubeLivePlugin(): Plugin {
   };
 }
 
+function econsecDevPlugin(): Plugin {
+  return {
+    name: 'econsec-dev-sources',
+    configureServer(server) {
+      // Dev-only stand-in for the vercel.json rewrite to
+      // /api/internal/econsec-sources (Basic auth is production-only).
+      server.middlewares.use((req, res, next) => {
+        if (req.url?.split('?')[0] !== '/internal/econsec/sources.json') {
+          return next();
+        }
+        try {
+          const json = readFileSync(resolve(__dirname, 'data/econsec/sources.json'), 'utf-8');
+          res.setHeader('Content-Type', 'application/json; charset=utf-8');
+          res.setHeader('Cache-Control', 'no-store');
+          res.end(json);
+        } catch (error) {
+          console.error('[econsec] failed to read sources.json:', error);
+          res.statusCode = 500;
+          res.setHeader('Content-Type', 'application/json');
+          res.end(JSON.stringify({ error: 'sources.json not available' }));
+        }
+      });
+    },
+  };
+}
+
 export default defineConfig({
   define: {
     __APP_VERSION__: JSON.stringify(pkg.version),
   },
-  plugins: [htmlVariantPlugin(), youtubeLivePlugin()],
+  plugins: [htmlVariantPlugin(), youtubeLivePlugin(), econsecDevPlugin()],
   resolve: {
     alias: {
       '@': resolve(__dirname, 'src'),
@@ -131,6 +162,10 @@ export default defineConfig({
   },
   build: {
     rollupOptions: {
+      input: {
+        main: resolve(__dirname, 'index.html'),
+        econsec: resolve(__dirname, 'internal/econsec/index.html'),
+      },
       output: {
         manualChunks: {
           'd3': ['d3'],

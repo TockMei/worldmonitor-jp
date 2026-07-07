@@ -1,0 +1,241 @@
+/* Internal econsec page. Reuses the worldmonitor design tokens (dark surface,
+   monospace) without pulling in the full dashboard stylesheet, whose
+   body { overflow: hidden } grid layout does not fit a scrollable directory. */
+:root {
+  --bg: #0a0a0a;
+  --surface: #141414;
+  --border: #2a2a2a;
+  --text: #e8e8e8;
+  --text-dim: #888;
+  --accent: #fff;
+  --red: #ff4444;
+  --green: #44ff88;
+  --yellow: #ffaa00;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Code', monospace;
+  font-size: 12px;
+  line-height: 1.5;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+.econsec-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.econsec-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.econsec-header h1 {
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.econsec-header .internal-mark {
+  color: var(--red);
+  border: 1px solid var(--red);
+  padding: 0 6px;
+  font-size: 10px;
+}
+
+#econsec-meta {
+  color: var(--text-dim);
+  font-size: 10px;
+}
+
+.econsec-tabs {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+  margin: 12px 0 8px;
+}
+
+.tier-tab {
+  font-family: inherit;
+  font-size: 12px;
+  background: var(--surface);
+  color: var(--text-dim);
+  border: 1px solid var(--border);
+  padding: 4px 10px;
+  cursor: pointer;
+}
+
+.tier-tab:hover {
+  color: var(--text);
+}
+
+.tier-tab.active {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.tier-count {
+  margin-left: 6px;
+  color: var(--text-dim);
+  font-size: 10px;
+}
+
+.econsec-filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.econsec-filters label {
+  color: var(--text-dim);
+  font-size: 11px;
+}
+
+.econsec-filters select,
+.econsec-filters input {
+  font-family: inherit;
+  font-size: 12px;
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 4px 6px;
+}
+
+.econsec-filters input {
+  min-width: 220px;
+}
+
+#econsec-count {
+  margin-left: auto;
+  color: var(--text-dim);
+}
+
+.source-row {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 8px 10px;
+  margin-bottom: 6px;
+}
+
+.source-row-main {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.source-name a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--text-dim);
+}
+
+.source-name a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.source-name-nolink {
+  color: var(--text);
+}
+
+.source-row-tags {
+  margin-top: 4px;
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.tag {
+  font-size: 10px;
+  color: var(--text-dim);
+  border: 1px solid var(--border);
+  padding: 0 5px;
+}
+
+.tag-tier {
+  color: var(--text);
+}
+
+.tag-cost-paid {
+  color: var(--yellow);
+  border-color: var(--yellow);
+}
+
+.tag-cost-freemium {
+  color: var(--text);
+}
+
+.source-row-notes {
+  margin-top: 4px;
+  color: var(--text-dim);
+  font-size: 11px;
+}
+
+.badge {
+  font-size: 10px;
+  padding: 0 5px;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+}
+
+.badge-mr {
+  color: var(--green);
+  border-color: var(--green);
+}
+
+.badge-verify {
+  color: var(--yellow);
+  border-color: var(--yellow);
+}
+
+.badge-nolink {
+  color: var(--text-dim);
+}
+
+.badge-status-ok {
+  color: var(--green);
+  border-color: var(--green);
+}
+
+.badge-status-redirect {
+  color: var(--yellow);
+  border-color: var(--yellow);
+}
+
+.badge-status-blocked {
+  color: var(--yellow);
+  border-color: var(--yellow);
+}
+
+.badge-status-dead {
+  color: var(--red);
+  border-color: var(--red);
+}
+
+.badge-status-skip,
+.badge-status-unchecked {
+  color: var(--text-dim);
+}
+
+.source-empty {
+  color: var(--text-dim);
+  padding: 24px;
+  text-align: center;
+  border: 1px dashed var(--border);
+}
