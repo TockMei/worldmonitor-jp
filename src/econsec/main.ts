@@ -3,8 +3,8 @@
 // public assets.
 import './econsec.css';
 import './panel-live.css';
-import { LiveNewsPanel } from '@/components/LiveNewsPanel';
 import { EconsecMap } from './map';
+import { EconsecLivePanel } from './live';
 import type { EconsecData, EconsecFilterState, EconsecTier } from './types';
 import {
   TIER_LABELS,
@@ -125,9 +125,11 @@ async function init(): Promise<void> {
   });
   void map.init();
 
-  // Live video panel (official YouTube embeds only, reused from the
-  // dashboard's LiveNewsPanel).
-  $('live-news').appendChild(new LiveNewsPanel().getElement());
+  // Live video panel: official YouTube embeds verified at startup, with an
+  // automatic link-list fallback when no channel is embeddable.
+  const live = new EconsecLivePanel();
+  $('live-news').appendChild(live.getElement());
+  void live.init();
 }
 
 init();

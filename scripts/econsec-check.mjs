@@ -7,7 +7,8 @@
 // Status semantics (see handoff spec):
 //   ok             2xx
 //   redirect       permanent redirect (301/308) that changed the host
-//   blocked        403/405/429/999 (manual review queue, NOT dead)
+//   blocked        401/403/405/407/429/999 (auth-required or bot-blocked;
+//                  manual review queue, NOT dead)
 //   dead_candidate first failure (DNS/timeout/5xx) - not confirmed yet
 //   dead           failed again on the following run
 //   skip           skip-listed domains and url=null entries
@@ -19,12 +20,16 @@ import { resolve, dirname } from 'node:path';
 
 const DATA_PATH = resolve(dirname(fileURLToPath(import.meta.url)), '../data/econsec/sources.json');
 
-const SKIP_DOMAINS = ['x.com', 'facebook.com', 't.me', 'weibo.com'];
+// webgate.ec.europa.eu (EU FSF) always demands EU Login auth - probing it
+// tells us nothing, so it must never be marked dead.
+const SKIP_DOMAINS = ['x.com', 'facebook.com', 't.me', 'weibo.com', 'webgate.ec.europa.eu'];
 const TIMEOUT_MS = 15000;
 const CONCURRENCY = 8;
 const MAX_REDIRECTS = 10;
 const PERMANENT_REDIRECTS = new Set([301, 308]);
-const BLOCKED_STATUSES = new Set([403, 405, 429, 999]);
+// 401/407 are auth challenges: the site is alive but requires credentials,
+// so they must be classified as blocked before any dead_candidate verdict.
+const BLOCKED_STATUSES = new Set([401, 403, 405, 407, 429, 999]);
 // Real-browser-equivalent User-Agent: many government/媒体 sites reject
 // default fetch UAs outright.
 const USER_AGENT =
