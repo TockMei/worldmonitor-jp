@@ -19,12 +19,14 @@ export async function timingSafeEqual(a, b) {
   return diff === 0;
 }
 
-// Returns true only when the request carries valid Basic credentials.
-// Fails closed when ECONSEC_BASIC_USER / ECONSEC_BASIC_PASS are not set.
+// Returns true only when the request carries a valid Basic password.
+// The username is intentionally ignored (not compared at all) - this is a
+// single-operator internal tool, so a second shared credential adds no real
+// access control, only UX friction (a username field to fill in every time).
+// Fails closed when ECONSEC_BASIC_PASS is not set.
 export async function checkBasicAuth(request) {
-  const expectedUser = process.env.ECONSEC_BASIC_USER;
   const expectedPass = process.env.ECONSEC_BASIC_PASS;
-  if (!expectedUser || !expectedPass) return false;
+  if (!expectedPass) return false;
 
   const header = request.headers.get('authorization') || '';
   if (!header.startsWith('Basic ')) return false;
@@ -36,18 +38,13 @@ export async function checkBasicAuth(request) {
     return false;
   }
 
+  // RFC 7617 still requires a "user-id:password" shape, so a colon must be
+  // present - but the user-id half may be empty ("" is a valid username).
   const sep = decoded.indexOf(':');
   if (sep < 0) return false;
-  const user = decoded.slice(0, sep);
   const pass = decoded.slice(sep + 1);
 
-  // Evaluate both comparisons unconditionally to avoid a user-enumeration
-  // timing shortcut.
-  const [userOk, passOk] = await Promise.all([
-    timingSafeEqual(user, expectedUser),
-    timingSafeEqual(pass, expectedPass),
-  ]);
-  return userOk && passOk;
+  return timingSafeEqual(pass, expectedPass);
 }
 
 export function unauthorized() {
