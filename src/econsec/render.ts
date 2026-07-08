@@ -38,6 +38,19 @@ export function escapeHtml(value: string): string {
     .replace(/'/g, '&#39;');
 }
 
+// escapeHtml only neutralizes HTML metacharacters, not the URL scheme - an
+// href="javascript:..." still executes on click even when escaped. Feed
+// items in particular come from third-party RSS/Atom content fetched over
+// the network (econsec-feeds.js), so every href must be scheme-checked
+// before being placed in markup, not just HTML-escaped.
+export function isSafeHttpUrl(value: string): boolean {
+  try {
+    return ['http:', 'https:'].includes(new URL(value).protocol);
+  } catch {
+    return false;
+  }
+}
+
 export function uniqueValues(sources: EconsecSource[], key: 'region' | 'category' | 'cost'): string[] {
   return [...new Set(sources.map((s) => s[key]))].sort();
 }
@@ -80,7 +93,7 @@ function renderStatusBadge(s: EconsecSource): string {
 }
 
 export function renderSourceRow(s: EconsecSource): string {
-  const name = s.url
+  const name = s.url && isSafeHttpUrl(s.url)
     ? `<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.name)}</a>`
     : `<span class="source-name-nolink">${escapeHtml(s.name)}</span>`;
   const verifyBadge = s.verify
@@ -125,8 +138,12 @@ export function renderSourceList(sources: EconsecSource[]): string {
 }
 
 export function renderFeedItems(items: EconsecFeedItem[]): string {
-  if (items.length === 0) return '';
-  return `<ul class="source-feed-list">${items
+  // Defense-in-depth: econsec-feeds.js already drops non-http(s) links
+  // server-side, but item.link is third-party network content, so it is
+  // re-checked here before ever reaching an href.
+  const safeItems = items.filter((item) => isSafeHttpUrl(item.link));
+  if (safeItems.length === 0) return '';
+  return `<ul class="source-feed-list">${safeItems
     .map(
       (item) =>
         `<li><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>${

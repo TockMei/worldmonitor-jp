@@ -8,7 +8,7 @@ import * as d3 from 'd3';
 import * as topojson from 'topojson-client';
 import type { Topology, GeometryCollection } from 'topojson-specification';
 import { MAP_URLS, STRATEGIC_WATERWAYS } from '@/config/geo';
-import { escapeHtml } from './render';
+import { escapeHtml, isSafeHttpUrl } from './render';
 import type { EconsecSource } from './types';
 
 const VIEW_W = 960;
@@ -200,7 +200,7 @@ export class EconsecMap {
 
     const links = (CHOKEPOINT_SOURCES[id] || [])
       .map((sourceId) => this.options.getSourceById(sourceId))
-      .filter((s): s is EconsecSource => Boolean(s && (s.final_url || s.url)))
+      .filter((s): s is EconsecSource => Boolean(s && isSafeHttpUrl(s.final_url || s.url || '')))
       .map((s) => {
         const href = s.final_url || s.url!;
         return `<a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.name)}</a>`;

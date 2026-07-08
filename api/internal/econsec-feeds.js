@@ -52,6 +52,18 @@ async function fetchText(url, timeoutMs) {
   return res.text();
 }
 
+// Feed content is third-party network data. A <link> element containing a
+// javascript: URI would otherwise pass through untouched to the client,
+// which only HTML-escapes item.link before putting it in an href - escaping
+// does not neutralize the URL scheme, so it must be checked here too.
+function isSafeHttpUrl(value) {
+  try {
+    return ['http:', 'https:'].includes(new URL(value).protocol);
+  } catch {
+    return false;
+  }
+}
+
 function decodeEntities(value) {
   return value
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
@@ -105,7 +117,7 @@ export function parseFeedItems(xml) {
       const linkMatch = block.match(/<link\b[^>]*>([\s\S]*?)<\/link>/i);
       link = linkMatch ? decodeEntities(linkMatch[1]) : null;
     }
-    if (!link) continue;
+    if (!link || !isSafeHttpUrl(link)) continue;
 
     const dateMatch = isAtom
       ? block.match(/<(?:published|updated)\b[^>]*>([\s\S]*?)<\/(?:published|updated)>/i)
