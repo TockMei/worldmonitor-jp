@@ -25,6 +25,7 @@ const STATUS_LABELS: Record<string, string> = {
   redirect: 'REDIRECT',
   blocked: 'BLOCKED',
   dead: 'DEAD',
+  dead_candidate: 'DEAD候補',
   skip: 'SKIP',
 };
 

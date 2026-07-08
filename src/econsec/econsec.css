@@ -390,6 +390,12 @@ body {
   border-color: var(--red);
 }
 
+.badge-status-dead_candidate {
+  color: var(--red);
+  border-color: var(--red);
+  border-style: dashed;
+}
+
 .badge-status-skip,
 .badge-status-unchecked {
   color: var(--text-dim);

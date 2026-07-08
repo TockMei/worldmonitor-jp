@@ -1,6 +1,8 @@
 export type EconsecTier = '0' | '1' | '2' | '3' | 'raw';
 
-export type EconsecStatus = 'ok' | 'redirect' | 'blocked' | 'dead' | 'skip';
+// 'dead_candidate' is the checker's intermediate state: first failure, not
+// yet confirmed (dead is only set after two consecutive failing runs).
+export type EconsecStatus = 'ok' | 'redirect' | 'blocked' | 'dead' | 'dead_candidate' | 'skip';
 
 export interface EconsecSource {
   id: string;
