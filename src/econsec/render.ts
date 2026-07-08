@@ -1,6 +1,6 @@
 // Pure rendering/filtering logic for the econsec source directory.
 // Kept DOM-free so it can be unit-tested in node.
-import type { EconsecFilterState, EconsecSource, EconsecTier } from './types';
+import type { EconsecFeedItem, EconsecFilterState, EconsecSource, EconsecTier } from './types';
 
 export const TIER_LABELS: Record<EconsecTier | 'all', string> = {
   all: 'すべて',
@@ -96,6 +96,12 @@ export function renderSourceRow(s: EconsecSource): string {
     `<span class="tag">${escapeHtml(s.lang)}</span>`,
     `<span class="tag tag-cost-${escapeHtml(s.cost)}">${escapeHtml(s.cost)}</span>`,
   ].join('');
+  // Feed items are filled in later (client-side, once /internal/econsec/feeds.json
+  // resolves) via populateFeedContainer; only sources tagged mr:"rss" get a
+  // container at all, so a plain link is all a non-RSS source ever shows.
+  const feedContainer = s.mr.includes('rss')
+    ? `<div class="source-feed" data-feed-for="${escapeHtml(s.id)}"></div>`
+    : '';
   return `
     <div class="source-row" data-id="${escapeHtml(s.id)}" data-tier="${escapeHtml(s.tier)}">
       <div class="source-row-main">
@@ -107,6 +113,7 @@ export function renderSourceRow(s: EconsecSource): string {
       </div>
       <div class="source-row-tags">${tags}</div>
       <div class="source-row-notes">${escapeHtml(s.notes)}</div>
+      ${feedContainer}
     </div>`;
 }
 
@@ -115,4 +122,28 @@ export function renderSourceList(sources: EconsecSource[]): string {
     return '<div class="source-empty">該当するソースがありません</div>';
   }
   return sources.map(renderSourceRow).join('\n');
+}
+
+export function renderFeedItems(items: EconsecFeedItem[]): string {
+  if (items.length === 0) return '';
+  return `<ul class="source-feed-list">${items
+    .map(
+      (item) =>
+        `<li><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>${
+          item.date ? `<span class="source-feed-date">${escapeHtml(item.date)}</span>` : ''
+        }</li>`,
+    )
+    .join('')}</ul>`;
+}
+
+// Fills every rendered source card's feed container from the aggregated
+// /internal/econsec/feeds.json payload. Cards for sources with no returned
+// items (feed fetch failed/skipped/empty) are left untouched - link-only.
+export function populateFeedContainers(feeds: Record<string, EconsecFeedItem[]>): void {
+  document.querySelectorAll<HTMLElement>('[data-feed-for]').forEach((el) => {
+    const items = feeds[el.dataset.feedFor || ''];
+    if (items && items.length > 0) {
+      el.innerHTML = renderFeedItems(items);
+    }
+  });
 }

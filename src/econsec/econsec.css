@@ -287,11 +287,38 @@ body {
   color: var(--text-dim);
 }
 
+/* Source list: multi-column card grid on desktop, matching the main
+   dashboard's .panels-grid density; collapses to a single stacked column at
+   the same breakpoint the dashboard uses for its own mobile layout
+   (main.css: `@media (pointer: coarse), (max-width: 768px)`). */
+#econsec-list {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  align-items: start;
+}
+
+@media (max-width: 1100px) {
+  #econsec-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (pointer: coarse), (max-width: 768px) {
+  #econsec-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+}
+
 .source-row {
   background: var(--surface);
   border: 1px solid var(--border);
   padding: 8px 10px;
-  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .source-row-main {
@@ -402,8 +429,51 @@ body {
 }
 
 .source-empty {
+  grid-column: 1 / -1;
   color: var(--text-dim);
   padding: 24px;
   text-align: center;
   border: 1px dashed var(--border);
+}
+
+.source-feed {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid var(--border);
+}
+
+.source-feed-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.source-feed-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  font-size: 10px;
+}
+
+.source-feed-list a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--text-dim);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.source-feed-list a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.source-feed-date {
+  color: var(--text-dim);
+  flex-shrink: 0;
+  white-space: nowrap;
 }

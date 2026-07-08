@@ -5,18 +5,20 @@ import './econsec.css';
 import './panel-live.css';
 import { EconsecMap } from './map';
 import { EconsecLivePanel } from './live';
-import type { EconsecData, EconsecFilterState, EconsecTier } from './types';
+import type { EconsecData, EconsecFeedItem, EconsecFeedsResponse, EconsecFilterState, EconsecTier } from './types';
 import {
   TIER_LABELS,
   TIER_ORDER,
   escapeHtml,
   filterSources,
+  populateFeedContainers,
   renderSourceList,
   tierCounts,
   uniqueValues,
 } from './render';
 
 const SOURCES_URL = '/internal/econsec/sources.json';
+const FEEDS_URL = '/internal/econsec/feeds.json';
 
 const state: EconsecFilterState = {
   tier: 'all',
@@ -28,6 +30,7 @@ const state: EconsecFilterState = {
 
 let data: EconsecData | null = null;
 let map: EconsecMap | null = null;
+let feeds: Record<string, EconsecFeedItem[]> | null = null;
 
 function $(id: string): HTMLElement {
   const el = document.getElementById(id);
@@ -56,6 +59,21 @@ function renderList(): void {
   const filtered = filterSources(data.sources, state);
   $('econsec-list').innerHTML = renderSourceList(filtered);
   $('econsec-count').textContent = `${filtered.length} / ${data.sources.length} 件`;
+  if (feeds) populateFeedContainers(feeds);
+}
+
+// Best-effort: a feed-fetch failure must not affect the source directory
+// itself, so errors here are swallowed and cards simply stay link-only.
+async function loadFeeds(): Promise<void> {
+  try {
+    const res = await fetch(FEEDS_URL, { credentials: 'same-origin' });
+    if (!res.ok) return;
+    const payload = (await res.json()) as EconsecFeedsResponse;
+    feeds = payload.feeds;
+    populateFeedContainers(feeds);
+  } catch {
+    // no feeds this session - cards already render link-only
+  }
 }
 
 // Region filter shared by the select box and the map markers.
@@ -130,6 +148,10 @@ async function init(): Promise<void> {
   const live = new EconsecLivePanel();
   $('live-news').appendChild(live.getElement());
   void live.init();
+
+  // RSS feed digests: fetched separately from the source directory itself so
+  // a slow/failing feed aggregation never blocks the initial card render.
+  void loadFeeds();
 }
 
 init();

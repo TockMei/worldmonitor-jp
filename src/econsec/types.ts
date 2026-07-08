@@ -41,3 +41,14 @@ export interface EconsecFilterState {
   cost: string;
   query: string;
 }
+
+export interface EconsecFeedItem {
+  title: string;
+  link: string;
+  date: string | null;
+}
+
+export interface EconsecFeedsResponse {
+  generated: string;
+  feeds: Record<string, EconsecFeedItem[]>;
+}

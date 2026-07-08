@@ -3,6 +3,10 @@
     {
       "source": "/internal/econsec/sources.json",
       "destination": "/api/internal/econsec-sources"
+    },
+    {
+      "source": "/internal/econsec/feeds.json",
+      "destination": "/api/internal/econsec-feeds"
     }
   ],
   "headers": [
@@ -18,6 +22,12 @@
       "headers": [
         { "key": "X-Robots-Tag", "value": "noindex, nofollow" },
         { "key": "Cache-Control", "value": "private, no-store" }
+      ]
+    },
+    {
+      "source": "/(internal/econsec/feeds.json|api/internal/econsec-feeds)",
+      "headers": [
+        { "key": "Cache-Control", "value": "private, s-maxage=900, stale-while-revalidate=1800" }
       ]
     }
   ]

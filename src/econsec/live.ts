@@ -19,12 +19,19 @@ interface AdoptedChannel extends LiveCandidate {
   videoId: string;
 }
 
+// Priority order per spec. CNA and TaiwanPlus have no hardcoded
+// fallbackVideoId: diagnostic checks (2026-07-08) could not confirm either
+// runs a persistent 24/7 stream id, so they only appear when live-detection
+// finds an actually-live video that session (see step-7 report for detail).
 const CANDIDATES: LiveCandidate[] = [
-  { id: 'aljazeera', name: 'Al Jazeera', handle: '@AlJazeeraEnglish', fallbackVideoId: 'gCNeDWCI0vo' },
+  { id: 'bloomberg', name: 'Bloomberg TV', handle: '@Bloomberg', fallbackVideoId: 'iEpJwprxDdk' },
+  { id: 'aljazeera', name: 'Al Jazeera English', handle: '@AlJazeeraEnglish', fallbackVideoId: 'gCNeDWCI0vo' },
+  // CNA's real handle is @ChannelNewsAsia - the intuitive "@CNA" 404s.
+  { id: 'cna', name: 'CNA', handle: '@ChannelNewsAsia' },
+  { id: 'taiwanplus', name: 'TaiwanPlus', handle: '@taiwanplus' },
   { id: 'france24', name: 'France 24', handle: '@FRANCE24English', fallbackVideoId: 'Ap-UM1O9RBU' },
   { id: 'dw', name: 'DW News', handle: '@DWNews', fallbackVideoId: 'LuKwFajn37U' },
-  { id: 'abc-au', name: 'ABC News AU', handle: '@abcnewsaustralia' },
-  { id: 'ann', name: 'ANN', handle: '@ANNnewsCH' },
+  { id: 'ann', name: 'ANNnewsCH', handle: '@ANNnewsCH' },
   { id: 'tbs', name: 'TBS NEWS DIG', handle: '@tbsnewsdig' },
 ];
 

@@ -108,11 +108,15 @@ function youtubeLivePlugin(): Plugin {
         }
 
         try {
-          // Use YouTube's oEmbed to check if a video is valid/live
-          // For now, return null to use fallback - will implement proper detection later
+          // Delegate to the same resolver the production edge function uses
+          // (api/youtube/live.js), so dev and prod behave identically instead
+          // of dev always returning a stubbed null (previously silently
+          // dropped every candidate without a hardcoded fallback video id).
+          const { resolveLiveVideoId } = await import('./api/youtube/live.js');
+          const result = await resolveLiveVideoId(channel);
           res.setHeader('Content-Type', 'application/json');
           res.setHeader('Cache-Control', 'public, max-age=300');
-          res.end(JSON.stringify({ videoId: null, channel }));
+          res.end(JSON.stringify(result));
         } catch (error) {
           console.error(`[YouTube Live] Error:`, error);
           res.statusCode = 500;
@@ -150,11 +154,38 @@ function econsecDevPlugin(): Plugin {
   };
 }
 
+function econsecFeedsDevPlugin(): Plugin {
+  return {
+    name: 'econsec-dev-feeds',
+    configureServer(server) {
+      // Dev-only stand-in for the vercel.json rewrite to
+      // /api/internal/econsec-feeds (Basic auth is production-only).
+      server.middlewares.use(async (req, res, next) => {
+        if (req.url?.split('?')[0] !== '/internal/econsec/feeds.json') {
+          return next();
+        }
+        try {
+          const { buildFeeds } = await import('./api/internal/econsec-feeds.js');
+          const feeds = await buildFeeds();
+          res.setHeader('Content-Type', 'application/json; charset=utf-8');
+          res.setHeader('Cache-Control', 'no-store');
+          res.end(JSON.stringify({ generated: new Date().toISOString(), feeds }));
+        } catch (error) {
+          console.error('[econsec] failed to build feeds:', error);
+          res.statusCode = 500;
+          res.setHeader('Content-Type', 'application/json');
+          res.end(JSON.stringify({ error: 'feeds not available' }));
+        }
+      });
+    },
+  };
+}
+
 export default defineConfig({
   define: {
     __APP_VERSION__: JSON.stringify(pkg.version),
   },
-  plugins: [htmlVariantPlugin(), youtubeLivePlugin(), econsecDevPlugin()],
+  plugins: [htmlVariantPlugin(), youtubeLivePlugin(), econsecDevPlugin(), econsecFeedsDevPlugin()],
   resolve: {
     alias: {
       '@': resolve(__dirname, 'src'),
