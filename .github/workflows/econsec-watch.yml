@@ -1,0 +1,55 @@
+name: econsec-regulatory-watch
+
+on:
+  schedule:
+    # Daily 06:45 JST = 21:45 UTC (previous day)
+    - cron: '45 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run entity-diff watcher
+        id: watch
+        run: node scripts/econsec-watch.mjs
+
+      - name: Commit updated snapshots and alerts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/econsec/watch data/econsec/alerts.json
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "chore: econsec regulatory-list watch ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - name: Ensure alert label exists
+        if: steps.watch.outputs.new_alerts_count != '0'
+        run: gh label create econsec-alert --color FF4444 --description "econsec regulatory list diff alert" --force
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Create issue on new alerts
+        run: |
+          if [ "$NEW_ALERTS_COUNT" != "0" ] && [ -f econsec-watch-summary.md ]; then
+            gh issue create --title "econsec規制リスト差分 $(date -u +%Y-%m-%d)" --label econsec-alert --body-file econsec-watch-summary.md
+          else
+            echo "no new alerts - skipping issue creation"
+          fi
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NEW_ALERTS_COUNT: ${{ steps.watch.outputs.new_alerts_count }}

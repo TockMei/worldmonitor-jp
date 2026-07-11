@@ -218,6 +218,87 @@ body {
   font-size: 10px;
 }
 
+/* Regulatory alerts panel: entity-level diff log from econsec-watch.mjs,
+   shown at the very top of the page (above the map/video section) so a new
+   sanctions listing is the first thing visible. */
+.econsec-alerts-panel {
+  margin-top: 12px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.econsec-alerts-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--border);
+}
+
+.econsec-alerts-header h2 {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.econsec-alerts-updated {
+  color: var(--text-dim);
+  font-size: 10px;
+}
+
+.econsec-alerts-empty {
+  padding: 10px;
+  color: var(--text-dim);
+  font-size: 11px;
+}
+
+.econsec-alerts-list {
+  max-height: 220px;
+  overflow-y: auto;
+}
+
+.econsec-alert-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--border);
+  font-size: 11px;
+  flex-wrap: wrap;
+}
+
+.econsec-alert-row:last-child {
+  border-bottom: none;
+}
+
+.econsec-alert-entity {
+  color: var(--text);
+}
+
+.econsec-alert-source,
+.econsec-alert-detail {
+  color: var(--text-dim);
+  font-size: 10px;
+}
+
+.econsec-alert-date {
+  margin-left: auto;
+  color: var(--text-dim);
+  font-size: 10px;
+  white-space: nowrap;
+}
+
+.alert-badge-add {
+  color: var(--green);
+  border-color: var(--green);
+}
+
+.alert-badge-remove {
+  color: var(--red);
+  border-color: var(--red);
+}
+
 #econsec-meta {
   color: var(--text-dim);
   font-size: 10px;

@@ -5,13 +5,21 @@ import './econsec.css';
 import './panel-live.css';
 import { EconsecMap } from './map';
 import { EconsecLivePanel } from './live';
-import type { EconsecData, EconsecFeedItem, EconsecFeedsResponse, EconsecFilterState, EconsecTier } from './types';
+import type {
+  EconsecAlertsResponse,
+  EconsecData,
+  EconsecFeedItem,
+  EconsecFeedsResponse,
+  EconsecFilterState,
+  EconsecTier,
+} from './types';
 import {
   TIER_LABELS,
   TIER_ORDER,
   escapeHtml,
   filterSources,
   populateFeedContainers,
+  renderAlertsPanel,
   renderSourceList,
   tierCounts,
   uniqueValues,
@@ -19,6 +27,7 @@ import {
 
 const SOURCES_URL = '/internal/econsec/sources.json';
 const FEEDS_URL = '/internal/econsec/feeds.json';
+const ALERTS_URL = '/internal/econsec/alerts.json';
 
 const state: EconsecFilterState = {
   tier: 'all',
@@ -73,6 +82,19 @@ async function loadFeeds(): Promise<void> {
     populateFeedContainers(feeds);
   } catch {
     // no feeds this session - cards already render link-only
+  }
+}
+
+// Best-effort: an alerts-fetch failure must not affect the source directory
+// itself, so errors here are swallowed and the panel is simply left empty.
+async function loadAlerts(): Promise<void> {
+  try {
+    const res = await fetch(ALERTS_URL, { credentials: 'same-origin' });
+    if (!res.ok) return;
+    const payload = (await res.json()) as EconsecAlertsResponse;
+    $('econsec-alerts-panel').innerHTML = renderAlertsPanel(payload);
+  } catch {
+    // no alerts panel this session - rest of the page already rendered
   }
 }
 
@@ -152,6 +174,10 @@ async function init(): Promise<void> {
   // RSS feed digests: fetched separately from the source directory itself so
   // a slow/failing feed aggregation never blocks the initial card render.
   void loadFeeds();
+
+  // Regulatory alert panel: fetched separately so a slow/failing check never
+  // blocks the initial card render.
+  void loadAlerts();
 }
 
 init();

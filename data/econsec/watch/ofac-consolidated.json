@@ -1,0 +1,1777 @@
+{
+  "id": "ofac-consolidated",
+  "label": "OFAC Non-SDN Consolidated List (incl. NS-CMIC)",
+  "generated": "2026-07-11T17:45:24.891Z",
+  "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONSOLIDATED.XML",
+  "count": 442,
+  "entities": {
+    "9639": {
+      "name": "Ismail Abdul Salah HANIYA",
+      "list": "NS-PLC"
+    },
+    "9640": {
+      "name": "Mohammed ABU TEIR",
+      "list": "NS-PLC"
+    },
+    "9641": {
+      "name": "Jamileh Abdullah AL-SHANTI",
+      "list": "NS-PLC"
+    },
+    "9642": {
+      "name": "Mohammed Jamal NU'MAN ALAEDDIN",
+      "list": "NS-PLC"
+    },
+    "9643": {
+      "name": "Yasser Daoud MANSOUR",
+      "list": "NS-PLC"
+    },
+    "9644": {
+      "name": "Khalil Musa RABAI",
+      "list": "NS-PLC"
+    },
+    "9645": {
+      "name": "Huda Naim AL-QREINAWI",
+      "list": "NS-PLC"
+    },
+    "9646": {
+      "name": "Mahmoud Ahmad AL-RAMAHI",
+      "list": "NS-PLC"
+    },
+    "9647": {
+      "name": "Mahmoud Khaled ZAHHAR",
+      "list": "NS-PLC;SDGT"
+    },
+    "9648": {
+      "name": "Abdul Fattah HASAN DUKHAN",
+      "list": "NS-PLC"
+    },
+    "9649": {
+      "name": "Ibrahim Mohammed DAHBOUR",
+      "list": "NS-PLC"
+    },
+    "9650": {
+      "name": "Mariam Mahmoud SALEH",
+      "list": "NS-PLC"
+    },
+    "9651": {
+      "name": "Fathi Mohammed QAR'AWI",
+      "list": "NS-PLC"
+    },
+    "9652": {
+      "name": "Anwar Mohammed ZBOUN",
+      "list": "NS-PLC"
+    },
+    "9653": {
+      "name": "Imad Mahmoud NOFAL",
+      "list": "NS-PLC"
+    },
+    "9654": {
+      "name": "Omar Mahmoud MATAR",
+      "list": "NS-PLC"
+    },
+    "9655": {
+      "name": "Muna Salim Saleh MANSOUR",
+      "list": "NS-PLC"
+    },
+    "9656": {
+      "name": "Yahia Abdul Aziz AL-ABADSAH",
+      "list": "NS-PLC"
+    },
+    "9657": {
+      "name": "Mohammed Maher Yousef BADER",
+      "list": "NS-PLC"
+    },
+    "9658": {
+      "name": "Ayman Hussein DARAGHMEH",
+      "list": "NS-PLC"
+    },
+    "9659": {
+      "name": "Fathi Ahmad Mohammad HAMMAD",
+      "list": "NS-PLC;SDGT"
+    },
+    "9660": {
+      "name": "Mariam Mohammed FARHAT",
+      "list": "NS-PLC"
+    },
+    "9661": {
+      "name": "Sayyed Salem ABU MSAMEH",
+      "list": "NS-PLC"
+    },
+    "9662": {
+      "name": "Marwan Mohammed ABU RAS",
+      "list": "NS-PLC"
+    },
+    "9663": {
+      "name": "Samira Abdullah HALAYQAH",
+      "list": "NS-PLC"
+    },
+    "9664": {
+      "name": "Jamal Ismail ISKEIK",
+      "list": "NS-PLC"
+    },
+    "9665": {
+      "name": "Ali Salim ROUMANIN",
+      "list": "NS-PLC"
+    },
+    "9666": {
+      "name": "Ahmad Yousef ABU HALABIYYE",
+      "list": "NS-PLC"
+    },
+    "9667": {
+      "name": "Abdul Jaber Mustafa FUQAHA",
+      "list": "NS-PLC"
+    },
+    "9668": {
+      "name": "Aziz DWEIK",
+      "list": "NS-PLC"
+    },
+    "9669": {
+      "name": "Azzam SALHAB",
+      "list": "NS-PLC"
+    },
+    "9670": {
+      "name": "Nizar RAMADAN",
+      "list": "NS-PLC"
+    },
+    "9671": {
+      "name": "Nayef RJOUB",
+      "list": "NS-PLC"
+    },
+    "9672": {
+      "name": "Samir AL-QADI",
+      "list": "NS-PLC"
+    },
+    "9673": {
+      "name": "Mohammed ABU JHEISHEH",
+      "list": "NS-PLC"
+    },
+    "9674": {
+      "name": "Hatem QFEISHEH",
+      "list": "NS-PLC"
+    },
+    "9675": {
+      "name": "Basem ZA'ARIR",
+      "list": "NS-PLC"
+    },
+    "9676": {
+      "name": "Mohammed AL-TAL",
+      "list": "NS-PLC"
+    },
+    "9677": {
+      "name": "Daoud ABU SEIR",
+      "list": "NS-PLC"
+    },
+    "9678": {
+      "name": "Hamid Jabir KHUDAIR",
+      "list": "NS-PLC"
+    },
+    "9679": {
+      "name": "Husni Bourini YASIN",
+      "list": "NS-PLC"
+    },
+    "9680": {
+      "name": "Riyad Ali AMLI",
+      "list": "NS-PLC"
+    },
+    "9681": {
+      "name": "Ahmad Ali AHMAD",
+      "list": "NS-PLC"
+    },
+    "9682": {
+      "name": "Hasan YOUSEF",
+      "list": "NS-PLC"
+    },
+    "9683": {
+      "name": "Fadel HAMDAN",
+      "list": "NS-PLC"
+    },
+    "9684": {
+      "name": "Mahmoud MUSLEH",
+      "list": "NS-PLC"
+    },
+    "9685": {
+      "name": "Ahmad 'Abd al-Aziz MUBARAK",
+      "list": "NS-PLC"
+    },
+    "9686": {
+      "name": "Khaled Tafish THWEIB",
+      "list": "NS-PLC"
+    },
+    "9687": {
+      "name": "Mahmoud AL-KHATIB",
+      "list": "NS-PLC"
+    },
+    "9688": {
+      "name": "Khaled Abed YAHIA",
+      "list": "NS-PLC"
+    },
+    "9689": {
+      "name": "Khaled ABU HASSAN",
+      "list": "NS-PLC"
+    },
+    "9690": {
+      "name": "Abdul Rahman Fahmi ZEIDAN",
+      "list": "NS-PLC"
+    },
+    "9691": {
+      "name": "Riyad RADDAD",
+      "list": "NS-PLC"
+    },
+    "9692": {
+      "name": "Ahmad ATTOUN",
+      "list": "NS-PLC"
+    },
+    "9693": {
+      "name": "Ibrahim ABU SALEM",
+      "list": "NS-PLC"
+    },
+    "9694": {
+      "name": "Mohammed Saleh TUTAH",
+      "list": "NS-PLC"
+    },
+    "9695": {
+      "name": "Wael AL-HUSSEINI",
+      "list": "NS-PLC"
+    },
+    "9696": {
+      "name": "Naser ABDUL JAWAD",
+      "list": "NS-PLC"
+    },
+    "9697": {
+      "name": "Khaled ABU TOS",
+      "list": "NS-PLC"
+    },
+    "9698": {
+      "name": "Khamis NAJJAR",
+      "list": "NS-PLC"
+    },
+    "9699": {
+      "name": "Salah AL-BARDAWIL",
+      "list": "NS-PLC"
+    },
+    "9700": {
+      "name": "Younes AL-ASTAL",
+      "list": "NS-PLC"
+    },
+    "9701": {
+      "name": "Abdul Rahman AL-JAMAL",
+      "list": "NS-PLC"
+    },
+    "9702": {
+      "name": "Salem SALAMEH",
+      "list": "NS-PLC"
+    },
+    "9703": {
+      "name": "Saeed SIAM",
+      "list": "NS-PLC"
+    },
+    "9704": {
+      "name": "Ahmad BAHAR",
+      "list": "NS-PLC"
+    },
+    "9705": {
+      "name": "Jamal SALEH",
+      "list": "NS-PLC"
+    },
+    "9706": {
+      "name": "Khalil AL-HAYYEH",
+      "list": "NS-PLC"
+    },
+    "9707": {
+      "name": "Mohammed Faraj AL-GHOUL",
+      "list": "NS-PLC"
+    },
+    "9708": {
+      "name": "Mushir AL-HABAL",
+      "list": "NS-PLC"
+    },
+    "9709": {
+      "name": "Atef UDWAN",
+      "list": "NS-PLC"
+    },
+    "9710": {
+      "name": "Yousef AL-SHARAFI",
+      "list": "NS-PLC"
+    },
+    "9711": {
+      "name": "Ismail AL-ASHQAR",
+      "list": "NS-PLC"
+    },
+    "9712": {
+      "name": "Mohammed SHIHAB",
+      "list": "NS-PLC"
+    },
+    "9713": {
+      "name": "Ahmad SA'DAT",
+      "list": "NS-PLC"
+    },
+    "9714": {
+      "name": "Jamil MAJDALAWI",
+      "list": "NS-PLC"
+    },
+    "9715": {
+      "name": "Khaledah JARRAR",
+      "list": "NS-PLC"
+    },
+    "9716": {
+      "name": "Qais Abdul KARIM",
+      "list": "NS-PLC"
+    },
+    "15268": {
+      "name": "BANK OF KUNLUN CO LTD",
+      "list": "561-Related"
+    },
+    "17013": {
+      "name": "VTB BANK PUBLIC JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17014": {
+      "name": "JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17015": {
+      "name": "STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK",
+      "list": "RUSSIA-EO14024;UKRAINE-EO13662"
+    },
+    "17016": {
+      "name": "GAZPROMBANK JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17017": {
+      "name": "BM BANK JSC",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17018": {
+      "name": "PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17022": {
+      "name": "OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17064": {
+      "name": "OAO NOVATEK",
+      "list": "UKRAINE-EO13662"
+    },
+    "17143": {
+      "name": "PUBLIC JOINT STOCK COMPANY GAZPROM NEFT",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17145": {
+      "name": "SURGUTNEFTEGAS",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17248": {
+      "name": "LUKOIL OAO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17250": {
+      "name": "PUBLIC JOINT STOCK COMPANY GAZPROM",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17254": {
+      "name": "PUBLIC JOINT STOCK COMPANY TRANSNEFT",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "17260": {
+      "name": "STATE CORPORATION ROSTEC",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18267": {
+      "name": "OJSC ORENBURGNEFT",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18268": {
+      "name": "EXIMBANK OF RUSSIA JSC",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18269": {
+      "name": "OJSC SAMOTLORNEFTEGAZ",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18270": {
+      "name": "DEVELOPMENT CORPORATION OF NORTH CAUCASUS OJSC",
+      "list": "UKRAINE-EO13662"
+    },
+    "18271": {
+      "name": "PJSC VERKHNECHONSKNEFTEGAZ",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18272": {
+      "name": "RUSSIAN AGENCY FOR EXPORT CREDIT AND INVESTMENT INSURANCE OJSC",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18273": {
+      "name": "JSC VEB.DV",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18274": {
+      "name": "CJSC VANKORNEFT",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18275": {
+      "name": "FEDERAL CENTER FOR PROJECT FINANCE",
+      "list": "UKRAINE-EO13662"
+    },
+    "18276": {
+      "name": "RN-YUGANSKNEFTEGAZ LLC",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18277": {
+      "name": "GLOBEXBANK",
+      "list": "UKRAINE-EO13662"
+    },
+    "18278": {
+      "name": "KRASLESINVEST CJSC",
+      "list": "UKRAINE-EO13662"
+    },
+    "18279": {
+      "name": "RUSSIAN DIRECT INVESTMENT FUND MANAGEMENT COMPANY",
+      "list": "UKRAINE-EO13662"
+    },
+    "18280": {
+      "name": "OJSC ANGARSK PETROCHEMICAL COMPANY",
+      "list": "UKRAINE-EO13662"
+    },
+    "18281": {
+      "name": "LLC INFRASTRUCTURE MOLZHANINOVO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18282": {
+      "name": "OJSC NOVOKUYBYSHEV REFINERY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18283": {
+      "name": "SME BANK",
+      "list": "UKRAINE-EO13662"
+    },
+    "18284": {
+      "name": "RN KOMSOMOLSKIY REFINERY LLC",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18285": {
+      "name": "SVIAZ-BANK",
+      "list": "UKRAINE-EO13662"
+    },
+    "18286": {
+      "name": "VEB CAPITAL",
+      "list": "RUSSIA-EO14024;UKRAINE-EO13662"
+    },
+    "18287": {
+      "name": "VEB ENGINEERING LLC",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18288": {
+      "name": "VEB LEASING OJSC",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18289": {
+      "name": "ROSE GROUP LIMITED",
+      "list": "UKRAINE-EO13662"
+    },
+    "18290": {
+      "name": "OJSC SYZRAN REFINERY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18291": {
+      "name": "BANK BELVEB OJSC",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18292": {
+      "name": "OJSC ACHINSK REFINERY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18294": {
+      "name": "OJSC KUYBYSHEV REFINERY",
+      "list": "UKRAINE-EO13662"
+    },
+    "18295": {
+      "name": "VEB ASIA LIMITED",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18296": {
+      "name": "OJSC RN HOLDING",
+      "list": "UKRAINE-EO13662"
+    },
+    "18297": {
+      "name": "NEFT-AKTIV LLC",
+      "list": "UKRAINE-EO13662"
+    },
+    "18298": {
+      "name": "OJSC RUSSIAN REGIONAL DEVELOPMENT BANK",
+      "list": "UKRAINE-EO13662"
+    },
+    "18299": {
+      "name": "ROSNEFT TRADING S.A.",
+      "list": "UKRAINE-EO13662;VENEZUELA-EO13850"
+    },
+    "18300": {
+      "name": "ROSNEFT TRADE LIMITED",
+      "list": "UKRAINE-EO13662"
+    },
+    "18301": {
+      "name": "ROSNEFT FINANCE S.A.",
+      "list": "UKRAINE-EO13662"
+    },
+    "18669": {
+      "name": "LIMITED LIABILITY COMPANY SBERBANK CAPITAL",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18708": {
+      "name": "LIMITED LIABILITY COMPANY SBERBANK INVESTMENTS",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18709": {
+      "name": "JOINT STOCK COMPANY SBERBANK LEASING",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18710": {
+      "name": "SETELEM BANK LIMITED LIABILITY COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18711": {
+      "name": "OOO PS YANDEX.MONEY",
+      "list": "UKRAINE-EO13662"
+    },
+    "18714": {
+      "name": "OPEN JOINT STOCK COMPANY BPS-SBERBANK",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18715": {
+      "name": "JOINT STOCK COMPANY SBERBANK",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18716": {
+      "name": "SBERBANK EUROPE AG",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18718": {
+      "name": "SB INTERNATIONAL SARL",
+      "list": "UKRAINE-EO13662"
+    },
+    "18719": {
+      "name": "BANK VTB 24 PUBLIC JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662"
+    },
+    "18720": {
+      "name": "PJSC VTB BANK (KIEV)",
+      "list": "UKRAINE-EO13662"
+    },
+    "18721": {
+      "name": "VTB BANK BELARUS CLOSED JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18722": {
+      "name": "VTB BANK ARMENIA CLOSED JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18723": {
+      "name": "BANK VTB KAZAKHSTAN JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18724": {
+      "name": "VTB BANK AZERBAIJAN OPEN JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18725": {
+      "name": "BANCO VTB AFRICA SA",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18726": {
+      "name": "VTB BANK GEORGIA JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18727": {
+      "name": "VTB BANK (AUSTRIA) AG",
+      "list": "UKRAINE-EO13662"
+    },
+    "18728": {
+      "name": "VTB BANK JSC BELGRADE",
+      "list": "UKRAINE-EO13662"
+    },
+    "18729": {
+      "name": "VTB CAPITAL HOLDINGS CLOSED JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18730": {
+      "name": "VTB PENSION ADMINISTRATOR LIMITED",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18731": {
+      "name": "LIMITED LIABILITY COMPANY VTB DC",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18732": {
+      "name": "VTB INSURANCE LIMITED",
+      "list": "UKRAINE-EO13662"
+    },
+    "18733": {
+      "name": "VTB FACTORING LTD",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18734": {
+      "name": "NPF VTB PENSION FUND JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18735": {
+      "name": "VTB REAL ESTATE LIMITED LIABILITY COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18736": {
+      "name": "VTB SPECIALIZED DEPOSITORY CLOSED JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18737": {
+      "name": "VTB REGISTRAR CLOSED JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18738": {
+      "name": "MULTICARTA",
+      "list": "UKRAINE-EO13662"
+    },
+    "18739": {
+      "name": "VTB LEASING JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18740": {
+      "name": "AKTSIONERNOE OBSHCHESTVO SG-DEVELOPMENT",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18741": {
+      "name": "AUCTION LIMITED LIABILITY COMPANY",
+      "list": "RUSSIA-EO14024;UKRAINE-EO13662"
+    },
+    "18742": {
+      "name": "RUST CLOSED JOINT-STOCK COMPANY",
+      "list": "UKRAINE-EO13662"
+    },
+    "18743": {
+      "name": "JOINT STOCK COMPANY SBERBANK AUTOMATED TRADE SYSTEM",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18744": {
+      "name": "LIMITED LIABILITY COMPANY SBERBANK FINANCIAL COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18745": {
+      "name": "LLC SOVREMENNYE TECHNOLOGII",
+      "list": "UKRAINE-EO13662"
+    },
+    "18746": {
+      "name": "SBERBANK TECHNOLOGIES CLOSED JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662"
+    },
+    "18747": {
+      "name": "BYLINNYE BOGATYRI LIMITED LIABILITY COMPANY",
+      "list": "UKRAINE-EO13662"
+    },
+    "18748": {
+      "name": "LIMITED LIABILITY COMPANY ACTIVE BUSINESS CONSULT",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18749": {
+      "name": "JOINT STOCK COMPANY SBERBANK PRIVATE PENSION FUND",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18750": {
+      "name": "INSURANCE COMPANY SBERBANK INSURANCE LIMITED LIABILITY COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18751": {
+      "name": "LIMITED LIABILITY COMPANY SBERBANK INSURANCE BROKER",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18752": {
+      "name": "KORUS CONSULTING CIS LIMITED LIABILITY COMPANY",
+      "list": "UKRAINE-EO13662"
+    },
+    "18753": {
+      "name": "SB SECURITIES SA",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18768": {
+      "name": "RT - GLOBALNYE RESURSY OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18769": {
+      "name": "JSC NPO HIGH PRECISION SYSTEMS",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18770": {
+      "name": "OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18771": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT",
+      "list": "UKRAINE-EO13662"
+    },
+    "18772": {
+      "name": "NPK TEKHMASH OAO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18773": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO KONTSERN AVIATSIONNOE OBORUDOVANIE",
+      "list": "UKRAINE-EO13662"
+    },
+    "18774": {
+      "name": "JOINT STOCK COMPANY TEKHNODINAMIKA",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18775": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO RT-STANKOINSTRUMENT",
+      "list": "UKRAINE-EO13662"
+    },
+    "18776": {
+      "name": "AKTSIONERNOE OBSHCHESTVO RT-KHIMICHESKIE TEKHNOLOGII I KOMPOZITSIONNYE MATERIALY",
+      "list": "UKRAINE-EO13662"
+    },
+    "18777": {
+      "name": "AKTSIONERNOE OBSHCHESTVO RT-BIOTEKHPROM",
+      "list": "UKRAINE-EO13662"
+    },
+    "18778": {
+      "name": "AKTSIONERNOE OBSHCHESTVO RT-AVTO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18779": {
+      "name": "JOINT STOCK COMPANY SHVABE",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18780": {
+      "name": "OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PROMINVEST",
+      "list": "UKRAINE-EO13662"
+    },
+    "18781": {
+      "name": "OBIEDINENNAYA PROMYSHLENNAYA KORPORATSIYA OBORONPROM OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18782": {
+      "name": "ROSOBORONEKSPORT OAO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024;IRAN-CON-ARMS-EO"
+    },
+    "18783": {
+      "name": "KONTSERN SIRIUS OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18784": {
+      "name": "JOINT STOCK COMMERCIAL BANK NOVIKOMBANK",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18785": {
+      "name": "AKTSIONERNOE OBSHCHESTVO RT-OKHRANA",
+      "list": "UKRAINE-EO13662"
+    },
+    "18786": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO TEKHNOLOGII BEZOPASNOSTI",
+      "list": "UKRAINE-EO13662"
+    },
+    "18787": {
+      "name": "UNITED INSTRUMENT MANUFACTURING CORPORATION",
+      "list": "UKRAINE-EO13662"
+    },
+    "18788": {
+      "name": "RT-INFORM LIMITED LIABILITY COMPANY",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18789": {
+      "name": "KONTSERN ORION OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18790": {
+      "name": "RT-METALLURGIYA OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18791": {
+      "name": "KONTSERN AVIAPRIBOROSTROENIE OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18792": {
+      "name": "90 EKSPERIMENTALNY ZAVOD OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18793": {
+      "name": "AKTSIONERNOE OBSHCHESTVO TSENTRALNOE KONSTRUKTORSKOE BYURO SPETSIALNYKH RADIOMATERIALOV",
+      "list": "UKRAINE-EO13662"
+    },
+    "18794": {
+      "name": "AKTSIONERNOE OBSHCHESTVO MOSKOVSKI MASHINOSTROITELNY EKSPERIMENTALNY ZAVOD - KOMPOZITSIONNYE TEKHNOLOGII",
+      "list": "UKRAINE-EO13662"
+    },
+    "18795": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVO-VYATKA",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18808": {
+      "name": "AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBEDINENIE OPTIKA",
+      "list": "UKRAINE-EO13662"
+    },
+    "18809": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE STANKOIMPORT",
+      "list": "UKRAINE-EO13662"
+    },
+    "18810": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVOSIBIRSKOE PROIZVODSTVENNOE OBEDINENIE LUCH",
+      "list": "UKRAINE-EO13662"
+    },
+    "18811": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBEDINENIE SPLAV",
+      "list": "UKRAINE-EO13662"
+    },
+    "18812": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVOVYATSKI MEKHANICHESKI ZAVOD",
+      "list": "UKRAINE-EO13662"
+    },
+    "18813": {
+      "name": "OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RT-ENERGOEFFEKTIVNOST",
+      "list": "UKRAINE-EO13662"
+    },
+    "18814": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO KALINOVSKI KHIMICHESKI ZAVOD",
+      "list": "UKRAINE-EO13662"
+    },
+    "18815": {
+      "name": "AKTSIONERNOE OBSHCHESTVO NOVOSIBIRSKI ZAVOD POLUPROVODNIKOVYKH PRIBOROV S OKB",
+      "list": "UKRAINE-EO13662"
+    },
+    "18816": {
+      "name": "AKTSIONERNOE OBSHCHESTVO RT-STROITELNYE TEKHNOLOGII",
+      "list": "UKRAINE-EO13662"
+    },
+    "18817": {
+      "name": "MZ MAYAK OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18818": {
+      "name": "ULYANOVSKI GIPROAVIAPROM OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18819": {
+      "name": "OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "18820": {
+      "name": "VERTOLETY ROSSII AO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "19468": {
+      "name": "GAZPROM DOBYCHA YAMBURG, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19469": {
+      "name": "GAZPROM TRANSGAZ YUGORSK, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19470": {
+      "name": "NIIGAZEKONOMIKA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19471": {
+      "name": "GAZPROM TRANSGAZ SANKT-PETERBURG, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19472": {
+      "name": "GAZPROM TRANSGAZ STAVROPOL, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19542": {
+      "name": "GAZPROM RUSSKAYA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19543": {
+      "name": "GAZPROM ENERGO, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19544": {
+      "name": "GAZPROM DOBYCHA NADYM, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19545": {
+      "name": "GAZPROM SVYAZ, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19546": {
+      "name": "GAZPROM MEZHREGIONGAZ, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19631": {
+      "name": "GAZPROM DOBYCHA KUZNETSK, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19632": {
+      "name": "GAZPROM TRANSGAZ UKHTA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19633": {
+      "name": "GAZPROM TRANSGAZ KAZAN, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19634": {
+      "name": "GAZPROM TRANSGAZ SARATOV, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19635": {
+      "name": "GAZPROM SOTSINVEST, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19636": {
+      "name": "GAZPROM DOBYCHA NOYABRSK, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19637": {
+      "name": "GAZPROM GAZOBEZOPASNOST, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19638": {
+      "name": "GAZPROM FLOT, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19639": {
+      "name": "GAZ-OIL, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19640": {
+      "name": "GAZPROM INVEST, OOO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "19641": {
+      "name": "GAZPROM TSENTRREMONT, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19642": {
+      "name": "GAZPROM DOBYCHA KRASNODAR, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19643": {
+      "name": "GAZPROM TRANSGAZ KRASNODAR, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19644": {
+      "name": "GAZPROM PERSONAL, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19645": {
+      "name": "GAZPROM PERERABOTKA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19646": {
+      "name": "GAZPROM TRANSGAZ VOLGOGRAD, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19647": {
+      "name": "GAZPROM TRANSGAZ TOMSK, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19648": {
+      "name": "GAZPROM TRANSGAZ SURGUT, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19649": {
+      "name": "GAZPROM TRANSGAZ NIZHNI NOVGOROD, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19650": {
+      "name": "GAZPROM GAZNADZOR, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19652": {
+      "name": "GAZPROM KOMPLEKTATSIYA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19653": {
+      "name": "GAZPROM VNIIGAZ, OOO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "19654": {
+      "name": "GAZPROM TELEKOM, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19670": {
+      "name": "GAZPROM INFORM, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19672": {
+      "name": "GAZPROM DOBYCHA IRKUTSK, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19673": {
+      "name": "GAZMASH, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19674": {
+      "name": "GAZPROM TRANSGAZ SAMARA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19675": {
+      "name": "GAZPROM KAPITAL, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19676": {
+      "name": "YAMALGAZINVEST, ZAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19677": {
+      "name": "GAZPROM DOBYCHA URENGOI, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19678": {
+      "name": "GAZPROM GEOLOGORAZVEDKA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19681": {
+      "name": "GAZPROM TRANSGAZ MAKHACHKALA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19683": {
+      "name": "GAZPROM TRANSGAZ UFA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19684": {
+      "name": "VOSTOKGAZPROM, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19685": {
+      "name": "LAZURNAYA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19686": {
+      "name": "GAZPROM PROMGAZ, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19687": {
+      "name": "KAMCHATGAZPROM, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19688": {
+      "name": "DALTRANSGAZ, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19690": {
+      "name": "DRUZHBA, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19691": {
+      "name": "KRASNOYARSKGAZPROM, PAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19692": {
+      "name": "ACHIM DEVELOPMENT, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19989": {
+      "name": "SG MSK, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19990": {
+      "name": "BM PROEKT, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "19992": {
+      "name": "LLC BALTECH",
+      "list": "UKRAINE-EO13662"
+    },
+    "19993": {
+      "name": "BM HOLDING AG",
+      "list": "UKRAINE-EO13662"
+    },
+    "19995": {
+      "name": "BOM ASSET MANAGEMENT LTD",
+      "list": "UKRAINE-EO13662"
+    },
+    "19996": {
+      "name": "BOM FINANCE LTD",
+      "list": "UKRAINE-EO13662"
+    },
+    "19997": {
+      "name": "BOM PROJECT FINANCING LTD",
+      "list": "UKRAINE-EO13662"
+    },
+    "19998": {
+      "name": "CROSSPLANET LTD",
+      "list": "UKRAINE-EO13662"
+    },
+    "19999": {
+      "name": "FINANSOVY ASSISTENT CJSC",
+      "list": "UKRAINE-EO13662"
+    },
+    "20000": {
+      "name": "BPO PECHATNIKI, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20001": {
+      "name": "UNITED COMPANY OJSC",
+      "list": "UKRAINE-EO13662"
+    },
+    "20002": {
+      "name": "BM BANK PUBLIC JOINT STOCK COMPANY",
+      "list": "UKRAINE-EO13662"
+    },
+    "20003": {
+      "name": "LESPROMPROTSESSING, ZAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20005": {
+      "name": "RIELTSITI, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20006": {
+      "name": "MEZHDUNARODNAYA UPRAVLYAYUSHCHAYA KOMPANIYA, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20007": {
+      "name": "BM-DIREKTSIYA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20008": {
+      "name": "OPEN JOINT STOCK COMPANY CHAYKA",
+      "list": "UKRAINE-EO13662"
+    },
+    "20009": {
+      "name": "AUTOMATED BANKING TECHNOLOGIES CJSC",
+      "list": "UKRAINE-EO13662"
+    },
+    "20294": {
+      "name": "CREDIT URAL BANK",
+      "list": "UKRAINE-EO13662"
+    },
+    "20295": {
+      "name": "GAZKARDSERVIS OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20296": {
+      "name": "GAZPROM MEDIA HOLDING",
+      "list": "UKRAINE-EO13662"
+    },
+    "20297": {
+      "name": "GAZPROMBANK LEASING ZAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20298": {
+      "name": "GAZPROMBANK UPRAVLENIE AKTIVAMI",
+      "list": "UKRAINE-EO13662"
+    },
+    "20299": {
+      "name": "GPB-FACTORING OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20300": {
+      "name": "GPB INVEST OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20301": {
+      "name": "NEW FINANCIAL TECHNOLOGIES OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20302": {
+      "name": "PO URALENERGOMONTAZH ZAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20303": {
+      "name": "GPB-MORTGAGE JSC",
+      "list": "UKRAINE-EO13662"
+    },
+    "20304": {
+      "name": "IZ KARTEKS OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20305": {
+      "name": "IZHORSKIYE ZAVODY OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20306": {
+      "name": "KRIOGENMASH OAO",
+      "list": "RUSSIA-EO14024;UKRAINE-EO13662"
+    },
+    "20307": {
+      "name": "OMZ OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20308": {
+      "name": "OMZ SPETSSTAL OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20309": {
+      "name": "URALMASHZAVOD OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20311": {
+      "name": "AREXIMBANK-GAZPROMBANK GROUP CJSC",
+      "list": "UKRAINE-EO13662"
+    },
+    "20312": {
+      "name": "GAZPROMBANK (SWITZERLAND) LTD",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "20313": {
+      "name": "CENTREX EUROPE ENERGY AND GAS AG",
+      "list": "UKRAINE-EO13662"
+    },
+    "20314": {
+      "name": "GPB-DI HOLDINGS LIMITED",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "20315": {
+      "name": "GPB FINANCIAL SERVICES LIMITED",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "20316": {
+      "name": "GPB GLOBAL RESOURCES BV",
+      "list": "UKRAINE-EO13662"
+    },
+    "20317": {
+      "name": "GPB INTERNATIONAL SA",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "20318": {
+      "name": "NAGELFAR TRADE AND INVEST LIMITED",
+      "list": "UKRAINE-EO13662"
+    },
+    "20319": {
+      "name": "GAZPROMBANK LATIN AMERICA VENTURES BV",
+      "list": "UKRAINE-EO13662"
+    },
+    "20621": {
+      "name": "TD AGROTORG, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20640": {
+      "name": "RASSVET, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20660": {
+      "name": "AGROKREDIT-INFORM, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20661": {
+      "name": "UMANSKI ELEVATOR, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20662": {
+      "name": "BELOGLINSKI ELEVATOR, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20665": {
+      "name": "LADOZHSKI ELEVATOR, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20666": {
+      "name": "VELICHKOVSKI ELEVATOR, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20667": {
+      "name": "EYANSKI ELEVATOR, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20668": {
+      "name": "KHOMYAKOVSKI KHLADOKOMBINAT, ZAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20669": {
+      "name": "MALOROSSISKI ELEVATOR, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20670": {
+      "name": "KRYLOVSKI ELEVATOR, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20671": {
+      "name": "ROVNENSKI ELEVATOR, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20672": {
+      "name": "STEPNYANSKI ELEVATOR, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20673": {
+      "name": "ALBASHSKI ELEVATOR, OAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20675": {
+      "name": "NOVATEK-UST-LUGA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20676": {
+      "name": "SHERVUD PREMER, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20677": {
+      "name": "NOVATEK-TARKOSALENEFTEGAZ, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20678": {
+      "name": "NOVATEK SEVERO-ZAPAD, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20679": {
+      "name": "NOVATEK-PUROVSKI ZPK, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20680": {
+      "name": "NOVATEK-TRANSERVIS, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20681": {
+      "name": "NOVATEK-PERM, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20683": {
+      "name": "NOVATEK-CHELYABINSK, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20684": {
+      "name": "NOVATEK-YARSALENEFTEGAZ, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20685": {
+      "name": "NOVATEK-KOSTROMA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20686": {
+      "name": "TERNEFTEGAZ, ZAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "20687": {
+      "name": "YARGEO, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22383": {
+      "name": "TRANSNEFT FINANS, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22384": {
+      "name": "TRANSNEFT-MEDIA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22385": {
+      "name": "TRANSNEFT-PRIVOLGA, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22386": {
+      "name": "TRANSNEFT-SIBIR, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22387": {
+      "name": "DSD, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22388": {
+      "name": "SVYAZTRANSNEFT, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22389": {
+      "name": "TRANSNEFT-URAL, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22390": {
+      "name": "TRANSNEFTEPRODUKT, PAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22391": {
+      "name": "TRANSNEFT-DRUZHBA, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22392": {
+      "name": "GIPROTRUBOPROVOD, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22393": {
+      "name": "CHERNOMORTRANSNEFT, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22394": {
+      "name": "TSUP VSTO, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22395": {
+      "name": "TRANSNEFT-TSENTRALNAYA SIBIR, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22396": {
+      "name": "TRANSNEFT-SEVER, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22397": {
+      "name": "TRANSNEFT-OKHRANA, OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22398": {
+      "name": "TRANSNEFT-PODVODSERVIS, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22399": {
+      "name": "TRANSNEFT-DIASKAN, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22400": {
+      "name": "NPF TRANSNEFT, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22401": {
+      "name": "TRANSNEFT-METROLOGIYA, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "22402": {
+      "name": "TRANSNEFT-PRIKAME, AO",
+      "list": "UKRAINE-EO13662"
+    },
+    "23552": {
+      "name": "LENGIPRONEFTEKHIM OOO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "23554": {
+      "name": "SURGUTMEBEL OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "23557": {
+      "name": "MEDIA-INVEST OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "23559": {
+      "name": "PSKOVNEFTEPRODUKT OOO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "23562": {
+      "name": "NOVGORODNEFTEPRODUCT OOO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "23566": {
+      "name": "SOVKHOZ CHERVISHEVSKI PAO",
+      "list": "UKRAINE-EO13662"
+    },
+    "23568": {
+      "name": "KINEF OOO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "23569": {
+      "name": "KALININGRADNEFTEPRODUKT OOO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "23570": {
+      "name": "SO TVERNEFTEPRODUKT OOO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "23571": {
+      "name": "STRAKHOVOVE OBSHCHESTVO SURGUTNEFTEGAZ OOO",
+      "list": "UKRAINE-EO13662"
+    },
+    "23572": {
+      "name": "KIRISHIAVTOSERVIS OOO",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "23577": {
+      "name": "JOINT STOCK COMPANY SURGUTNEFTEGASBANK",
+      "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "27016": {
+      "name": "PRESIDENCY OF DEFENSE INDUSTRIES",
+      "list": "CAATSA - RUSSIA"
+    },
+    "28603": {
+      "name": "TNK TRADING INTERNATIONAL S.A.",
+      "list": "VENEZUELA-EO13850;UKRAINE-EO13662"
+    },
+    "30882": {
+      "name": "CHINA TELECOM CORPORATION LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "30902": {
+      "name": "AERO ENGINE CORPORATION OF CHINA",
+      "list": "CMIC-EO13959"
+    },
+    "30923": {
+      "name": "CHINA MOBILE LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "30924": {
+      "name": "CHINA UNICOM (HONG KONG) LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "30925": {
+      "name": "AVIATION INDUSTRY CORPORATION OF CHINA, LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "30926": {
+      "name": "CNOOC LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "30927": {
+      "name": "CHINA ACADEMY OF LAUNCH VEHICLE TECHNOLOGY",
+      "list": "CMIC-EO13959"
+    },
+    "30928": {
+      "name": "CHINA AEROSPACE SCIENCE AND INDUSTRY CORPORATION LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "30929": {
+      "name": "CHINA AEROSPACE SCIENCE AND TECHNOLOGY CORPORATION",
+      "list": "CMIC-EO13959"
+    },
+    "30930": {
+      "name": "CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "30932": {
+      "name": "CHINA ELECTRONICS CORPORATION",
+      "list": "CMIC-EO13959"
+    },
+    "30933": {
+      "name": "CHINA SOUTH INDUSTRIES GROUP CORPORATION",
+      "list": "CMIC-EO13959"
+    },
+    "30934": {
+      "name": "CHINA SPACESAT CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "30936": {
+      "name": "CHINA ELECTRONICS TECHNOLOGY GROUP CORPORATION",
+      "list": "CMIC-EO13959"
+    },
+    "30937": {
+      "name": "CHINA GENERAL NUCLEAR POWER CORPORATION",
+      "list": "CMIC-EO13959"
+    },
+    "30938": {
+      "name": "CHINA STATE SHIPBUILDING CORPORATION LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "30939": {
+      "name": "CHINA TELECOMMUNICATIONS CORPORATION",
+      "list": "CMIC-EO13959"
+    },
+    "30942": {
+      "name": "CHINA UNITED NETWORK COMMUNICATIONS GROUP CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "30944": {
+      "name": "CHINA MOBILE COMMUNICATIONS GROUP CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "30946": {
+      "name": "HANGZHOU HIKVISION DIGITAL TECHNOLOGY CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "30947": {
+      "name": "HUAWEI TECHNOLOGIES CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "30949": {
+      "name": "INSPUR GROUP CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "30950": {
+      "name": "PANDA ELECTRONICS GROUP CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "30951": {
+      "name": "SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION",
+      "list": "CMIC-EO13959"
+    },
+    "30954": {
+      "name": "CHINA NATIONAL NUCLEAR CORPORATION",
+      "list": "CMIC-EO13959"
+    },
+    "30956": {
+      "name": "CHINA NATIONAL OFFSHORE OIL CORPORATION",
+      "list": "CMIC-EO13959"
+    },
+    "30957": {
+      "name": "CHINA NORTH INDUSTRIES GROUP CORPORATION LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "30958": {
+      "name": "CHINA NUCLEAR ENGINEERING CORPORATION LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "30959": {
+      "name": "CHINA RAILWAY CONSTRUCTION CORPORATION LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "31693": {
+      "name": "NATIONAL WEALTH FUND OF THE RUSSIAN FEDERATION",
+      "list": "RUSSIA-EO14024"
+    },
+    "31694": {
+      "name": "MINISTRY OF FINANCE OF THE RUSSIAN FEDERATION",
+      "list": "RUSSIA-EO14024"
+    },
+    "31695": {
+      "name": "CENTRAL BANK OF THE RUSSIAN FEDERATION",
+      "list": "RUSSIA-EO14024"
+    },
+    "32028": {
+      "name": "ANHUI GREATWALL MILITARY INDUSTRY COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32052": {
+      "name": "AVIC XI'AN AIRCRAFT INDUSTRY GROUP COMPANY LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "32053": {
+      "name": "AVIC HEAVY MACHINERY COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32055": {
+      "name": "AVIC JONHON OPTRONIC TECHNOLOGY CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "32056": {
+      "name": "AVIC SHENYANG AIRCRAFT COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32069": {
+      "name": "CHINA SATELLITE COMMUNICATIONS CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "32072": {
+      "name": "CHINA COMMUNICATIONS CONSTRUCTION GROUP (LIMITED)",
+      "list": "CMIC-EO13959"
+    },
+    "32073": {
+      "name": "AEROSPACE COMMUNICATIONS HOLDINGS GROUP COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32077": {
+      "name": "FUJIAN TORCH ELECTRON TECHNOLOGY CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "32078": {
+      "name": "INNER MONGOLIA FIRST MACHINERY GROUP CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "32079": {
+      "name": "CSSC OFFSHORE & MARINE ENGINEERING (GROUP) COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32082": {
+      "name": "AVIC AVIATION HIGH-TECHNOLOGY COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32084": {
+      "name": "AEROSPACE CH UAV CO., LTD",
+      "list": "CMIC-EO13959"
+    },
+    "32085": {
+      "name": "CHINA AEROSPACE TIMES ELECTRONICS CO., LTD",
+      "list": "CMIC-EO13959"
+    },
+    "32087": {
+      "name": "HUAWEI INVESTMENT & HOLDING CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "32088": {
+      "name": "JIANGXI HONGDU AVIATION INDUSTRY CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "32089": {
+      "name": "PROVEN GLORY CAPITAL LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32090": {
+      "name": "CHINA AVIONICS SYSTEMS COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32091": {
+      "name": "PROVEN HONOUR CAPITAL LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32100": {
+      "name": "CHINA SHIPBUILDING INDUSTRY COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32101": {
+      "name": "GUIZHOU SPACE APPLIANCE CO., LTD",
+      "list": "CMIC-EO13959"
+    },
+    "32102": {
+      "name": "CHANGSHA JINGJIA MICROELECTRONICS COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32103": {
+      "name": "CHINA MARINE INFORMATION ELECTRONICS COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32106": {
+      "name": "CHINA SHIPBUILDING INDUSTRY GROUP POWER COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32107": {
+      "name": "COSTAR GROUP CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "32128": {
+      "name": "NANJING PANDA ELECTRONICS COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32129": {
+      "name": "AEROSUN CORPORATION",
+      "list": "CMIC-EO13959"
+    },
+    "32130": {
+      "name": "NORTH NAVIGATION CONTROL TECHNOLOGY CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "32131": {
+      "name": "SHAANXI ZHONGTIAN ROCKET TECHNOLOGY COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "32153": {
+      "name": "ZHONGHANG ELECTRONIC MEASURING INSTRUMENTS COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "33091": {
+      "name": "MEGVII TECHNOLOGY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "33111": {
+      "name": "SZ DJI TECHNOLOGY CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "33112": {
+      "name": "CLOUDWALK TECHNOLOGY CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "33113": {
+      "name": "DAWNING INFORMATION INDUSTRY CO., LTD",
+      "list": "CMIC-EO13959"
+    },
+    "33114": {
+      "name": "SENSETIME GROUP LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "33893": {
+      "name": "YITU LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "33894": {
+      "name": "LEON TECHNOLOGY COMPANY LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "33895": {
+      "name": "NETPOSA TECHNOLOGIES LIMITED",
+      "list": "CMIC-EO13959"
+    },
+    "33896": {
+      "name": "XIAMEN MEIYA PICO INFORMATION CO., LTD.",
+      "list": "CMIC-EO13959"
+    },
+    "34556": {
+      "name": "PUBLIC JOINT STOCK COMPANY ROSTELECOM",
+      "list": "RUSSIA-EO14024"
+    },
+    "34578": {
+      "name": "PUBLIC JOINT STOCK COMPANY RUSHYDRO",
+      "list": "RUSSIA-EO14024"
+    },
+    "34736": {
+      "name": "OPEN JOINT STOCK COMPANY RUSSIAN RAILWAYS",
+      "list": "RUSSIA-EO14024"
+    },
+    "46072": {
+      "name": "MYANMA OIL AND GAS ENTERPRISE",
+      "list": "BURMA-EO14014"
+    },
+    "50476": {
+      "name": "Michel Joseph MARTELLY",
+      "list": "ILLICIT-DRUGS-EO14059"
+    }
+  }
+}

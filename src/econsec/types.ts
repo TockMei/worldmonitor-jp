@@ -52,3 +52,18 @@ export interface EconsecFeedsResponse {
   generated: string;
   feeds: Record<string, EconsecFeedItem[]>;
 }
+
+export type EconsecAlertType = 'add' | 'remove';
+
+export interface EconsecAlert {
+  date: string;
+  source: string;
+  type: EconsecAlertType;
+  entity: string;
+  detail: string;
+}
+
+export interface EconsecAlertsResponse {
+  meta: { generated: string | null };
+  alerts: EconsecAlert[];
+}

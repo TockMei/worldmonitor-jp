@@ -1,6 +1,6 @@
 // Pure rendering/filtering logic for the econsec source directory.
 // Kept DOM-free so it can be unit-tested in node.
-import type { EconsecFeedItem, EconsecFilterState, EconsecSource, EconsecTier } from './types';
+import type { EconsecAlertsResponse, EconsecFeedItem, EconsecFilterState, EconsecSource, EconsecTier } from './types';
 
 export const TIER_LABELS: Record<EconsecTier | 'all', string> = {
   all: 'すべて',
@@ -28,6 +28,18 @@ const STATUS_LABELS: Record<string, string> = {
   dead_candidate: 'DEAD候補',
   skip: 'SKIP',
 };
+
+const ALERT_SOURCE_LABELS: Record<string, string> = {
+  csl: 'Trade.gov CSL',
+  'ofac-sdn': 'OFAC SDN',
+  'ofac-consolidated': 'OFAC Non-SDN(NS-CMIC含む)',
+  uksl: '英UKSL',
+  'un-consolidated': '国連統合リスト',
+  'meti-foreign-user-list': 'METI外国ユーザーリスト',
+  'mof-sanctions': '財務省制裁リスト',
+};
+
+const ALERT_WINDOW_DAYS = 30;
 
 export function escapeHtml(value: string): string {
   return value
@@ -163,4 +175,54 @@ export function populateFeedContainers(feeds: Record<string, EconsecFeedItem[]>)
       el.innerHTML = renderFeedItems(items);
     }
   });
+}
+
+function formatJst(iso: string | null): string {
+  if (!iso) return '未実行';
+  const jst = new Date(new Date(iso).getTime() + 9 * 60 * 60 * 1000);
+  const pad = (n: number) => String(n).padStart(2, '0');
+  return `${jst.getUTCFullYear()}-${pad(jst.getUTCMonth() + 1)}-${pad(jst.getUTCDate())} ${pad(
+    jst.getUTCHours(),
+  )}:${pad(jst.getUTCMinutes())} JST`;
+}
+
+// Renders the entity-level diff log for the six regulatory sources watched
+// by scripts/econsec-watch.mjs: last 30 days, newest first, empty state
+// shows the last successful run time so a quiet week reads as "checked",
+// not "broken".
+export function renderAlertsPanel(data: EconsecAlertsResponse): string {
+  const cutoff = Date.now() - ALERT_WINDOW_DAYS * 24 * 60 * 60 * 1000;
+  const recent = data.alerts
+    .filter((a) => new Date(a.date).getTime() >= cutoff)
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+  const header = `
+    <div class="econsec-alerts-header">
+      <h2>規制アラート</h2>
+      <span class="econsec-alerts-updated">最終確認: ${escapeHtml(formatJst(data.meta.generated))}</span>
+    </div>`;
+
+  if (recent.length === 0) {
+    return `${header}<div class="econsec-alerts-empty">差分なし</div>`;
+  }
+
+  const rows = recent
+    .map((a) => {
+      const label = ALERT_SOURCE_LABELS[a.source] || a.source;
+      const badge =
+        a.type === 'add'
+          ? '<span class="badge alert-badge-add">追加</span>'
+          : '<span class="badge alert-badge-remove">削除</span>';
+      return `
+      <div class="econsec-alert-row">
+        ${badge}
+        <span class="econsec-alert-entity">${escapeHtml(a.entity)}</span>
+        <span class="econsec-alert-source">${escapeHtml(label)}</span>
+        <span class="econsec-alert-detail">${escapeHtml(a.detail)}</span>
+        <span class="econsec-alert-date">${escapeHtml(formatJst(a.date))}</span>
+      </div>`;
+    })
+    .join('');
+
+  return `${header}<div class="econsec-alerts-list">${rows}</div>`;
 }

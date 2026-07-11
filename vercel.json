@@ -7,6 +7,10 @@
     {
       "source": "/internal/econsec/feeds.json",
       "destination": "/api/internal/econsec-feeds"
+    },
+    {
+      "source": "/internal/econsec/alerts.json",
+      "destination": "/api/internal/econsec-alerts"
     }
   ],
   "headers": [

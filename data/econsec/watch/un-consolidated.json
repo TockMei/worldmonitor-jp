@@ -1,0 +1,4017 @@
+{
+  "id": "un-consolidated",
+  "label": "UN Security Council Consolidated List",
+  "generated": "2026-07-11T17:45:24.891Z",
+  "resolvedUrl": "https://scsanctions.un.org/resources/xml/en/name/consolidated.xml",
+  "count": 1002,
+  "entities": {
+    "110326": {
+      "name": "YAZD METALLURGY INDUSTRIES (YMI)",
+      "list": "Iran"
+    },
+    "110327": {
+      "name": "YAS AIR",
+      "list": "Iran"
+    },
+    "110328": {
+      "name": "YA MAHDI INDUSTRIES GROUP",
+      "list": "Iran"
+    },
+    "110329": {
+      "name": "TIZ PARS",
+      "list": "Iran"
+    },
+    "110330": {
+      "name": "TAMAS COMPANY",
+      "list": "Iran"
+    },
+    "110331": {
+      "name": "SPECIAL INDUSTRIES GROUP (SIG)",
+      "list": "Iran"
+    },
+    "110332": {
+      "name": "SOUTH SHIPPING LINE IRAN (SSL)",
+      "list": "Iran"
+    },
+    "110333": {
+      "name": "SHO'A' AVIATION",
+      "list": "Iran"
+    },
+    "110334": {
+      "name": "SHAHID SAYYADE SHIRAZI INDUSTRIES (SSSI)",
+      "list": "Iran"
+    },
+    "110335": {
+      "name": "SHAHID SATTARI INDUSTRIES",
+      "list": "Iran"
+    },
+    "110336": {
+      "name": "SHAHID KARRAZI INDUSTRIES",
+      "list": "Iran"
+    },
+    "110337": {
+      "name": "SHAHID HEMMAT INDUSTRIAL GROUP (SHIG)",
+      "list": "Iran"
+    },
+    "110338": {
+      "name": "SHAHID BAGHERI INDUSTRIAL GROUP (SBIG)",
+      "list": "Iran"
+    },
+    "110339": {
+      "name": "SEPASAD ENGINEERING COMPANY",
+      "list": "Iran"
+    },
+    "110340": {
+      "name": "SEPANIR",
+      "list": "Iran"
+    },
+    "110341": {
+      "name": "SANAM INDUSTRIAL GROUP",
+      "list": "Iran"
+    },
+    "110342": {
+      "name": "SAHEL CONSULTANT ENGINEERS",
+      "list": "Iran"
+    },
+    "110343": {
+      "name": "SAHAND ALUMINUM PARTS INDUSTRIAL COMPANY (SAPICO)",
+      "list": "Iran"
+    },
+    "110344": {
+      "name": "SAFETY EQUIPMENT PROCUREMENT (SEP)",
+      "list": "Iran"
+    },
+    "110345": {
+      "name": "SAD IMPORT EXPORT COMPANY",
+      "list": "Iran"
+    },
+    "110346": {
+      "name": "SABALAN COMPANY",
+      "list": "Iran"
+    },
+    "110347": {
+      "name": "RAHAB ENGINEERING INSTITUTE",
+      "list": "Iran"
+    },
+    "110348": {
+      "name": "RAH SAHEL",
+      "list": "Iran"
+    },
+    "110349": {
+      "name": "QODS AERONAUTICS INDUSTRIES",
+      "list": "Iran"
+    },
+    "110350": {
+      "name": "PISHGAM ENERGY INDUSTRIES",
+      "list": "Iran"
+    },
+    "110351": {
+      "name": "PEJMAN INDUSTRIAL SERVICES CORPORATION",
+      "list": "Iran"
+    },
+    "110352": {
+      "name": "PARS TRASH COMPANY",
+      "list": "Iran"
+    },
+    "110353": {
+      "name": "PARS AVIATION SERVICES COMPANY",
+      "list": "Iran"
+    },
+    "110354": {
+      "name": "PARCHIN CHEMICAL INDUSTRIES",
+      "list": "Iran"
+    },
+    "110355": {
+      "name": "ORIENTAL OIL KISH",
+      "list": "Iran"
+    },
+    "110356": {
+      "name": "OMRAN SAHEL",
+      "list": "Iran"
+    },
+    "110357": {
+      "name": "NUCLEAR RESEARCH CENTER FOR AGRICULTURE AND MEDICINE (NFRPC)",
+      "list": "Iran"
+    },
+    "110358": {
+      "name": "NOVIN ENERGY COMPANY",
+      "list": "Iran"
+    },
+    "110359": {
+      "name": "NIRU BATTERY MANUFACTURING COMPANY",
+      "list": "Iran"
+    },
+    "110360": {
+      "name": "MODERN INDUSTRIES TECHNIQUE COMPANY (MITEC)",
+      "list": "Iran"
+    },
+    "110361": {
+      "name": "MIZAN MACHINERY MANUFACTURING",
+      "list": "Iran"
+    },
+    "110362": {
+      "name": "MINISTRY OF DEFENSE LOGISTICS EXPORT",
+      "list": "Iran"
+    },
+    "110363": {
+      "name": "MESBAH ENERGY COMPANY",
+      "list": "Iran"
+    },
+    "110364": {
+      "name": "MALEK ASHTAR UNIVERSITY",
+      "list": "Iran"
+    },
+    "110365": {
+      "name": "MAKIN",
+      "list": "Iran"
+    },
+    "110366": {
+      "name": "M. BABAIE INDUSTRIES",
+      "list": "Iran"
+    },
+    "110367": {
+      "name": "KHORASAN METALLURGY INDUSTRIES",
+      "list": "Iran"
+    },
+    "110368": {
+      "name": "KHATAM AL-ANBIYA CONSTRUCTION HEADQUARTERS (KAA)",
+      "list": "Iran"
+    },
+    "110369": {
+      "name": "KAVOSHYAR COMPANY",
+      "list": "Iran"
+    },
+    "110370": {
+      "name": "KAVEH CUTTING TOOLS COMPANY",
+      "list": "Iran"
+    },
+    "110371": {
+      "name": "KARAJ NUCLEAR RESEARCH CENTRE",
+      "list": "Iran"
+    },
+    "110372": {
+      "name": "KALA-ELECTRIC",
+      "list": "Iran"
+    },
+    "110373": {
+      "name": "JOZA INDUSTRIAL CO.",
+      "list": "Iran"
+    },
+    "110374": {
+      "name": "JABBER IBN HAYAN",
+      "list": "Iran"
+    },
+    "110375": {
+      "name": "IRISL BENELUX NV",
+      "list": "Iran"
+    },
+    "110376": {
+      "name": "IRANO HIND SHIPPING COMPANY",
+      "list": "Iran"
+    },
+    "110377": {
+      "name": "INDUSTRIAL FACTORIES OF PRECISION (IFP) MACHINERY",
+      "list": "Iran"
+    },
+    "110378": {
+      "name": "IMENSAZAN CONSULTANT ENGINEERS INSTITUTE",
+      "list": "Iran"
+    },
+    "110379": {
+      "name": "HARA COMPANY",
+      "list": "Iran"
+    },
+    "110380": {
+      "name": "GHORB NOOH",
+      "list": "Iran"
+    },
+    "110381": {
+      "name": "GHORB KARBALA",
+      "list": "Iran"
+    },
+    "110382": {
+      "name": "GHARAGAHE SAZANDEGI GHAEM",
+      "list": "Iran"
+    },
+    "110383": {
+      "name": "FIRST EAST EXPORT BANK, P.L.C.",
+      "list": "Iran"
+    },
+    "110384": {
+      "name": "FATER INSTITUTE",
+      "list": "Iran"
+    },
+    "110385": {
+      "name": "FARAYAND TECHNIQUE",
+      "list": "Iran"
+    },
+    "110386": {
+      "name": "FARASAKHT INDUSTRIES",
+      "list": "Iran"
+    },
+    "110387": {
+      "name": "FAJR INDUSTRIAL GROUP",
+      "list": "Iran"
+    },
+    "110388": {
+      "name": "ETTEHAD TECHNICAL GROUP",
+      "list": "Iran"
+    },
+    "110389": {
+      "name": "ESFAHAN NUCLEAR FUEL RESEARCH AND PRODUCTION CENTRE (NFRPC) AND ESFAHAN NUCLEAR TECHNOLOGY CENTRE (ENTC)",
+      "list": "Iran"
+    },
+    "110390": {
+      "name": "ELECTRO SANAM COMPANY",
+      "list": "Iran"
+    },
+    "110391": {
+      "name": "DOOSTAN INTERNATIONAL COMPANY (DICO)",
+      "list": "Iran"
+    },
+    "110392": {
+      "name": "DEFENSE TECHNOLOGY AND SCIENCE RESEARCH CENTER (DTSRC)",
+      "list": "Iran"
+    },
+    "110393": {
+      "name": "DEFENCE INDUSTRIES ORGANISATION (DIO)",
+      "list": "Iran"
+    },
+    "110394": {
+      "name": "CRUISE MISSILE INDUSTRY GROUP",
+      "list": "Iran"
+    },
+    "110395": {
+      "name": "BEHINEH TRADING CO.",
+      "list": "Iran"
+    },
+    "110396": {
+      "name": "BARZAGANI TEJARAT TAVANMAD SACCAL COMPANIES",
+      "list": "Iran"
+    },
+    "110397": {
+      "name": "BANK SEPAH AND BANK SEPAH INTERNATIONAL",
+      "list": "Iran"
+    },
+    "110398": {
+      "name": "ATOMIC ENERGY ORGANISATION OF IRAN (AEOI)",
+      "list": "Iran"
+    },
+    "110399": {
+      "name": "ARMAMENT INDUSTRIES GROUP (AIG)",
+      "list": "Iran"
+    },
+    "110400": {
+      "name": "AMMUNITION AND METALLURGY INDUSTRIES GROUP (AMIG)",
+      "list": "Iran"
+    },
+    "110401": {
+      "name": "AMIN INDUSTRIAL COMPLEX",
+      "list": "Iran"
+    },
+    "110402": {
+      "name": "ABZAR BORESH KAVEH CO. (BK CO.)",
+      "list": "Iran"
+    },
+    "110403": {
+      "name": "7TH OF TIR",
+      "list": "Iran"
+    },
+    "110404": {
+      "name": "MOHAMMAD BAQER ZOLQADR",
+      "list": "Iran"
+    },
+    "110405": {
+      "name": "MOHAMMAD REZA ZAHEDI",
+      "list": "Iran"
+    },
+    "110406": {
+      "name": "ALI AKBAR TABATABAEI",
+      "list": "Iran"
+    },
+    "110407": {
+      "name": "GHASEM SOLEYMANI",
+      "list": "Iran"
+    },
+    "110408": {
+      "name": "QASEM SOLEIMANI",
+      "list": "Iran"
+    },
+    "110409": {
+      "name": "HOSEIN SALIMI",
+      "list": "Iran"
+    },
+    "110410": {
+      "name": "SEYED JABER SAFDARI",
+      "list": "Iran"
+    },
+    "110411": {
+      "name": "YAHYA RAHIM SAFAVI",
+      "list": "Iran"
+    },
+    "110412": {
+      "name": "MORTEZA SAFARI",
+      "list": "Iran"
+    },
+    "110413": {
+      "name": "M. JAVAD KARIMI SABET",
+      "list": "Iran"
+    },
+    "110414": {
+      "name": "MORTEZA REZAIE",
+      "list": "Iran"
+    },
+    "110415": {
+      "name": "ABBAS RASHIDI",
+      "list": "Iran"
+    },
+    "110416": {
+      "name": "JAVAD RAHIQI",
+      "list": "Iran"
+    },
+    "110417": {
+      "name": "AMIR RAHIMI",
+      "list": "Iran"
+    },
+    "110418": {
+      "name": "MOHAMMAD QANNADI",
+      "list": "Iran"
+    },
+    "110419": {
+      "name": "HOUSHANG NOBARI",
+      "list": "Iran"
+    },
+    "110420": {
+      "name": "MOHAMMAD MEHDI NEJAD NOURI",
+      "list": "Iran"
+    },
+    "110421": {
+      "name": "MOHAMMAD REZA NAQDI",
+      "list": "Iran"
+    },
+    "110422": {
+      "name": "EHSAN MONAJEMI",
+      "list": "Iran"
+    },
+    "110423": {
+      "name": "JAFAR MOHAMMADI",
+      "list": "Iran"
+    },
+    "110424": {
+      "name": "HAMID-REZA MOHAJERANI",
+      "list": "Iran"
+    },
+    "110425": {
+      "name": "NASER MALEKI",
+      "list": "Iran"
+    },
+    "110426": {
+      "name": "ALI HAJINIA LEILABADI",
+      "list": "Iran"
+    },
+    "110427": {
+      "name": "MEHRDADA AKHLAGHI KETABACHI",
+      "list": "Iran"
+    },
+    "110428": {
+      "name": "SEYYED HUSSEIN HOSSEINI",
+      "list": "Iran"
+    },
+    "110429": {
+      "name": "MOHSEN HOJATI",
+      "list": "Iran"
+    },
+    "110430": {
+      "name": "MOHAMMAD HEJAZI",
+      "list": "Iran"
+    },
+    "110431": {
+      "name": "MOHSEN FAKHRIZADEH-MAHABADI",
+      "list": "Iran"
+    },
+    "110432": {
+      "name": "REZA-GHOLI ESMAELI",
+      "list": "Iran"
+    },
+    "110433": {
+      "name": "MOHAMMAD ESLAMI",
+      "list": "Iran"
+    },
+    "110434": {
+      "name": "AHMAD DERAKHSHANDEH",
+      "list": "Iran"
+    },
+    "110435": {
+      "name": "AHMAD VAHID DASTJERDI",
+      "list": "Iran"
+    },
+    "110436": {
+      "name": "MORTEZA BEHZAD",
+      "list": "Iran"
+    },
+    "110437": {
+      "name": "HALEH BAKHTIAR",
+      "list": "Iran"
+    },
+    "110438": {
+      "name": "BAHMANYAR MORTEZA BAHMANYAR",
+      "list": "Iran"
+    },
+    "110439": {
+      "name": "ABBAS REZAEE ASHTIANI",
+      "list": "Iran"
+    },
+    "110440": {
+      "name": "MOHAMMAD FEDAI ASHIANI",
+      "list": "Iran"
+    },
+    "110441": {
+      "name": "BEHMAN ASGARPOUR",
+      "list": "Iran"
+    },
+    "110442": {
+      "name": "AMIR MOAYYED ALAI",
+      "list": "Iran"
+    },
+    "110443": {
+      "name": "ALI AKBAR AHMADIAN",
+      "list": "Iran"
+    },
+    "110444": {
+      "name": "AZIM AGHAJANI",
+      "list": "Iran"
+    },
+    "110445": {
+      "name": "DAWOOD AGHA-JANI",
+      "list": "Iran"
+    },
+    "110446": {
+      "name": "FEREIDOUN ABBASI-DAVANI",
+      "list": "Iran"
+    },
+    "110447": {
+      "name": "MUHAMMAD TAHER ANWARI",
+      "list": "Taliban"
+    },
+    "110554": {
+      "name": "ABDUL LATIF MANSUR",
+      "list": "Taliban"
+    },
+    "110577": {
+      "name": "MOHAMMAD HASSAN AKHUND",
+      "list": "Taliban"
+    },
+    "110578": {
+      "name": "ABDUL KABIR MOHAMMAD JAN",
+      "list": "Taliban"
+    },
+    "110579": {
+      "name": "MOHAMMED OMAR GHULAM NABI",
+      "list": "Taliban"
+    },
+    "110580": {
+      "name": "SAYYED MOHAMMED HAQQANI",
+      "list": "Taliban"
+    },
+    "110896": {
+      "name": "SHAMS UR-RAHMAN ABDUL ZAHIR",
+      "list": "Taliban"
+    },
+    "110897": {
+      "name": "MOHAMMAD NAIM BARICH KHUDAIDAD",
+      "list": "Taliban"
+    },
+    "110899": {
+      "name": "FAZL MOHAMMAD MAZLOOM",
+      "list": "Taliban"
+    },
+    "110900": {
+      "name": "SAID AHMED SHAHIDKHEL",
+      "list": "Taliban"
+    },
+    "110901": {
+      "name": "MOHAMMAD AHMADI",
+      "list": "Taliban"
+    },
+    "110912": {
+      "name": "ABDUL RAHMAN ZAHED",
+      "list": "Taliban"
+    },
+    "110913": {
+      "name": "FAIZ",
+      "list": "Taliban"
+    },
+    "110914": {
+      "name": "ABDUL BAQI BASIR AWAL SHAH",
+      "list": "Taliban"
+    },
+    "110915": {
+      "name": "JALALUDDIN HAQQANI",
+      "list": "Taliban"
+    },
+    "110917": {
+      "name": "DIN MOHAMMAD HANIF",
+      "list": "Taliban"
+    },
+    "110941": {
+      "name": "EZATULLAH HAQQANI KHAN SAYYID",
+      "list": "Taliban"
+    },
+    "110942": {
+      "name": "MOHAMMAD ABBAS AKHUND",
+      "list": "Taliban"
+    },
+    "110943": {
+      "name": "RUSTUM HANAFI HABIBULLAH",
+      "list": "Taliban"
+    },
+    "110944": {
+      "name": "SAYYED GHIASSOUDDINE AGHA",
+      "list": "Taliban"
+    },
+    "110945": {
+      "name": "ABDUL-HAQ WASSIQ",
+      "list": "Taliban"
+    },
+    "110947": {
+      "name": "ABDUL JABBAR OMARI",
+      "list": "Taliban"
+    },
+    "110948": {
+      "name": "NURULLAH NURI",
+      "list": "Taliban"
+    },
+    "110959": {
+      "name": "WALIJAN",
+      "list": "Taliban"
+    },
+    "110960": {
+      "name": "MOHAMMAD HASAN RAHMANI",
+      "list": "Taliban"
+    },
+    "110961": {
+      "name": "ABDUL MANAN NYAZI",
+      "list": "Taliban"
+    },
+    "110962": {
+      "name": "NAZIR MOHAMMAD ABDUL BASIR",
+      "list": "Taliban"
+    },
+    "110963": {
+      "name": "ZIA-UR-RAHMAN MADANI",
+      "list": "Taliban"
+    },
+    "110964": {
+      "name": "AHMAD TAHA KHALID ABDUL QADIR",
+      "list": "Taliban"
+    },
+    "110965": {
+      "name": "AMINULLAH AMIN QUDDUS",
+      "list": "Taliban"
+    },
+    "110967": {
+      "name": "ABDUL RAHMAN AGHA",
+      "list": "Taliban"
+    },
+    "111034": {
+      "name": "ATTIQULLAH AKHUND",
+      "list": "Taliban"
+    },
+    "111035": {
+      "name": "YAR MOHAMMAD RAHIMI",
+      "list": "Taliban"
+    },
+    "111036": {
+      "name": "ALLAH DAD TAYEB WALI MUHAMMAD",
+      "list": "Taliban"
+    },
+    "111037": {
+      "name": "NIK MOHAMMAD DOST MOHAMMAD",
+      "list": "Taliban"
+    },
+    "111038": {
+      "name": "ALLAH DAD MATIN",
+      "list": "Taliban"
+    },
+    "111039": {
+      "name": "UBAIDULLAH AKHUND YAR MOHAMMAD AKHUND",
+      "list": "Taliban"
+    },
+    "111040": {
+      "name": "ABDUL GHANI BARADAR ABDUL AHMAD TURK",
+      "list": "Taliban"
+    },
+    "111041": {
+      "name": "ABDUL RAUF KHADEM",
+      "list": "Taliban"
+    },
+    "111042": {
+      "name": "AMIR KHAN MOTAQI",
+      "list": "Taliban"
+    },
+    "111043": {
+      "name": "ABDUL SALAM HANAFI ALI MARDAN QUL",
+      "list": "Taliban"
+    },
+    "111066": {
+      "name": "MOHAMMAD JAWAD WAZIRI",
+      "list": "Taliban"
+    },
+    "111067": {
+      "name": "MOHAMMAD IBRAHIM OMARI",
+      "list": "Taliban"
+    },
+    "111068": {
+      "name": "HAMDULLAH NOMANI",
+      "list": "Taliban"
+    },
+    "111070": {
+      "name": "MOHAMMAD YAQOUB",
+      "list": "Taliban"
+    },
+    "111072": {
+      "name": "SAYED MOHAMMAD AZIM AGHA",
+      "list": "Taliban"
+    },
+    "111074": {
+      "name": "MOHAMMAD ESSA AKHUND",
+      "list": "Taliban"
+    },
+    "111075": {
+      "name": "SHER MOHAMMAD ABBAS STANEKZAI PADSHAH KHAN",
+      "list": "Taliban"
+    },
+    "111076": {
+      "name": "MOHAMMADULLAH MATI",
+      "list": "Taliban"
+    },
+    "111077": {
+      "name": "ATIQULLAH WALI MOHAMMAD",
+      "list": "Taliban"
+    },
+    "111078": {
+      "name": "NAJIBULLAH HAQQANI HIDAYATULLAH",
+      "list": "Taliban"
+    },
+    "111080": {
+      "name": "ABDUL RAQIB TAKHARI",
+      "list": "Taliban"
+    },
+    "111081": {
+      "name": "MOHAMMAD WALI MOHAMMAD EWAZ",
+      "list": "Taliban"
+    },
+    "111082": {
+      "name": "HABIBULLAH RESHAD",
+      "list": "Taliban"
+    },
+    "111083": {
+      "name": "AHMED JAN AKHUNDZADA WAZIR",
+      "list": "Taliban"
+    },
+    "111084": {
+      "name": "SADUDDIN SAYYED",
+      "list": "Taliban"
+    },
+    "111090": {
+      "name": "AKHTAR MOHAMMAD MANSOUR SHAH MOHAMMED",
+      "list": "Taliban"
+    },
+    "111092": {
+      "name": "HIDAYATULLAH",
+      "list": "Taliban"
+    },
+    "111094": {
+      "name": "MATIULLAH",
+      "list": "Taliban"
+    },
+    "111097": {
+      "name": "AREFULLAH AREF GHAZI MOHAMMAD",
+      "list": "Taliban"
+    },
+    "111107": {
+      "name": "ABDUL JALIL HAQQANI WALI MOHAMMAD",
+      "list": "Taliban"
+    },
+    "111108": {
+      "name": "QUDRATULLAH JAMAL",
+      "list": "Taliban"
+    },
+    "111109": {
+      "name": "ABDUL RAHMAN AHMAD HOTTAK",
+      "list": "Taliban"
+    },
+    "111110": {
+      "name": "ABDULHAI MOTMAEN",
+      "list": "Taliban"
+    },
+    "111112": {
+      "name": "NOORUDDIN TURABI MUHAMMAD QASIM",
+      "list": "Taliban"
+    },
+    "111113": {
+      "name": "MOHAMMAD AZAM ELMI",
+      "list": "Taliban"
+    },
+    "111115": {
+      "name": "MOHAMMAD MOSLIM HAQQANI MUHAMMADI GUL",
+      "list": "Taliban"
+    },
+    "111118": {
+      "name": "MOHAMMAD SALIM HAQQANI",
+      "list": "Taliban"
+    },
+    "111119": {
+      "name": "SAYED ESMATULLAH ASEM ABDUL QUDDUS",
+      "list": "Taliban"
+    },
+    "111121": {
+      "name": "EHSANULLAH SARFIDA HESAMUDDIN AKHUNDZADA",
+      "list": "Taliban"
+    },
+    "111143": {
+      "name": "DOST MOHAMMAD",
+      "list": "Taliban"
+    },
+    "111144": {
+      "name": "KHAIRULLAH KHAIRKHWAH",
+      "list": "Taliban"
+    },
+    "111145": {
+      "name": "MOHAMMAD ESHAQ AKHUNZADA",
+      "list": "Taliban"
+    },
+    "111146": {
+      "name": "SHAMSUDDIN",
+      "list": "Taliban"
+    },
+    "111147": {
+      "name": "MOHAMMAD RASUL AYYUB",
+      "list": "Taliban"
+    },
+    "111148": {
+      "name": "AHMAD JAN AKHUNDZADA SHUKOOR AKHUNDZADA",
+      "list": "Taliban"
+    },
+    "111149": {
+      "name": "HAMDULLAH SUNANI",
+      "list": "Taliban"
+    },
+    "111151": {
+      "name": "HAMIDULLAH AKHUND SHER MOHAMMAD",
+      "list": "Taliban"
+    },
+    "111173": {
+      "name": "JAN MOHAMMAD MADANI IKRAM",
+      "list": "Taliban"
+    },
+    "111176": {
+      "name": "MOHAMMAD SARWAR SIDDIQMAL MOHAMMAD MASOOD",
+      "list": "Taliban"
+    },
+    "111178": {
+      "name": "ABDUL WALI SEDDIQI",
+      "list": "Taliban"
+    },
+    "111179": {
+      "name": "ABDUL QUDDUS MAZHARI",
+      "list": "Taliban"
+    },
+    "111180": {
+      "name": "MOHAMMAD ALEEM NOORANI",
+      "list": "Taliban"
+    },
+    "111181": {
+      "name": "GUL AHMAD HAKIMI",
+      "list": "Taliban"
+    },
+    "111182": {
+      "name": "HAMDULLAH ALLAH NOOR",
+      "list": "Taliban"
+    },
+    "111204": {
+      "name": "JANAN AGHA",
+      "list": "Taliban"
+    },
+    "111205": {
+      "name": "ABDUL BARI AKHUND",
+      "list": "Taliban"
+    },
+    "111206": {
+      "name": "ABDUL WAHED SHAFIQ",
+      "list": "Taliban"
+    },
+    "111207": {
+      "name": "MOHAMMAD SHAFIQ MOHAMMADI",
+      "list": "Taliban"
+    },
+    "111208": {
+      "name": "MOHAMMAD SHAFIQULLAH AHMADI FATIH KHAN",
+      "list": "Taliban"
+    },
+    "111209": {
+      "name": "ABDULHAI SALEK",
+      "list": "Taliban"
+    },
+    "111210": {
+      "name": "NOOR MOHAMMAD SAQIB",
+      "list": "Taliban"
+    },
+    "111211": {
+      "name": "SHAHABUDDIN DELAWAR",
+      "list": "Taliban"
+    },
+    "111231": {
+      "name": "ABDUL MANAN MOHAMMAD ISHAK",
+      "list": "Taliban"
+    },
+    "111234": {
+      "name": "MOHAMMAD ZAHID",
+      "list": "Taliban"
+    },
+    "111235": {
+      "name": "NAZIRULLAH HANAFI WALIULLAH",
+      "list": "Taliban"
+    },
+    "111236": {
+      "name": "NAJIBULLAH MUHAMMAD JUMA",
+      "list": "Taliban"
+    },
+    "111238": {
+      "name": "ABDUL GHAFAR SHINWARI",
+      "list": "Taliban"
+    },
+    "111239": {
+      "name": "ABDUL HAI HAZEM ABDUL QADER",
+      "list": "Taliban"
+    },
+    "111301": {
+      "name": "AZIZIRAHMAN ABDUL AHAD",
+      "list": "Taliban"
+    },
+    "111302": {
+      "name": "ABDUL QADEER BASIR ABDUL BASEER",
+      "list": "Taliban"
+    },
+    "111303": {
+      "name": "MOHAMMAD SADIQ AMIR MOHAMMAD",
+      "list": "Taliban"
+    },
+    "111304": {
+      "name": "RAHMATULLAH KAKAZADA",
+      "list": "Taliban"
+    },
+    "111305": {
+      "name": "ABDULLAH HAMAD MOHAMMAD KARIM",
+      "list": "Taliban"
+    },
+    "111451": {
+      "name": "MOHAMAD IQBAL ABDURRAHMAN",
+      "list": "Al-Qaida"
+    },
+    "111496": {
+      "name": "SULAIMAN JASSEM SULAIMAN ALI ABO GHAITH",
+      "list": "Al-Qaida"
+    },
+    "111497": {
+      "name": "AMIN MUHAMMAD UL HAQ SAAM KHAN",
+      "list": "Al-Qaida"
+    },
+    "111498": {
+      "name": "TARIQ ANWAR EL SAYED AHMED",
+      "list": "Al-Qaida"
+    },
+    "111514": {
+      "name": "ABDUL MANAN AGHA",
+      "list": "Al-Qaida"
+    },
+    "111533": {
+      "name": "ABD ALLAH MOHAMED RAGAB ABDEL RAHMAN",
+      "list": "Al-Qaida"
+    },
+    "111639": {
+      "name": "IBRAHIM ALI ABU BAKR TANTOUSH",
+      "list": "Al-Qaida"
+    },
+    "111641": {
+      "name": "ZAKI EZAT ZAKI AHMED",
+      "list": "Al-Qaida"
+    },
+    "111660": {
+      "name": "MOHAMMAD HAMDI MOHAMMAD SADIQ AL-AHDAL",
+      "list": "Al-Qaida"
+    },
+    "111704": {
+      "name": "MUHSIN FADHIL AYED ASHOUR AL-FADHLI",
+      "list": "Al-Qaida"
+    },
+    "111734": {
+      "name": "MEHREZ BEN MAHMOUD BEN SASSI AL-AMDOUNI",
+      "list": "Al-Qaida"
+    },
+    "111735": {
+      "name": "MOHAMED BEN BELGACEM BEN ABDALLAH AL-AOUADI",
+      "list": "Al-Qaida"
+    },
+    "111763": {
+      "name": "KHALID ABD AL-RAHMAN HAMD AL-FAWAZ",
+      "list": "Al-Qaida"
+    },
+    "111782": {
+      "name": "THARWAT SALAH SHIHATA",
+      "list": "Al-Qaida"
+    },
+    "111785": {
+      "name": "HABIB BEN AHMED AL-LOUBIRI",
+      "list": "Al-Qaida"
+    },
+    "111790": {
+      "name": "ABDULLAH ANSHORI",
+      "list": "Al-Qaida"
+    },
+    "111792": {
+      "name": "ABU BAKAR BA'ASYIR",
+      "list": "Al-Qaida"
+    },
+    "111794": {
+      "name": "MOKHTAR BELMOKHTAR",
+      "list": "Al-Qaida"
+    },
+    "111796": {
+      "name": "MOHAMED LAKHAL",
+      "list": "Al-Qaida"
+    },
+    "111798": {
+      "name": "FAYCAL BOUGHANEMI",
+      "list": "Al-Qaida"
+    },
+    "111799": {
+      "name": "HAMADI BEN ABDUL AZIZ BEN ALI BOUYEHIA",
+      "list": "Al-Qaida"
+    },
+    "111805": {
+      "name": "ABD EL KADER MAHMOUD MOHAMED EL SAYED",
+      "list": "Al-Qaida"
+    },
+    "111806": {
+      "name": "SAMI BEN KHAMIS BEN SALEH ELSSEID",
+      "list": "Al-Qaida"
+    },
+    "111810": {
+      "name": "MOHAMMAD TAHIR HAMMID HUSSEIN",
+      "list": "Al-Qaida"
+    },
+    "111837": {
+      "name": "NOUREDDINE BEN ALI BEN BELKASSEM AL-DRISSI",
+      "list": "Al-Qaida"
+    },
+    "111900": {
+      "name": "NASHWAN ABD AL-RAZZAQ ABD AL-BAQI",
+      "list": "Al-Qaida"
+    },
+    "111902": {
+      "name": "BOUBEKEUR BOULGHITI",
+      "list": "Al-Qaida"
+    },
+    "111916": {
+      "name": "KAMAL BEN MAOELDI BEN HASSAN AL-HAMRAOUI",
+      "list": "Al-Qaida"
+    },
+    "111919": {
+      "name": "SALIM AHMAD SALIM HAMDAN",
+      "list": "Al-Qaida"
+    },
+    "111920": {
+      "name": "TAREK BEN HABIB BEN AL-TOUMI AL-MAAROUFI",
+      "list": "Al-Qaida"
+    },
+    "111922": {
+      "name": "IMED BEN MEKKI ZARKAOUI",
+      "list": "Al-Qaida"
+    },
+    "111923": {
+      "name": "AIMAN MUHAMMED RABI AL-ZAWAHIRI",
+      "list": "Al-Qaida"
+    },
+    "111924": {
+      "name": "ABD-AL-MAJID AZIZ AL-ZINDANI",
+      "list": "Al-Qaida"
+    },
+    "111942": {
+      "name": "BILAL BIN MARWAN",
+      "list": "Al-Qaida"
+    },
+    "111943": {
+      "name": "RAMZI MOHAMED ABDULLAH BINALSHIBH",
+      "list": "Al-Qaida"
+    },
+    "111944": {
+      "name": "HASSAN DAHIR AWEYS",
+      "list": "Al-Qaida"
+    },
+    "111947": {
+      "name": "ABDULLAH AHMED ABDULLAH EL ALFI",
+      "list": "Al-Qaida"
+    },
+    "111951": {
+      "name": "MOUNIR EL MOTASSADEQ",
+      "list": "Al-Qaida"
+    },
+    "111952": {
+      "name": "GUN GUN RUSMAN GUNAWAN",
+      "list": "Al-Qaida"
+    },
+    "111953": {
+      "name": "FARHAD KANABI AHMAD",
+      "list": "Al-Qaida"
+    },
+    "112001": {
+      "name": "NURJAMAN RIDUAN ISAMUDDIN",
+      "list": "Al-Qaida"
+    },
+    "112007": {
+      "name": "SALIM Y SALAMUDDIN JULKIPLI",
+      "list": "Al-Qaida"
+    },
+    "112021": {
+      "name": "HANI AL-SAYYID AL-SEBAI YUSIF",
+      "list": "Al-Qaida"
+    },
+    "112026": {
+      "name": "MAHFOUZ OULD AL-WALID",
+      "list": "Al-Qaida"
+    },
+    "112028": {
+      "name": "SAIFI AMMARI",
+      "list": "Al-Qaida"
+    },
+    "112030": {
+      "name": "SAID BAHAJI",
+      "list": "Al-Qaida"
+    },
+    "112032": {
+      "name": "MAHMOOD SULTAN BASHIR-UD-DIN",
+      "list": "Al-Qaida"
+    },
+    "112033": {
+      "name": "ADEL BEN AL-AZHAR BEN YOUSSEF HAMDI",
+      "list": "Al-Qaida"
+    },
+    "112035": {
+      "name": "MAXAMED CABDULLAAH CIISE",
+      "list": "Al-Qaida"
+    },
+    "112037": {
+      "name": "KAMEL DJERMANE",
+      "list": "Al-Qaida"
+    },
+    "112039": {
+      "name": "AGUS DWIKARNA",
+      "list": "Al-Qaida"
+    },
+    "112040": {
+      "name": "RADI ABD EL SAMIE ABOU EL YAZID EL AYASHI",
+      "list": "Al-Qaida"
+    },
+    "112042": {
+      "name": "MOUSSA BEN OMAR BEN ALI ESSAADI",
+      "list": "Al-Qaida"
+    },
+    "112043": {
+      "name": "ZAKARYA ESSABAR",
+      "list": "Al-Qaida"
+    },
+    "112044": {
+      "name": "AHMED KHALFAN GHAILANI",
+      "list": "Al-Qaida"
+    },
+    "112075": {
+      "name": "ISNILON TOTONI HAPILON",
+      "list": "Al-Qaida"
+    },
+    "112078": {
+      "name": "RAED MUHAMMAD HASAN MUHAMMAD HIJAZI",
+      "list": "Al-Qaida"
+    },
+    "112138": {
+      "name": "DAWOOD IBRAHIM KASKAR",
+      "list": "Al-Qaida"
+    },
+    "112166": {
+      "name": "MOSTAFA KAMEL MOSTAFA IBRAHIM",
+      "list": "Al-Qaida"
+    },
+    "112248": {
+      "name": "MEHDI BEN MOHAMED BEN MOHAMED KAMMOUN",
+      "list": "Al-Qaida"
+    },
+    "112283": {
+      "name": "OMAR MAHMOUD UTHMAN",
+      "list": "Al-Qaida"
+    },
+    "112378": {
+      "name": "MOHAMED AMIN MOSTAFA",
+      "list": "Al-Qaida"
+    },
+    "112379": {
+      "name": "DJAMEL MOUSTFA",
+      "list": "Al-Qaida"
+    },
+    "112483": {
+      "name": "ABDELKADER LAAGOUB",
+      "list": "Al-Qaida"
+    },
+    "112494": {
+      "name": "DJAMEL LOUNICI",
+      "list": "Al-Qaida"
+    },
+    "113211": {
+      "name": "ARIS MUNANDAR",
+      "list": "Al-Qaida"
+    },
+    "113212": {
+      "name": "ALI SAYYID MUHAMED MUSTAFA BAKRI",
+      "list": "Al-Qaida"
+    },
+    "113215": {
+      "name": "ABU RUSDAN",
+      "list": "Al-Qaida"
+    },
+    "113219": {
+      "name": "MOHAMMED SALAHALDIN ABD EL HALIM ZIDANE",
+      "list": "Al-Qaida"
+    },
+    "113220": {
+      "name": "PARLINDUNGAN SIREGAR",
+      "list": "Al-Qaida"
+    },
+    "113222": {
+      "name": "YASSIN SYAWAL",
+      "list": "Al-Qaida"
+    },
+    "113223": {
+      "name": "ISAM ALI MOHAMED ALOUCHE",
+      "list": "Al-Qaida"
+    },
+    "113226": {
+      "name": "AFGHAN SUPPORT COMMITTEE (ASC)",
+      "list": "Al-Qaida"
+    },
+    "113227": {
+      "name": "AL-AKHTAR TRUST INTERNATIONAL",
+      "list": "Al-Qaida"
+    },
+    "113231": {
+      "name": "AL FURQAN",
+      "list": "Al-Qaida"
+    },
+    "113232": {
+      "name": "AL-HARAMAIN & AL MASJED AL-AQSA CHARITY FOUNDATION",
+      "list": "Al-Qaida"
+    },
+    "113233": {
+      "name": "AL-HARAMAIN: ETHIOPIA BRANCH",
+      "list": "Al-Qaida"
+    },
+    "113234": {
+      "name": "AL-HARAMAIN FOUNDATION (UNION OF THE COMOROS)",
+      "list": "Al-Qaida"
+    },
+    "113235": {
+      "name": "AL-HARAMAIN: THE NETHERLANDS BRANCH",
+      "list": "Al-Qaida"
+    },
+    "113236": {
+      "name": "EGYPTIAN ISLAMIC JIHAD",
+      "list": "Al-Qaida"
+    },
+    "113237": {
+      "name": "ARMED ISLAMIC GROUP",
+      "list": "Al-Qaida"
+    },
+    "113263": {
+      "name": "HARAKAT UL-MUJAHIDIN / HUM",
+      "list": "Al-Qaida"
+    },
+    "113313": {
+      "name": "ABDUL HAKIM MURAD",
+      "list": "Al-Qaida"
+    },
+    "113322": {
+      "name": "ABDELHALIM HAFED ABDELFATTAH REMADNA",
+      "list": "Al-Qaida"
+    },
+    "113323": {
+      "name": "RADULAN SAHIRON",
+      "list": "Al-Qaida"
+    },
+    "113328": {
+      "name": "ABDUL RAHMAN YASIN",
+      "list": "Al-Qaida"
+    },
+    "113335": {
+      "name": "AL-HARAMAIN: ALBANIA BRANCH",
+      "list": "Al-Qaida"
+    },
+    "113338": {
+      "name": "AL-HARAMAYN FOUNDATION (KENYA)",
+      "list": "Al-Qaida"
+    },
+    "113339": {
+      "name": "AL-HARAMAYN FOUNDATION (TANZANIA)",
+      "list": "Al-Qaida"
+    },
+    "113356": {
+      "name": "EASTERN TURKISTAN ISLAMIC MOVEMENT (ETIM)",
+      "list": "Al-Qaida"
+    },
+    "113435": {
+      "name": "TAUFIK RIFKI",
+      "list": "Al-Qaida"
+    },
+    "113436": {
+      "name": "AL-AZHAR BEN KHALIFA BEN AHMED ROUINE",
+      "list": "Al-Qaida"
+    },
+    "113439": {
+      "name": "YAZID SUFAAT",
+      "list": "Al-Qaida"
+    },
+    "113442": {
+      "name": "YUNOS UMPARA MOKLIS",
+      "list": "Al-Qaida"
+    },
+    "113444": {
+      "name": "ARIS SUMARSONO",
+      "list": "Al-Qaida"
+    },
+    "113445": {
+      "name": "ABU SAYYAF GROUP",
+      "list": "Al-Qaida"
+    },
+    "113453": {
+      "name": "AL-HARAMAIN: AFGHANISTAN BRANCH",
+      "list": "Al-Qaida"
+    },
+    "113454": {
+      "name": "AL-HARAMAIN: BANGLADESH BRANCH",
+      "list": "Al-Qaida"
+    },
+    "113455": {
+      "name": "AL-HARAMAIN FOUNDATION (PAKISTAN)",
+      "list": "Al-Qaida"
+    },
+    "113457": {
+      "name": "AL-ITIHAAD AL-ISLAMIYA / AIAI",
+      "list": "Al-Qaida"
+    },
+    "113458": {
+      "name": "AL-QAIDA",
+      "list": "Al-Qaida"
+    },
+    "113459": {
+      "name": "AL RASHID TRUST",
+      "list": "Al-Qaida"
+    },
+    "113460": {
+      "name": "ANSAR AL-ISLAM",
+      "list": "Al-Qaida"
+    },
+    "113461": {
+      "name": "ASBAT AL-ANSAR",
+      "list": "Al-Qaida"
+    },
+    "113474": {
+      "name": "BENEVOLENCE INTERNATIONAL FOUNDATION",
+      "list": "Al-Qaida"
+    },
+    "113476": {
+      "name": "GLOBAL RELIEF FOUNDATION (GRF)",
+      "list": "Al-Qaida"
+    },
+    "113853": {
+      "name": "ISLAMIC JIHAD GROUP",
+      "list": "Al-Qaida"
+    },
+    "113854": {
+      "name": "JAM'YAH TA'AWUN AL-ISLAMIA",
+      "list": "Al-Qaida"
+    },
+    "113858": {
+      "name": "MAKHTAB AL-KHIDAMAT",
+      "list": "Al-Qaida"
+    },
+    "113868": {
+      "name": "RIYADUS-SALIKHIN RECONNAISSANCE AND SABOTAGE BATTALION OF CHECHEN MARTYRS (RSRSBCM)",
+      "list": "Al-Qaida"
+    },
+    "113883": {
+      "name": "UMMAH TAMEER E-NAU (UTN)",
+      "list": "Al-Qaida"
+    },
+    "113963": {
+      "name": "ISLAMIC INTERNATIONAL BRIGADE (IIB)",
+      "list": "Al-Qaida"
+    },
+    "113964": {
+      "name": "ISLAMIC MOVEMENT OF UZBEKISTAN",
+      "list": "Al-Qaida"
+    },
+    "113965": {
+      "name": "JAISH-I-MOHAMMED",
+      "list": "Al-Qaida"
+    },
+    "113966": {
+      "name": "AL-QAIDA IN IRAQ",
+      "list": "Al-Qaida"
+    },
+    "113967": {
+      "name": "JEMAAH ISLAMIYAH",
+      "list": "Al-Qaida"
+    },
+    "113977": {
+      "name": "MOROCCAN ISLAMIC COMBATANT GROUP",
+      "list": "Al-Qaida"
+    },
+    "113993": {
+      "name": "RABITA TRUST",
+      "list": "Al-Qaida"
+    },
+    "113994": {
+      "name": "REVIVAL OF ISLAMIC HERITAGE SOCIETY",
+      "list": "Al-Qaida"
+    },
+    "113995": {
+      "name": "THE ORGANIZATION OF AL-QAIDA IN THE ISLAMIC MAGHREB",
+      "list": "Al-Qaida"
+    },
+    "113997": {
+      "name": "TUNISIAN COMBATANT GROUP",
+      "list": "Al-Qaida"
+    },
+    "114074": {
+      "name": "ISLAMIC ARMY OF ADEN",
+      "list": "Al-Qaida"
+    },
+    "114076": {
+      "name": "LASHKAR-E-TAYYIBA",
+      "list": "Al-Qaida"
+    },
+    "114089": {
+      "name": "LASHKAR I JHANGVI (LJ)",
+      "list": "Al-Qaida"
+    },
+    "114090": {
+      "name": "LIBYAN ISLAMIC FIGHTING GROUP",
+      "list": "Al-Qaida"
+    },
+    "114111": {
+      "name": "SPECIAL PURPOSE ISLAMIC REGIMENT (SPIR)",
+      "list": "Al-Qaida"
+    },
+    "114112": {
+      "name": "TAIBAH INTERNATIONAL-BOSNIA OFFICES",
+      "list": "Al-Qaida"
+    },
+    "114113": {
+      "name": "WAFA HUMANITARIAN ORGANIZATION",
+      "list": "Al-Qaida"
+    },
+    "244736": {
+      "name": "ABDUL RAZAQ AKHUND LALA AKHUND",
+      "list": "Taliban"
+    },
+    "690726": {
+      "name": "ABDUL GHAFAR QURISHI ABDUL GHANI",
+      "list": "Taliban"
+    },
+    "690727": {
+      "name": "FRANÇOIS YANGOUVONDA BOZIZÉ",
+      "list": "CAR"
+    },
+    "690728": {
+      "name": "NOURREDINE ADAM",
+      "list": "CAR"
+    },
+    "690730": {
+      "name": "ABDULQADER MOHAMMED AL-BAGHDADI",
+      "list": "Libya"
+    },
+    "690731": {
+      "name": "ABDULQADER YUSEF DIBRI",
+      "list": "Libya"
+    },
+    "690732": {
+      "name": "SAYYID MOHAMMED QADHAF AL-DAM",
+      "list": "Libya"
+    },
+    "690734": {
+      "name": "YUN HO-JIN",
+      "list": "DPRK"
+    },
+    "690735": {
+      "name": "KOREA MINING DEVELOPMENT TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "690736": {
+      "name": "QUREN SALIH QUREN AL QADHAFI",
+      "list": "Libya"
+    },
+    "690737": {
+      "name": "AMID HUSAIN AL KUNI",
+      "list": "Libya"
+    },
+    "690738": {
+      "name": "ABU ZAYD UMAR DORDA",
+      "list": "Libya"
+    },
+    "690739": {
+      "name": "HWANG SOK-HWA",
+      "list": "DPRK"
+    },
+    "690740": {
+      "name": "RI HONG-SOP",
+      "list": "DPRK"
+    },
+    "690741": {
+      "name": "HAN YU-RO",
+      "list": "DPRK"
+    },
+    "690743": {
+      "name": "CHANG MYONG-CHIN",
+      "list": "DPRK"
+    },
+    "690744": {
+      "name": "RA KY'ONG-SU",
+      "list": "DPRK"
+    },
+    "690745": {
+      "name": "KIM KWANG-IL",
+      "list": "DPRK"
+    },
+    "690746": {
+      "name": "YO'N CHO'NG NAM",
+      "list": "DPRK"
+    },
+    "690747": {
+      "name": "PAEK CHANG-HO",
+      "list": "DPRK"
+    },
+    "690748": {
+      "name": "ABU BAKR YUNIS JABIR",
+      "list": "Libya"
+    },
+    "690749": {
+      "name": "KO CH'O'L-CHAE",
+      "list": "DPRK"
+    },
+    "690750": {
+      "name": "MUN CHO'NG-CH'O'L",
+      "list": "DPRK"
+    },
+    "690751": {
+      "name": "KOREA RYONBONG GENERAL CORPORATION",
+      "list": "DPRK"
+    },
+    "690752": {
+      "name": "TANCHON COMMERCIAL BANK",
+      "list": "DPRK"
+    },
+    "690753": {
+      "name": "NAMCHONGANG TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "690754": {
+      "name": "MATUQ MOHAMMED MATUQ",
+      "list": "Libya"
+    },
+    "690755": {
+      "name": "HONG KONG ELECTRONICS",
+      "list": "DPRK"
+    },
+    "690756": {
+      "name": "KOREA HYOKSIN TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "690757": {
+      "name": "AISHA MUAMMAR MUHAMMED ABU MINYAR QADHAFI",
+      "list": "Libya"
+    },
+    "690758": {
+      "name": "GENERAL BUREAU OF ATOMIC ENERGY (GBAE)",
+      "list": "DPRK"
+    },
+    "690759": {
+      "name": "KOREAN TANGUN TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "690760": {
+      "name": "AMROGGANG DEVELOPMENT BANKING CORPORATION",
+      "list": "DPRK"
+    },
+    "690761": {
+      "name": "GREEN PINE ASSOCIATED CORPORATION",
+      "list": "DPRK"
+    },
+    "690762": {
+      "name": "KOREA HEUNGJIN TRADING COMPANY",
+      "list": "DPRK"
+    },
+    "690763": {
+      "name": "KOREAN COMMITTEE FOR SPACE TECHNOLOGY",
+      "list": "DPRK"
+    },
+    "690764": {
+      "name": "BANK OF EAST LAND",
+      "list": "DPRK"
+    },
+    "690765": {
+      "name": "KOREA KUMRYONG TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "690766": {
+      "name": "TOSONG TECHNOLOGY TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "690767": {
+      "name": "KOREA RYONHA MACHINERY JOINT VENTURE CORPORATION",
+      "list": "DPRK"
+    },
+    "690768": {
+      "name": "LEADER (HONG KONG) INTERNATIONAL",
+      "list": "DPRK"
+    },
+    "690769": {
+      "name": "SECOND ACADEMY OF NATURAL SCIENCES",
+      "list": "DPRK"
+    },
+    "690770": {
+      "name": "KOREA COMPLEX EQUIPMENT IMPORT CORPORATION",
+      "list": "DPRK"
+    },
+    "690771": {
+      "name": "HANNIBAL MUAMMAR QADHAFI",
+      "list": "Libya"
+    },
+    "690772": {
+      "name": "KHAMIS MUAMMAR QADHAFI",
+      "list": "Libya"
+    },
+    "690773": {
+      "name": "MOHAMMED MUAMMAR QADHAFI",
+      "list": "Libya"
+    },
+    "690774": {
+      "name": "MUAMMAR MOHAMMED ABU MINYAR QADHAFI",
+      "list": "Libya"
+    },
+    "690775": {
+      "name": "MUTASSIM QADHAFI",
+      "list": "Libya"
+    },
+    "690776": {
+      "name": "SAADI QADHAFI",
+      "list": "Libya"
+    },
+    "690777": {
+      "name": "SAIF AL-ARAB QADHAFI",
+      "list": "Libya"
+    },
+    "690778": {
+      "name": "SAIF AL-ISLAM QADHAFI",
+      "list": "Libya"
+    },
+    "690779": {
+      "name": "ABDULLAH AL-SENUSSI",
+      "list": "Libya"
+    },
+    "690780": {
+      "name": "SAFIA FARKASH AL-BARASSI",
+      "list": "Libya"
+    },
+    "690782": {
+      "name": "LIBYAN INVESTMENT AUTHORITY",
+      "list": "Libya"
+    },
+    "690783": {
+      "name": "LIBYAN AFRICA INVESTMENT PORTFOLIO",
+      "list": "Libya"
+    },
+    "690784": {
+      "name": "GAFFAR MOHAMMED ELHASSAN",
+      "list": "Sudan"
+    },
+    "690785": {
+      "name": "MUSA HILAL ABDALLA ALNSIEM",
+      "list": "Sudan"
+    },
+    "690788": {
+      "name": "JIBRIL ABDULKARIM IBRAHIM MAYU",
+      "list": "Sudan"
+    },
+    "690789": {
+      "name": "IBRAIMA CAMARÁ",
+      "list": "GB"
+    },
+    "690791": {
+      "name": "CRANHA DANFA",
+      "list": "GB"
+    },
+    "690792": {
+      "name": "IDRISSA DJALÓ",
+      "list": "GB"
+    },
+    "690793": {
+      "name": "ANTÓNIO INJAI",
+      "list": "GB"
+    },
+    "690794": {
+      "name": "TCHIPA NA BIDON",
+      "list": "GB"
+    },
+    "690795": {
+      "name": "TCHAM NA MAN",
+      "list": "GB"
+    },
+    "690796": {
+      "name": "ESTÊVÃO NA MENA",
+      "list": "GB"
+    },
+    "690797": {
+      "name": "DABA NAUALNA",
+      "list": "GB"
+    },
+    "690798": {
+      "name": "JÚLIO NHATE",
+      "list": "GB"
+    },
+    "2758288": {
+      "name": "MERAI ABDEFATTAH KHALIL ZOGHBI",
+      "list": "Al-Qaida"
+    },
+    "2758395": {
+      "name": "NESSIM BEN ROMDHANE SAHRAOUI",
+      "list": "Al-Qaida"
+    },
+    "2760967": {
+      "name": "MOHAMMED AL GHABRA",
+      "list": "Al-Qaida"
+    },
+    "2762998": {
+      "name": "NAJMUDDIN FARAJ AHMAD",
+      "list": "Al-Qaida"
+    },
+    "2785476": {
+      "name": "ABDELMALEK DROUKDEL",
+      "list": "Al-Qaida"
+    },
+    "2785696": {
+      "name": "SIRAJUDDIN JALLALOUDINE HAQQANI",
+      "list": "Taliban"
+    },
+    "2786246": {
+      "name": "SALEM NOR ELDIN AMOHAMED AL-DABSKI",
+      "list": "Al-Qaida"
+    },
+    "2786469": {
+      "name": "ALY SOLIMAN MASSOUD ABDUL SAYED",
+      "list": "Al-Qaida"
+    },
+    "2797841": {
+      "name": "MUBARAK MUSHAKHAS SANAD MUBARAK AL-BATHALI",
+      "list": "Al-Qaida"
+    },
+    "2797951": {
+      "name": "HAMID ABDALLAH AHMAD AL-ALI",
+      "list": "Al-Qaida"
+    },
+    "2797952": {
+      "name": "JABER ABDALLAH JABER AHMAD AL-JALAHMAH",
+      "list": "Al-Qaida"
+    },
+    "2812923": {
+      "name": "DINNO AMOR ROSALEJOS PAREJA",
+      "list": "Al-Qaida"
+    },
+    "2812924": {
+      "name": "RAJAH SOLAIMAN MOVEMENT",
+      "list": "Al-Qaida"
+    },
+    "2813036": {
+      "name": "REDENDO CAIN DELLOSA",
+      "list": "Al-Qaida"
+    },
+    "2813147": {
+      "name": "FELICIANO SEMBORIO DELOS REYES JR.",
+      "list": "Al-Qaida"
+    },
+    "2813148": {
+      "name": "HILARION DEL ROSARIO SANTOS",
+      "list": "Al-Qaida"
+    },
+    "2813149": {
+      "name": "PIO ABOGNE DE VERA",
+      "list": "Al-Qaida"
+    },
+    "2813150": {
+      "name": "RUBEN PESTANO LAVILLA, JR",
+      "list": "Al-Qaida"
+    },
+    "2813253": {
+      "name": "RICARDO PEREZ AYERAS",
+      "list": "Al-Qaida"
+    },
+    "2813362": {
+      "name": "ANGELO RAMIREZ TRINIDAD",
+      "list": "Al-Qaida"
+    },
+    "2816243": {
+      "name": "AHMED DEGHDEGH",
+      "list": "Al-Qaida"
+    },
+    "2816344": {
+      "name": "YAHIA DJOUADI",
+      "list": "Al-Qaida"
+    },
+    "2816345": {
+      "name": "SALAH EDDINE GASMI",
+      "list": "Al-Qaida"
+    },
+    "2816565": {
+      "name": "AMOR MOHAMED GHEDEIR",
+      "list": "Al-Qaida"
+    },
+    "2830354": {
+      "name": "ADEM YILMAZ",
+      "list": "Al-Qaida"
+    },
+    "2830919": {
+      "name": "REDOUANE EL HABHAB",
+      "list": "Al-Qaida"
+    },
+    "2832887": {
+      "name": "ZAKI-UR-REHMAN LAKHVI",
+      "list": "Al-Qaida"
+    },
+    "2832890": {
+      "name": "HAJI MUHAMMAD ASHRAF",
+      "list": "Al-Qaida"
+    },
+    "2832991": {
+      "name": "MAHMOUD MOHAMMAD AHMED BAHAZIQ",
+      "list": "Al-Qaida"
+    },
+    "2833107": {
+      "name": "HAFIZ MUHAMMAD SAEED",
+      "list": "Al-Qaida"
+    },
+    "2854925": {
+      "name": "ABDUL HAQ",
+      "list": "Al-Qaida"
+    },
+    "2863362": {
+      "name": "ARIF QASMANI",
+      "list": "Al-Qaida"
+    },
+    "2863393": {
+      "name": "FAZEEL-A-TUL SHAYKH ABU MOHAMMED AMEEN AL-PESHAWARI",
+      "list": "Al-Qaida"
+    },
+    "2863574": {
+      "name": "MOHAMMED YAHYA MUJAHID",
+      "list": "Al-Qaida"
+    },
+    "2881836": {
+      "name": "AL-QAIDA IN THE ARABIAN PENINSULA (AQAP)",
+      "list": "Al-Qaida"
+    },
+    "2892251": {
+      "name": "AKRAM TURKI HISHAN AL-MAZIDIH",
+      "list": "Al-Qaida"
+    },
+    "2892252": {
+      "name": "GHAZY FEZZA HISHAN AL-MAZIDIH",
+      "list": "Al-Qaida"
+    },
+    "2894441": {
+      "name": "MUTHANNA HARITH SALMAN AL-DARI",
+      "list": "Al-Qaida"
+    },
+    "2901762": {
+      "name": "TAYEB NAIL",
+      "list": "Al-Qaida"
+    },
+    "2902221": {
+      "name": "MOHAMED BELKALEM",
+      "list": "Al-Qaida"
+    },
+    "2903810": {
+      "name": "QASIM MOHAMED MAHDI AL-RIMI",
+      "list": "Al-Qaida"
+    },
+    "2913442": {
+      "name": "GUL AGHA ISHAKZAI",
+      "list": "Taliban"
+    },
+    "2913551": {
+      "name": "AMIR ABDULLAH",
+      "list": "Taliban"
+    },
+    "2913655": {
+      "name": "ANWAR NASSER ABDULLA AL-AULAQI",
+      "list": "Al-Qaida"
+    },
+    "2914108": {
+      "name": "NASIRUDDIN HAQQANI",
+      "list": "Taliban"
+    },
+    "2921366": {
+      "name": "HARAKAT-UL JIHAD ISLAMI",
+      "list": "Al-Qaida"
+    },
+    "2945562": {
+      "name": "SALEH MOHAMMAD KAKAR AKHTAR MUHAMMAD",
+      "list": "Taliban"
+    },
+    "2945892": {
+      "name": "ABDUL HABIB ALIZAI",
+      "list": "Taliban"
+    },
+    "2959427": {
+      "name": "SAID JAN ‘ABD AL-SALAM",
+      "list": "Al-Qaida"
+    },
+    "2960150": {
+      "name": "KHALIL AHMED HAQQANI",
+      "list": "Taliban"
+    },
+    "2960872": {
+      "name": "DOKU KHAMATOVICH UMAROV",
+      "list": "Al-Qaida"
+    },
+    "2962519": {
+      "name": "IBRAHIM HASSAN TALI AL-ASIRI",
+      "list": "Al-Qaida"
+    },
+    "2968403": {
+      "name": "OTHMAN AHMED OTHMAN AL-GHAMDI",
+      "list": "Al-Qaida"
+    },
+    "2971675": {
+      "name": "ABDUL RAHIM BA'AYSIR",
+      "list": "Al-Qaida"
+    },
+    "2971762": {
+      "name": "UMAR PATEK",
+      "list": "Al-Qaida"
+    },
+    "2971893": {
+      "name": "EMARAT KAVKAZ",
+      "list": "Al-Qaida"
+    },
+    "2971894": {
+      "name": "TEHRIK-E TALIBAN PAKISTAN (TTP)",
+      "list": "Al-Qaida"
+    },
+    "2972739": {
+      "name": "MUHAMMAD JIBRIL ABDUL RAHMAN",
+      "list": "Al-Qaida"
+    },
+    "2973988": {
+      "name": "MATI UR-REHMAN ALI MUHAMMAD",
+      "list": "Al-Qaida"
+    },
+    "2974555": {
+      "name": "ABD AL-RAHMAN OULD MUHAMMAD AL-HUSAYN OULD MUHAMMAD SALIM",
+      "list": "Al-Qaida"
+    },
+    "2975510": {
+      "name": "FAIZULLAH KHAN NOORZAI na",
+      "list": "Taliban"
+    },
+    "2975516": {
+      "name": "IBRAHIM AWWAD IBRAHIM ALI AL-BADRI AL-SAMARRAI",
+      "list": "Al-Qaida"
+    },
+    "2975590": {
+      "name": "MALIK NOORZAI",
+      "list": "Taliban"
+    },
+    "2975591": {
+      "name": "ABDUL AZIZ ABBASIN",
+      "list": "Taliban"
+    },
+    "2981583": {
+      "name": "FAZL RABI",
+      "list": "Taliban"
+    },
+    "2981584": {
+      "name": "AHMED JAN WAZIR AKHTAR MOHAMMAD",
+      "list": "Taliban"
+    },
+    "2981652": {
+      "name": "YASSIN CHOUKA",
+      "list": "Al-Qaida"
+    },
+    "2981707": {
+      "name": "AHMAD ZIA AGHA",
+      "list": "Taliban"
+    },
+    "2981821": {
+      "name": "MOHAMMAD AMAN AKHUND",
+      "list": "Taliban"
+    },
+    "2982105": {
+      "name": "MONIR CHOUKA",
+      "list": "Al-Qaida"
+    },
+    "2983128": {
+      "name": "ABDUL SAMAD ACHEKZAI",
+      "list": "Taliban"
+    },
+    "2983638": {
+      "name": "ABDUL ROSYID RIDHO BA'ASYIR",
+      "list": "Al-Qaida"
+    },
+    "2983651": {
+      "name": "ABDUR REHMAN",
+      "list": "Al-Qaida"
+    },
+    "2983791": {
+      "name": "FAZAL RAHIM",
+      "list": "Al-Qaida"
+    },
+    "2983820": {
+      "name": "JEMMAH ANSHORUT TAUHID (JAT)",
+      "list": "Al-Qaida"
+    },
+    "2983821": {
+      "name": "MOCHAMMAD ACHWAN",
+      "list": "Al-Qaida"
+    },
+    "2983973": {
+      "name": "ZAFAR IQBAL",
+      "list": "Al-Qaida"
+    },
+    "2989151": {
+      "name": "BAKHT GUL",
+      "list": "Taliban"
+    },
+    "2989469": {
+      "name": "HAJI KHAIRULLAH HAJI SATTAR MONEY EXCHANGE",
+      "list": "Taliban"
+    },
+    "2989573": {
+      "name": "ROSHAN MONEY EXCHANGE",
+      "list": "Taliban"
+    },
+    "2989674": {
+      "name": "ABDUL SATAR ABDUL MANAN",
+      "list": "Taliban"
+    },
+    "2989740": {
+      "name": "KHAIRULLAH BARAKZAI KHUDAI NAZAR",
+      "list": "Taliban"
+    },
+    "2999481": {
+      "name": "AYYUB BASHIR",
+      "list": "Al-Qaida"
+    },
+    "3000441": {
+      "name": "HAQQANI NETWORK (HQN)",
+      "list": "Taliban"
+    },
+    "3000509": {
+      "name": "MOHAMMED QASIM MIR WALI KHUDAI RAHIM",
+      "list": "Taliban"
+    },
+    "3000510": {
+      "name": "RAHAT LTD.",
+      "list": "Taliban"
+    },
+    "3000769": {
+      "name": "ABDUL RAUF ZAKIR",
+      "list": "Taliban"
+    },
+    "3001252": {
+      "name": "MOUVEMENT POUR L’UNIFICATION ET LE JIHAD EN AFRIQUE DE L’OUEST (MUJAO)",
+      "list": "Al-Qaida"
+    },
+    "3002734": {
+      "name": "DJAMEL AKKACHA",
+      "list": "Al-Qaida"
+    },
+    "3012677": {
+      "name": "IYAD AG GHALI",
+      "list": "Al-Qaida"
+    },
+    "3012888": {
+      "name": "ABDERRAHMANE OULD EL AMAR",
+      "list": "Al-Qaida"
+    },
+    "3013119": {
+      "name": "HAMADA OULD MOHAMED EL KHAIRY",
+      "list": "Al-Qaida"
+    },
+    "3013137": {
+      "name": "AHMED SHAH NOORZAI OBAIDULLAH",
+      "list": "Taliban"
+    },
+    "3014161": {
+      "name": "ANSAR EDDINE",
+      "list": "Al-Qaida"
+    },
+    "3016479": {
+      "name": "ADAM KHAN ACHEKZAI",
+      "list": "Taliban"
+    },
+    "3026605": {
+      "name": "MUHAMMAD JAMAL NETWORK (MJN)",
+      "list": "Al-Qaida"
+    },
+    "3026710": {
+      "name": "MOHAMED LAHBOUS",
+      "list": "Al-Qaida"
+    },
+    "3026942": {
+      "name": "MUHAMMAD JAMAL ABD-AL RAHIM AHMAD AL-KASHIF",
+      "list": "Al-Qaida"
+    },
+    "3029127": {
+      "name": "ABD-AL-HAMID AL-MASLI",
+      "list": "Al-Qaida"
+    },
+    "3035783": {
+      "name": "QARI SAIFULLAH TOKHI",
+      "list": "Taliban"
+    },
+    "6907984": {
+      "name": "MAMADU TURE",
+      "list": "GB"
+    },
+    "6907993": {
+      "name": "ERIC BADEGE",
+      "list": "DRC"
+    },
+    "6907994": {
+      "name": "FRANK KAKOLELE BWAMBALE",
+      "list": "DRC"
+    },
+    "6907995": {
+      "name": "GASTON IYAMUREMYE",
+      "list": "DRC"
+    },
+    "6907996": {
+      "name": "INNOCENT KAINA",
+      "list": "DRC"
+    },
+    "6907997": {
+      "name": "JÉRÔME KAKWAVU BUKANDE",
+      "list": "DRC"
+    },
+    "6907998": {
+      "name": "GERMAIN KATANGA",
+      "list": "DRC"
+    },
+    "6907999": {
+      "name": "SULTANI MAKENGA",
+      "list": "DRC"
+    },
+    "6908000": {
+      "name": "KHAWA PANGA MANDRO",
+      "list": "DRC"
+    },
+    "6908001": {
+      "name": "CALLIXTE MBARUSHIMANA",
+      "list": "DRC"
+    },
+    "6908002": {
+      "name": "IRUTA DOUGLAS MPAMO",
+      "list": "DRC"
+    },
+    "6908003": {
+      "name": "SYLVESTRE MUDACUMURA",
+      "list": "DRC"
+    },
+    "6908004": {
+      "name": "LEODOMIR MUGARAGU",
+      "list": "DRC"
+    },
+    "6908005": {
+      "name": "JAMIL MUKULU",
+      "list": "DRC"
+    },
+    "6908006": {
+      "name": "LEOPOLD MUJYAMBERE",
+      "list": "DRC"
+    },
+    "6908007": {
+      "name": "IGNACE MURWANASHYAKA",
+      "list": "DRC"
+    },
+    "6908008": {
+      "name": "STRATON MUSONI",
+      "list": "DRC"
+    },
+    "6908009": {
+      "name": "JULES MUTEBUTSI",
+      "list": "DRC"
+    },
+    "6908010": {
+      "name": "BAUDOIN NGARUYE WA MYAMURO",
+      "list": "DRC"
+    },
+    "6908011": {
+      "name": "MATHIEU, CHUI NGUDJOLO",
+      "list": "DRC"
+    },
+    "6908012": {
+      "name": "FLORIBERT NGABU NJABU",
+      "list": "DRC"
+    },
+    "6908013": {
+      "name": "LAURENT NKUNDA",
+      "list": "DRC"
+    },
+    "6908014": {
+      "name": "FELICIEN NSANZUBUKIRE",
+      "list": "DRC"
+    },
+    "6908015": {
+      "name": "PACIFIQUE NTAWUNGUKA",
+      "list": "DRC"
+    },
+    "6908016": {
+      "name": "JAMES NYAKUNI",
+      "list": "DRC"
+    },
+    "6908017": {
+      "name": "STANISLAS NZEYIMANA",
+      "list": "DRC"
+    },
+    "6908018": {
+      "name": "DIEUDONNÉ OZIA MAZIO",
+      "list": "DRC"
+    },
+    "6908019": {
+      "name": "JEAN-MARIE LUGERERO RUNIGA",
+      "list": "DRC"
+    },
+    "6908020": {
+      "name": "NTABO NTABERI SHEKA",
+      "list": "DRC"
+    },
+    "6908021": {
+      "name": "BOSCO TAGANDA",
+      "list": "DRC"
+    },
+    "6908022": {
+      "name": "INNOCENT ZIMURINDA",
+      "list": "DRC"
+    },
+    "6908023": {
+      "name": "THOMAS LUBANGA",
+      "list": "DRC"
+    },
+    "6908024": {
+      "name": "BUTEMBO AIRLINES (BAL)",
+      "list": "DRC"
+    },
+    "6908025": {
+      "name": "CONGOMET TRADING HOUSE",
+      "list": "DRC"
+    },
+    "6908026": {
+      "name": "COMPAGNIE AERIENNE DES GRANDS LACS (CAGL) ; GREAT LAKES BUSINESS COMPANY (GLBC)",
+      "list": "DRC"
+    },
+    "6908027": {
+      "name": "FORCES DEMOCRATIQUES DE LIBERATION DU RWANDA (FDLR)",
+      "list": "DRC"
+    },
+    "6908028": {
+      "name": "M23",
+      "list": "DRC"
+    },
+    "6908029": {
+      "name": "MACHANGA LTD",
+      "list": "DRC"
+    },
+    "6908030": {
+      "name": "TOUS POUR LA PAIX ET LE DEVELOPPEMENT (NGO)",
+      "list": "DRC"
+    },
+    "6908031": {
+      "name": "UGANDA COMMERCIAL IMPEX (UCI) LTD",
+      "list": "DRC"
+    },
+    "6908032": {
+      "name": "Yasin Ali Baynah",
+      "list": "Somalia"
+    },
+    "6908033": {
+      "name": "AL-SHABAAB",
+      "list": "Somalia"
+    },
+    "6908034": {
+      "name": "HASSAN DAHIR AWEYS",
+      "list": "Somalia"
+    },
+    "6908035": {
+      "name": "HASSAN ABDULLAH HERSI AL-TURKI",
+      "list": "Somalia"
+    },
+    "6908036": {
+      "name": "AHMED ABDI AW-MOHAMED",
+      "list": "Somalia"
+    },
+    "6908037": {
+      "name": "FUAD MOHAMED KHALAF",
+      "list": "Somalia"
+    },
+    "6908038": {
+      "name": "BASHIR MOHAMED MAHAMOUD",
+      "list": "Somalia"
+    },
+    "6908040": {
+      "name": "FARES MOHAMMED MANA'A",
+      "list": "Somalia"
+    },
+    "6908041": {
+      "name": "HASSAN MAHAT OMAR",
+      "list": "Somalia"
+    },
+    "6908042": {
+      "name": "OMAR HAMMAMI",
+      "list": "Somalia"
+    },
+    "6908043": {
+      "name": "ABOUD ROGO MOHAMMED",
+      "list": "Somalia"
+    },
+    "6908044": {
+      "name": "ABUBAKER SHARIFF AHMED",
+      "list": "Somalia"
+    },
+    "6908045": {
+      "name": "RI JE-SON",
+      "list": "DPRK"
+    },
+    "6908046": {
+      "name": "OCEAN MARITIME MANAGEMENT COMPANY, LIMITED (OMM)",
+      "list": "DPRK"
+    },
+    "6908048": {
+      "name": "SADDAM HUSSEIN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908049": {
+      "name": "QUSAY SADDAM HUSSEIN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908050": {
+      "name": "UDAY SADDAM HUSSEIN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908051": {
+      "name": "ABID HAMID MAHMUD AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908052": {
+      "name": "ALI HASSAN AL-MAJID AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908053": {
+      "name": "IZZAT IBRAHIM AL-DURI",
+      "list": "Iraq"
+    },
+    "6908054": {
+      "name": "HANI ABD-AL-LATIF TILFAH AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908056": {
+      "name": "MUHAMMAD HAMZA ZUBAIDI",
+      "list": "Iraq"
+    },
+    "6908058": {
+      "name": "BARZAN ABD AL-GHAFUR SULAIMAN MAJID AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908059": {
+      "name": "MUZAHIM SA'B HASSAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908060": {
+      "name": "IBRAHIM AHMAD ABD AL-SATTAR MUHAMMED AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908061": {
+      "name": "SAIF-AL-DIN FULAYYIH HASSAN TAHA AL-RAWI",
+      "list": "Iraq"
+    },
+    "6908062": {
+      "name": "RAFI ABD-AL-LATIF TILFAH AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908063": {
+      "name": "TAHIR JALIL HABBUSH AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908064": {
+      "name": "HAMID RAJA SHALAH AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908066": {
+      "name": "ABD-AL-TAWWAB MULLAH HUWAYSH",
+      "list": "Iraq"
+    },
+    "6908067": {
+      "name": "TAHA YASSIN RAMADAN AL-JIZRAWI",
+      "list": "Iraq"
+    },
+    "6908068": {
+      "name": "RUKAN RAZUKI ABD-AL-GHAFUR SULAIMAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908069": {
+      "name": "JAMAL MUSTAFA ABDALLAH SULTAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908070": {
+      "name": "MIZBAN KHADR HADI",
+      "list": "Iraq"
+    },
+    "6908071": {
+      "name": "TAHA MUHYI-AL-DIN MA'RUF",
+      "list": "Iraq"
+    },
+    "6908072": {
+      "name": "TARIQ AZIZ",
+      "list": "Iraq"
+    },
+    "6908074": {
+      "name": "SULTAN HASHIM AHMAD AL-TA'I",
+      "list": "Iraq"
+    },
+    "6908075": {
+      "name": "HIKMAT MIZBAN IBRAHIM AL-AZZAWI",
+      "list": "Iraq"
+    },
+    "6908083": {
+      "name": "SAB'AWI IBRAHIM HASSAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908084": {
+      "name": "WATBAN IBRAHIM HASSAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908085": {
+      "name": "BARZAN IBRAHIM HASSAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908086": {
+      "name": "HUDA SALIH MAHDI AMMASH",
+      "list": "Iraq"
+    },
+    "6908091": {
+      "name": "YAHIA ABDALLAH AL-UBAIDI",
+      "list": "Iraq"
+    },
+    "6908092": {
+      "name": "NAYIF SHINDAKH THAMIR GHALIB",
+      "list": "Iraq"
+    },
+    "6908093": {
+      "name": "SAIF-AL-DIN AL-MASHHADANI",
+      "list": "Iraq"
+    },
+    "6908094": {
+      "name": "FADIL MAHMUD GHARIB",
+      "list": "Iraq"
+    },
+    "6908095": {
+      "name": "MUHSIN KHADR AL-KHAFAJI",
+      "list": "Iraq"
+    },
+    "6908096": {
+      "name": "Rashid Taan Kathim",
+      "list": "Iraq"
+    },
+    "6908097": {
+      "name": "UGLA ABID SAKR AL-ZUBAISI",
+      "list": "Iraq"
+    },
+    "6908098": {
+      "name": "GHAZI HAMMUD AL-UBAIDI",
+      "list": "Iraq"
+    },
+    "6908099": {
+      "name": "ADIL ABDALLAH MAHDI",
+      "list": "Iraq"
+    },
+    "6908101": {
+      "name": "KHAMIS SIRHAN AL-MUHAMMAD",
+      "list": "Iraq"
+    },
+    "6908102": {
+      "name": "SA'D ABD-AL-MAJID AL-FAISAL AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908103": {
+      "name": "SAJIDA KHAYRALLAH TILFAH",
+      "list": "Iraq"
+    },
+    "6908104": {
+      "name": "RAGHAD SADDAM HUSSEIN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908105": {
+      "name": "RANA SADDAM HUSSEIN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908106": {
+      "name": "HALA SADDAM HUSSEIN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908107": {
+      "name": "SAMIRA SHAHBANDAR",
+      "list": "Iraq"
+    },
+    "6908108": {
+      "name": "ALI SADDAM HUSSEIN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908109": {
+      "name": "MOHAMMAD BARZAN IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908110": {
+      "name": "SAJA BARZAN IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908111": {
+      "name": "ALI BARZAN IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908112": {
+      "name": "NOOR BARZAN IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908113": {
+      "name": "KHAWLA BARZAN IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908114": {
+      "name": "THORAYA BARZAN IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908115": {
+      "name": "JAWHAR MAJID AL-DURI",
+      "list": "Iraq"
+    },
+    "6908116": {
+      "name": "Sundus Abd Al-Ghafur",
+      "list": "Iraq"
+    },
+    "6908117": {
+      "name": "NIDAL AL-RABI'I",
+      "list": "Iraq"
+    },
+    "6908118": {
+      "name": "INTISSAR AL-UBAYDI",
+      "list": "Iraq"
+    },
+    "6908120": {
+      "name": "ADNAN S. HASAN AHMED",
+      "list": "Iraq"
+    },
+    "6908123": {
+      "name": "ADIB SHABAN AL-ANI",
+      "list": "Iraq"
+    },
+    "6908126": {
+      "name": "ROODI SLEWA",
+      "list": "Iraq"
+    },
+    "6908127": {
+      "name": "MUHAMMAD YUNIS AHMAD",
+      "list": "Iraq"
+    },
+    "6908128": {
+      "name": "YASIR SABAWI IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908129": {
+      "name": "AYMAN SABAWI IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908130": {
+      "name": "IBRAHIM SABAWI IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908131": {
+      "name": "BASHAR SABAWI IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908132": {
+      "name": "SA’D SABAWI IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908183": {
+      "name": "IDLEB COMPANY FOR SPINNING",
+      "list": "Iraq"
+    },
+    "6908332": {
+      "name": "AL WASEL AND BABEL GENERAL TRADING LLC",
+      "list": "Iraq"
+    },
+    "6908334": {
+      "name": "AVIATRANS ANSTALT",
+      "list": "Iraq"
+    },
+    "6908335": {
+      "name": "LOGARCHEO S.A.",
+      "list": "Iraq"
+    },
+    "6908338": {
+      "name": "Al-ARABI TRADING COMPANY",
+      "list": "Iraq"
+    },
+    "6908339": {
+      "name": "AL-BASHAIR TRADING COMPANY, LTD",
+      "list": "Iraq"
+    },
+    "6908340": {
+      "name": "TRADING AND TRANSPORT SERVICES COMPANY, LTD",
+      "list": "Iraq"
+    },
+    "6908341": {
+      "name": "ALFA COMPANY LIMITED FOR INTERNATIONAL TRADING AND MARKETING",
+      "list": "Iraq"
+    },
+    "6908342": {
+      "name": "TECHNOLOGY AND DEVELOPMENT GROUP LIMITED",
+      "list": "Iraq"
+    },
+    "6908343": {
+      "name": "T.M.G. ENGINEERING LIMITED",
+      "list": "Iraq"
+    },
+    "6908394": {
+      "name": "OMAR SABAWI IBRAHIM HASAN AL-TIKRITI",
+      "list": "Iraq"
+    },
+    "6908395": {
+      "name": "ABOU MOHAMED AL ADNANI",
+      "list": "Al-Qaida"
+    },
+    "6908397": {
+      "name": "SHAFI SULTAN MOHAMMED AL-AJMI",
+      "list": "Al-Qaida"
+    },
+    "6908398": {
+      "name": "HAMID HAMAD HAMID AL-‘ALI",
+      "list": "Al-Qaida"
+    },
+    "6908399": {
+      "name": "‘ABD AL-RAHMAN KHALAF ‘UBAYD JUDAY’ AL-‘ANIZI",
+      "list": "Al-Qaida"
+    },
+    "6908400": {
+      "name": "ABDUL MOHSEN ABDALLAH IBRAHIM AL CHAREKH",
+      "list": "Al-Qaida"
+    },
+    "6908401": {
+      "name": "IBRAHIM SULEIMAN HAMAD AL-HABLAIN",
+      "list": "Al-Qaida"
+    },
+    "6908402": {
+      "name": "ADF",
+      "list": "DRC"
+    },
+    "6908403": {
+      "name": "YAHYA HAQQANI",
+      "list": "Taliban"
+    },
+    "6908404": {
+      "name": "SAIDULLAH JAN",
+      "list": "Taliban"
+    },
+    "6908405": {
+      "name": "MUHAMMAD OMAR ZADRAN",
+      "list": "Taliban"
+    },
+    "6908406": {
+      "name": "RAHMATULLAH SHAH NAWAZ",
+      "list": "Taliban"
+    },
+    "6908407": {
+      "name": "AHMED ABDULLAH SALEH AL-KHAZMARI AL-ZAHRANI",
+      "list": "Al-Qaida"
+    },
+    "6908408": {
+      "name": "AZZAM ABDULLAH ZUREIK AL-MAULID AL-SUBHI",
+      "list": "Al-Qaida"
+    },
+    "6908409": {
+      "name": "ABDALLAH AZZAM BRIGADES (AAB)",
+      "list": "Al-Qaida"
+    },
+    "6908410": {
+      "name": "ANSAR AL-SHARI’A IN TUNISIA (AAS-T)",
+      "list": "Al-Qaida"
+    },
+    "6908411": {
+      "name": "ANDERS CAMEROON OSTENSVIG DALE",
+      "list": "Al-Qaida"
+    },
+    "6908413": {
+      "name": "SEIFALLAH BEN OMAR BEN MOHAMED BEN HASSINE",
+      "list": "Al-Qaida"
+    },
+    "6908414": {
+      "name": "‘ABD AL-RAHMAN BIN ‘UMAYR AL-NU’AYMI",
+      "list": "Al-Qaida"
+    },
+    "6908417": {
+      "name": "MAYSAR ALI MUSA ABDALLAH AL-JUBURI",
+      "list": "Al-Qaida"
+    },
+    "6908419": {
+      "name": "‘ABD AL-RAHMAN MUHAMMAD MUSTAFA AL-QADULI",
+      "list": "Al-Qaida"
+    },
+    "6908420": {
+      "name": "EMILIE EDWIGE KONIG",
+      "list": "Al-Qaida"
+    },
+    "6908421": {
+      "name": "KEVIN JORDAN AXEL GUIAVARCH",
+      "list": "Al-Qaida"
+    },
+    "6908422": {
+      "name": "OUMAR DIABY",
+      "list": "Al-Qaida"
+    },
+    "6908423": {
+      "name": "SAID ARIF",
+      "list": "Al-Qaida"
+    },
+    "6908424": {
+      "name": "ABDELRAHMAN MOUHAMAD ZAFIR AL DABIDI AL JAHANI",
+      "list": "Al-Qaida"
+    },
+    "6908425": {
+      "name": "ABUBAKAR MOHAMMED SHEKAU",
+      "list": "Al-Qaida"
+    },
+    "6908426": {
+      "name": "AL MOUAKAOUNE BIDDAM",
+      "list": "Al-Qaida"
+    },
+    "6908427": {
+      "name": "AL MOULATHAMOUN",
+      "list": "Al-Qaida"
+    },
+    "6908428": {
+      "name": "AL MOURABITOUN",
+      "list": "Al-Qaida"
+    },
+    "6908430": {
+      "name": "ANSARUL MUSLIMINA FI BILADIS SUDAN",
+      "list": "Al-Qaida"
+    },
+    "6908431": {
+      "name": "JAMA'ATU AHLIS SUNNA LIDDA'AWATI WAL-JIHAD",
+      "list": "Al-Qaida"
+    },
+    "6908432": {
+      "name": "MAALIM SALMAN",
+      "list": "Somalia"
+    },
+    "6908433": {
+      "name": "AHMED DIRIYE",
+      "list": "Somalia"
+    },
+    "6908434": {
+      "name": "ABD AL-KHALIQ AL-HOUTHI",
+      "list": "Yemen"
+    },
+    "6908435": {
+      "name": "ABDULLAH YAHYA AL HAKIM",
+      "list": "Yemen"
+    },
+    "6908437": {
+      "name": "ANSAR AL CHARIA DERNA",
+      "list": "Al-Qaida"
+    },
+    "6908438": {
+      "name": "ANSAR AL CHARIA BENGHAZI",
+      "list": "Al-Qaida"
+    },
+    "6908440": {
+      "name": "ASHRAF MUHAMMAD YUSUF 'UTHMAN 'ABD AL-SALAM",
+      "list": "Al-Qaida"
+    },
+    "6908441": {
+      "name": "IBRAHIM 'ISA HAJJI MUHAMMAD AL-BAKR",
+      "list": "Al-Qaida"
+    },
+    "6908442": {
+      "name": "TARKHAN TAYUMURAZOVICH BATIRASHVILI",
+      "list": "Al-Qaida"
+    },
+    "6908445": {
+      "name": "ANGGA DIMAS PERSHADA",
+      "list": "Al-Qaida"
+    },
+    "6908446": {
+      "name": "BAMBANG SUKIRNO",
+      "list": "Al-Qaida"
+    },
+    "6908447": {
+      "name": "WIJI JOKO SANTOSO",
+      "list": "Al-Qaida"
+    },
+    "6908448": {
+      "name": "HILAL AHMAR SOCIETY INDONESIA (HASI)",
+      "list": "Al-Qaida"
+    },
+    "6908450": {
+      "name": "ABDUL BASIR NOORZAI",
+      "list": "Taliban"
+    },
+    "6908451": {
+      "name": "HAJI BASIR AND ZARJMIL COMPANY HAWALA",
+      "list": "Taliban"
+    },
+    "6908453": {
+      "name": "ALI BEN TAHER BEN FALEH OUNI HARZI",
+      "list": "Al-Qaida"
+    },
+    "6908454": {
+      "name": "TARAK BEN TAHER BEN FALEH OUNI HARZI",
+      "list": "Al-Qaida"
+    },
+    "6908455": {
+      "name": "ABDULMALIK AL-HOUTHI",
+      "list": "Yemen"
+    },
+    "6908457": {
+      "name": "GABRIEL JOK RIAK MAKOL",
+      "list": "SouthSudan"
+    },
+    "6908458": {
+      "name": "SIMON GATWECH DUAL",
+      "list": "SouthSudan"
+    },
+    "6908459": {
+      "name": "SANTINO DENG WOL",
+      "list": "SouthSudan"
+    },
+    "6908460": {
+      "name": "MARIAL CHANUONG YOL MANGOK",
+      "list": "SouthSudan"
+    },
+    "6908461": {
+      "name": "JAMES KOANG CHUOL",
+      "list": "SouthSudan"
+    },
+    "6908462": {
+      "name": "PETER GADET",
+      "list": "SouthSudan"
+    },
+    "6908463": {
+      "name": "THE ARMY OF EMIGRANTS AND SUPPORTERS",
+      "list": "Al-Qaida"
+    },
+    "6908464": {
+      "name": "ALFRED YEKATOM",
+      "list": "CAR"
+    },
+    "6908465": {
+      "name": "HABIB SOUSSOU",
+      "list": "CAR"
+    },
+    "6908466": {
+      "name": "OUMAR YOUNOUS ABDOULAY",
+      "list": "CAR"
+    },
+    "6908468": {
+      "name": "SOFIANE BEN GOUMO",
+      "list": "Al-Qaida"
+    },
+    "6908470": {
+      "name": "ABD AL-LATIF BIN ABDALLAH SALIH MUHAMMAD AL-KAWARI",
+      "list": "Al-Qaida"
+    },
+    "6908472": {
+      "name": "SA'D BIN SA'D MUHAMMAD SHARIYAN AL-KA'BI",
+      "list": "Al-Qaida"
+    },
+    "6908473": {
+      "name": "AQSA MAHMOOD",
+      "list": "Al-Qaida"
+    },
+    "6908474": {
+      "name": "NASSER AHMED MUTHANA",
+      "list": "Al-Qaida"
+    },
+    "6908475": {
+      "name": "OMAR ALI HUSSAIN",
+      "list": "Al-Qaida"
+    },
+    "6908476": {
+      "name": "SALLY-ANNE FRANCES JONES",
+      "list": "Al-Qaida"
+    },
+    "6908477": {
+      "name": "AMRU AL-ABSI",
+      "list": "Al-Qaida"
+    },
+    "6908478": {
+      "name": "MU’TASSIM YAHYA ‘ALI AL-RUMAYSH",
+      "list": "Al-Qaida"
+    },
+    "6908479": {
+      "name": "TARAD MOHAMMAD Alnori Alfares ALJARBA",
+      "list": "Al-Qaida"
+    },
+    "6908481": {
+      "name": "BOUBAKER BEN HABIB BEN AL-HAKIM",
+      "list": "Al-Qaida"
+    },
+    "6908482": {
+      "name": "PETER CHERIF",
+      "list": "Al-Qaida"
+    },
+    "6908483": {
+      "name": "MAXIME HAUCHARD",
+      "list": "Al-Qaida"
+    },
+    "6908484": {
+      "name": "ASEEL MUTHANA",
+      "list": "Al-Qaida"
+    },
+    "6908485": {
+      "name": "MUJAHIDIN INDONESIAN TIMUR (MIT)",
+      "list": "Al-Qaida"
+    },
+    "6908486": {
+      "name": "JUND AL-KHILAFAH IN ALGERIA (JAK-A)",
+      "list": "Al-Qaida"
+    },
+    "6908487": {
+      "name": "MAGHOMED MAGHOMEDZAKIROVICH ABDURAKHMANOV",
+      "list": "Al-Qaida"
+    },
+    "6908488": {
+      "name": "ISLAM SEIT-UMAROVICH ATABIEV",
+      "list": "Al-Qaida"
+    },
+    "6908489": {
+      "name": "AKHMED RAJAPOVICH CHATAEV",
+      "list": "Al-Qaida"
+    },
+    "6908490": {
+      "name": "TARKHAN ISMAILOVICH GAZIEV",
+      "list": "Al-Qaida"
+    },
+    "6908491": {
+      "name": "TOREK AGHA",
+      "list": "Taliban"
+    },
+    "6908492": {
+      "name": "ZAURBEK SALIMOVICH GUCHAEV",
+      "list": "Al-Qaida"
+    },
+    "6908493": {
+      "name": "SHAMIL MAGOMEDOVICH ISMAILOV",
+      "list": "Al-Qaida"
+    },
+    "6908495": {
+      "name": "HAROUN GAYE",
+      "list": "CAR"
+    },
+    "6908496": {
+      "name": "EUGÈNE BARRET NGAÏKOSSET",
+      "list": "CAR"
+    },
+    "6908497": {
+      "name": "KIM TONG MY’ONG",
+      "list": "DPRK"
+    },
+    "6908498": {
+      "name": "KIM JUNG JONG",
+      "list": "DPRK"
+    },
+    "6908499": {
+      "name": "DAEDONG CREDIT BANK (DCB)",
+      "list": "DPRK"
+    },
+    "6908500": {
+      "name": "CHOE CHUN-SIK",
+      "list": "DPRK"
+    },
+    "6908501": {
+      "name": "CHOE SONG IL",
+      "list": "DPRK"
+    },
+    "6908502": {
+      "name": "HYON KWANG IL",
+      "list": "DPRK"
+    },
+    "6908503": {
+      "name": "JANG BOM SU",
+      "list": "DPRK"
+    },
+    "6908505": {
+      "name": "JANG YONG SON",
+      "list": "DPRK"
+    },
+    "6908506": {
+      "name": "JON MYONG GUK",
+      "list": "DPRK"
+    },
+    "6908507": {
+      "name": "KANG MUN KIL",
+      "list": "DPRK"
+    },
+    "6908508": {
+      "name": "KANG RYONG",
+      "list": "DPRK"
+    },
+    "6908509": {
+      "name": "KIM KYU",
+      "list": "DPRK"
+    },
+    "6908510": {
+      "name": "ACADEMY OF NATIONAL DEFENSE SCIENCE",
+      "list": "DPRK"
+    },
+    "6908511": {
+      "name": "KIM YONG CHOL",
+      "list": "DPRK"
+    },
+    "6908512": {
+      "name": "KO TAE HUN",
+      "list": "DPRK"
+    },
+    "6908513": {
+      "name": "RI MAN GON",
+      "list": "DPRK"
+    },
+    "6908514": {
+      "name": "RYU JIN",
+      "list": "DPRK"
+    },
+    "6908515": {
+      "name": "YU CHOL U",
+      "list": "DPRK"
+    },
+    "6908516": {
+      "name": "CHONGCHONGANG SHIPPING COMPANY",
+      "list": "DPRK"
+    },
+    "6908517": {
+      "name": "HESONG TRADING COMPANY",
+      "list": "DPRK"
+    },
+    "6908518": {
+      "name": "KOREA KWANGSON BANKING CORPORATION (KKBC)",
+      "list": "DPRK"
+    },
+    "6908519": {
+      "name": "KOREA KWANGSONG TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "6908520": {
+      "name": "MINISTRY OF ATOMIC ENERGY INDUSTRY",
+      "list": "DPRK"
+    },
+    "6908521": {
+      "name": "HARAKAT SHAM AL-ISLAM",
+      "list": "Al-Qaida"
+    },
+    "6908522": {
+      "name": "MUNITIONS INDUSTRY DEPARTMENT",
+      "list": "DPRK"
+    },
+    "6908523": {
+      "name": "NATIONAL AEROSPACE TECHNOLOGY ADMINISTRATION",
+      "list": "DPRK"
+    },
+    "6908524": {
+      "name": "OFFICE 39",
+      "list": "DPRK"
+    },
+    "6908525": {
+      "name": "ABD AL-BASET AZZOUZ",
+      "list": "Al-Qaida"
+    },
+    "6908526": {
+      "name": "RECONNAISSANCE GENERAL BUREAU",
+      "list": "DPRK"
+    },
+    "6908527": {
+      "name": "GULMUROD KHALIMOV",
+      "list": "Al-Qaida"
+    },
+    "6908528": {
+      "name": "SECOND ECONOMIC COMMITTEE",
+      "list": "DPRK"
+    },
+    "6908529": {
+      "name": "NUSRET IMAMOVIC",
+      "list": "Al-Qaida"
+    },
+    "6908530": {
+      "name": "MUHANNAD AL-NAJDI",
+      "list": "Al-Qaida"
+    },
+    "6908531": {
+      "name": "MORAD LAABOUDI",
+      "list": "Al-Qaida"
+    },
+    "6908532": {
+      "name": "ALI MUSA AL-SHAWAKH",
+      "list": "Al-Qaida"
+    },
+    "6908533": {
+      "name": "HASAN AL-SALAHAYN SALIH AL-SHA’ARI",
+      "list": "Al-Qaida"
+    },
+    "6908534": {
+      "name": "MOUNIR BEN DHAOU BEN BRAHIM BEN HELAL",
+      "list": "Al-Qaida"
+    },
+    "6908535": {
+      "name": "MOHAMMED ABDEL-HALIM HEMAIDA SALEH",
+      "list": "Al-Qaida"
+    },
+    "6908536": {
+      "name": "SALIM BENGHALEM",
+      "list": "Al-Qaida"
+    },
+    "6908537": {
+      "name": "ABU UBAYDAH YUSUF AL-ANABI",
+      "list": "Al-Qaida"
+    },
+    "6908538": {
+      "name": "JOSEPH KONY",
+      "list": "CAR"
+    },
+    "6908539": {
+      "name": "LORD’S RESISTANCE ARMY",
+      "list": "CAR"
+    },
+    "6908542": {
+      "name": "FAYSAL AHMAD BIN ALI AL-ZAHRANI",
+      "list": "Al-Qaida"
+    },
+    "6908544": {
+      "name": "HUSAYN JUAYTHINI",
+      "list": "Al-Qaida"
+    },
+    "6908545": {
+      "name": "MUHAMMAD SHOLEH IBRAHIM",
+      "list": "Al-Qaida"
+    },
+    "6908547": {
+      "name": "ASLAN AVGAZAROVICH BYUTUKAEV",
+      "list": "Al-Qaida"
+    },
+    "6908548": {
+      "name": "AYRAT NASIMOVICH VAKHITOV",
+      "list": "Al-Qaida"
+    },
+    "6908549": {
+      "name": "ALI KONY",
+      "list": "CAR"
+    },
+    "6908550": {
+      "name": "SALIM KONY",
+      "list": "CAR"
+    },
+    "6908551": {
+      "name": "ILSIM INTERNATIONAL BANK",
+      "list": "DPRK"
+    },
+    "6908552": {
+      "name": "KOREA DAESONG BANK",
+      "list": "DPRK"
+    },
+    "6908553": {
+      "name": "SINGWANG ECONOMICS AND TRADING GENERAL CORPORATION",
+      "list": "DPRK"
+    },
+    "6908554": {
+      "name": "PAK CHUN IL",
+      "list": "DPRK"
+    },
+    "6908555": {
+      "name": "RI WON HO",
+      "list": "DPRK"
+    },
+    "6908556": {
+      "name": "DCB FINANCE LIMITED",
+      "list": "DPRK"
+    },
+    "6908557": {
+      "name": "KOREA FOREIGN TECHNICAL TRADE CENTER",
+      "list": "DPRK"
+    },
+    "6908558": {
+      "name": "KIM SONG CHOL",
+      "list": "DPRK"
+    },
+    "6908559": {
+      "name": "KOREA TAESONG TRADING COMPANY",
+      "list": "DPRK"
+    },
+    "6908560": {
+      "name": "KOREA DAESONG GENERAL TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "6908561": {
+      "name": "KOREA PUGANG TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "6908562": {
+      "name": "KOREA INTERNATIONAL CHEMICAL JOINT VENTURE COMPANY",
+      "list": "DPRK"
+    },
+    "6908563": {
+      "name": "KOREA UNITED DEVELOPMENT BANK",
+      "list": "DPRK"
+    },
+    "6908564": {
+      "name": "SON JONG HYOK",
+      "list": "DPRK"
+    },
+    "6908565": {
+      "name": "JO YONG CHOL",
+      "list": "DPRK"
+    },
+    "6908566": {
+      "name": "KIM CHOL SAM",
+      "list": "DPRK"
+    },
+    "6908568": {
+      "name": "KIM SOK CHOL",
+      "list": "DPRK"
+    },
+    "6908570": {
+      "name": "CHANG CHANG HA",
+      "list": "DPRK"
+    },
+    "6908571": {
+      "name": "CHO CHUN RYONG",
+      "list": "DPRK"
+    },
+    "6908572": {
+      "name": "SON MUN SAN",
+      "list": "DPRK"
+    },
+    "6908573": {
+      "name": "KIM SE GON",
+      "list": "DPRK"
+    },
+    "6908574": {
+      "name": "RUSTAM MAGOMEDOVICH ASELDEROV",
+      "list": "Al-Qaida"
+    },
+    "6908575": {
+      "name": "BASSAM AHMAD AL-HASRI",
+      "list": "Al-Qaida"
+    },
+    "6908576": {
+      "name": "IYAD NAZMI SALIH KHALIL",
+      "list": "Al-Qaida"
+    },
+    "6908577": {
+      "name": "GHALIB ABDULLAH AL-ZAIDI",
+      "list": "Al-Qaida"
+    },
+    "6908579": {
+      "name": "ABDOULAYE HISSENE",
+      "list": "CAR"
+    },
+    "6908580": {
+      "name": "CHO IL U",
+      "list": "DPRK"
+    },
+    "6908581": {
+      "name": "CHO YON CHUN",
+      "list": "DPRK"
+    },
+    "6908582": {
+      "name": "CHOE HWI",
+      "list": "DPRK"
+    },
+    "6908583": {
+      "name": "JO YONG-WON",
+      "list": "DPRK"
+    },
+    "6908584": {
+      "name": "KIM CHOL NAM",
+      "list": "DPRK"
+    },
+    "6908585": {
+      "name": "KIM KYONG OK",
+      "list": "DPRK"
+    },
+    "6908586": {
+      "name": "KIM TONG-HO",
+      "list": "DPRK"
+    },
+    "6908587": {
+      "name": "MIN BYONG CHOL",
+      "list": "DPRK"
+    },
+    "6908588": {
+      "name": "PAEK SE BONG",
+      "list": "DPRK"
+    },
+    "6908589": {
+      "name": "PAK HAN SE",
+      "list": "DPRK"
+    },
+    "6908590": {
+      "name": "PAK TO CHUN",
+      "list": "DPRK"
+    },
+    "6908591": {
+      "name": "RI JAE IL",
+      "list": "DPRK"
+    },
+    "6908592": {
+      "name": "RI SU YONG",
+      "list": "DPRK"
+    },
+    "6908593": {
+      "name": "RI YONG MU",
+      "list": "DPRK"
+    },
+    "6908594": {
+      "name": "KANGBONG TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "6908595": {
+      "name": "KOREA KUMSAN TRADING CORPORATION",
+      "list": "DPRK"
+    },
+    "6908596": {
+      "name": "KORYO BANK",
+      "list": "DPRK"
+    },
+    "6908597": {
+      "name": "STRATEGIC ROCKET FORCE OF THE KOREAN PEOPLE’S ARMY",
+      "list": "DPRK"
+    },
+    "6908598": {
+      "name": "FARED SAAL",
+      "list": "Al-Qaida"
+    },
+    "6908599": {
+      "name": "JAMAAT-UL-AHRAR (JuA)",
+      "list": "Al-Qaida"
+    },
+    "6908600": {
+      "name": "MUHAMMAD BAHRUM NAIM ANGGIH TAMTOMO",
+      "list": "Al-Qaida"
+    },
+    "6908601": {
+      "name": "Malik Ruslanovich Barkhanoev",
+      "list": "Al-Qaida"
+    },
+    "6908602": {
+      "name": "Murad Iraklievich Margoshvili",
+      "list": "Al-Qaida"
+    },
+    "6908603": {
+      "name": "OMAN ROCHMAN",
+      "list": "Al-Qaida"
+    },
+    "6908604": {
+      "name": "HANIFA MONEY EXCHANGE OFFICE (BRANCH LOCATED IN ALBU KAMAL, SYRIAN ARAB REPUBLIC)",
+      "list": "Al-Qaida"
+    },
+    "6908605": {
+      "name": "SELSELAT AL-THAHAB",
+      "list": "Al-Qaida"
+    },
+    "6908606": {
+      "name": "Jaysh Khalid Ibn al Waleed",
+      "list": "Al-Qaida"
+    },
+    "6908607": {
+      "name": "JUND AL AQSA",
+      "list": "Al-Qaida"
+    },
+    "6908608": {
+      "name": "ALEXANDA AMON KOTEY",
+      "list": "Al-Qaida"
+    },
+    "6908609": {
+      "name": "ELSHAFEE EL SHEIKH",
+      "list": "Al-Qaida"
+    },
+    "6908611": {
+      "name": "SHANE DOMINIC CRAWFORD",
+      "list": "Al-Qaida"
+    },
+    "6908613": {
+      "name": "CHOE CHUN YONG",
+      "list": "DPRK"
+    },
+    "6908614": {
+      "name": "HAN JANG SU",
+      "list": "DPRK"
+    },
+    "6908615": {
+      "name": "JANG SONG CHOL",
+      "list": "DPRK"
+    },
+    "6908616": {
+      "name": "JANG SUNG NAM",
+      "list": "DPRK"
+    },
+    "6908617": {
+      "name": "JO CHOL SONG",
+      "list": "DPRK"
+    },
+    "6908618": {
+      "name": "KANG CHOL SU",
+      "list": "DPRK"
+    },
+    "6908619": {
+      "name": "KIM MUN CHOL",
+      "list": "DPRK"
+    },
+    "6908620": {
+      "name": "KIM NAM UNG",
+      "list": "DPRK"
+    },
+    "6908621": {
+      "name": "Pak Il Kyu",
+      "list": "DPRK"
+    },
+    "6908622": {
+      "name": "FOREIGN TRADE BANK (FTB)",
+      "list": "DPRK"
+    },
+    "6908623": {
+      "name": "KOREAN NATIONAL INSURANCE COMPANY (KNIC)",
+      "list": "DPRK"
+    },
+    "6908624": {
+      "name": "KORYO CREDIT DEVELOPMENT BANK",
+      "list": "DPRK"
+    },
+    "6908625": {
+      "name": "MANSUDAE OVERSEAS PROJECT GROUP OF COMPANIES",
+      "list": "DPRK"
+    },
+    "6908626": {
+      "name": "PAK YONG SIK",
+      "list": "DPRK"
+    },
+    "6908627": {
+      "name": "CENTRAL MILITARY COMMISSION OF THE WORKERS’ PARTY OF KOREA (CMC)",
+      "list": "DPRK"
+    },
+    "6908628": {
+      "name": "ORGANIZATION AND GUIDANCE DEPARTMENT (OGD)",
+      "list": "DPRK"
+    },
+    "6908629": {
+      "name": "PROPAGANDA AND AGITATION DEPARTMENT (PAD)",
+      "list": "DPRK"
+    },
+    "6908640": {
+      "name": "CH'OE SO’K MIN",
+      "list": "DPRK"
+    },
+    "6908641": {
+      "name": "CHU HYO’K",
+      "list": "DPRK"
+    },
+    "6908643": {
+      "name": "KIM JONG SIK",
+      "list": "DPRK"
+    },
+    "6908644": {
+      "name": "KIM KYONG IL",
+      "list": "DPRK"
+    },
+    "6908645": {
+      "name": "KIM TONG CHOL",
+      "list": "DPRK"
+    },
+    "6908646": {
+      "name": "KO CHOL MAN",
+      "list": "DPRK"
+    },
+    "6908647": {
+      "name": "KU JA HYONG",
+      "list": "DPRK"
+    },
+    "6908648": {
+      "name": "MUN KYONG HWAN",
+      "list": "DPRK"
+    },
+    "6908649": {
+      "name": "PAE WON UK",
+      "list": "DPRK"
+    },
+    "6908650": {
+      "name": "PAK BONG NAM",
+      "list": "DPRK"
+    },
+    "6908651": {
+      "name": "PAK MUN IL",
+      "list": "DPRK"
+    },
+    "6908652": {
+      "name": "RI CHUN HWAN",
+      "list": "DPRK"
+    },
+    "6908653": {
+      "name": "RI CHUN SONG",
+      "list": "DPRK"
+    },
+    "6908654": {
+      "name": "RI PYONG CHUL",
+      "list": "DPRK"
+    },
+    "6908655": {
+      "name": "RI SONG HYOK",
+      "list": "DPRK"
+    },
+    "6908656": {
+      "name": "RI U’N SO’NG",
+      "list": "DPRK"
+    },
+    "6908657": {
+      "name": "MINISTRY OF NATIONAL DEFENCE",
+      "list": "DPRK"
+    },
+    "6908658": {
+      "name": "SALIM MUSTAFA MUHAMMAD AL-MANSUR",
+      "list": "Al-Qaida"
+    },
+    "6908659": {
+      "name": "UMAR MAHMUD IRHAYYIM AL-KUBAYSI",
+      "list": "Al-Qaida"
+    },
+    "6908660": {
+      "name": "AL-KAWTHAR MONEY EXCHANGE",
+      "list": "Al-Qaida"
+    },
+    "6908661": {
+      "name": "MUHINDO AKILI MUNDOS",
+      "list": "DRC"
+    },
+    "6908662": {
+      "name": "GUIDON SHIMIRAY MWISSA",
+      "list": "DRC"
+    },
+    "6908663": {
+      "name": "LUCIEN NZAMBAMWITA",
+      "list": "DRC"
+    },
+    "6908664": {
+      "name": "GÉDÉON KYUNGU MUTANGA WA BAFUNKWA KANONGA",
+      "list": "DRC"
+    },
+    "6908669": {
+      "name": "KHATIBA IMAM AL-BUKHARI (KIB)",
+      "list": "Al-Qaida"
+    },
+    "6908670": {
+      "name": "CHONMYONG SHIPPING CO",
+      "list": "DPRK"
+    },
+    "6908671": {
+      "name": "FIRST OIL JV CO LTD",
+      "list": "DPRK"
+    },
+    "6908672": {
+      "name": "HAPJANGGANG SHIPPING CORP",
+      "list": "DPRK"
+    },
+    "6908673": {
+      "name": "KINGLY WON INTERNATIONAL CO., LTD",
+      "list": "DPRK"
+    },
+    "6908674": {
+      "name": "KOREA ACHIM SHIPPING CO",
+      "list": "DPRK"
+    },
+    "6908675": {
+      "name": "KOREA ANSAN SHIPPING COMPANY",
+      "list": "DPRK"
+    },
+    "6908676": {
+      "name": "KOREA MYONGDOK SHIPPING CO",
+      "list": "DPRK"
+    },
+    "6908677": {
+      "name": "KOREA SAMJONG SHIPPING",
+      "list": "DPRK"
+    },
+    "6908678": {
+      "name": "KOREA SAMMA SHIPPING CO",
+      "list": "DPRK"
+    },
+    "6908680": {
+      "name": "KOREA YUJONG SHIPPING CO LTD",
+      "list": "DPRK"
+    },
+    "6908681": {
+      "name": "KOTI CORP",
+      "list": "DPRK"
+    },
+    "6908683": {
+      "name": "PAEKMA SHIPPING CO",
+      "list": "DPRK"
+    },
+    "6908684": {
+      "name": "PHYONGCHON SHIPPING & MARINE",
+      "list": "DPRK"
+    },
+    "6908686": {
+      "name": "PRO-GAIN GROUP CORPORATION",
+      "list": "DPRK"
+    },
+    "6908689": {
+      "name": "YUK TUNG ENERGY PTE LTD",
+      "list": "DPRK"
+    },
+    "6908690": {
+      "name": "TSANG YUNG YUAN",
+      "list": "DPRK"
+    },
+    "6908691": {
+      "name": "CHANG AN SHIPPING & TECHNOLOGY",
+      "list": "DPRK"
+    },
+    "6908693": {
+      "name": "HUAXIN SHIPPING HONGKONG LTD",
+      "list": "DPRK"
+    },
+    "6908695": {
+      "name": "SHANGHAI DONGFENG SHIPPING CO LTD",
+      "list": "DPRK"
+    },
+    "6908696": {
+      "name": "SHEN ZHONG INTERNATIONAL SHIPPING",
+      "list": "DPRK"
+    },
+    "6908697": {
+      "name": "WEIHAI WORLD-SHIPPING FREIGHT",
+      "list": "DPRK"
+    },
+    "6908698": {
+      "name": "Ahmad Iman Ali",
+      "list": "Somalia"
+    },
+    "6908699": {
+      "name": "Abdifatah Abubakar Abdi",
+      "list": "Somalia"
+    },
+    "6908700": {
+      "name": "MYRNA AJIJUL MABANZA",
+      "list": "Al-Qaida"
+    },
+    "6908701": {
+      "name": "ABDULPATTA ESCALON ABUBAKAR",
+      "list": "Al-Qaida"
+    },
+    "6908702": {
+      "name": "Ermias Alem",
+      "list": "Libya"
+    },
+    "6908703": {
+      "name": "Fitiwi Abdelrazak",
+      "list": "Libya"
+    },
+    "6908704": {
+      "name": "Ahmad Oumar Imhamad al-Fitouri",
+      "list": "Libya"
+    },
+    "6908705": {
+      "name": "Mus’ab Mustafa Abu al Qassim Omar",
+      "list": "Libya"
+    },
+    "6908706": {
+      "name": "Mohammed Al Amin Al-Arabi Kashlaf",
+      "list": "Libya"
+    },
+    "6908707": {
+      "name": "Abd Al-Rahman SALIM IBRAHIM AL-MILAD",
+      "list": "Libya"
+    },
+    "6908711": {
+      "name": "MALEK REUBEN RIAK RENGU",
+      "list": "SouthSudan"
+    },
+    "6908714": {
+      "name": "PAUL MALONG AWAN ANEI",
+      "list": "SouthSudan"
+    },
+    "6908715": {
+      "name": "Ibrahim Saeed Salim Jadhran",
+      "list": "Libya"
+    },
+    "6908718": {
+      "name": "ADNAN ABOU WALID AL-SAHRAOUI",
+      "list": "Al-Qaida"
+    },
+    "6908719": {
+      "name": "MOHAMMED YUSIP KARIM",
+      "list": "Al-Qaida"
+    },
+    "6908720": {
+      "name": "MOHAMAD RAFI BIN UDIN",
+      "list": "Al-Qaida"
+    },
+    "6908721": {
+      "name": "MUHAMMED REZA LAHAMAN KIRAM",
+      "list": "Al-Qaida"
+    },
+    "6908726": {
+      "name": "JAMA'A NUSRAT UL-ISLAM WA AL-MUSLIMIN (JNIM)",
+      "list": "Al-Qaida"
+    },
+    "6908742": {
+      "name": "ANJEM CHOUDARY",
+      "list": "Al-Qaida"
+    },
+    "6908757": {
+      "name": "TAHA IBRAHIM ABDALLAH BAKR AL KHUWAYT",
+      "list": "Al-Qaida"
+    },
+    "6908759": {
+      "name": "Salah Badi",
+      "list": "Libya"
+    },
+    "6908767": {
+      "name": "HAMZA USAMA MUHAMMAD BIN LADEN",
+      "list": "Al-Qaida"
+    },
+    "6908768": {
+      "name": "TARIQ GIDAR GROUP (TGG)",
+      "list": "Al-Qaida"
+    },
+    "6908769": {
+      "name": "MOHAMMED MASOOD AZHAR ALVI",
+      "list": "Al-Qaida"
+    },
+    "6908777": {
+      "name": "ISLAMIC STATE IN IRAQ AND THE LEVANT - KHORASAN (ISIL-K)",
+      "list": "Al-Qaida"
+    },
+    "6908782": {
+      "name": "ALI MAYCHOU",
+      "list": "Al-Qaida"
+    },
+    "6908783": {
+      "name": "BAH AG MOUSSA",
+      "list": "Al-Qaida"
+    },
+    "6908802": {
+      "name": "ISLAMIC STATE WEST AFRICA PROVINCE (ISWAP)",
+      "list": "Al-Qaida"
+    },
+    "6908803": {
+      "name": "ISLAMIC STATE IN THE GREATER SAHARA (ISGS)",
+      "list": "Al-Qaida"
+    },
+    "6908823": {
+      "name": "AMADOU KOUFA",
+      "list": "Al-Qaida"
+    },
+    "6908833": {
+      "name": "JAMAL HUSSEIN HASSAN ZEINIYE",
+      "list": "Al-Qaida"
+    },
+    "6908834": {
+      "name": "SEKA BALUKU",
+      "list": "DRC"
+    },
+    "6908835": {
+      "name": "JAMAAH ANSHARUT DAULAH",
+      "list": "Al-Qaida"
+    },
+    "6908836": {
+      "name": "ISLAMIC STATE IN IRAQ AND THE LEVANT - LIBYA",
+      "list": "Al-Qaida"
+    },
+    "6908837": {
+      "name": "ISLAMIC STATE IN IRAQ AND THE LEVANT - YEMEN",
+      "list": "Al-Qaida"
+    },
+    "6908840": {
+      "name": "MARTIN KOUMTAMADJI",
+      "list": "CAR"
+    },
+    "6908841": {
+      "name": "Amir Muhammad Sa’id Abdal-Rahman al-Salbi",
+      "list": "Al-Qaida"
+    },
+    "6908843": {
+      "name": "NOOR WALI MEHSUD",
+      "list": "Al-Qaida"
+    },
+    "6908845": {
+      "name": "BI SIDI SOULEMAN",
+      "list": "CAR"
+    },
+    "6908848": {
+      "name": "Osama Al Kuni Ibrahim",
+      "list": "Libya"
+    },
+    "6908853": {
+      "name": "ABUKAR ALI ADAN",
+      "list": "Somalia"
+    },
+    "6908854": {
+      "name": "MAALIM AYMAN",
+      "list": "Somalia"
+    },
+    "6908855": {
+      "name": "MAHAD KARATE",
+      "list": "Somalia"
+    },
+    "6908856": {
+      "name": "SULTAN SALEH AIDA AIDA ZABIN",
+      "list": "Yemen"
+    },
+    "6908857": {
+      "name": "MOHAMMAD ALI AL HABBO",
+      "list": "Al-Qaida"
+    },
+    "6908858": {
+      "name": "EMRAAN ALI",
+      "list": "Al-Qaida"
+    },
+    "6908861": {
+      "name": "ASHRAF AL-QIZANI",
+      "list": "Al-Qaida"
+    },
+    "6908862": {
+      "name": "JUND AL-KHILAFAH IN TUNISIA (JAK-T)",
+      "list": "Al-Qaida"
+    },
+    "6908863": {
+      "name": "SALEH MESFER SALEH AL SHAER",
+      "list": "Yemen"
+    },
+    "6908864": {
+      "name": "MUHAMMAD ABD AL-KARIM AL-GHAMARI",
+      "list": "Yemen"
+    },
+    "6908865": {
+      "name": "YUSUF AL-MADANI",
+      "list": "Yemen"
+    },
+    "6908866": {
+      "name": "SANAULLAH GHAFARI",
+      "list": "Al-Qaida"
+    },
+    "6908867": {
+      "name": "ALI DARASSA",
+      "list": "CAR"
+    },
+    "6908868": {
+      "name": "ALI MOHAMED RAGE",
+      "list": "Somalia"
+    },
+    "6908876": {
+      "name": "THE HOUTHIS",
+      "list": "Yemen"
+    },
+    "6908877": {
+      "name": "KHATIBA AL-TAWHID WAL-JIHAD (KTJ)",
+      "list": "Al-Qaida"
+    },
+    "6908883": {
+      "name": "AHMAD AL-HAMZI",
+      "list": "Yemen"
+    },
+    "6908884": {
+      "name": "MANSUR AL-SA’ADI",
+      "list": "Yemen"
+    },
+    "6908885": {
+      "name": "MOTLAQ AMER AL-MARRANI",
+      "list": "Yemen"
+    },
+    "6908886": {
+      "name": "Islamic State In Iraq And the Levant In South-East Asia (ISIL-SEA, ISIL-South East Asia)",
+      "list": "Al-Qaida"
+    },
+    "6908904": {
+      "name": "MAULAWI RAJAB",
+      "list": "Al-Qaida"
+    },
+    "6908905": {
+      "name": "SULTAN AZIZ AZAM",
+      "list": "Al-Qaida"
+    },
+    "6908907": {
+      "name": "ABDULLAHI OSMAN MOHAMED CADDOW",
+      "list": "Somalia"
+    },
+    "6908911": {
+      "name": "JIMMY CHERIZIER",
+      "list": "Haiti"
+    },
+    "6908954": {
+      "name": "BERNARD MAHESHE BYAMUNGU",
+      "list": "DRC"
+    },
+    "6908955": {
+      "name": "PROTOGÈNE RUVUGAYIMIKORE",
+      "list": "DRC"
+    },
+    "6908967": {
+      "name": "MYOHYANG SHIPPING CO",
+      "list": "DPRK"
+    },
+    "6908993": {
+      "name": "APOLLINAIRE HAKIZIMANA",
+      "list": "DRC"
+    },
+    "6908994": {
+      "name": "AHMAD MAHMOOD HASSAN",
+      "list": "DRC"
+    },
+    "6908995": {
+      "name": "MICHEL RUKUNDA",
+      "list": "DRC"
+    },
+    "6908996": {
+      "name": "MOHAMED ALI NKALUBO",
+      "list": "DRC"
+    },
+    "6908997": {
+      "name": "WILLIAM AMURI YAKUTUMBA",
+      "list": "DRC"
+    },
+    "6908998": {
+      "name": "WILLY NGOMA",
+      "list": "DRC"
+    },
+    "6909265": {
+      "name": "ABDIKADIR MOHAMED ABDIKADIR",
+      "list": "Somalia"
+    },
+    "6909266": {
+      "name": "MOHAMED MOHAMUD MIRE",
+      "list": "Somalia"
+    },
+    "6909267": {
+      "name": "MOHAMED OMAR MOHAMED",
+      "list": "Somalia"
+    },
+    "6909269": {
+      "name": "ABDEL RAHMAN JUMA BARKALLA",
+      "list": "Sudan"
+    },
+    "6909270": {
+      "name": "OSMAN MOHAMED HAMID MOHAMED",
+      "list": "Sudan"
+    },
+    "6909290": {
+      "name": "ABUBAKAR SWALLEH",
+      "list": "Al-Qaida"
+    },
+    "6909348": {
+      "name": "SAMI JASIM MUHAMMAD JAATA AL-JABURI",
+      "list": "Al-Qaida"
+    },
+    "6909349": {
+      "name": "GRAN GRIF",
+      "list": "Haiti"
+    },
+    "6909350": {
+      "name": "VIV ANSANM",
+      "list": "Haiti"
+    },
+    "6909378": {
+      "name": "JOHNSON ANDRE",
+      "list": "Haiti"
+    },
+    "6909380": {
+      "name": "RENEL DESTINA",
+      "list": "Haiti"
+    },
+    "6909382": {
+      "name": "WILSON JOSEPH",
+      "list": "Haiti"
+    },
+    "6909384": {
+      "name": "VITELHOMME INNOCENT",
+      "list": "Haiti"
+    },
+    "6909386": {
+      "name": "PROPHANE VICTOR",
+      "list": "Haiti"
+    },
+    "6909388": {
+      "name": "LUCKSON ELAN",
+      "list": "Haiti"
+    },
+    "6909474": {
+      "name": "DIMITRI HERARD",
+      "list": "Haiti"
+    },
+    "6909475": {
+      "name": "KEMPES SANON",
+      "list": "Haiti"
+    },
+    "6909494": {
+      "name": "ABD EL HAMID SALIM IBRAHIM BRUKAN AL-KHATOUNI",
+      "list": "Al-Qaida"
+    },
+    "6909526": {
+      "name": "GEDO HAMDAN AHMED",
+      "list": "Sudan"
+    },
+    "6909527": {
+      "name": "ABDUL RAHIM HAMDAN DAGALO",
+      "list": "Sudan"
+    },
+    "6909528": {
+      "name": "AL-FATEH ABDULLAH IDRIS",
+      "list": "Sudan"
+    },
+    "6909529": {
+      "name": "TIJANI IBRAHIM MOUSSA MOHAMED",
+      "list": "Sudan"
+    },
+    "6909557": {
+      "name": "AL-GONEY HAMDAN DAGALO",
+      "list": "Sudan"
+    },
+    "6909558": {
+      "name": "ALVARO ANDRES QUIJANO BECERRA",
+      "list": "Sudan"
+    },
+    "6909559": {
+      "name": "CLAUDIA VIVIANA OLIVEROS FORERO",
+      "list": "Sudan"
+    },
+    "6909560": {
+      "name": "MATEO ANDRES DUQUE BOTERO",
+      "list": "Sudan"
+    },
+    "6909621": {
+      "name": "HAMIDA NABAGGALA",
+      "list": "Al-Qaida"
+    }
+  }
+}
