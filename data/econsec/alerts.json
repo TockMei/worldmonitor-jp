@@ -1,6 +1,14 @@
 {
   "meta": {
-    "generated": "2026-07-12T04:51:21.936Z"
+    "generated": "2026-07-12T22:02:52.847Z"
   },
-  "alerts": []
+  "alerts": [
+    {
+      "date": "2026-07-12T22:02:52.847Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "Last Updated 02/19/2026"
+    }
+  ]
 }
