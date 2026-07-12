@@ -37,6 +37,13 @@ const ALERT_SOURCE_LABELS: Record<string, string> = {
   'un-consolidated': '国連統合リスト',
   'meti-foreign-user-list': 'METI外国ユーザーリスト',
   'mof-sanctions': '財務省制裁リスト',
+  'dhs-uflpa': 'DHS UFLPAリスト',
+  'eu-fsf': 'EU FSF',
+  'fcc-covered-list': 'FCC Covered List',
+  'mofcom-unreliable-entity-list': '中国商務部 不可靠実体清単',
+  'mofcom-export-control': '中国商務部 輸出管制公告',
+  'acquisition-section-889': 'acquisition.gov Sec.889',
+  'federal-register': 'Federal Register新着',
 };
 
 const ALERT_WINDOW_DAYS = 30;
@@ -186,10 +193,18 @@ function formatJst(iso: string | null): string {
   )}:${pad(jst.getUTCMinutes())} JST`;
 }
 
-// Renders the entity-level diff log for the six regulatory sources watched
-// by scripts/econsec-watch.mjs: last 30 days, newest first, empty state
-// shows the last successful run time so a quiet week reads as "checked",
-// not "broken".
+const ALERT_TYPE_BADGES: Record<string, string> = {
+  add: '<span class="badge alert-badge-add">追加</span>',
+  remove: '<span class="badge alert-badge-remove">削除</span>',
+  'page-change': '<span class="badge alert-badge-page">変更</span>',
+  'fr-new': '<span class="badge alert-badge-fr">官報</span>',
+};
+
+// Renders the regulatory-list/regulatory-page diff log watched by
+// scripts/econsec-watch.mjs: last 30 days, newest first, empty state shows
+// the last successful run time so a quiet week reads as "checked", not
+// "broken". fr-new entries show the Federal Register document title linked
+// to its html_url instead of an entity name.
 export function renderAlertsPanel(data: EconsecAlertsResponse): string {
   const cutoff = Date.now() - ALERT_WINDOW_DAYS * 24 * 60 * 60 * 1000;
   const recent = data.alerts
@@ -209,14 +224,15 @@ export function renderAlertsPanel(data: EconsecAlertsResponse): string {
   const rows = recent
     .map((a) => {
       const label = ALERT_SOURCE_LABELS[a.source] || a.source;
-      const badge =
-        a.type === 'add'
-          ? '<span class="badge alert-badge-add">追加</span>'
-          : '<span class="badge alert-badge-remove">削除</span>';
+      const badge = ALERT_TYPE_BADGES[a.type] || '';
+      const entity =
+        a.type === 'fr-new' && a.url && isSafeHttpUrl(a.url)
+          ? `<a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.entity)}</a>`
+          : escapeHtml(a.entity);
       return `
       <div class="econsec-alert-row">
         ${badge}
-        <span class="econsec-alert-entity">${escapeHtml(a.entity)}</span>
+        <span class="econsec-alert-entity">${entity}</span>
         <span class="econsec-alert-source">${escapeHtml(label)}</span>
         <span class="econsec-alert-detail">${escapeHtml(a.detail)}</span>
         <span class="econsec-alert-date">${escapeHtml(formatJst(a.date))}</span>

@@ -24,6 +24,11 @@ jobs:
       - name: Run entity-diff watcher
         id: watch
         run: node scripts/econsec-watch.mjs
+        env:
+          # Optional: EU Financial Sanctions Files token URL. Unset by
+          # default (no secret registered yet) - the watcher skips the EU
+          # FSF source silently when this is empty.
+          EU_FSF_URL: ${{ secrets.EU_FSF_URL }}
 
       - name: Commit updated snapshots and alerts
         run: |

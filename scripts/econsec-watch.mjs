@@ -1,15 +1,20 @@
 #!/usr/bin/env node
-// Entity-level diff watcher for export-control / sanctions screening lists
-// (econsec Step 9, Phase A).
+// Regulatory-list / regulatory-page watcher (econsec Step 9 Phase A + Step 10
+// Phase B/C/D).
 //
-// For each source below: fetch the current bulk file, normalize it into
-// {id -> {name, list}} entities, diff against the last snapshot in
-// data/econsec/watch/<id>.json, and append add/remove events to
-// data/econsec/alerts.json (pruned to the last 90 days).
+// Three kinds of source, each diffed against its own snapshot in
+// data/econsec/watch/<id>.json:
+//   - entity  : bulk list -> {id -> {name, list}}, diffed as add/remove
+//   - page    : single page -> normalized text lines, diffed as page-change
+//               (first changed line, first 200 chars, goes into detail)
+//   - fr      : Federal Register API queries -> new document_numbers only
+//               (documents scrolling out of the "newest" window are not a
+//               removal event, so only additions ever alert)
 //
-// First run per source writes a baseline snapshot only - no diff is taken
-// against an empty/missing snapshot, so the initial full list never floods
-// alerts.json as a wall of "additions".
+// All diff events append to data/econsec/alerts.json (pruned to the last 90
+// days). First run per source writes a baseline snapshot only - no diff is
+// taken against an empty/missing snapshot, so an initial full list never
+// floods alerts.json as a wall of "additions".
 //
 // A source whose fetch or parse fails is skipped silently: its snapshot is
 // left untouched and no alert is generated for it this run.
@@ -42,7 +47,7 @@ async function fetchText(url, opts = {}) {
 }
 
 export function hashKey(...parts) {
-  return createHash('sha1').update(parts.join('')).digest('hex').slice(0, 16);
+  return createHash('sha1').update(parts.join('')).digest('hex').slice(0, 16);
 }
 
 // ---- Generic delimited-text parser (RFC4180-ish: quoted fields, embedded
@@ -94,6 +99,37 @@ function decodeXmlEntities(s) {
     .replace(/&quot;/g, '"')
     .replace(/&apos;/g, "'")
     .replace(/&amp;/g, '&');
+}
+
+// ---- Minimal HTML table extraction (regex-based - good enough for the
+// government table markup this targets; not a general HTML parser). ----
+function stripTags(html) {
+  return decodeXmlEntities(html.replace(/<[^>]+>/g, ' '))
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function parseHtmlTables(html) {
+  const tables = [];
+  const tableRe = /<table[^>]*>([\s\S]*?)<\/table>/gi;
+  let tm;
+  while ((tm = tableRe.exec(html))) {
+    const rows = [];
+    const rowRe = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
+    let rm;
+    while ((rm = rowRe.exec(tm[1]))) {
+      const cells = [];
+      const cellRe = /<t[hd][^>]*>([\s\S]*?)<\/t[hd]>/gi;
+      let cm;
+      while ((cm = cellRe.exec(rm[1]))) {
+        cells.push(stripTags(cm[1]));
+      }
+      if (cells.length) rows.push(cells);
+    }
+    if (rows.length) tables.push(rows);
+  }
+  return tables;
 }
 
 // ---- Minimal ZIP central-directory reader + XLSX sheet extraction. No
@@ -239,6 +275,29 @@ async function resolveLinkFromListingPage(listingUrl, linkPattern) {
   return new URL(m[1], listingUrl).toString();
 }
 
+// ---- Page-diff normalization: tag-strip + whitespace-collapse only, one
+// line per original source line. Deliberately minimal - aggressive
+// normalization (e.g. sorting/deduping lines) hides the exact edits this
+// watcher exists to surface. <head> is excluded because it churns on every
+// request (asset query strings, nonces) independent of page content. ----
+function normalizePage(html) {
+  const bodyMatch = html.match(/<body[^>]*>([\s\S]*)<\/body>/i);
+  const body = bodyMatch ? bodyMatch[1] : html;
+  return body
+    .split(/\r?\n/)
+    .map((line) => line.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim())
+    .filter(Boolean);
+}
+
+function firstDiffLine(oldLines, newLines) {
+  const len = Math.max(oldLines.length, newLines.length);
+  for (let i = 0; i < len; i++) {
+    if (oldLines[i] !== newLines[i]) return newLines[i] ?? oldLines[i] ?? '';
+  }
+  return '';
+}
+
+// ---- Entity-level sources: bulk list -> Map<id, {name, list}> ----
 const SOURCES = [
   {
     id: 'csl',
@@ -387,7 +446,142 @@ const SOURCES = [
       return { resolvedUrl: xlsxUrl, entities: rowsToRowHashEntities(rows) };
     },
   },
+  {
+    id: 'dhs-uflpa',
+    label: 'DHS UFLPA Entity List',
+    // Confirmed live (2026-07-12): three clean <table> blocks with a
+    // "Name of Entity" / "Effective Date" header, one row per entity - a
+    // genuine entity-level upgrade from a plain page-diff.
+    async fetchEntities() {
+      const url = 'https://www.dhs.gov/uflpa-entity-list';
+      const res = await fetchText(url);
+      const html = await res.text();
+      const entities = new Map();
+      for (const rows of parseHtmlTables(html)) {
+        const header = rows[0].map((h) => h.toLowerCase());
+        const idxName = header.indexOf('name of entity');
+        if (idxName === -1) continue;
+        const idxDate = header.indexOf('effective date');
+        for (const r of rows.slice(1)) {
+          const name = (r[idxName] || '').trim();
+          if (!name) continue;
+          entities.set(hashKey(name), { name, list: idxDate !== -1 ? r[idxDate] : 'UFLPA' });
+        }
+      }
+      if (entities.size === 0) throw new Error('dhs-uflpa: parsed 0 entities - schema may have changed');
+      return { resolvedUrl: url, entities };
+    },
+  },
 ];
+
+// EU FSF is opt-in: the export requires a token embedded in the URL itself,
+// so EU_FSF_URL must never be logged or written into a committed snapshot
+// file - only a fixed placeholder string is ever persisted as resolvedUrl.
+// Schema (EU sanctionEntity/nameAlias) is implemented from the documented
+// EU FSF format but is NOT verified against a live token URL in this
+// environment - re-check the parser once a real EU_FSF_URL is registered.
+if (process.env.EU_FSF_URL) {
+  SOURCES.push({
+    id: 'eu-fsf',
+    label: 'EU Financial Sanctions Files (FSF)',
+    async fetchEntities() {
+      const res = await fetchText(process.env.EU_FSF_URL);
+      const xml = await res.text();
+      const entities = new Map();
+      const entryRe = /<sanctionEntity\b([^>]*)>([\s\S]*?)<\/sanctionEntity>/g;
+      let m;
+      while ((m = entryRe.exec(xml))) {
+        const idMatch = m[1].match(/logicalId="([^"]*)"/);
+        const id = idMatch ? idMatch[1] : null;
+        if (!id) continue;
+        const nameMatch = m[2].match(/<nameAlias\b[^>]*\bwholeName="([^"]*)"/);
+        const name = nameMatch ? decodeXmlEntities(nameMatch[1]) : '';
+        if (!name) continue;
+        entities.set(id, { name, list: 'EU FSF' });
+      }
+      if (entities.size === 0) throw new Error('eu-fsf: parsed 0 entities - schema may have changed');
+      return { resolvedUrl: '(EU_FSF_URL, not logged - contains a token)', entities };
+    },
+  });
+}
+
+// ---- Page-diff sources: single page -> normalized text lines ----
+const PAGE_SOURCES = [
+  {
+    id: 'fcc-covered-list',
+    label: 'FCC Covered List',
+    async fetchLines() {
+      const url = 'https://www.fcc.gov/supplychain/coveredlist';
+      const res = await fetchText(url);
+      return { resolvedUrl: url, lines: normalizePage(await res.text()) };
+    },
+  },
+  {
+    id: 'mofcom-unreliable-entity-list',
+    label: '中国商務部 不可靠実体清単',
+    async fetchLines() {
+      const url = 'https://www.mofcom.gov.cn/zcfb/dwmygl/';
+      const res = await fetchText(url, { headers: { 'Accept-Language': 'zh-CN,zh;q=0.9' } });
+      return { resolvedUrl: url, lines: normalizePage(await res.text()) };
+    },
+  },
+  {
+    id: 'mofcom-export-control',
+    label: '中国商務部 輸出管制公告',
+    async fetchLines() {
+      const url = 'https://exportcontrol.mofcom.gov.cn/zcfgList.shtml';
+      const res = await fetchText(url, { headers: { 'Accept-Language': 'zh-CN,zh;q=0.9' } });
+      return { resolvedUrl: url, lines: normalizePage(await res.text()) };
+    },
+  },
+  {
+    id: 'acquisition-section-889',
+    label: 'acquisition.gov Section 889',
+    async fetchLines() {
+      const url = 'https://www.acquisition.gov/Section-889-Policies';
+      const res = await fetchText(url);
+      return { resolvedUrl: url, lines: normalizePage(await res.text()) };
+    },
+  },
+  // FCC Section 214 authorization revocations have no stable, regularly
+  // updated LIST page (confirmed via research, 2026-07-12) - only scattered
+  // per-carrier order PDFs/press releases exist, so there is nothing
+  // meaningful to page-diff. Deferred; see the step-10 report.
+];
+
+// ---- Federal Register: new documents since last run, add-only ----
+const FR_SOURCE_ID = 'federal-register';
+const FR_AGENCY_SLUGS = [
+  'industry-and-security-bureau', // BIS
+  'foreign-assets-control-office', // OFAC
+  'state-department',
+  'defense-department',
+];
+const FR_KEYWORDS = ['1260H', 'Entity List', 'connected vehicles', 'ICTS', 'UFLPA'];
+const FR_API_BASE = 'https://www.federalregister.gov/api/v1/documents.json';
+const FR_PER_PAGE = 20;
+const FR_SEEN_CAP = 1000;
+
+async function fetchFederalRegisterDocs() {
+  const queries = [
+    ...FR_AGENCY_SLUGS.map(
+      (slug) => `${FR_API_BASE}?conditions%5Bagencies%5D%5B%5D=${slug}&per_page=${FR_PER_PAGE}&order=newest`,
+    ),
+    ...FR_KEYWORDS.map(
+      (kw) => `${FR_API_BASE}?conditions%5Bterm%5D=${encodeURIComponent(kw)}&per_page=${FR_PER_PAGE}&order=newest`,
+    ),
+  ];
+  const docs = new Map();
+  for (const q of queries) {
+    const res = await fetchText(q);
+    const data = JSON.parse(await res.text());
+    for (const d of data.results || []) {
+      if (!d.document_number) continue;
+      docs.set(d.document_number, { title: d.title, url: d.html_url, date: d.publication_date });
+    }
+  }
+  return docs;
+}
 
 function loadSnapshot(id) {
   const p = resolve(WATCH_DIR, `${id}.json`);
@@ -426,7 +620,13 @@ function writeGithubOutput(newAlertsThisRun) {
   for (const [source, items] of Object.entries(bySource)) {
     lines.push(`### ${source} (${items.length}件)`);
     for (const item of items.slice(0, MAX_ENTITIES_PER_ISSUE_SOURCE)) {
-      lines.push(`- [${item.type === 'add' ? '+' : '-'}] ${item.entity}${item.detail ? ` (${item.detail})` : ''}`);
+      if (item.type === 'fr-new') {
+        lines.push(`- [FR] ${item.entity}${item.url ? ` (${item.url})` : ''}`);
+      } else if (item.type === 'page-change') {
+        lines.push(`- [CHANGED] ${item.detail}`);
+      } else {
+        lines.push(`- [${item.type === 'add' ? '+' : '-'}] ${item.entity}${item.detail ? ` (${item.detail})` : ''}`);
+      }
     }
     if (items.length > MAX_ENTITIES_PER_ISSUE_SOURCE) {
       lines.push(`...ほか${items.length - MAX_ENTITIES_PER_ISSUE_SOURCE}件`);
@@ -436,77 +636,166 @@ function writeGithubOutput(newAlertsThisRun) {
   writeFileSync(SUMMARY_PATH, lines.join('\n'), 'utf-8');
 }
 
+async function processEntitySource(source, ctx) {
+  console.log(`\n[${source.id}] fetching...`);
+  let result;
+  try {
+    result = await source.fetchEntities();
+  } catch (err) {
+    console.warn(`[${source.id}] SKIP (fetch/parse failed): ${err.message}`);
+    ctx.summary.push({ id: source.id, status: 'skip', error: err.message });
+    return;
+  }
+
+  const { resolvedUrl, entities } = result;
+  const previous = loadSnapshot(source.id);
+  console.log(`[${source.id}] fetched ${entities.size} entities from ${resolvedUrl}`);
+
+  if (!previous) {
+    console.log(`[${source.id}] no previous snapshot - writing baseline only (no diff)`);
+  } else {
+    const prevEntities = previous.entities || {};
+    const prevIds = new Set(Object.keys(prevEntities));
+    const currIds = new Set(entities.keys());
+
+    for (const id of currIds) {
+      if (prevIds.has(id)) continue;
+      const e = entities.get(id);
+      const alert = { date: ctx.nowIso, source: source.id, type: 'add', entity: e.name, detail: e.list };
+      ctx.alerts.push(alert);
+      ctx.newAlertsThisRun.push(alert);
+    }
+    for (const id of prevIds) {
+      if (currIds.has(id)) continue;
+      const e = prevEntities[id];
+      const alert = { date: ctx.nowIso, source: source.id, type: 'remove', entity: e.name, detail: e.list };
+      ctx.alerts.push(alert);
+      ctx.newAlertsThisRun.push(alert);
+    }
+  }
+
+  saveSnapshot(source.id, {
+    id: source.id,
+    label: source.label,
+    generated: ctx.nowIso,
+    resolvedUrl,
+    count: entities.size,
+    entities: Object.fromEntries(entities),
+  });
+
+  ctx.summary.push({ id: source.id, status: 'ok', count: entities.size, resolvedUrl });
+}
+
+async function processPageSource(source, ctx) {
+  console.log(`\n[${source.id}] fetching (page-diff)...`);
+  let result;
+  try {
+    result = await source.fetchLines();
+  } catch (err) {
+    console.warn(`[${source.id}] SKIP (fetch/parse failed): ${err.message}`);
+    ctx.summary.push({ id: source.id, status: 'skip', error: err.message });
+    return;
+  }
+
+  const { resolvedUrl, lines } = result;
+  const previous = loadSnapshot(source.id);
+  console.log(`[${source.id}] fetched ${lines.length} normalized lines from ${resolvedUrl}`);
+
+  if (!previous) {
+    console.log(`[${source.id}] no previous snapshot - writing baseline only (no diff)`);
+  } else {
+    const prevLines = previous.lines || [];
+    const changed = prevLines.length !== lines.length || prevLines.some((l, i) => l !== lines[i]);
+    if (changed) {
+      const detail = firstDiffLine(prevLines, lines).slice(0, 200);
+      const alert = { date: ctx.nowIso, source: source.id, type: 'page-change', entity: source.label, detail };
+      ctx.alerts.push(alert);
+      ctx.newAlertsThisRun.push(alert);
+    }
+  }
+
+  saveSnapshot(source.id, { id: source.id, label: source.label, generated: ctx.nowIso, resolvedUrl, lines });
+  ctx.summary.push({ id: source.id, status: 'ok', count: lines.length, resolvedUrl });
+}
+
+async function processFrSource(ctx) {
+  console.log(`\n[${FR_SOURCE_ID}] fetching...`);
+  let docs;
+  try {
+    docs = await fetchFederalRegisterDocs();
+  } catch (err) {
+    console.warn(`[${FR_SOURCE_ID}] SKIP (fetch/parse failed): ${err.message}`);
+    ctx.summary.push({ id: FR_SOURCE_ID, status: 'skip', error: err.message });
+    return;
+  }
+  console.log(`[${FR_SOURCE_ID}] fetched ${docs.size} candidate documents`);
+
+  const previous = loadSnapshot(FR_SOURCE_ID);
+  if (!previous) {
+    console.log(`[${FR_SOURCE_ID}] no previous snapshot - writing baseline only (no diff)`);
+  } else {
+    const prevSeen = new Set(Object.keys(previous.seen || {}));
+    for (const [docNumber, doc] of docs) {
+      if (prevSeen.has(docNumber)) continue;
+      const alert = {
+        date: ctx.nowIso,
+        source: FR_SOURCE_ID,
+        type: 'fr-new',
+        entity: doc.title,
+        detail: doc.date,
+        url: doc.url,
+      };
+      ctx.alerts.push(alert);
+      ctx.newAlertsThisRun.push(alert);
+    }
+    // A document scrolling out of the "newest N" window on a later run is
+    // not a removal event, so no alert is ever generated for that case.
+  }
+
+  const merged = new Map(Object.entries(previous?.seen || {}));
+  for (const [docNumber, doc] of docs) merged.set(docNumber, doc);
+  const seenEntries = [...merged.entries()].slice(-FR_SEEN_CAP);
+
+  saveSnapshot(FR_SOURCE_ID, {
+    id: FR_SOURCE_ID,
+    label: 'Federal Register 新着',
+    generated: ctx.nowIso,
+    count: docs.size,
+    seen: Object.fromEntries(seenEntries),
+  });
+
+  ctx.summary.push({ id: FR_SOURCE_ID, status: 'ok', count: docs.size });
+}
+
 async function main() {
   if (!existsSync(WATCH_DIR)) mkdirSync(WATCH_DIR, { recursive: true });
   const now = new Date();
-  const nowIso = now.toISOString();
-
-  const alertsData = loadAlerts();
-  let alerts = alertsData.alerts || [];
-  const newAlertsThisRun = [];
-  const summary = [];
+  const ctx = {
+    nowIso: now.toISOString(),
+    alerts: loadAlerts().alerts || [],
+    newAlertsThisRun: [],
+    summary: [],
+  };
 
   for (const source of SOURCES) {
-    console.log(`\n[${source.id}] fetching...`);
-    let result;
-    try {
-      result = await source.fetchEntities();
-    } catch (err) {
-      console.warn(`[${source.id}] SKIP (fetch/parse failed): ${err.message}`);
-      summary.push({ id: source.id, status: 'skip', error: err.message });
-      continue;
-    }
-
-    const { resolvedUrl, entities } = result;
-    const previous = loadSnapshot(source.id);
-    console.log(`[${source.id}] fetched ${entities.size} entities from ${resolvedUrl}`);
-
-    if (!previous) {
-      console.log(`[${source.id}] no previous snapshot - writing baseline only (no diff)`);
-    } else {
-      const prevEntities = previous.entities || {};
-      const prevIds = new Set(Object.keys(prevEntities));
-      const currIds = new Set(entities.keys());
-
-      for (const id of currIds) {
-        if (prevIds.has(id)) continue;
-        const e = entities.get(id);
-        const alert = { date: nowIso, source: source.id, type: 'add', entity: e.name, detail: e.list };
-        alerts.push(alert);
-        newAlertsThisRun.push(alert);
-      }
-      for (const id of prevIds) {
-        if (currIds.has(id)) continue;
-        const e = prevEntities[id];
-        const alert = { date: nowIso, source: source.id, type: 'remove', entity: e.name, detail: e.list };
-        alerts.push(alert);
-        newAlertsThisRun.push(alert);
-      }
-    }
-
-    saveSnapshot(source.id, {
-      id: source.id,
-      label: source.label,
-      generated: nowIso,
-      resolvedUrl,
-      count: entities.size,
-      entities: Object.fromEntries(entities),
-    });
-
-    summary.push({ id: source.id, status: 'ok', count: entities.size, resolvedUrl });
+    await processEntitySource(source, ctx);
   }
+  for (const source of PAGE_SOURCES) {
+    await processPageSource(source, ctx);
+  }
+  await processFrSource(ctx);
 
-  alerts = pruneOldAlerts(alerts, now.getTime());
-  saveAlerts({ meta: { generated: nowIso }, alerts });
-  writeGithubOutput(newAlertsThisRun);
+  const alerts = pruneOldAlerts(ctx.alerts, now.getTime());
+  saveAlerts({ meta: { generated: ctx.nowIso }, alerts });
+  writeGithubOutput(ctx.newAlertsThisRun);
 
   console.log('\n=== summary ===');
-  for (const s of summary) {
+  for (const s of ctx.summary) {
     console.log(
-      `${s.id}: ${s.status}` + (s.count != null ? ` (${s.count} entities)` : '') + (s.error ? ` - ${s.error}` : ''),
+      `${s.id}: ${s.status}` + (s.count != null ? ` (${s.count})` : '') + (s.error ? ` - ${s.error}` : ''),
     );
   }
-  console.log(`new alerts this run: ${newAlertsThisRun.length}`);
+  console.log(`new alerts this run: ${ctx.newAlertsThisRun.length}`);
   console.log(`alerts total (last ${RETENTION_DAYS}d): ${alerts.length}`);
 }
 

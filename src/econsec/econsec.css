@@ -299,6 +299,27 @@ body {
   border-color: var(--red);
 }
 
+.alert-badge-page {
+  color: var(--yellow);
+  border-color: var(--yellow);
+}
+
+.alert-badge-fr {
+  color: var(--text);
+  border-color: var(--text-dim);
+}
+
+.econsec-alert-entity a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--text-dim);
+}
+
+.econsec-alert-entity a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
 #econsec-meta {
   color: var(--text-dim);
   font-size: 10px;

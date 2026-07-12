@@ -53,7 +53,7 @@ export interface EconsecFeedsResponse {
   feeds: Record<string, EconsecFeedItem[]>;
 }
 
-export type EconsecAlertType = 'add' | 'remove';
+export type EconsecAlertType = 'add' | 'remove' | 'page-change' | 'fr-new';
 
 export interface EconsecAlert {
   date: string;
@@ -61,6 +61,8 @@ export interface EconsecAlert {
   type: EconsecAlertType;
   entity: string;
   detail: string;
+  // fr-new only: link to the Federal Register document.
+  url?: string;
 }
 
 export interface EconsecAlertsResponse {
