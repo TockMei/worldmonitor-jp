@@ -1,7 +1,7 @@
 {
   "id": "csl",
   "label": "Trade.gov Consolidated Screening List",
-  "generated": "2026-07-13T10:49:13.098Z",
+  "generated": "2026-07-13T11:25:50.408Z",
   "resolvedUrl": "https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",
   "count": 25753,
   "entities": {

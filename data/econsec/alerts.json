@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-13T10:49:13.098Z"
+    "generated": "2026-07-13T11:25:50.408Z"
   },
   "alerts": [
     {
@@ -209,6 +209,37 @@
       "entity": "中国商務部 不可靠実体清単",
       "detail": "var authorizedReadUnitId = \"712985f61f1a45c1b250eb08a6102b5d\";",
       "url": "https://www.mofcom.gov.cn"
+    },
+    {
+      "date": "2026-07-13T11:23:09.088Z",
+      "source": "fcc-covered-list",
+      "type": "page-change",
+      "entity": "FCC Covered List",
+      "detail": "!function(){var b=function(){window.__AudioEyeSiteHash = \"628124f7e2615040a831b5fb079ee105\"; var a=document.createElement(\"script\");a.src=\"https://wsmcdn.audioeye.com/aem.js\";a.type=\"text/javascript\"; → (なし)",
+      "url": "https://www.fcc.gov/supplychain/coveredlist"
+    },
+    {
+      "date": "2026-07-13T11:23:09.088Z",
+      "source": "mofcom-unreliable-entity-list",
+      "type": "page-change",
+      "entity": "中国商務部 不可靠実体清単",
+      "detail": "var authorizedReadUnitId = \"712985f61f1a45c1b250eb08a6102b5d\"; → (なし)",
+      "url": "https://www.mofcom.gov.cn"
+    },
+    {
+      "date": "2026-07-13T11:23:09.088Z",
+      "source": "mofcom-export-control",
+      "type": "page-change",
+      "entity": "中国商務部 輸出管制公告",
+      "detail": "$(function () { → 首 页",
+      "url": "https://www.mofcom.gov.cn"
+    },
+    {
+      "date": "2026-07-13T11:23:09.088Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "{\"path\":{\"baseUrl\":\"\\/\",\"pathPrefix\":\"\",\"currentPath\":\"node\\/20330\",\"currentPathIsAdmin\":false,\"isFront\":false,\"currentLanguage\":\"en\",\"themeUrl\":\"themes\\/custom\\/acquisition_gov\"},\"pluralDelimiter\":\"\\ → (なし)"
     }
   ]
 }

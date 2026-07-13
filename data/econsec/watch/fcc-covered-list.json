@@ -1,7 +1,7 @@
 {
   "id": "fcc-covered-list",
   "label": "FCC Covered List",
-  "generated": "2026-07-13T10:49:13.098Z",
+  "generated": "2026-07-13T11:25:50.408Z",
   "resolvedUrl": "https://www.fcc.gov/supplychain/coveredlist",
   "lines": [
     "Skip to main content",
@@ -186,7 +186,6 @@
     "Facebook",
     "Youtube",
     "Instagram",
-    "Federal Communications Commission",
-    "!function(){var b=function(){window.__AudioEyeSiteHash = \"628124f7e2615040a831b5fb079ee105\"; var a=document.createElement(\"script\");a.src=\"https://wsmcdn.audioeye.com/aem.js\";a.type=\"text/javascript\";a.setAttribute(\"async\",\"\");document.getElementsByTagName(\"body\")[0].appendChild(a)};\"complete\"!==document.readyState?window.addEventListener?window.addEventListener(\"load\",b):window.attachEvent&&window.attachEvent(\"onload\",b):b()}();"
+    "Federal Communications Commission"
   ]
 }

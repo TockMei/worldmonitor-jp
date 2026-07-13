@@ -1,7 +1,7 @@
 {
   "id": "acquisition-section-889",
   "label": "acquisition.gov Section 889",
-  "generated": "2026-07-13T10:49:13.098Z",
+  "generated": "2026-07-13T11:25:50.408Z",
   "resolvedUrl": "https://www.acquisition.gov/Section-889-Policies",
   "lines": [
     "Skip to main content",
@@ -346,7 +346,6 @@
     "Privacy policy",
     "Looking for U.S. government information and services?",
     "Visit USA.gov",
-    "Tt",
-    "{\"path\":{\"baseUrl\":\"\\/\",\"pathPrefix\":\"\",\"currentPath\":\"node\\/20330\",\"currentPathIsAdmin\":false,\"isFront\":false,\"currentLanguage\":\"en\",\"themeUrl\":\"themes\\/custom\\/acquisition_gov\"},\"pluralDelimiter\":\"\\u0003\",\"suppressDeprecationErrors\":true,\"ajaxPageState\":{\"libraries\":\"eJx9jdEOwiAMRX8IxieRIt2sAtW2OPf3bsEY44Nv5-acpnC6d1Iy4hYXfgRQRVMHO8ckvCqGg33B2XzF1v8ofyqsmEcxw4OFDHVEnznssqc9DzXYq23l0Bd4xsKQUcIXT3YWTgnF4dMKtWvI0m9Qpvd0lRqxQFswKtQSfva0vzZ3E2oGqWDAZmSbP07V6aaGNSRQdF3XrPHAMAtUXFmuL_l3cwU\",\"theme\":\"acquisition_gov\",\"theme_token\":null},\"ajaxTrustedUrl\":[],\"ajaxLoader\":{\"markup\":\"\\u003Cdiv class=\\u0022ajax-throbber sk-circle\\u0022\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003Cdiv class=\\u0022sk-circle-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n \\u003C\\/div\\u003E\",\"hideAjaxMessage\":false,\"alwaysFullscreen\":true,\"throbberPosition\":\"body\"},\"data\":{\"extlink\":{\"extTarget\":true,\"extTargetAppendNewWindowDisplay\":true,\"extTargetAppendNewWindowLabel\":\"(opens in a new window)\",\"extTargetNoOverride\":false,\"extNofollow\":false,\"extTitleNoOverride\":false,\"extNoreferrer\":true,\"extFollowNoOverride\":false,\"extClass\":\"ext\",\"extLabel\":\"(link is external)\",\"extImgClass\":false,\"extSubdomains\":true,\"extExclude\":\"\",\"extInclude\":\"\",\"extCssExclude\":\"#useful-links, #double-column\",\"extCssInclude\":\"\",\"extCssExplicit\":\"\",\"extAlert\":false,\"extAlertText\":\"This link will take you to an external web site. We are not responsible for their content.\",\"extHideIcons\":false,\"mailtoClass\":\"mailto\",\"telClass\":\"\",\"mailtoLabel\":\"(link sends email)\",\"telLabel\":\"(link is a phone number)\",\"extUseFontAwesome\":false,\"extIconPlacement\":\"append\",\"extPreventOrphan\":false,\"extFaLinkClasses\":\"fa fa-external-link\",\"extFaMailtoClasses\":\"fa fa-envelope-o\",\"extAdditionalLinkClasses\":\"\",\"extAdditionalMailtoClasses\":\"\",\"extAdditionalTelClasses\":\"\",\"extFaTelClasses\":\"fa fa-phone\",\"allowedDomains\":[],\"extExcludeNoreferrer\":\"\"}},\"miniorange_saml\":{\"base_url\":\"https:\\/\\/www.acquisition.gov\"},\"user\":{\"uid\":0,\"permissionsHash\":\"493423864df395a9ab6d6ef0246647e44ef424cc6bee0c7e89e3c1ba4fc7e262\"}}"
+    "Tt"
   ]
 }
