@@ -29,11 +29,20 @@ import { inflateRawSync } from 'node:zlib';
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const WATCH_DIR = resolve(ROOT, 'data/econsec/watch');
 const ALERTS_PATH = resolve(ROOT, 'data/econsec/alerts.json');
+const SOURCES_PATH = resolve(ROOT, 'data/econsec/sources.json');
+const FEED_HISTORY_DIR = resolve(ROOT, 'data/econsec/feed-history');
+const FEED_HISTORY_BUNDLE_PATH = resolve(ROOT, 'data/econsec/feed-history.json');
 const SUMMARY_PATH = resolve(ROOT, 'econsec-watch-summary.md');
 
 const TIMEOUT_MS = 30000;
 const RETENTION_DAYS = 90;
 const MAX_ENTITIES_PER_ISSUE_SOURCE = 50;
+const FEED_HISTORY_RETENTION_DAYS = 180;
+const FEED_HISTORY_MAX_PER_SOURCE = 200;
+// Mirrors api/internal/econsec-feeds.js's SKIP_DOMAINS - kept as a separate
+// copy because that file runs in the edge runtime, which cannot load this
+// node:fs-using script, and vice versa.
+const FEED_SKIP_DOMAINS = ['x.com', 'facebook.com', 't.me', 'weibo.com', 'webgate.ec.europa.eu'];
 const USER_AGENT =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
 
@@ -99,6 +108,106 @@ function decodeXmlEntities(s) {
     .replace(/&quot;/g, '"')
     .replace(/&apos;/g, "'")
     .replace(/&amp;/g, '&');
+}
+
+// ---- Feed-history helpers (Step 11 Phase A): mirrors the discovery/parsing
+// logic in api/internal/econsec-feeds.js, duplicated for the same reason as
+// FEED_SKIP_DOMAINS above - that file's edge runtime cannot load node:fs. ----
+export function isSafeHttpUrl(value) {
+  try {
+    return ['http:', 'https:'].includes(new URL(value).protocol);
+  } catch {
+    return false;
+  }
+}
+
+function feedHostOf(url) {
+  try {
+    return new URL(url).hostname.toLowerCase();
+  } catch {
+    return null;
+  }
+}
+
+function isSkipFeedDomain(url) {
+  const host = feedHostOf(url);
+  if (!host) return true;
+  return FEED_SKIP_DOMAINS.some((d) => host === d || host.endsWith(`.${d}`));
+}
+
+// Same <link rel="alternate" type="application/(rss|atom)+xml"> detection as
+// econsec-feeds.js's discoverFeedUrl.
+function discoverFeedUrl(html, baseUrl) {
+  const links = html.match(/<link\b[^>]*>/gi) || [];
+  for (const tag of links) {
+    const isAlternate = /rel\s*=\s*["']?alternate["']?/i.test(tag);
+    const isFeedType = /type\s*=\s*["']?application\/(rss|atom)\+xml/i.test(tag);
+    if (!isAlternate || !isFeedType) continue;
+    const hrefMatch = tag.match(/href\s*=\s*["']([^"']+)["']/i);
+    if (!hrefMatch) continue;
+    try {
+      return new URL(hrefMatch[1], baseUrl).toString();
+    } catch {
+      return null;
+    }
+  }
+  return null;
+}
+
+function decodeFeedEntities(value) {
+  return value
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => String.fromCodePoint(parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (_, dec) => String.fromCodePoint(parseInt(dec, 10)))
+    .replace(/<[^>]+>/g, '')
+    .trim();
+}
+
+// Unlike econsec-feeds.js's card-oriented parseFeedItems (capped to the
+// latest 3 items), history accumulation wants everything a feed currently
+// lists - RSS/Atom feeds rarely list more than a few dozen entries, so a
+// generous cap here is just a safety valve against a pathological feed, not
+// a meaningful limit in practice.
+const FEED_HISTORY_ITEMS_PER_FETCH = 100;
+
+export function parseFeedItems(xml) {
+  const isAtom = !/<item[\s>]/i.test(xml) && /<entry[\s>]/i.test(xml);
+  const blockPattern = isAtom ? /<entry\b[\s\S]*?<\/entry>/gi : /<item\b[\s\S]*?<\/item>/gi;
+  const blocks = (xml.match(blockPattern) || []).slice(0, FEED_HISTORY_ITEMS_PER_FETCH);
+
+  const items = [];
+  for (const block of blocks) {
+    const titleMatch = block.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i);
+    if (!titleMatch) continue;
+
+    let link = null;
+    if (isAtom) {
+      const linkMatch =
+        block.match(/<link\b[^>]*rel\s*=\s*["']?alternate["']?[^>]*href\s*=\s*["']([^"']+)["'][^>]*\/?>/i) ||
+        block.match(/<link\b[^>]*href\s*=\s*["']([^"']+)["'][^>]*\/?>/i);
+      link = linkMatch ? linkMatch[1] : null;
+    } else {
+      const linkMatch = block.match(/<link\b[^>]*>([\s\S]*?)<\/link>/i);
+      link = linkMatch ? decodeFeedEntities(linkMatch[1]) : null;
+    }
+    if (!link || !isSafeHttpUrl(link)) continue;
+
+    const dateMatch = isAtom
+      ? block.match(/<(?:published|updated)\b[^>]*>([\s\S]*?)<\/(?:published|updated)>/i)
+      : block.match(/<pubDate\b[^>]*>([\s\S]*?)<\/pubDate>/i);
+
+    items.push({
+      title: decodeFeedEntities(titleMatch[1]),
+      link,
+      date: dateMatch ? decodeFeedEntities(dateMatch[1]) : null,
+    });
+  }
+  return items;
 }
 
 // ---- Minimal HTML table extraction (regex-based - good enough for the
@@ -607,6 +716,151 @@ function pruneOldAlerts(alerts, nowMs) {
   return alerts.filter((a) => new Date(a.date).getTime() >= cutoff);
 }
 
+// ---- Alert linking (Step 11 Phase B): resolve each alert's source to a URL
+// on data/econsec/sources.json, so entity add/remove and page-change alerts
+// become clickable the same way fr-new already is. ----
+function loadSourcesData() {
+  if (!existsSync(SOURCES_PATH)) return { sources: [] };
+  return JSON.parse(readFileSync(SOURCES_PATH, 'utf-8'));
+}
+
+function buildSourceUrlLookup(sourcesData) {
+  const lookup = new Map();
+  for (const s of sourcesData.sources || []) {
+    const candidate = s.final_url || s.url;
+    if (candidate && isSafeHttpUrl(candidate)) lookup.set(s.id, candidate);
+  }
+  return lookup;
+}
+
+// The watcher's internal source ids (SOURCES/PAGE_SOURCES above) were chosen
+// independently of data/econsec/sources.json's OSINT source directory ids -
+// the two lists serve different purposes and were curated separately, so
+// only some ids happen to line up (csl, eu-fsf). This bridges the ones with
+// a genuine 1:1 organizational match; anything not listed here (or not
+// present in sources.json under either id) simply gets no alert link.
+const WATCH_ID_TO_SOURCE_ID = {
+  'ofac-sdn': 'ofac',
+  'ofac-consolidated': 'ofac',
+  uksl: 'ofsi',
+  'un-consolidated': 'un-sc',
+  'meti-foreign-user-list': 'meti-anpo',
+  'fcc-covered-list': 'fcc-covered',
+  'mofcom-unreliable-entity-list': 'mofcom',
+  'mofcom-export-control': 'mofcom',
+};
+
+function resolveAlertUrl(ctx, watchId) {
+  const sourceId = WATCH_ID_TO_SOURCE_ID[watchId] || watchId;
+  return ctx.sourceUrlLookup.get(sourceId);
+}
+
+// One-time-per-run backfill: alerts written before this feature existed (or
+// by a code path that could not resolve a url at creation time) get a url
+// filled in retroactively wherever the lookup now resolves one. Alerts that
+// already carry a url (fr-new's own document link, or anything resolved on
+// a previous run) are left untouched.
+function backfillAlertUrls(alerts, ctx) {
+  for (const a of alerts) {
+    if (a.url) continue;
+    const url = resolveAlertUrl(ctx, a.source);
+    if (url) a.url = url;
+  }
+}
+
+// ---- Feed-history accumulation (Step 11 Phase A): every mr:"rss" source's
+// feed items, deduped by link and capped per source, so alert consumers can
+// browse a source's history beyond the 3-item card preview. ----
+function feedHistoryCandidates(sourcesData) {
+  return (sourcesData.sources || []).filter(
+    (s) => Array.isArray(s.mr) && s.mr.includes('rss') && s.url && !isSkipFeedDomain(s.url),
+  );
+}
+
+function loadFeedHistorySnapshot(id) {
+  const p = resolve(FEED_HISTORY_DIR, `${id}.json`);
+  if (!existsSync(p)) return null;
+  return JSON.parse(readFileSync(p, 'utf-8'));
+}
+
+function saveFeedHistorySnapshot(id, snapshot) {
+  writeFileSync(resolve(FEED_HISTORY_DIR, `${id}.json`), JSON.stringify(snapshot, null, 2) + '\n', 'utf-8');
+}
+
+function saveFeedHistoryBundle(bundle) {
+  writeFileSync(FEED_HISTORY_BUNDLE_PATH, JSON.stringify(bundle, null, 2) + '\n', 'utf-8');
+}
+
+// Merges freshly fetched feed items into existing history: dedup by link
+// (a link already on file keeps its original title/date/firstSeen - a later
+// fetch of the same link never overwrites it), then keeps the newest
+// FEED_HISTORY_MAX_PER_SOURCE entries within FEED_HISTORY_RETENTION_DAYS,
+// dropping the rest oldest-first. Ordering and pruning are keyed off
+// firstSeen (this script's own run timestamp when the link was first
+// observed), not the feed's own pubDate/date, because that field is often
+// missing or inconsistently formatted across feeds.
+export function mergeFeedHistory(existingItems, newItems, nowIso) {
+  const byLink = new Map();
+  for (const item of existingItems) byLink.set(item.link, item);
+  for (const item of newItems) {
+    if (byLink.has(item.link)) continue;
+    byLink.set(item.link, { title: item.title, link: item.link, date: item.date, firstSeen: nowIso });
+  }
+  const cutoffMs = new Date(nowIso).getTime() - FEED_HISTORY_RETENTION_DAYS * 24 * 60 * 60 * 1000;
+  return [...byLink.values()]
+    .filter((item) => new Date(item.firstSeen).getTime() >= cutoffMs)
+    .sort((a, b) => new Date(b.firstSeen).getTime() - new Date(a.firstSeen).getTime())
+    .slice(0, FEED_HISTORY_MAX_PER_SOURCE);
+}
+
+async function processFeedHistorySource(source, ctx) {
+  console.log(`\n[feed-history:${source.id}] fetching...`);
+  const existing = loadFeedHistorySnapshot(source.id);
+  const existingItems = existing?.items || [];
+
+  let newItems;
+  try {
+    const pageRes = await fetchText(source.url);
+    const html = await pageRes.text();
+    const feedUrl = discoverFeedUrl(html, source.url);
+    if (!feedUrl) throw new Error('no <link rel=alternate> feed found');
+    const feedRes = await fetchText(feedUrl);
+    const xml = await feedRes.text();
+    newItems = parseFeedItems(xml);
+  } catch (err) {
+    console.warn(`[feed-history:${source.id}] SKIP (fetch/parse failed): ${err.message}`);
+    // Preserve whatever history already exists on disk in this run's bundle
+    // - a transient fetch failure must not make the source vanish from
+    // /internal/econsec/feed-history.json.
+    if (existingItems.length > 0) ctx.feedHistory[source.id] = existingItems;
+    ctx.feedHistorySummary.push({ id: source.id, status: 'skip', error: err.message });
+    return;
+  }
+
+  const merged = mergeFeedHistory(existingItems, newItems, ctx.nowIso);
+  saveFeedHistorySnapshot(source.id, { id: source.id, label: source.name, generated: ctx.nowIso, items: merged });
+  ctx.feedHistory[source.id] = merged;
+  ctx.feedHistorySummary.push({ id: source.id, status: 'ok', count: merged.length, fetched: newItems.length });
+}
+
+// Same worker-pool shape as api/internal/econsec-feeds.js's buildFeeds: with
+// 40+ mr:"rss" sources, running these one at a time (as the entity/page/FR
+// sources above do) risks pushing the CI job's overall runtime past its
+// timeout, since each source is two sequential fetches (page + feed).
+const FEED_HISTORY_CONCURRENCY = 6;
+
+async function processFeedHistorySources(candidates, ctx) {
+  const queue = [...candidates];
+  const workers = Array.from({ length: FEED_HISTORY_CONCURRENCY }, async () => {
+    while (queue.length > 0) {
+      const source = queue.shift();
+      if (!source) continue;
+      await processFeedHistorySource(source, ctx);
+    }
+  });
+  await Promise.all(workers);
+}
+
 function writeGithubOutput(newAlertsThisRun) {
   if (!process.env.GITHUB_OUTPUT) return;
   writeFileSync(process.env.GITHUB_OUTPUT, `new_alerts_count=${newAlertsThisRun.length}\n`, { flag: 'a' });
@@ -658,17 +912,18 @@ async function processEntitySource(source, ctx) {
     const prevIds = new Set(Object.keys(prevEntities));
     const currIds = new Set(entities.keys());
 
+    const url = resolveAlertUrl(ctx, source.id);
     for (const id of currIds) {
       if (prevIds.has(id)) continue;
       const e = entities.get(id);
-      const alert = { date: ctx.nowIso, source: source.id, type: 'add', entity: e.name, detail: e.list };
+      const alert = { date: ctx.nowIso, source: source.id, type: 'add', entity: e.name, detail: e.list, url };
       ctx.alerts.push(alert);
       ctx.newAlertsThisRun.push(alert);
     }
     for (const id of prevIds) {
       if (currIds.has(id)) continue;
       const e = prevEntities[id];
-      const alert = { date: ctx.nowIso, source: source.id, type: 'remove', entity: e.name, detail: e.list };
+      const alert = { date: ctx.nowIso, source: source.id, type: 'remove', entity: e.name, detail: e.list, url };
       ctx.alerts.push(alert);
       ctx.newAlertsThisRun.push(alert);
     }
@@ -708,7 +963,8 @@ async function processPageSource(source, ctx) {
     const changed = prevLines.length !== lines.length || prevLines.some((l, i) => l !== lines[i]);
     if (changed) {
       const detail = firstDiffLine(prevLines, lines).slice(0, 200);
-      const alert = { date: ctx.nowIso, source: source.id, type: 'page-change', entity: source.label, detail };
+      const url = resolveAlertUrl(ctx, source.id);
+      const alert = { date: ctx.nowIso, source: source.id, type: 'page-change', entity: source.label, detail, url };
       ctx.alerts.push(alert);
       ctx.newAlertsThisRun.push(alert);
     }
@@ -769,13 +1025,22 @@ async function processFrSource(ctx) {
 
 async function main() {
   if (!existsSync(WATCH_DIR)) mkdirSync(WATCH_DIR, { recursive: true });
+  if (!existsSync(FEED_HISTORY_DIR)) mkdirSync(FEED_HISTORY_DIR, { recursive: true });
   const now = new Date();
+  const sourcesData = loadSourcesData();
   const ctx = {
     nowIso: now.toISOString(),
     alerts: loadAlerts().alerts || [],
     newAlertsThisRun: [],
     summary: [],
+    sourceUrlLookup: buildSourceUrlLookup(sourcesData),
+    feedHistory: {},
+    feedHistorySummary: [],
   };
+
+  // Backfill first, on the alerts loaded from disk, so any alert recorded
+  // before this feature existed picks up a url wherever one now resolves.
+  backfillAlertUrls(ctx.alerts, ctx);
 
   for (const source of SOURCES) {
     await processEntitySource(source, ctx);
@@ -784,6 +1049,9 @@ async function main() {
     await processPageSource(source, ctx);
   }
   await processFrSource(ctx);
+
+  await processFeedHistorySources(feedHistoryCandidates(sourcesData), ctx);
+  saveFeedHistoryBundle({ meta: { generated: ctx.nowIso }, history: ctx.feedHistory });
 
   const alerts = pruneOldAlerts(ctx.alerts, now.getTime());
   saveAlerts({ meta: { generated: ctx.nowIso }, alerts });
@@ -795,8 +1063,15 @@ async function main() {
       `${s.id}: ${s.status}` + (s.count != null ? ` (${s.count})` : '') + (s.error ? ` - ${s.error}` : ''),
     );
   }
+  console.log('\n=== feed-history summary ===');
+  for (const s of ctx.feedHistorySummary) {
+    console.log(
+      `${s.id}: ${s.status}` + (s.count != null ? ` (${s.count})` : '') + (s.error ? ` - ${s.error}` : ''),
+    );
+  }
   console.log(`new alerts this run: ${ctx.newAlertsThisRun.length}`);
   console.log(`alerts total (last ${RETENTION_DAYS}d): ${alerts.length}`);
+  console.log(`feed-history sources: ${Object.keys(ctx.feedHistory).length}`);
 }
 
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {

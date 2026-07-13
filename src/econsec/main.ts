@@ -8,6 +8,8 @@ import { EconsecLivePanel } from './live';
 import type {
   EconsecAlertsResponse,
   EconsecData,
+  EconsecFeedHistoryItem,
+  EconsecFeedHistoryResponse,
   EconsecFeedItem,
   EconsecFeedsResponse,
   EconsecFilterState,
@@ -20,6 +22,7 @@ import {
   filterSources,
   populateFeedContainers,
   renderAlertsPanel,
+  renderFeedHistoryList,
   renderSourceList,
   tierCounts,
   uniqueValues,
@@ -28,6 +31,7 @@ import {
 const SOURCES_URL = '/internal/econsec/sources.json';
 const FEEDS_URL = '/internal/econsec/feeds.json';
 const ALERTS_URL = '/internal/econsec/alerts.json';
+const FEED_HISTORY_URL = '/internal/econsec/feed-history.json';
 
 const state: EconsecFilterState = {
   tier: 'all',
@@ -40,6 +44,7 @@ const state: EconsecFilterState = {
 let data: EconsecData | null = null;
 let map: EconsecMap | null = null;
 let feeds: Record<string, EconsecFeedItem[]> | null = null;
+let feedHistory: Record<string, EconsecFeedHistoryItem[]> | null = null;
 
 function $(id: string): HTMLElement {
   const el = document.getElementById(id);
@@ -98,12 +103,55 @@ async function loadAlerts(): Promise<void> {
   }
 }
 
+// Best-effort, same as loadFeeds/loadAlerts: fetched once up front, then
+// each card's history toggle renders from this cached object on demand
+// (populateHistoryToggle) rather than issuing a request per click.
+async function loadFeedHistory(): Promise<void> {
+  try {
+    const res = await fetch(FEED_HISTORY_URL, { credentials: 'same-origin' });
+    if (!res.ok) return;
+    const payload = (await res.json()) as EconsecFeedHistoryResponse;
+    feedHistory = payload.history;
+  } catch {
+    // no history toggles populate this session - cards already render
+    // link-only/latest-3, same degradation as a feeds.json failure
+  }
+}
+
 // Region filter shared by the select box and the map markers.
 function setRegion(region: string): void {
   state.region = region;
   ($('econsec-filter-region') as HTMLSelectElement).value = region;
   map?.setActiveRegion(region === 'all' ? null : region);
   renderList();
+}
+
+// Toggles a card's full history open/closed; content is rendered from the
+// already-fetched `feedHistory` cache on first expand only (dataset.populated
+// guards against re-rendering on every click). Delegated on the list
+// container since renderList() replaces all source-row elements on every
+// filter change, which would otherwise orphan a per-row listener.
+function bindHistoryToggle(list: HTMLElement): void {
+  list.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest<HTMLElement>('.source-history-toggle');
+    if (!btn?.dataset.historyToggle) return;
+    const id = btn.dataset.historyToggle;
+    const container = list.querySelector<HTMLElement>(`[data-history-for="${CSS.escape(id)}"]`);
+    if (!container) return;
+
+    const expanded = !container.hidden;
+    if (expanded) {
+      container.hidden = true;
+      btn.setAttribute('aria-expanded', 'false');
+      return;
+    }
+    if (!container.dataset.populated) {
+      container.innerHTML = renderFeedHistoryList(feedHistory?.[id] || []);
+      container.dataset.populated = '1';
+    }
+    container.hidden = false;
+    btn.setAttribute('aria-expanded', 'true');
+  });
 }
 
 function bindEvents(): void {
@@ -114,6 +162,8 @@ function bindEvents(): void {
     renderTabs();
     renderList();
   });
+
+  bindHistoryToggle($('econsec-list'));
 
   const bindSelect = (id: string, key: 'category' | 'cost') => {
     $(id).addEventListener('change', (e) => {
@@ -178,6 +228,11 @@ async function init(): Promise<void> {
   // Regulatory alert panel: fetched separately so a slow/failing check never
   // blocks the initial card render.
   void loadAlerts();
+
+  // Per-source feed history: fetched separately (and rendered lazily, only
+  // when a card's history toggle is expanded) so a slow/failing fetch never
+  // blocks the initial card render.
+  void loadFeedHistory();
 }
 
 init();

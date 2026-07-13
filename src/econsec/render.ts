@@ -1,6 +1,13 @@
 // Pure rendering/filtering logic for the econsec source directory.
 // Kept DOM-free so it can be unit-tested in node.
-import type { EconsecAlertsResponse, EconsecFeedItem, EconsecFilterState, EconsecSource, EconsecTier } from './types';
+import type {
+  EconsecAlertsResponse,
+  EconsecFeedHistoryItem,
+  EconsecFeedItem,
+  EconsecFilterState,
+  EconsecSource,
+  EconsecTier,
+} from './types';
 
 export const TIER_LABELS: Record<EconsecTier | 'all', string> = {
   all: 'すべて',
@@ -131,8 +138,12 @@ export function renderSourceRow(s: EconsecSource): string {
   // Feed items are filled in later (client-side, once /internal/econsec/feeds.json
   // resolves) via populateFeedContainer; only sources tagged mr:"rss" get a
   // container at all, so a plain link is all a non-RSS source ever shows.
+  // The history toggle (populated from /internal/econsec/feed-history.json,
+  // lazily on first expand) sits alongside it for the same rss-only sources.
   const feedContainer = s.mr.includes('rss')
-    ? `<div class="source-feed" data-feed-for="${escapeHtml(s.id)}"></div>`
+    ? `<div class="source-feed" data-feed-for="${escapeHtml(s.id)}"></div>
+       <button type="button" class="source-history-toggle" data-history-toggle="${escapeHtml(s.id)}" aria-expanded="false">履歴</button>
+       <div class="source-history" data-history-for="${escapeHtml(s.id)}" hidden></div>`
     : '';
   return `
     <div class="source-row" data-id="${escapeHtml(s.id)}" data-tier="${escapeHtml(s.tier)}">
@@ -184,6 +195,24 @@ export function populateFeedContainers(feeds: Record<string, EconsecFeedItem[]>)
   });
 }
 
+// Full per-source history (newest first, already sorted/capped server-side
+// by scripts/econsec-watch.mjs), rendered on demand when a card's history
+// toggle is first expanded. Same defense-in-depth link scheme as
+// renderFeedItems: third-party content, so the scheme is re-checked here
+// even though econsec-watch.mjs already filters non-http(s) links.
+export function renderFeedHistoryList(items: EconsecFeedHistoryItem[]): string {
+  const safeItems = items.filter((item) => isSafeHttpUrl(item.link));
+  if (safeItems.length === 0) return '<div class="source-history-empty">履歴なし</div>';
+  return `<ul class="source-history-list">${safeItems
+    .map(
+      (item) =>
+        `<li><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>${
+          item.date ? `<span class="source-history-date">${escapeHtml(item.date)}</span>` : ''
+        }</li>`,
+    )
+    .join('')}</ul>`;
+}
+
 function formatJst(iso: string | null): string {
   if (!iso) return '未実行';
   const jst = new Date(new Date(iso).getTime() + 9 * 60 * 60 * 1000);
@@ -203,8 +232,9 @@ const ALERT_TYPE_BADGES: Record<string, string> = {
 // Renders the regulatory-list/regulatory-page diff log watched by
 // scripts/econsec-watch.mjs: last 30 days, newest first, empty state shows
 // the last successful run time so a quiet week reads as "checked", not
-// "broken". fr-new entries show the Federal Register document title linked
-// to its html_url instead of an entity name.
+// "broken". Any alert carrying a url (fr-new's own document link, or a
+// sources.json-resolved link for add/remove/page-change) renders its entity
+// text as a link; alerts with no resolvable url stay plain text.
 export function renderAlertsPanel(data: EconsecAlertsResponse): string {
   const cutoff = Date.now() - ALERT_WINDOW_DAYS * 24 * 60 * 60 * 1000;
   const recent = data.alerts
@@ -226,7 +256,7 @@ export function renderAlertsPanel(data: EconsecAlertsResponse): string {
       const label = ALERT_SOURCE_LABELS[a.source] || a.source;
       const badge = ALERT_TYPE_BADGES[a.type] || '';
       const entity =
-        a.type === 'fr-new' && a.url && isSafeHttpUrl(a.url)
+        a.url && isSafeHttpUrl(a.url)
           ? `<a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.entity)}</a>`
           : escapeHtml(a.entity);
       return `

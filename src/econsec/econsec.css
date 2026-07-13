@@ -579,3 +579,67 @@ body {
   flex-shrink: 0;
   white-space: nowrap;
 }
+
+.source-history-toggle {
+  margin-top: 6px;
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  font-size: 10px;
+  padding: 1px 6px;
+  cursor: pointer;
+}
+
+.source-history-toggle:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.source-history {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid var(--border);
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.source-history-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.source-history-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  font-size: 10px;
+}
+
+.source-history-list a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--text-dim);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.source-history-list a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.source-history-date {
+  color: var(--text-dim);
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.source-history-empty {
+  color: var(--text-dim);
+  font-size: 10px;
+}

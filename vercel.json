@@ -11,6 +11,10 @@
     {
       "source": "/internal/econsec/alerts.json",
       "destination": "/api/internal/econsec-alerts"
+    },
+    {
+      "source": "/internal/econsec/feed-history.json",
+      "destination": "/api/internal/econsec-feed-history"
     }
   ],
   "headers": [

@@ -61,11 +61,28 @@ export interface EconsecAlert {
   type: EconsecAlertType;
   entity: string;
   detail: string;
-  // fr-new only: link to the Federal Register document.
+  // Link to the source. fr-new always carries its own Federal Register
+  // document URL; other types carry a URL resolved from sources.json by
+  // econsec-watch.mjs, when one is available for that source.
   url?: string;
 }
 
 export interface EconsecAlertsResponse {
   meta: { generated: string | null };
   alerts: EconsecAlert[];
+}
+
+export interface EconsecFeedHistoryItem {
+  title: string;
+  link: string;
+  date: string | null;
+  // When this link was first observed by scripts/econsec-watch.mjs -
+  // retention (200 items / 180 days per source) is keyed off this, not
+  // `date`, since many feeds omit or malform their own pubDate.
+  firstSeen: string;
+}
+
+export interface EconsecFeedHistoryResponse {
+  meta: { generated: string | null };
+  history: Record<string, EconsecFeedHistoryItem[]>;
 }
