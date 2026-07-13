@@ -384,26 +384,98 @@ async function resolveLinkFromListingPage(listingUrl, linkPattern) {
   return new URL(m[1], listingUrl).toString();
 }
 
+// Removes every well-formed <tagName>...</tagName> block whose opening tag
+// matches openTagTest, tracking nesting depth so a block containing another
+// same-named tag (e.g. <section> inside <section>) is not truncated at the
+// first inner closing tag - confirmed necessary against real markup (2026-07-13):
+// MOFCOM's sidebar is a <section class="rColumnBox"> that itself contains a
+// nested <section class="con">.
+function stripBalancedTag(html, tagName, openTagTest) {
+  const tagRe = new RegExp(`<${tagName}\\b[^>]*>|</${tagName}>`, 'gi');
+  let result = '';
+  let cursor = 0;
+  let m;
+  while ((m = tagRe.exec(html))) {
+    const isOpen = m[0][1] !== '/';
+    if (!isOpen || !openTagTest(m[0])) continue;
+    result += html.slice(cursor, m.index);
+    let depth = 1;
+    tagRe.lastIndex = m.index + m[0].length;
+    let end = html.length;
+    let sm;
+    while ((sm = tagRe.exec(html))) {
+      if (sm[0][1] === '/') {
+        depth--;
+        if (depth === 0) {
+          end = tagRe.lastIndex;
+          break;
+        }
+      } else {
+        depth++;
+      }
+    }
+    cursor = end;
+    tagRe.lastIndex = end;
+  }
+  result += html.slice(cursor);
+  return result;
+}
+
 // ---- Page-diff normalization: tag-strip + whitespace-collapse only, one
 // line per original source line. Deliberately minimal - aggressive
 // normalization (e.g. sorting/deduping lines) hides the exact edits this
 // watcher exists to surface. <head> is excluded because it churns on every
-// request (asset query strings, nonces) independent of page content. ----
-function normalizePage(html) {
-  const bodyMatch = html.match(/<body[^>]*>([\s\S]*)<\/body>/i);
-  const body = bodyMatch ? bodyMatch[1] : html;
+// request (asset query strings, nonces) independent of page content; the
+// same reasoning applies to <script> blocks, which is where a request-scoped
+// token (e.g. MOFCOM's `authorizedReadUnitId`) was confirmed to live
+// (2026-07-13) - stripped for every page source, not just MOFCOM's, since a
+// <script> block is never meaningful page text to diff on. extraStripFns are
+// for source-specific noise that is NOT safe to assume applies generally
+// (e.g. MOFCOM's related-articles sidebar - a different CMS template could
+// use the same class name for genuine list content, so this is opt-in per
+// source, not baked in here). ----
+function normalizePage(html, extraStripFns = []) {
+  let cleaned = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, ' ');
+  for (const stripFn of extraStripFns) cleaned = stripFn(cleaned);
+  const bodyMatch = cleaned.match(/<body[^>]*>([\s\S]*)<\/body>/i);
+  const body = bodyMatch ? bodyMatch[1] : cleaned;
   return body
     .split(/\r?\n/)
     .map((line) => line.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim())
     .filter(Boolean);
 }
 
+// MOFCOM's CMS template renders a "related columns" sidebar
+// (<aside class="...jgRBox...">, containing one or more
+// <section class="rColumnBox">) alongside the actual list/announcement
+// content, which lives in a separately-classed <section class="listCon">.
+// Confirmed via direct inspection of the live page (2026-07-13) that this
+// sidebar's article list changes independently of the unreliable-entity-list
+// content itself, which was producing false-positive page-change alerts.
+// Scoped to mofcom-unreliable-entity-list only, not applied generally: this
+// is a template quirk of that one page, not a general page-diff concern, and
+// mofcom-export-control (a different domain/template) has not been verified
+// to have the same structure.
+function stripMofcomSidebar(html) {
+  return stripBalancedTag(html, 'aside', (tag) => /\bclass="[^"]*\bjgRBox\b[^"]*"/i.test(tag));
+}
+
+// Returns both sides of the first differing line, not just the new value -
+// a page-change alert with only the new value can't distinguish a real
+// content change from a value flapping back and forth between two states
+// across runs (confirmed happening in practice, 2026-07-13: acquisition.gov's
+// "Last Updated" stamp toggled between two dates across consecutive fetches).
+// Showing old -> new lets a human tell the two cases apart at a glance;
+// automatically suppressing repeat flips is deliberately NOT done here, since
+// a wrong suppression rule risks hiding a genuine change.
 function firstDiffLine(oldLines, newLines) {
   const len = Math.max(oldLines.length, newLines.length);
   for (let i = 0; i < len; i++) {
-    if (oldLines[i] !== newLines[i]) return newLines[i] ?? oldLines[i] ?? '';
+    if (oldLines[i] !== newLines[i]) {
+      return { oldLine: oldLines[i] ?? '(なし)', newLine: newLines[i] ?? '(なし)' };
+    }
   }
-  return '';
+  return { oldLine: '', newLine: '' };
 }
 
 // ---- Entity-level sources: bulk list -> Map<id, {name, list}> ----
@@ -631,7 +703,7 @@ const PAGE_SOURCES = [
     async fetchLines() {
       const url = 'https://www.mofcom.gov.cn/zcfb/dwmygl/';
       const res = await fetchText(url, { headers: { 'Accept-Language': 'zh-CN,zh;q=0.9' } });
-      return { resolvedUrl: url, lines: normalizePage(await res.text()) };
+      return { resolvedUrl: url, lines: normalizePage(await res.text(), [stripMofcomSidebar]) };
     },
   },
   {
@@ -962,7 +1034,8 @@ async function processPageSource(source, ctx) {
     const prevLines = previous.lines || [];
     const changed = prevLines.length !== lines.length || prevLines.some((l, i) => l !== lines[i]);
     if (changed) {
-      const detail = firstDiffLine(prevLines, lines).slice(0, 200);
+      const { oldLine, newLine } = firstDiffLine(prevLines, lines);
+      const detail = `${oldLine.slice(0, 200)} → ${newLine.slice(0, 200)}`;
       const url = resolveAlertUrl(ctx, source.id);
       const alert = { date: ctx.nowIso, source: source.id, type: 'page-change', entity: source.label, detail, url };
       ctx.alerts.push(alert);
