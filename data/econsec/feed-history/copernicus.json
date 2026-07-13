@@ -1,0 +1,307 @@
+{
+  "id": "copernicus",
+  "label": "Copernicus Data Space",
+  "generated": "2026-07-13T10:49:13.098Z",
+  "items": [
+    {
+      "title": "Copernicus Sentinel-3B unavailability notice for the IP Manoeuvre #163 planned on 09 July 2026 [DOY 190]",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-8-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-163-planned-09-july-2026",
+      "date": "Wed, 08 Jul 2026 13:33:27 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Landsat-8 Collection 2 Level-1 Now Available with Full Coverage from 2015 in Copernicus Data Space Ecosystem",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-7-landsat-8-collection-2-level-1-now-available-full-coverage-2015-copernicus-data-space",
+      "date": "Tue, 07 Jul 2026 12:50:59 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-3A unavailability notice for Trickle Dump data gaps occurred on 29 June 2026 [DOY 180]",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-30-copernicus-sentinel-3a-unavailability-notice-trickle-dump-data-gaps-occurred-29-june",
+      "date": "Tue, 30 Jun 2026 14:56:39 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel‑1A Satellite End of Operations After 12 Years of Service",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-30-copernicus-sentinel-1a-satellite-end-operations-after-12-years-service",
+      "date": "Tue, 30 Jun 2026 14:33:44 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Temporary issue with openEO batch jobs (29 June 2026) [Resolved]",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-30-temporary-issue-openeo-batch-jobs-29-june-2026-resolved",
+      "date": "Tue, 30 Jun 2026 13:58:50 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "openEO unavailability on 29 June 2026 between 14h38-15h30 CEST [resolved]",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-29-openeo-unavailability-29-june-2026-between-14h38-15h30-cest-resolved",
+      "date": "Mon, 29 Jun 2026 13:59:06 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Contributing Missions power the VHR2024 dataset",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-29-copernicus-contributing-missions-power-vhr2024-dataset",
+      "date": "Mon, 29 Jun 2026 12:14:33 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 30 June 2026 [DOY 181]",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-26-copernicus-sentinel-3b-unavailability-notice-lunar-calibration-planned-30-june-2026",
+      "date": "Fri, 26 Jun 2026 11:01:08 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Welcome EOPF ZARR EXPLORER! A new member has joined the Copernicus Data Space Ecosystem",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-25-welcome-eopf-zarr-explorer-new-member-has-joined-copernicus-data-space-ecosystem",
+      "date": "Thu, 25 Jun 2026 09:15:09 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "S1C/D Final Orbital Configuration Achieved",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-24-s1cd-final-orbital-configuration-achieved",
+      "date": "Wed, 24 Jun 2026 13:02:45 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Creating OGC Service layers for Copernicus Land Monitoring Service datasets in CDSE",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-24-creating-ogc-service-layers-copernicus-land-monitoring-service-datasets-cdse",
+      "date": "Wed, 24 Jun 2026 11:51:01 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Planned upgrade of EOData repository 01/07/2026 from 07:00 to 09:00 CEST",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-19-planned-upgrade-eodata-repository-01072026-0700-0900-cest",
+      "date": "Fri, 19 Jun 2026 14:32:19 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-5P Unavailability on 18 June 2026",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-19-copernicus-sentinel-5p-unavailability-18-june-2026",
+      "date": "Fri, 19 Jun 2026 14:29:17 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-3A unavailability notice for the IP manoeuvre #157 planned on 18 June 2026 [DOY 169]",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-18-copernicus-sentinel-3a-unavailability-notice-ip-manoeuvre-157-planned-18-june-2026",
+      "date": "Thu, 18 Jun 2026 04:44:56 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Upcoming Sentinel Hub Database Upgrade",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-16-upcoming-sentinel-hub-database-upgrade",
+      "date": "Tue, 16 Jun 2026 13:47:36 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Sentinel-5p planned maintenance activities starting on 17/06/2026",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-16-sentinel-5p-planned-maintenance-activities-starting-17062026",
+      "date": "Tue, 16 Jun 2026 13:45:05 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "CDSE Web portal & Forum - System Update 15/06/2026 09:00 - 10:00 CEST",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-12-cdse-web-portal-forum-system-update-15062026-0900-1000-cest",
+      "date": "Fri, 12 Jun 2026 15:16:23 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-3B unavailability notice for the IP manoeuvre #162 planned on 11 June 2026 [DOY 162]",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-10-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-162-planned-11-june-2026",
+      "date": "Wed, 10 Jun 2026 12:27:37 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "openEO adds MODIS snow cover, 60+ CLMS collections, and load_stac fixes",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-10-openeo-adds-modis-snow-cover-60-clms-collections-and-loadstac-fixes",
+      "date": "Wed, 10 Jun 2026 05:59:39 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "More than 60 CLMS collections now available in openEO on CDSE",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-9-more-60-clms-collections-now-available-openeo-cdse",
+      "date": "Tue, 09 Jun 2026 08:14:00 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "CLMS Global Land Surface Temperature new version: reading the Earth’s thermal pulse",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-8-clms-global-land-surface-temperature-new-version-reading-earths-thermal-pulse",
+      "date": "Mon, 08 Jun 2026 09:55:36 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Forum system update on 05/06/2026 from 13h00 to 13h30 CEST",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-5-forum-system-update-05062026-13h00-13h30-cest",
+      "date": "Fri, 05 Jun 2026 10:57:16 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Data Space Ecosystem User Feedback Survey 2026",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-4-copernicus-data-space-ecosystem-user-feedback-survey-2026",
+      "date": "Thu, 04 Jun 2026 08:51:19 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-3B unavailability notice for the SRAL Calibration planned on 04 June 2026 [DOY 155]",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-4-copernicus-sentinel-3b-unavailability-notice-sral-calibration-planned-04-june-2026",
+      "date": "Thu, 04 Jun 2026 04:52:55 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Sentinel-1D SAR Data Quality Degradation",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-4-sentinel-1d-sar-data-quality-degradation",
+      "date": "Thu, 04 Jun 2026 04:41:07 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Urban Atlas 2021 product update is now available",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-3-urban-atlas-2021-product-update-now-available",
+      "date": "Wed, 03 Jun 2026 11:41:02 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-2 Night-Time Campaign Dataset",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-3-copernicus-sentinel-2-night-time-campaign-dataset",
+      "date": "Wed, 03 Jun 2026 08:55:38 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-1D Data Unavailability on 29 May 2026",
+      "link": "https://dataspace.copernicus.eu/news/2026-6-1-copernicus-sentinel-1d-data-unavailability-29-may-2026",
+      "date": "Mon, 01 Jun 2026 05:14:31 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Sentinel-1 orbital reconfiguration dates",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-28-sentinel-1-orbital-reconfiguration-dates",
+      "date": "Thu, 28 May 2026 11:46:38 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Sentinel-2 product publication issue [28.05]",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-28-sentinel-2-product-publication-issue-2805",
+      "date": "Thu, 28 May 2026 08:41:57 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "What's new in openEO: 10 new CLMS collections and a set of reliability fixes",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-28-whats-new-openeo-10-new-clms-collections-and-set-reliability-fixes",
+      "date": "Thu, 28 May 2026 08:23:16 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-3A unavailability notice for the IP manoeuvre #156 planned on 28 May 2026 [DOY 148]",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-28-copernicus-sentinel-3a-unavailability-notice-ip-manoeuvre-156-planned-28-may-2026",
+      "date": "Thu, 28 May 2026 08:21:21 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-3A unavailability notice for the Lunar Observation planned on 31 May 2026 [DOY 151]",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-28-copernicus-sentinel-3a-unavailability-notice-lunar-observation-planned-31-may-2026",
+      "date": "Thu, 28 May 2026 08:18:53 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Processing Large Areas with openEO Just Got Much Easier",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-26-processing-large-areas-openeo-just-got-much-easier",
+      "date": "Tue, 26 May 2026 13:32:46 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-1A Data Unavailability on 24 May 2026",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-26-copernicus-sentinel-1a-data-unavailability-24-may-2026",
+      "date": "Tue, 26 May 2026 06:14:50 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Sentinel-3 L1/L2 Production Delay",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-26-sentinel-3-l1l2-production-delay",
+      "date": "Tue, 26 May 2026 06:10:52 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "From Coherence to Full Interferograms: Sentinel-1 InSAR Processing with openEO",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-22-coherence-full-interferograms-sentinel-1-insar-processing-openeo",
+      "date": "Fri, 22 May 2026 11:31:45 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "[CLMS] Planned upgrade of EOData storage 25/05/2026 from 11:00 to 15:00 CEST",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-22-clms-planned-upgrade-eodata-storage-25052026-1100-1500-cest",
+      "date": "Fri, 22 May 2026 09:58:18 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-3B unavailability notice for the IP Manoeuvre #161 planned on 21 May 2026 [DOY 141]",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-20-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-161-planned-21-may-2026",
+      "date": "Wed, 20 May 2026 09:56:26 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "CDSE Web portal: System Update on 20/05/2026 from 19:00 to 20:00 CEST",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-20-cdse-web-portal-system-update-20052026-1900-2000-cest",
+      "date": "Wed, 20 May 2026 08:57:22 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Copernicus Sentinel-1A Data Unavailability on 19 May 2026",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-20-copernicus-sentinel-1a-data-unavailability-19-may-2026",
+      "date": "Wed, 20 May 2026 07:05:27 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "openEO Is Now an Official OGC Community Standard",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-19-openeo-now-official-ogc-community-standard",
+      "date": "Tue, 19 May 2026 11:49:36 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Planned upgrade of EOData repository 09/06/2026 from 07:00 to 09:00 CEST",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-18-planned-upgrade-eodata-repository-09062026-0700-0900-cest",
+      "date": "Mon, 18 May 2026 13:20:15 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Sentinel-2A Extension Campaign Prolonged Until the End of 2026",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-15-sentinel-2a-extension-campaign-prolonged-until-end-2026",
+      "date": "Fri, 15 May 2026 07:36:21 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "openEO update: pixel grid alignment fix in resample_spatial",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-12-openeo-update-pixel-grid-alignment-fix-resamplespatial",
+      "date": "Tue, 12 May 2026 11:06:04 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "S-1C UNAVAILABILITY NOTICE",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-11-s-1c-unavailability-notice",
+      "date": "Mon, 11 May 2026 10:12:58 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "S-1D UNAVAILABILITY NOTICE",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-11-s-1d-unavailability-notice",
+      "date": "Mon, 11 May 2026 10:11:19 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Deprecation of legacy On Demand Processing Endpoints",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-8-deprecation-legacy-demand-processing-endpoints",
+      "date": "Fri, 08 May 2026 13:23:38 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Temporary openEO Job Visibility Issues on May 7 2026",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-8-temporary-openeo-job-visibility-issues-may-7-2026",
+      "date": "Fri, 08 May 2026 05:53:50 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    },
+    {
+      "title": "Potential issues with AMS endpoint on 07 May 2026 [Resolved]",
+      "link": "https://dataspace.copernicus.eu/news/2026-5-8-potential-issues-ams-endpoint-07-may-2026-resolved",
+      "date": "Fri, 08 May 2026 04:59:31 UTC",
+      "firstSeen": "2026-07-13T10:49:13.098Z"
+    }
+  ]
+}

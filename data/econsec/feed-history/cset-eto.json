@@ -1,0 +1,607 @@
+{
+  "id": "cset-eto",
+  "label": "CSET ETO",
+  "generated": "2026-07-13T10:49:13.098Z",
+  "items": [
+    {
+      "title": "Updates to PATHWISE, our emerging technology talent tracking tool",
+      "link": "https://eto.tech/blog/updates-to-pathwise-our-emerging-technology-talent-tracking-tool/",
+      "date": "Tue, 16 Jun 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Canadian Funding Agencies' Impact on the Research and Innovation Landscape",
+      "link": "https://eto.tech/blog/canadian-funding-agencies-impact-research-innovation-landscape/",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "AI innovation and security executive order, Ghana's National AI Strategy, state docs: AGORA roundup #5",
+      "link": "https://eto.tech/blog/agora-ai-governance-tracker-roundup-5/",
+      "date": "Tue, 09 Jun 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Hot topics in AI and bioinformatics: insights from the Map of Science",
+      "link": "https://eto.tech/blog/hot-topics-ai-bioinformatics-map-of-science/",
+      "date": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Hot research topics in AI and cybersecurity: insights from the Map of Science",
+      "link": "https://eto.tech/blog/hot-topics-cybersecurity-ai-map-of-science/",
+      "date": "Tue, 19 May 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "OpenClaw takes China by storm: editors' picks from ETO Scout, volume 28 (3/9/26-5/11/26)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-28/",
+      "date": "Mon, 11 May 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring State AI Governance in AGORA: Utah",
+      "link": "https://eto.tech/blog/agora-state-ai-governance-tracker-1/",
+      "date": "Wed, 29 Apr 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "New update to the Map of Science: Cluster titles and summaries",
+      "link": "https://eto.tech/blog/map-of-science-cluster-summaries/",
+      "date": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "The National Security Case for Limiting China's Access to Advanced U.S. Compute: Evidence from PLA Procurement Documents",
+      "link": "https://eto.tech/blog/pla-procurement-case-for-limiting-china-advanced-compute/",
+      "date": "Mon, 20 Apr 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Acceleration or Autonomy? Uncovering China's H200 Debate",
+      "link": "https://eto.tech/blog/chinas-h200-debate/",
+      "date": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Saying goodbye to ORCA and PARAT",
+      "link": "https://eto.tech/blog/saying-goodbye-to-orca-and-parat/",
+      "date": "Wed, 25 Mar 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Big wins for Qwen and open-source: editors' picks from ETO Scout, volume 27 (1/29/26-3/9/26)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-27/",
+      "date": "Mon, 09 Mar 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring AI in the FY 2026 National Defense Authorization Act and Introducing New NDAA Collections: AGORA roundup #4",
+      "link": "https://eto.tech/blog/agora-ai-governance-tracker-roundup-4/",
+      "date": "Wed, 04 Feb 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "U.S. takes a cut of H200 sales: editors' picks from ETO Scout, volume 26 (10/07/25-1/29/26)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-26/",
+      "date": "Thu, 29 Jan 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Big changes to the Map of Science",
+      "link": "https://eto.tech/blog/map-of-science-update-2025/",
+      "date": "Mon, 15 Dec 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Revisiting the AI Action Plan: AGORA roundup #3",
+      "link": "https://eto.tech/blog/agora-ai-governance-tracker-roundup-3/",
+      "date": "Thu, 06 Nov 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring California's 2024 AI Bills in AGORA",
+      "link": "https://eto.tech/blog/california-ai-bills/",
+      "date": "Tue, 04 Nov 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Track emerging technology talent: introducing PATHWISE",
+      "link": "https://eto.tech/blog/introducing-pathwise/",
+      "date": "Thu, 30 Oct 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Announcing MAC and Tool Updates",
+      "link": "https://eto.tech/blog/announcing-mac-and-tool-updates/",
+      "date": "Thu, 16 Oct 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "NVIDIA's H20s under scrutiny: editors' picks from ETO Scout, volume 25 (8/14/25-10/07/25)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-25/",
+      "date": "Tue, 07 Oct 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "China's AI Action Plan: editors' picks from ETO Scout, volume 24 (6/23/25-8/14/25)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-24/",
+      "date": "Thu, 14 Aug 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring AI legislation in Congress with AGORA: Risks, Harms, and Governance Strategies",
+      "link": "https://eto.tech/blog/ai-laws-enacted-by-congress-2/",
+      "date": "Tue, 29 Jul 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring AI legislation in Congress with AGORA: Origin and Application Domains",
+      "link": "https://eto.tech/blog/ai-laws-enacted-by-congress/",
+      "date": "Wed, 23 Jul 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Updated Supply Chain Explorer for Advanced Semiconductors",
+      "link": "https://eto.tech/blog/updated-supply-chain-explorer/",
+      "date": "Mon, 14 Jul 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring AI in the One Big Beautiful Bill Act: AGORA roundup #2",
+      "link": "https://eto.tech/blog/agora-ai-governance-tracker-roundup-2/",
+      "date": "Wed, 02 Jul 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Chinese jets dominate the skies: editors' picks from ETO Scout, volume 23 (4/29/25-6/23/25)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-23/",
+      "date": "Mon, 23 Jun 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Xi speaks on AI: editors' picks from ETO Scout, volume 22 (3/31/25-4/29/25)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-22/",
+      "date": "Fri, 02 May 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Still a drop in the bucket: new data on global AI safety research",
+      "link": "https://eto.tech/blog/still-drop-bucket-ai-safety-research/",
+      "date": "Wed, 30 Apr 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Facial recognition regs, state and local docs, frontier frameworks: AGORA roundup #1",
+      "link": "https://eto.tech/blog/agora-ai-governance-tracker-roundup-1/",
+      "date": "Sun, 20 Apr 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "DeepSeek energizes China's chipmakers: editors' picks from ETO Scout, volume 21 (2/27/25-3/31/25)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-21/",
+      "date": "Tue, 01 Apr 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Hot topics in chip design and fabrication research: insights from the Map of Science",
+      "link": "https://eto.tech/blog/hot-topics-chip-research/",
+      "date": "Mon, 03 Mar 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "The state of global chip research",
+      "link": "https://eto.tech/blog/state-global-chip-research/",
+      "date": "Mon, 03 Mar 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "AI mystics and manufacturers: editors' picks from ETO Scout, volume 20 (1/17/25-2/26/25)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-20/",
+      "date": "Thu, 27 Feb 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Federal funding underpins American research across 'hot' AI + bio research clusters",
+      "link": "https://eto.tech/blog/federal-funding-underpins-ai-bio/",
+      "date": "Fri, 21 Feb 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "A year of Chinese tech advances: editors' picks from ETO Scout, volume 19 (12/19/24-1/16/25)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-19/",
+      "date": "Thu, 16 Jan 2025 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring AI in this year's NDAA with ETO AGORA",
+      "link": "https://eto.tech/blog/all-ai-provisions-2025-ndaa/",
+      "date": "Mon, 23 Dec 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "New features: explore research on chips and LLMs with ETO tools",
+      "link": "https://eto.tech/blog/new-features-explore-research-chips-llms/",
+      "date": "Thu, 19 Dec 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "AI accelerates Chinese R&D, frustrates job hunters: editors' picks from ETO Scout, volume 18 (11/23/24-12/18/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-18/",
+      "date": "Thu, 19 Dec 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Know more about AI policy: introducing AGORA",
+      "link": "https://eto.tech/blog/know-more-ai-policy-introducing-agora/",
+      "date": "Wed, 11 Dec 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Direct access to our data: exploring ETO's new dataset portal",
+      "link": "https://eto.tech/blog/direct-access-data-new-dataset-portal/",
+      "date": "Fri, 06 Dec 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Brain-inspired AI, surgical robots, AI in space: editors' picks from ETO Scout, volume 17 (10/23/24-11/22/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-17/",
+      "date": "Fri, 22 Nov 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Hot topics in cybersecurity research: insights from the Map of Science",
+      "link": "https://eto.tech/blog/hot-topics-cybersecurity-research-insights-map-of-science/",
+      "date": "Sun, 17 Nov 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Key trends in global cybersecurity research: growth, leaders, dark horses",
+      "link": "https://eto.tech/blog/key-trends-global-cybersecurity-research/",
+      "date": "Sun, 17 Nov 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "China soars in space, struggles in chips: editors' picks from ETO Scout, volume 16 (9/14/24-10/22/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-16/",
+      "date": "Thu, 24 Oct 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Beyond TSMC and EUV: five key points on chip chokepoints",
+      "link": "https://eto.tech/blog/five-key-facts-chokepoints-chip-supply-chain/",
+      "date": "Wed, 16 Oct 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "AI leaders in the S&P 500: perspectives from PARAT",
+      "link": "https://eto.tech/blog/ai-leaders-sp-500-perspectives-parat/",
+      "date": "Wed, 02 Oct 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 15 (8/20/24-9/13/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-15/",
+      "date": "Fri, 13 Sep 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "New research tools for Chinese science and tech: Celebrating Scout's first anniversary",
+      "link": "https://eto.tech/blog/new-research-tools-chinese-science-tech-scout/",
+      "date": "Thu, 05 Sep 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 14 (7/19/24-8/19/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-14/",
+      "date": "Mon, 19 Aug 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 13 (6/7/24-7/18/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-13/",
+      "date": "Fri, 19 Jul 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Hot research topics in AI and biology: insights from the Map of Science",
+      "link": "https://eto.tech/blog/hot-research-topics-ai-bio-map-of-science/",
+      "date": "Mon, 15 Jul 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "🦜 Track AI activity across the private sector: introducing PARAT",
+      "link": "https://eto.tech/blog/track-ai-activity-private-sector-introducing-parat/",
+      "date": "Wed, 26 Jun 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring uses of AI in reproductive healthcare: a Map of Science case study",
+      "link": "https://eto.tech/blog/ai-reproductive-healthcare-case-study/",
+      "date": "Mon, 24 Jun 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 12 (5/10/24-6/6/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-12/",
+      "date": "Fri, 07 Jun 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 11 (4/12/24-5/9/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-11/",
+      "date": "Thu, 09 May 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Red-hot topics in AI research: insights from the Map of Science",
+      "link": "https://eto.tech/blog/red-hot-topics-ai-research-insights-map-of-science/",
+      "date": "Thu, 02 May 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "The state of global AI research",
+      "link": "https://eto.tech/blog/state-of-global-ai-research/",
+      "date": "Thu, 02 May 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 10 (3/14/24-4/11/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-10/",
+      "date": "Fri, 12 Apr 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "The state of global AI safety research",
+      "link": "https://eto.tech/blog/state-of-global-ai-safety-research/",
+      "date": "Wed, 03 Apr 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Profiling research institutions with the Map of Science, part 4: Chinese schools and robot fish",
+      "link": "https://eto.tech/blog/profiling-research-institutions-chinese-schools-robot-fish/",
+      "date": "Thu, 28 Mar 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Explore key topics with the revamped Map of Science subject filter",
+      "link": "https://eto.tech/blog/explore-key-topics-revamped-map-subject-search/",
+      "date": "Fri, 15 Mar 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 9 (2/23/24-3/13/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-9/",
+      "date": "Fri, 15 Mar 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 8 (2/9/24-2/22/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-8/",
+      "date": "Fri, 23 Feb 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Profiling research institutions with the Map of Science, part 3: A tour of Europe",
+      "link": "https://eto.tech/blog/profiling-research-institutions-tour-europe/",
+      "date": "Thu, 15 Feb 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 7 (1/26/24-2/8/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-7/",
+      "date": "Fri, 09 Feb 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 6 (1/12/24-1/25/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-6/",
+      "date": "Fri, 26 Jan 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Profiling research institutions with the Map of Science, part 2: Research across America",
+      "link": "https://eto.tech/blog/profiling-research-institutions-research-across-america/",
+      "date": "Wed, 17 Jan 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 5 (12/22/23-1/11/24)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-5/",
+      "date": "Fri, 12 Jan 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Profiling research institutions with the Map of Science, part 1: Harvard and MIT",
+      "link": "https://eto.tech/blog/profiling-research-institutions-harvard-mit/",
+      "date": "Tue, 09 Jan 2024 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 4 (12/1-21/23)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-4/",
+      "date": "Thu, 21 Dec 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Introducing the latest Map of Science enhancements",
+      "link": "https://eto.tech/blog/introducing-latest-map-of-science-enhancements/",
+      "date": "Wed, 13 Dec 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 3 (11/17-30/23)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-3/",
+      "date": "Fri, 01 Dec 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 2 (11/2-16/23)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-2/",
+      "date": "Thu, 16 Nov 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "ETO's blog is now available on Substack",
+      "link": "https://eto.tech/blog/eto-blog-now-available-substack/",
+      "date": "Thu, 09 Nov 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Editors' picks from ETO Scout: volume 1 (10/19-11/2/23)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-1/",
+      "date": "Fri, 03 Nov 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Validating research trends with the Map of Science: a case study from the SMASIS conference",
+      "link": "https://eto.tech/blog/validating-research-trends-case-study-smasis/",
+      "date": "Tue, 10 Oct 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Introducing Scout - and why we built it",
+      "link": "https://eto.tech/blog/introducing-scout-and-why-we-built-it/",
+      "date": "Wed, 20 Sep 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Announcing the ETO Analytic Writing Contest",
+      "link": "https://eto.tech/blog/georgetown-analytic-writing-contest/",
+      "date": "Wed, 13 Sep 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "U.S.-China research collaboration may be falling - but not in AI",
+      "link": "https://eto.tech/blog/datapoints-us-china-research-falling-not-ai/",
+      "date": "Thu, 31 Aug 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring trustworthy AI research with the Map of Science, part 3: Leading research institutions",
+      "link": "https://eto.tech/blog/exploring-trustworthy-ai-research-part-three/",
+      "date": "Tue, 22 Aug 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring trustworthy AI research with the Map of Science, part 2: Leading countries",
+      "link": "https://eto.tech/blog/exploring-trustworthy-ai-research-part-two/",
+      "date": "Tue, 15 Aug 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Who cares about trust? Exploring trustworthy AI research with the Map of Science",
+      "link": "https://eto.tech/blog/who-cares-about-trust-exploring-ai-research/",
+      "date": "Tue, 08 Aug 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "How open-source software fuels research: introducing ORCA",
+      "link": "https://eto.tech/blog/how-open-source-fuels-research-introducing-orca/",
+      "date": "Tue, 11 Jul 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "How we define \"AI safety research\" in our tools",
+      "link": "https://eto.tech/blog/how-we-define-ai-safety-tools/",
+      "date": "Tue, 20 Jun 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Exploring trends in AI and genetics with the Research Almanac",
+      "link": "https://eto.tech/blog/exploring-trends-ai-genetics-research-almanac/",
+      "date": "Thu, 08 Jun 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "A new perspective on global R&D: Introducing summary view in the Map of Science",
+      "link": "https://eto.tech/blog/new-perspective-introducing-summary-view-map-of-science/",
+      "date": "Wed, 24 May 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Introducing our Research Almanac",
+      "link": "https://eto.tech/blog/introducing-research-almanac/",
+      "date": "Fri, 19 May 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Singapore's no exception: AI research collaboration around the Pacific",
+      "link": "https://eto.tech/blog/datapoints-singapore-nearby-ai-collaboration-china/",
+      "date": "Tue, 02 May 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Singapore's AI research collaboration with China more than doubled between 2016 and 2021",
+      "link": "https://eto.tech/blog/datapoints-singapore-ai-collaboration-china-doubled/",
+      "date": "Thu, 20 Apr 2023 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Virus-fighting nanoparticles, quantum dots, transparent wood: Hot topics in five research domains, found fast with ETO's Map of Science",
+      "link": "https://eto.tech/blog/hot-topics-research-map-of-science/",
+      "date": "Mon, 19 Dec 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "What's hot in pharmacology? Discovering emerging topics with ETO's Map of Science",
+      "link": "https://eto.tech/blog/whats-hot-in-pharmacology-map-of-science/",
+      "date": "Fri, 16 Dec 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "What's hot in Chinese AI research? Discovering emerging topics with ETO's Map of Science",
+      "link": "https://eto.tech/blog/whats-hot-in-chinese-ai-map-of-science/",
+      "date": "Mon, 12 Dec 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "What's hot in hardware? Discovering emerging topics with ETO's Map of Science",
+      "link": "https://eto.tech/blog/whats-hot-in-computing-hardware-map-of-science/",
+      "date": "Wed, 07 Dec 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "What's hot in quantum? Discovering emerging topics with ETO's Map of Science",
+      "link": "https://eto.tech/blog/whats-hot-in-quantum-map-of-science/",
+      "date": "Thu, 01 Dec 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Five quick takeaways on the chip supply chain",
+      "link": "https://eto.tech/blog/five-takeaways-chip-supply-chain/",
+      "date": "Thu, 13 Oct 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "R&D insights at lightning speed: introducing the Map of Science",
+      "link": "https://eto.tech/blog/introducing-map-of-science/",
+      "date": "Tue, 04 Oct 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "A guide for the perplexed: introducing the Supply Chain Explorer",
+      "link": "https://eto.tech/blog/introducing-supply-chain-explorer-advanced-chips/",
+      "date": "Mon, 03 Oct 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Keeping up with AI around the world: introducing the Country Activity Tracker",
+      "link": "https://eto.tech/blog/introducing-country-activity-tracker/",
+      "date": "Fri, 30 Sep 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Introducing the Emerging Technology Observatory",
+      "link": "https://eto.tech/blog/introducing-emerging-technology-observatory/",
+      "date": "Wed, 28 Sep 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    },
+    {
+      "title": "Documentation: Advanced Semiconductor Supply Chain Dataset",
+      "link": "https://eto.tech/dataset-docs/chipexplorer/",
+      "date": "Mon, 26 Sep 2022 00:00:00 GMT",
+      "firstSeen": "2026-07-13T10:44:54.654Z"
+    }
+  ]
+}

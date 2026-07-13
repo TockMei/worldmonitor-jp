@@ -1,6 +1,207 @@
 {
   "meta": {
-    "generated": "2026-07-12T04:51:21.936Z"
+    "generated": "2026-07-13T10:49:13.098Z"
   },
-  "alerts": []
+  "alerts": [
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Yulina Vladimirovna ZHURALEVA",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Dena",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Daugno",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Maxim Aleksandrovich GORDIENKO",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Marat Shaigovich ZHURKIN",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Roman Aleksandrovich PUNTUS",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Vyacheslav Stanislavovich STAFEYEV",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Yevgeniy Viktorovich BASHEV",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "OOO Impuls",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Ivan Sergeyevich KASYANENKO",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Aleksandr Vladimirovich SHEPELEV",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Dmitriy Aleksandrovich VORONOV",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Sultan Omarovich OMAROV",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Ivan Alekseyevich SENIN",
+      "detail": "The Cyber (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "DANILOVA",
+      "detail": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Olga Sergeevna KUZNETSOVA",
+      "detail": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Natalia Vitalyevna CHEBOTAEVA",
+      "detail": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Maksim Vitalyevich MATVEEV",
+      "detail": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Evgeniia Aleksandrovna GREBNEVA",
+      "detail": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Aleksandr Igorevich MININ",
+      "detail": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Darya ROSLYAKOVA",
+      "detail": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Aleksandr Klimovich KAN",
+      "detail": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Valeriya ZVINCHUK",
+      "detail": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:44:54.654Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Denis Valeryevich Shchukin",
+      "detail": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-13T10:49:13.098Z",
+      "source": "mofcom-unreliable-entity-list",
+      "type": "page-change",
+      "entity": "中国商務部 不可靠実体清単",
+      "detail": "var authorizedReadUnitId = \"712985f61f1a45c1b250eb08a6102b5d\";",
+      "url": "https://www.mofcom.gov.cn"
+    }
+  ]
 }

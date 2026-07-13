@@ -1,9 +1,9 @@
 {
   "id": "uksl",
   "label": "UK Sanctions List (UKSL, successor to the OFSI Consolidated List)",
-  "generated": "2026-07-12T04:51:21.936Z",
+  "generated": "2026-07-13T10:49:13.098Z",
   "resolvedUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
-  "count": 6271,
+  "count": 6295,
   "entities": {
     "AFG0001": {
       "name": "Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah",
@@ -3551,6 +3551,62 @@
     },
     "CYB0114": {
       "name": "i-Soon",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0115": {
+      "name": "Yulina Vladimirovna ZHURALEVA",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0116": {
+      "name": "Dena",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0117": {
+      "name": "Daugno",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0118": {
+      "name": "Maxim Aleksandrovich GORDIENKO",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0119": {
+      "name": "Marat Shaigovich ZHURKIN",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0120": {
+      "name": "Roman Aleksandrovich PUNTUS",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0121": {
+      "name": "Vyacheslav Stanislavovich STAFEYEV",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0122": {
+      "name": "Yevgeniy Viktorovich BASHEV",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0124": {
+      "name": "OOO Impuls",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0125": {
+      "name": "Ivan Sergeyevich KASYANENKO",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0126": {
+      "name": "Aleksandr Vladimirovich SHEPELEV",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0127": {
+      "name": "Dmitriy Aleksandrovich VORONOV",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0128": {
+      "name": "Sultan Omarovich OMAROV",
+      "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "CYB0129": {
+      "name": "Ivan Alekseyevich SENIN",
       "list": "The Cyber (Sanctions) (EU Exit) Regulations 2020"
     },
     "DPR0001": {
@@ -23143,6 +23199,46 @@
     },
     "RUS3689": {
       "name": "JSC RUSSIAN STATE INSURANCE COMPANY",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "RUS3690": {
+      "name": "DANILOVA",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "RUS3691": {
+      "name": "Olga Sergeevna KUZNETSOVA",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "RUS3692": {
+      "name": "Natalia Vitalyevna CHEBOTAEVA",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "RUS3693": {
+      "name": "Maksim Vitalyevich MATVEEV",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "RUS3695": {
+      "name": "Evgeniia Aleksandrovna GREBNEVA",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "RUS3696": {
+      "name": "Aleksandr Igorevich MININ",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "RUS3697": {
+      "name": "Darya ROSLYAKOVA",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "RUS3698": {
+      "name": "Aleksandr Klimovich KAN",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "RUS3699": {
+      "name": "Valeriya ZVINCHUK",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "RUS3700": {
+      "name": "Denis Valeryevich Shchukin",
       "list": "The Russia (Sanctions) (EU Exit) Regulations 2019"
     },
     "SOM0001": {
