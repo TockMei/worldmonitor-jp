@@ -4,6 +4,13 @@
   },
   "alerts": [
     {
+      "date": "2026-07-12T22:02:52.847Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "Last Updated 02/19/2026"
+    },
+    {
       "date": "2026-07-13T10:44:54.654Z",
       "source": "uksl",
       "type": "add",
