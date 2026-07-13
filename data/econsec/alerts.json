@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-13T11:25:50.408Z"
+    "generated": "2026-07-13T22:03:34.597Z"
   },
   "alerts": [
     {
@@ -240,6 +240,214 @@
       "type": "page-change",
       "entity": "acquisition.gov Section 889",
       "detail": "{\"path\":{\"baseUrl\":\"\\/\",\"pathPrefix\":\"\",\"currentPath\":\"node\\/20330\",\"currentPathIsAdmin\":false,\"isFront\":false,\"currentLanguage\":\"en\",\"themeUrl\":\"themes\\/custom\\/acquisition_gov\"},\"pluralDelimiter\":\"\\ → (なし)"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "FIRST VPN SERVICE",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "RASHEVSKYI, Dmytro",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ASSOCIATION OF COMBATANTS OF THE CUBAN REVOLUTION",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ENETEC S.A.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ORGANIZACION SUPERIOR DE DIRECCION EMPRESARIAL CAUDAL S.A.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "GRUPO EMPRESARIAL DE TRANSPORTE MARITIMO PORTUARIO",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "MILICIAS DE TROPAS TERRITORIALES",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "CORPORACION ANTILLANA EXPORTADORA SA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "COREYDAN S.A.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "RAPID RESPONSE BRIGADES",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "MINISTRY OF TOURISM OF CUBA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SILAYEV, Yevgeniy Vladimirovich",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "FIRST VPN SERVICE",
+      "detail": "CYBER4",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "RASHEVSKYI, Dmytro",
+      "detail": "CYBER4",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ASSOCIATION OF COMBATANTS OF THE CUBAN REVOLUTION",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ENETEC S.A.",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ORGANIZACION SUPERIOR DE DIRECCION EMPRESARIAL CAUDAL S.A.",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "GRUPO EMPRESARIAL DE TRANSPORTE MARITIMO PORTUARIO",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "MILICIAS DE TROPAS TERRITORIALES",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "CORPORACION ANTILLANA EXPORTADORA SA",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "COREYDAN S.A.",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "RAPID RESPONSE BRIGADES",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "MINISTRY OF TOURISM OF CUBA",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-13T22:03:34.597Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SILAYEV, Yevgeniy Vladimirovich",
+      "detail": "CYBER4",
+      "url": "https://ofac.treasury.gov"
     }
   ]
 }

@@ -1,252 +1,8 @@
 {
   "meta": {
-    "generated": "2026-07-13T11:25:50.408Z"
+    "generated": "2026-07-13T22:03:34.597Z"
   },
   "history": {
-    "ofsi": [
-      {
-        "title": "Guidance: OFSI General Licence INT/2026/8893924",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20268893924",
-        "date": "2026-07-06T11:21:19Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence INT/2026/9491628",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269491628",
-        "date": "2026-06-24T14:31:48Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: UK Financial Sanctions FAQs",
-        "link": "https://www.gov.uk/government/publications/uk-financial-sanctions-faqs",
-        "date": "2026-06-24T14:29:48Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: The U.S. and UK Economic Sanctions Authorities: A Comparative Overview",
-        "link": "https://www.gov.uk/government/publications/the-us-and-uk-economic-sanctions-authorities-a-comparative-overview",
-        "date": "2026-06-23T14:34:02Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence INT/2025/8031092",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20258031092",
-        "date": "2026-06-19T13:00:28Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "UK issues largest penalty for financial sanctions breaches since Russia’s 2022 illegal invasion of Ukraine",
-        "link": "https://www.gov.uk/government/news/uk-issues-largest-penalty-for-financial-sanctions-breaches-since-russias-2022-illegal-invasion-of-ukraine",
-        "date": "2026-06-17T11:04:35Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notice: Imposition of Monetary Penalty - Sabre Global Technologies Limited (SGTL)",
-        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-sabre-global-technologies-limited-sgtl",
-        "date": "2026-06-17T10:44:07Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence - INT/2026/9559192",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269559192",
-        "date": "2026-06-15T17:27:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General licence INT/2024/4761108",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20244761108",
-        "date": "2026-05-26T12:48:47Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Russia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
-        "date": "2026-05-19T23:01:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notice: Imposition of Monetary Penalty – Deutsche Bank AG London Branch (“DBLB”)",
-        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-deutsche-bank-ag-london-branch-dblb",
-        "date": "2026-05-19T09:52:37Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Sanctions compliance in the Art Market Participants and High Value Goods sector: Threat Assessment",
-        "link": "https://www.gov.uk/government/publications/sanctions-compliance-in-the-art-market-participants-and-high-value-goods-sector-threat-assessment",
-        "date": "2026-05-12T09:27:04Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Financial sanctions general guidance",
-        "link": "https://www.gov.uk/government/publications/financial-sanctions-general-guidance",
-        "date": "2026-05-12T09:26:45Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Financial sanctions guidance for high value dealers and art market participants",
-        "link": "https://www.gov.uk/government/publications/financial-sanctions-guidance-for-high-value-dealers-and-art-market-participants",
-        "date": "2026-05-12T09:26:35Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
-        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
-        "date": "2026-05-08T08:40:08Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
-        "date": "2026-05-01T10:20:09Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Libya sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
-        "date": "2026-05-01T10:20:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Somalia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
-        "date": "2026-05-01T10:20:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
-        "date": "2026-05-01T10:19:55Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Myanmar sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
-        "date": "2026-05-01T10:19:52Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "ecju": [
-      {
-        "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
-        "date": "2026-06-29T10:55:05Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Open general export licence (export of dual-use items)",
-        "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
-        "date": "2026-06-25T08:30:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Russia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
-        "date": "2026-05-19T23:01:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Military end-use controls",
-        "link": "https://www.gov.uk/guidance/military-end-use-controls",
-        "date": "2026-05-19T08:57:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202613-declaring-exports-under-ogels-and-geas-on-the-uks-customs-declarations-system",
-        "date": "2026-05-13T08:30:02Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
-        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
-        "date": "2026-05-05T14:30:41Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
-        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
-        "date": "2026-05-01T12:57:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
-        "date": "2026-05-01T10:20:09Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Libya sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
-        "date": "2026-05-01T10:20:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Somalia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
-        "date": "2026-05-01T10:20:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
-        "date": "2026-05-01T10:19:55Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Myanmar sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
-        "date": "2026-05-01T10:19:52Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Counter-terrorism international sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/counter-terrorism-international-sanctions-guidance",
-        "date": "2026-05-01T10:19:49Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: South Sudan sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/south-sudan-sanctions-guidance",
-        "date": "2026-05-01T10:19:47Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Sudan sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/sudan-sanctions-guidance",
-        "date": "2026-05-01T10:19:44Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Syria sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
-        "date": "2026-05-01T10:19:41Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Venezuela sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
-        "date": "2026-05-01T10:19:37Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Yemen sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/yemen-sanctions-guidance",
-        "date": "2026-05-01T10:19:35Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Zimbabwe sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/zimbabwe-sanctions-guidance",
-        "date": "2026-05-01T10:19:32Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Iran sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
-        "date": "2026-05-01T10:19:29Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "otsi": [
       {
         "title": "Apply for a licence to carry out sanctioned trade through OTSI",
@@ -369,668 +125,131 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "cistec": [],
-    "cset": [
+    "ofsi": [
       {
-        "title": "China Successfully Launches Reusable Rocket in a Win for Space Program",
-        "link": "https://cset.georgetown.edu/article/china-successfully-launches-reusable-rocket-in-a-win-for-space-program/",
-        "date": "Fri, 10 Jul 2026 16:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Helen Toner Discusses U.S.-China AI Race at Aspen Ideas Festival",
-        "link": "https://cset.georgetown.edu/article/helen-toner-discusses-us-china-ai-race-at-aspen-ideas-festival/",
-        "date": "Fri, 10 Jul 2026 14:00:31 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-        "link": "https://cset.georgetown.edu/article/anthropic-thinks-its-own-success-is-key-to-making-ai-safe/",
-        "date": "Mon, 06 Jul 2026 15:20:08 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "A major online safety bill for kids just passed the House. Here’s what experts say parents need to know",
-        "link": "https://cset.georgetown.edu/article/a-major-online-safety-bill-for-kids-just-passed-the-house-heres-what-experts-say-parents-need-to-know/",
-        "date": "Thu, 02 Jul 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-        "link": "https://cset.georgetown.edu/article/you-can-now-sound-the-alarm-on-ai-behaving-badly/",
-        "date": "Wed, 01 Jul 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "When cheap AI becomes a secret weapon",
-        "link": "https://cset.georgetown.edu/article/when-cheap-ai-becomes-a-secret-weapon/",
-        "date": "Tue, 30 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Trump administration’s AI crackdown opens door for China to close gap",
-        "link": "https://cset.georgetown.edu/article/trump-administrations-ai-crackdown-opens-door-for-china-to-close-gap/",
-        "date": "Tue, 30 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Long Arm of the Chinese Academy of Sciences",
-        "link": "https://cset.georgetown.edu/article/the-long-arm-of-the-chinese-academy-of-sciences/",
-        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Anthropic-U.S. battle highlights AI power struggle",
-        "link": "https://cset.georgetown.edu/article/anthropic-u-s-battle-highlights-ai-power-struggle/",
-        "date": "Wed, 17 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Anthropic got hit by export rules nobody understands",
-        "link": "https://cset.georgetown.edu/article/anthropic-got-hit-by-export-rules-nobody-understands/",
-        "date": "Wed, 17 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "ac-geoecon": [
-      {
-        "title": "Israel’s next government must prioritize the Abraham Accords",
-        "link": "https://www.atlanticcouncil.org/blogs/menasource/israels-next-government-must-prioritize-the-abraham-accords/",
-        "date": "Mon, 13 Jul 2026 10:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Remembering Lindsey Graham",
-        "link": "https://www.atlanticcouncil.org/blogs/new-atlanticist/experts-react/remembering-lindsey-graham/",
-        "date": "Mon, 13 Jul 2026 02:08:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Iraq’s new prime minister must sell Iraq to a skeptical Washington",
-        "link": "https://www.atlanticcouncil.org/dispatches/iraqs-new-prime-minister-must-sell-iraq-to-a-skeptical-washington/",
-        "date": "Sat, 11 Jul 2026 13:26:14 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Venezuela’s earthquakes have deepened this century’s biggest economic crisis",
-        "link": "https://www.atlanticcouncil.org/dispatches/venezuelas-earthquakes-have-deepened-this-centurys-biggest-economic-crisis/",
-        "date": "Sat, 11 Jul 2026 13:23:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Ankara summit previewed the Gulf’s new security equation",
-        "link": "https://www.atlanticcouncil.org/dispatches/the-ankara-summit-previewed-the-gulfs-new-security-equation/",
-        "date": "Fri, 10 Jul 2026 18:27:39 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Israel and the new reality of buffer zones",
-        "link": "https://www.atlanticcouncil.org/dispatches/israel-and-the-new-reality-of-buffer-zones/",
-        "date": "Fri, 10 Jul 2026 15:40:51 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "McDowell quoted in a Bloomberg article on how political forces are influencing the dollar’s role",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/mcdowell-quoted-in-a-bloomberg-article-on-how-political-forces-are-influencing-the-dollars-role/",
-        "date": "Fri, 10 Jul 2026 14:14:20 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "De Kruijf and O’Connor’s piece on Iran sanctions featured on a Illicit Edge newsletter",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/de-kruijf-and-oconnors-piece-on-iran-sanctions-featured-on-a-illicit-edge-newsletter/",
-        "date": "Fri, 10 Jul 2026 14:12:02 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Inside the power struggle over Venezuela’s debt restructuring",
-        "link": "https://www.atlanticcouncil.org/blogs/econographics/inside-the-power-struggle-over-venezuelas-debt-restructuring/",
-        "date": "Fri, 10 Jul 2026 14:05:18 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Trump should seize upon his NATO-Ukraine moment",
-        "link": "https://www.atlanticcouncil.org/content-series/inflection-points/trump-should-seize-upon-his-nato-ukraine-moment/",
-        "date": "Fri, 10 Jul 2026 11:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/nato-summit-dashes-putins-hopes-of-outlasting-the-west-in-ukraine/",
-        "date": "Thu, 09 Jul 2026 21:05:19 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "What new tariffs would mean for US-Brazil trade",
-        "link": "https://www.atlanticcouncil.org/dispatches/what-new-tariffs-would-mean-for-us-brazil-trade/",
-        "date": "Thu, 09 Jul 2026 20:33:30 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Charai for The Jerusalem Strategic Tribune: Iran Failed Trump’s Test",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-the-jerusalem-strategic-tribune-iran-failed-trumps-test/",
-        "date": "Thu, 09 Jul 2026 20:14:28 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Eleven takeaways from the NATO Summit in Ankara",
-        "link": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara/",
-        "date": "Thu, 09 Jul 2026 17:22:20 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The collapse of Cuba’s state-run economy is years in the making",
-        "link": "https://www.atlanticcouncil.org/dispatches/the-collapse-of-cubas-state-run-economy-is-years-in-the-making/",
-        "date": "Thu, 09 Jul 2026 16:46:26 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Five lessons from the oil market shock",
-        "link": "https://www.atlanticcouncil.org/blogs/energysource/five-lessons-from-the-oil-market-shock/",
-        "date": "Thu, 09 Jul 2026 13:03:06 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Wieslander in Swedish media during Ankara Summit",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/wieslander-in-swedish-media-during-ankara-summit/",
-        "date": "Thu, 09 Jul 2026 08:41:03 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Was the NATO Summit a success?",
-        "link": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success/",
-        "date": "Wed, 08 Jul 2026 22:28:34 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Strategic Litigation Project Quarterly Newsletter: Responding to emerging crises",
-        "link": "https://www.atlanticcouncil.org/content-series/strategic-litigation/strategic-litigation-project-quarterly-newsletter-responding-to-emerging-crises/",
-        "date": "Wed, 08 Jul 2026 20:42:09 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Kroenig interviewed in NPR on the Ankara Summit",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-interviewed-in-npr-on-the-ankara-summit/",
-        "date": "Wed, 08 Jul 2026 20:23:27 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Braw in Foreign Policy on European response to Russia’s shadow fleet",
-        "link": "https://www.atlanticcouncil.org/commentary/braw-in-foreign-policy-on-european-response-to-russias-shadow-fleet/",
-        "date": "Wed, 08 Jul 2026 16:34:23 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The US paper fleet: The Jones Act and the 2026 Iran war stress test",
-        "link": "https://www.atlanticcouncil.org/blogs/energysource/the-us-paper-fleet-the-jones-act-and-the-2026-iran-war-stress-test/",
-        "date": "Wed, 08 Jul 2026 15:45:28 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Can soccer unite Bosnia beyond politics? | A Debrief With Jasmin Mujanović And Dženeta Karabegović",
-        "link": "https://www.atlanticcouncil.org/content-series/balkans-debrief/can-soccer-unite-bosnia-beyond-politics-a-debrief-with-jasmin-mujanovic-and-dzeneta-karabegovic/",
-        "date": "Wed, 08 Jul 2026 14:52:54 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Kroenig quoted in The New York Times on US leadership in NATO",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-quoted-in-the-new-york-times-on-us-leadership-in-nato/",
-        "date": "Wed, 08 Jul 2026 13:50:15 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "AI is the next major biodefense tech priority",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/ai-is-the-next-major-biodefense-tech-priority/",
-        "date": "Tue, 07 Jul 2026 19:36:55 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "India’s AI playbook: From talent incubator to AI leader",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/indias-ai-playbook-from-talent-incubator-to-ai-leader/",
-        "date": "Tue, 07 Jul 2026 17:27:19 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "NATO can emerge from the Ankara summit stronger. Here’s how.",
-        "link": "https://www.atlanticcouncil.org/dispatches/nato-can-emerge-from-the-ankara-summit-stronger-heres-how/",
-        "date": "Tue, 07 Jul 2026 16:45:03 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "A weak yen spells trouble for Japan—at home and abroad",
-        "link": "https://www.atlanticcouncil.org/blogs/econographics/a-weak-yen-spells-trouble-for-japan-at-home-and-abroad/",
-        "date": "Tue, 07 Jul 2026 16:37:16 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Putin escalates ballistic missile attacks as Patriot shortages leave Ukraine defenseless",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/putin-escalates-ballistic-missile-attacks-as-patriot-shortages-leave-ukraine-defenseless/",
-        "date": "Tue, 07 Jul 2026 13:03:41 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "NATO’s new Arctic presence shows that European allies are stepping up",
-        "link": "https://www.atlanticcouncil.org/dispatches/natos-new-arctic-presence-shows-that-european-allies-are-stepping-up/",
-        "date": "Mon, 06 Jul 2026 17:39:30 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "New Middle East corridors are about more than just bypassing the Strait of Hormuz",
-        "link": "https://www.atlanticcouncil.org/blogs/menasource/new-middle-east-corridors-are-about-more-than-just-bypassing-the-strait-of-hormuz/",
-        "date": "Mon, 06 Jul 2026 17:18:45 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Braw in Fox News on Russia’s use of shadow fleet to probe NATO drone defenses",
-        "link": "https://www.atlanticcouncil.org/commentary/braw-in-fox-news-on-russias-use-of-shadow-fleet-to-probe-nato-drone-defenses/",
-        "date": "Mon, 06 Jul 2026 16:28:40 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Braw in Bloomberg on the 2026 NATO Summit in Ankara",
-        "link": "https://www.atlanticcouncil.org/commentary/braw-in-bloomberg-on-the-2026-nato-summit-in-ankara/",
-        "date": "Mon, 06 Jul 2026 16:24:12 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Chalecki quoted in a Plastic News article on how a destabilized USMCA impacts investment and growth",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-a-plastic-news-article-on-how-a-destabilized-usmca-impacts-investment-and-growth/",
-        "date": "Mon, 06 Jul 2026 14:19:43 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Budginaite-Froehly published in the Martens Centre",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/budginaite-froehly-published-in-the-martens-centre/",
-        "date": "Mon, 06 Jul 2026 13:05:31 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "A stronger Europe in NATO—the way forward",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/a-stronger-europe-in-nato-the-way-forward/",
-        "date": "Mon, 06 Jul 2026 13:01:34 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Supporting freedom, combating anti-US regimes: A democracy assistance agenda for 2026-2028",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/supporting-freedom-combating-anti-us-regimes-a-democracy-assistance-agenda-for-2026-2028/",
-        "date": "Mon, 06 Jul 2026 13:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "A humanitarian crisis is unfolding in Russian-occupied southern Ukraine",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/a-humanitarian-crisis-is-unfolding-in-russian-occupied-southern-ukraine/",
-        "date": "Mon, 06 Jul 2026 10:25:01 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "With Putin visibly weakened, now is the time to back Ukraine",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/with-putin-visibly-weakened-now-is-the-time-to-back-ukraine/",
-        "date": "Sun, 05 Jul 2026 10:29:14 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Putin may gamble on mobilization to rescue Russia’s Ukraine invasion",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/putin-may-gamble-on-mobilization-to-rescue-russias-ukraine-invasion/",
-        "date": "Sat, 04 Jul 2026 15:09:37 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Ukraine is showing NATO the future of warfare",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-is-showing-nato-the-future-of-warfare/",
-        "date": "Sat, 04 Jul 2026 13:40:22 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "More European NATO allies should step up help to Ukraine through PURL",
-        "link": "https://www.atlanticcouncil.org/dispatches/more-european-nato-allies-should-step-up-help-to-ukraine-through-purl/",
-        "date": "Fri, 03 Jul 2026 21:07:21 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "‘What America means to me’: Global perspectives on the country’s 250th anniversary",
-        "link": "https://www.atlanticcouncil.org/dispatches/what-america-means-to-me-global-perspectives-on-the-countrys-250th-anniversary/",
-        "date": "Thu, 02 Jul 2026 22:58:27 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "A misguided war, a flawed deal, and a dangerous future. Here’s what to do next on Iran.",
-        "link": "https://www.atlanticcouncil.org/content-series/the-big-story/a-misguided-war-a-flawed-deal-and-a-dangerous-future-heres-what-to-do-next-on-iran/",
-        "date": "Thu, 02 Jul 2026 21:00:32 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The West can learn from Ukraine’s success against Russian propaganda",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/the-west-can-learn-from-ukraines-success-against-russian-propaganda/",
-        "date": "Thu, 02 Jul 2026 20:32:11 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Europe’s no-panic playbook for a radically different US foreign policy",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/europes-no-panic-playbook-for-a-radically-different-us-foreign-policy/",
-        "date": "Thu, 02 Jul 2026 20:06:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How NATO can strengthen the transatlantic defense industrial base in Ankara and beyond",
-        "link": "https://www.atlanticcouncil.org/dispatches/how-nato-can-strengthen-the-transatlantic-defense-industrial-base-in-ankara-and-beyond/",
-        "date": "Thu, 02 Jul 2026 18:11:22 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Europe should take the long bet on the US and the transatlantic security relationship",
-        "link": "https://www.atlanticcouncil.org/dispatches/europe-should-take-the-long-bet-on-the-us-and-the-transatlantic-security-relationship/",
-        "date": "Thu, 02 Jul 2026 17:51:28 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "With US sanctions temporarily lifted, is Iranian crude back on the menu?",
-        "link": "https://www.atlanticcouncil.org/blogs/energysource/with-us-sanctions-temporarily-lifted-is-iranian-crude-back-on-the-menu/",
-        "date": "Thu, 02 Jul 2026 17:06:52 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Civilian infrastructure is now a strategic target. NATO must adapt to protect it.",
-        "link": "https://www.atlanticcouncil.org/dispatches/civilian-infrastructure-is-now-a-strategic-target-nato-must-adapt-to-protect-it/",
-        "date": "Thu, 02 Jul 2026 15:46:22 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "From burden sharing to strategic delivery: NATO and Turkey’s priorities ahead of the Ankara summit",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/from-burden-sharing-to-strategic-delivery-nato-and-turkeys-priorities-ahead-of-the-ankara-summit/",
-        "date": "Thu, 02 Jul 2026 14:31:37 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Lipsky quoted in a TIME article on the impact of the US’s decision not to renew USMCA",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-a-time-article-on-the-impact-of-the-uss-decision-not-to-renew-usmca/",
-        "date": "Thu, 02 Jul 2026 14:17:41 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "“The Four Futures for Nato” by Anna Wieslander",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/the-four-futures-for-nato-by-anna-wieslander/",
-        "date": "Thu, 02 Jul 2026 13:07:18 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Libya doesn’t need another elite bargain",
-        "link": "https://www.atlanticcouncil.org/blogs/menasource/libya-doesnt-need-another-elite-bargain/",
-        "date": "Wed, 01 Jul 2026 22:26:42 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "US nuclear power in state energy planning: A policy roadmap",
-        "link": "https://www.atlanticcouncil.org/blogs/energysource/us-nuclear-power-in-state-energy-planning-a-policy-roadmap/",
-        "date": "Wed, 01 Jul 2026 20:19:59 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Chalecki quoted in Bloomberg article on the impact of USMCA uncertainty on supply chains",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-bloomberg-article-on-the-impact-of-usmca-uncertainty-on-supply-chains/",
-        "date": "Wed, 01 Jul 2026 20:19:20 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Chalecki quoted in Bloomberg article on US not renewing USMCA",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-bloomberg-article-on-us-not-renewing-usmca/",
-        "date": "Wed, 01 Jul 2026 20:18:47 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How America’s founding inspires its strategy in the world",
-        "link": "https://www.atlanticcouncil.org/dispatches/how-americas-founding-inspires-its-strategy-in-the-world/",
-        "date": "Wed, 01 Jul 2026 19:35:38 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Innovation ranges: How NATO can test and deploy cutting-edge capabilities faster",
-        "link": "https://www.atlanticcouncil.org/dispatches/innovation-ranges-how-nato-can-test-and-deploy-cutting-edge-capabilities-faster/",
-        "date": "Wed, 01 Jul 2026 19:31:36 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Europe and the Gulf have untapped strengths to counter great-power chaos",
-        "link": "https://www.atlanticcouncil.org/dispatches/europe-and-the-gulf-have-untapped-strengths-to-counter-great-power-chaos/",
-        "date": "Wed, 01 Jul 2026 19:17:52 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Charai in The National Interest: Why the Spanish Monarchy Still Matters to the US",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-in-the-national-interest-why-the-spanish-monarchy-still-matters-to-the-us/",
-        "date": "Wed, 01 Jul 2026 18:58:14 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The US is sending Syrian asylees back. Syria isn’t ready.",
-        "link": "https://www.atlanticcouncil.org/blogs/menasource/the-us-is-sending-syrian-asylees-back-syria-isnt-ready/",
-        "date": "Wed, 01 Jul 2026 15:00:53 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "At 250 years old, the US must continue to refine the message it sends abroad—including to Africa",
-        "link": "https://www.atlanticcouncil.org/blogs/africasource/at-250-years-old-the-us-must-continue-to-refine-the-message-it-sends-abroad-including-to-africa/",
-        "date": "Wed, 01 Jul 2026 14:37:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How NATO is facing mounting cybersecurity challenges",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-is-facing-mounting-cybersecurity-challenges/",
-        "date": "Wed, 01 Jul 2026 14:00:56 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Alliance evolving: The Ankara summit and NATO readiness",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/alliance-evolving-the-ankara-summit-and-nato-readiness/",
-        "date": "Wed, 01 Jul 2026 14:00:50 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Fighting a land war in the digital age: How armies must reinvent themselves—or be destroyed by those that do",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/fighting-a-land-war-in-the-digital-age/",
-        "date": "Wed, 01 Jul 2026 14:00:41 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "US-Turkish relations: Impact on NATO and the Middle East",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/us-turkish-relations-impact-on-nato-and-the-middle-east/",
-        "date": "Wed, 01 Jul 2026 14:00:34 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Q&A with Senator Jeanne Shaheen",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/qa-with-senator-jeanne-shaheen/",
-        "date": "Wed, 01 Jul 2026 14:00:26 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Q&A with Lieutenant General Max A. L. T. Nielsen, commandant of the NATO Defense College",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/qa-with-lieutenant-general-max-nielsen-commandant-of-nato-defense-college/",
-        "date": "Wed, 01 Jul 2026 14:00:18 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "From cloud to kill zone: How Ukraine rewired naval warfare for the age of algorithmic warfare",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/from-cloud-to-kill-zone-how-ukraine-rewired-naval-warfare/",
-        "date": "Wed, 01 Jul 2026 14:00:09 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Atlantic Alliance in the air",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/the-atlantic-alliance-in-the-air/",
-        "date": "Wed, 01 Jul 2026 14:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Warrick for the The Jerusalem Strategic Tribune: Gaza’s Fate Hangs in the Balance in a Crucial Three-Day Meeting in Cyprus",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/warrick-for-the-the-jerusalem-strategic-tribune-gazas-fate-hangs-in-the-balance-in-a-crucial-three-day-meeting-in-cyprus/",
-        "date": "Wed, 01 Jul 2026 13:09:42 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "When innovation becomes security: Finland’s innovation ecosystem in transition",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/when-innovation-becomes-security-finlands-innovation-ecosystem-in-transition/",
-        "date": "Wed, 01 Jul 2026 13:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Ukraine’s blockade of Crimea puts Putin’s greatest victory under threat",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-blockade-of-crimea-puts-putins-greatest-victory-under-threat/",
-        "date": "Tue, 30 Jun 2026 20:59:50 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Banning Russian soldiers from the EU is a common sense security measure",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/banning-russian-soldiers-from-the-eu-is-a-common-sense-security-measure/",
-        "date": "Tue, 30 Jun 2026 20:29:03 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Looking to a decade of delivery: The Three Seas Initiative charts its course forward",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/looking-to-a-decade-of-delivery-the-three-seas-initiative-charts-its-course-forward/",
-        "date": "Tue, 30 Jun 2026 17:39:26 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "What’s at stake in the USMCA review is a stronger, safer, and more prosperous North America",
-        "link": "https://www.atlanticcouncil.org/dispatches/whats-at-stake-in-the-usmca-review-is-a-stronger-safer-and-more-prosperous-north-america/",
-        "date": "Tue, 30 Jun 2026 17:26:13 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The five stages of a USMCA shakeup",
-        "link": "https://www.atlanticcouncil.org/blogs/econographics/the-five-stages-of-a-usmca-shakeup/",
-        "date": "Tue, 30 Jun 2026 16:52:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Algeria’s financial reforms are showing progress. Washington should take note.",
-        "link": "https://www.atlanticcouncil.org/blogs/menasource/algerias-financial-reforms-are-showing-progress-washington-should-take-note/",
-        "date": "Tue, 30 Jun 2026 13:27:12 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "A network of corridors is the only reliable hedge against Middle East chokepoint disruptions",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/a-network-of-corridors-is-the-only-reliable-hedge-against-middle-east-chokepoint-disruptions/",
-        "date": "Tue, 30 Jun 2026 13:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
+        "title": "Guidance: OFSI General Licence - INT/2025/6641960",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20256641960",
+        "date": "2026-07-13T15:06:07Z",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
       },
       {
-        "title": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
-        "link": "https://www.atlanticcouncil.org/dispatches/european-allies-can-boost-nato-unity-at-the-ankara-summit-by-accelerating-eastern-flank-deterrence/",
-        "date": "Mon, 29 Jun 2026 16:11:20 +0000",
+        "title": "Guidance: OFSI General Licence INT/2026/8893924",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20268893924",
+        "date": "2026-07-06T11:21:19Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "How can gradual EU integration work in the Balkans? A Debrief with Odeta Barbullushi & Adi Cerimagic",
-        "link": "https://www.atlanticcouncil.org/content-series/balkans-debrief/how-can-gradual-eu-integration-work-in-the-balkans-a-debrief-with-odeta-barbullushi-adi-cerimagic/",
-        "date": "Mon, 29 Jun 2026 14:00:00 +0000",
+        "title": "Guidance: OFSI General Licence INT/2026/9491628",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269491628",
+        "date": "2026-06-24T14:31:48Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The new non-alignment: How the Middle East is carving out room to maneuver in AI",
-        "link": "https://www.atlanticcouncil.org/blogs/menasource/the-new-non-alignment-how-the-middle-east-is-carving-out-room-to-maneuver-in-ai/",
-        "date": "Mon, 29 Jun 2026 10:00:00 +0000",
+        "title": "Guidance: UK Financial Sanctions FAQs",
+        "link": "https://www.gov.uk/government/publications/uk-financial-sanctions-faqs",
+        "date": "2026-06-24T14:29:48Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Braw in POLITICO on public-private partnerships to defend against hybrid attacks",
-        "link": "https://www.atlanticcouncil.org/commentary/braw-in-politico-public-private-partnerships-to-defend-against-hybrid-attacks/",
-        "date": "Sat, 27 Jun 2026 20:14:50 +0000",
+        "title": "Guidance: The U.S. and UK Economic Sanctions Authorities: A Comparative Overview",
+        "link": "https://www.gov.uk/government/publications/the-us-and-uk-economic-sanctions-authorities-a-comparative-overview",
+        "date": "2026-06-23T14:34:02Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Secretary General Mark Rutte on Trump, Europe, and the future of NATO",
-        "link": "https://www.atlanticcouncil.org/commentary/podcast/secretary-general-mark-rutte-on-trump-europe-and-the-future-of-nato/",
-        "date": "Fri, 26 Jun 2026 22:21:16 +0000",
+        "title": "Guidance: OFSI General Licence INT/2025/8031092",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20258031092",
+        "date": "2026-06-19T13:00:28Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "NATO Secretary General Mark Rutte: Expect deals in Ankara, plus a sharp message to Moscow",
-        "link": "https://www.atlanticcouncil.org/commentary/event-recap/nato-secretary-general-mark-rutte-expect-deals-in-ankara-plus-a-sharp-message-to-moscow/",
-        "date": "Fri, 26 Jun 2026 18:53:00 +0000",
+        "title": "UK issues largest penalty for financial sanctions breaches since Russia’s 2022 illegal invasion of Ukraine",
+        "link": "https://www.gov.uk/government/news/uk-issues-largest-penalty-for-financial-sanctions-breaches-since-russias-2022-illegal-invasion-of-ukraine",
+        "date": "2026-06-17T11:04:35Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Chhangani quoted in WSJ article on how Chinese technology makes dollar alternatives more viable",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-quoted-in-wsj-article-on-how-chinese-technology-makes-dollar-alternatives-more-viable/",
-        "date": "Fri, 26 Jun 2026 16:19:24 +0000",
+        "title": "Notice: Imposition of Monetary Penalty - Sabre Global Technologies Limited (SGTL)",
+        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-sabre-global-technologies-limited-sgtl",
+        "date": "2026-06-17T10:44:07Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Lessons for Africa from Brazil on becoming more resilient to climate disasters",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/lessons-for-africa-from-brazil-on-becoming-more-resilient-to-climate-disasters/",
-        "date": "Fri, 26 Jun 2026 14:10:05 +0000",
+        "title": "Guidance: OFSI General Licence - INT/2026/9559192",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269559192",
+        "date": "2026-06-15T17:27:00Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The ‘MCC Effect’ is real. The Trump administration must not overlook it.",
-        "link": "https://www.atlanticcouncil.org/blogs/africasource/the-mcc-effect-is-real-the-trump-administration-must-not-overlook-it/",
-        "date": "Fri, 26 Jun 2026 13:35:54 +0000",
+        "title": "Guidance: OFSI General licence INT/2024/4761108",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20244761108",
+        "date": "2026-05-26T12:48:47Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Lipsky quoted in WSJ article on CIPS transactions",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-wsj-article-on-cips-transactions/",
-        "date": "Thu, 25 Jun 2026 20:36:01 +0000",
+        "title": "Statutory guidance: Russia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
+        "date": "2026-05-19T23:01:01Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Chalecki quoted in Straits Times article on the expiration of Section 122 tariffs",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-straits-times-article-on-the-expiration-of-section-122-tariffs/",
-        "date": "Thu, 25 Jun 2026 20:35:20 +0000",
+        "title": "Notice: Imposition of Monetary Penalty – Deutsche Bank AG London Branch (“DBLB”)",
+        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-deutsche-bank-ag-london-branch-dblb",
+        "date": "2026-05-19T09:52:37Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Belarus is quietly preparing to play a larger role in Russia’s Ukraine war",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/belarus-is-quietly-preparing-to-play-a-larger-role-in-russias-ukraine-war/",
-        "date": "Thu, 25 Jun 2026 19:37:19 +0000",
+        "title": "Guidance: Sanctions compliance in the Art Market Participants and High Value Goods sector: Threat Assessment",
+        "link": "https://www.gov.uk/government/publications/sanctions-compliance-in-the-art-market-participants-and-high-value-goods-sector-threat-assessment",
+        "date": "2026-05-12T09:27:04Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The West can learn from Ukraine’s AI future vision beyond the battlefield",
-        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/the-west-can-learn-from-ukraines-ai-future-vision-beyond-the-battlefield/",
-        "date": "Thu, 25 Jun 2026 15:57:58 +0000",
+        "title": "Guidance: Financial sanctions general guidance",
+        "link": "https://www.gov.uk/government/publications/financial-sanctions-general-guidance",
+        "date": "2026-05-12T09:26:45Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Radiological and nuclear threats are no longer hypothetical. Europe needs to respond.",
-        "link": "https://www.atlanticcouncil.org/dispatches/radiological-and-nuclear-threats-are-no-longer-hypothetical-europe-needs-to-respond/",
-        "date": "Thu, 25 Jun 2026 13:25:19 +0000",
+        "title": "Guidance: Financial sanctions guidance for high value dealers and art market participants",
+        "link": "https://www.gov.uk/government/publications/financial-sanctions-guidance-for-high-value-dealers-and-art-market-participants",
+        "date": "2026-05-12T09:26:35Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Governments are still underestimating the power of sports",
-        "link": "https://www.atlanticcouncil.org/blogs/africasource/governments-are-still-underestimating-the-power-of-sports/",
-        "date": "Wed, 24 Jun 2026 20:49:06 +0000",
+        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
+        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
+        "date": "2026-05-08T08:40:08Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Harmonizing USMCA: Enhancing customs to facilitate US-Mexico competitiveness",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/harmonizing-usmca-enhancing-customs-to-facilitate-us-mexico-competitiveness/",
-        "date": "Wed, 24 Jun 2026 20:15:55 +0000",
+        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
+        "date": "2026-05-01T10:20:09Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "As democracies grow old, it becomes harder to adopt sound economic policies",
-        "link": "https://www.atlanticcouncil.org/blogs/econographics/as-democracies-grow-old-it-becomes-harder-to-adopt-sound-economic-policies/",
-        "date": "Wed, 24 Jun 2026 16:56:07 +0000",
+        "title": "Statutory guidance: Libya sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
+        "date": "2026-05-01T10:20:06Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Perspectives from the 2026 CEO Dialogue",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/perspectives-from-the-2026-ceo-dialogue/",
-        "date": "Wed, 24 Jun 2026 16:00:48 +0000",
+        "title": "Statutory guidance: Somalia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
+        "date": "2026-05-01T10:20:01Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Dispatch from Tivat: What Montenegro still needs to do to join the European Union",
-        "link": "https://www.atlanticcouncil.org/dispatches/dispatch-from-tivat-what-montenegro-still-needs-to-do-to-join-the-european-union/",
-        "date": "Wed, 24 Jun 2026 14:19:47 +0000",
+        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
+        "date": "2026-05-01T10:19:55Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The Greenspan legacy: How the Federal Reserve should face the AI revolution",
-        "link": "https://www.atlanticcouncil.org/dispatches/the-greenspan-legacy-how-the-federal-reserve-should-face-the-ai-revolution/",
-        "date": "Tue, 23 Jun 2026 22:00:00 +0000",
+        "title": "Statutory guidance: Myanmar sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
+        "date": "2026-05-01T10:19:52Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -1123,312 +342,6 @@
         "title": "Rosetta, not Roulette: Improving sanctions screening results with our new logic-v2 matcher",
         "link": "https://www.opensanctions.org/articles/2025-09-11-logic-v2/",
         "date": "Mon, 15 Sep 2025 07:06:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "chinatalk": [
-      {
-        "title": "WarTalk: Randy Schriver on Asian Defense",
-        "link": "https://www.chinatalk.media/p/wartalk-randy-schriver-on-asian-defense",
-        "date": "Sun, 12 Jul 2026 11:38:10 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "“Eastern Data, Western Compute” is Fake",
-        "link": "https://www.chinatalk.media/p/eastern-data-western-compute-is-fake",
-        "date": "Fri, 10 Jul 2026 15:39:04 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Does Mythos change cyber risk on Chinese hardware?",
-        "link": "https://www.chinatalk.media/p/does-mythos-change-cyber-risk-on",
-        "date": "Thu, 09 Jul 2026 20:07:22 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "We're Hiring to Make Great Video!",
-        "link": "https://www.chinatalk.media/p/were-hiring-to-make-great-video",
-        "date": "Wed, 08 Jul 2026 21:00:53 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Chemistry of Chips",
-        "link": "https://www.chinatalk.media/p/the-chemistry-of-chips",
-        "date": "Wed, 08 Jul 2026 10:41:26 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The 20 Most Interesting Ideas We've Found in 2026",
-        "link": "https://www.chinatalk.media/p/the-20-most-interesting-ideas-weve",
-        "date": "Tue, 07 Jul 2026 10:33:27 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Robots Are Here",
-        "link": "https://www.chinatalk.media/p/the-robots-are-here",
-        "date": "Mon, 06 Jul 2026 11:02:54 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Taiwan's War on Renewables",
-        "link": "https://www.chinatalk.media/p/taiwans-war-on-renewables",
-        "date": "Wed, 01 Jul 2026 10:54:10 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Economic Security Megapod",
-        "link": "https://www.chinatalk.media/p/economic-security-megapod",
-        "date": "Mon, 29 Jun 2026 10:22:47 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "WarTalk: The BS Détente",
-        "link": "https://www.chinatalk.media/p/wartalk-the-bs-detente",
-        "date": "Thu, 25 Jun 2026 10:57:02 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "AI + Nukes $20k Essay Contest!",
-        "link": "https://www.chinatalk.media/p/ai-nukes-20k-essay-contest",
-        "date": "Wed, 24 Jun 2026 10:51:27 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Rare Earths",
-        "link": "https://www.chinatalk.media/p/rare-earths",
-        "date": "Tue, 23 Jun 2026 10:54:46 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Critical Mineral Security: The Endgame",
-        "link": "https://www.chinatalk.media/p/critical-mineral-security-the-endgame",
-        "date": "Mon, 22 Jun 2026 10:56:58 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Transmission Dominance with Chinese Characteristics",
-        "link": "https://www.chinatalk.media/p/transmission-dominance-with-chinese",
-        "date": "Sun, 21 Jun 2026 11:35:31 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Yes, Transformers Are a Problem...",
-        "link": "https://www.chinatalk.media/p/yes-transformers-are-a-problem",
-        "date": "Sat, 20 Jun 2026 11:26:25 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How Chinese make sense of the AI future",
-        "link": "https://www.chinatalk.media/p/chinese-society-has-an-ai-problem",
-        "date": "Fri, 19 Jun 2026 10:03:39 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Blaming China for Datacenter NIMBYism Is Cope",
-        "link": "https://www.chinatalk.media/p/blaming-china-for-datacenter-nimbyism",
-        "date": "Thu, 18 Jun 2026 10:47:35 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Will the MATCH Act Change Chip Controls?",
-        "link": "https://www.chinatalk.media/p/will-the-match-act-change-chip-controls",
-        "date": "Wed, 17 Jun 2026 10:49:54 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Emergency Pod: Claude Fable",
-        "link": "https://www.chinatalk.media/p/emergency-pod-claude-fable-fried",
-        "date": "Tue, 16 Jun 2026 09:41:15 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notes on Egypt",
-        "link": "https://www.chinatalk.media/p/notes-on-egypt",
-        "date": "Sun, 14 Jun 2026 11:09:24 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "semianalysis": [
-      {
-        "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
-        "link": "https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/",
-        "date": "Tue, 16 Sep 2025 17:38:01 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
-        "link": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
-        "date": "Wed, 10 Sep 2025 19:57:18 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
-        "link": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
-        "date": "Mon, 08 Sep 2025 09:54:57 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Amazon’s AI Resurgence: AWS & Anthropic’s Multi-Gigawatt Trainium Expansion",
-        "link": "https://semianalysis.com/2025/09/03/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion/",
-        "date": "Wed, 03 Sep 2025 20:55:46 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
-        "link": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
-        "date": "Wed, 20 Aug 2025 04:56:35 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
-        "link": "https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/",
-        "date": "Wed, 13 Aug 2025 00:27:14 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
-        "link": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
-        "date": "Tue, 12 Aug 2025 01:16:06 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Robotics Levels of Autonomy",
-        "link": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
-        "date": "Wed, 30 Jul 2025 17:02:25 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More",
-        "link": "https://semianalysis.com/2025/07/21/vlsi2025/",
-        "date": "Mon, 21 Jul 2025 14:23:37 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Meta Superintelligence – Leadership Compute, Talent, and Data",
-        "link": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
-        "date": "Fri, 11 Jul 2025 20:12:19 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "sinocism": [
-      {
-        "title": "China-Russia military cooperation; Deadly shoe factory fire; June price data; Developing the retail sector; Carbon peaking action plan",
-        "link": "https://sinocism.com/p/china-russia-military-cooperation",
-        "date": "Thu, 09 Jul 2026 22:25:34 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Sharp China: A Missile Test and New PLA Generals; The CITIC Plane Crash; America's Taiwan Interests; Guo Wengui Jailed and Ezra Jin Released",
-        "link": "https://sinocism.com/p/sharp-china-a-missile-test-and-new",
-        "date": "Thu, 09 Jul 2026 09:00:43 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Xi on Science and Technology; PBoC Q2 Monetary Policy Committee meeting; H200 orders?; PRC open-source and global AI governance",
-        "link": "https://sinocism.com/p/xi-on-science-and-technology-pboc",
-        "date": "Wed, 08 Jul 2026 22:28:39 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Floods and Xi’s instructions; PRC to limit access to top AI models?; PBoC policy support for Hong Kong; Tax burden on private firms",
-        "link": "https://sinocism.com/p/floods-and-xis-instructions-prc-to",
-        "date": "Tue, 07 Jul 2026 21:49:43 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Two new PLA generals; Submarine-launched missile test; Ezra Jin released; \"Routine\" patrols of waters east of Taiwan",
-        "link": "https://sinocism.com/p/two-new-pla-generals-submarine-launched",
-        "date": "Mon, 06 Jul 2026 21:48:32 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "American Decline, Chinese Exposure | Sinification: June 2026",
-        "link": "https://sinocism.com/p/american-decline-chinese-exposure",
-        "date": "Sun, 05 Jul 2026 22:31:12 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Official explanation of CITIC Tower crash; EU-China; Japan-PRC; Tungsten; Global significance of Xi Thought on Party Building",
-        "link": "https://sinocism.com/p/official-explanation-of-citic-tower",
-        "date": "Thu, 02 Jul 2026 21:20:03 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "CPC’s 105th anniversary ceremony; July 1 Medal recipients; AI model regulation; Coupang's Shanghai adventure; Alibaba settles with US government",
-        "link": "https://sinocism.com/p/cpcs-105th-anniversary-ceremony-july",
-        "date": "Wed, 01 Jul 2026 22:29:14 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "June Politburo meeting; CPC turns 105; Decent June economic data; Meituan's LLM; 30 years for Guo Wengui",
-        "link": "https://sinocism.com/p/june-politburo-meeting-cpc-turns",
-        "date": "Tue, 30 Jun 2026 22:28:41 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Plane flies into Beijing’s tallest building; More export controls on Japanese firms; Pause in march towards EU-China trade war?; Premier Li on AI",
-        "link": "https://sinocism.com/p/plane-flies-into-beijings-tallest",
-        "date": "Mon, 29 Jun 2026 21:14:27 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Xi in Shandong; Premier Li on “China Opportunity 2.0”; Tightening Supply Chain Security; Long Arm of the Law on Promoting Ethnic Unity and Progress; Basic Research",
-        "link": "https://sinocism.com/p/xi-in-shandong-premier-li-on-china",
-        "date": "Wed, 24 Jun 2026 21:55:44 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Sharp China: Party Building and Xi's Dominance; Memory Chips and ASML Accusations; Germany's Puzzling Push for Plaza Accords",
-        "link": "https://sinocism.com/p/sharp-china-party-building-and-xis",
-        "date": "Wed, 24 Jun 2026 11:48:38 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Wang Yi on lessons of US-Iran war; Selected Works of Xi Jinping on Party Building; Policy support for auto consumption; Liu Guozhong and biopharma and brain interfaces; Alibaba sues US government",
-        "link": "https://sinocism.com/p/wang-yi-on-lessons-of-us-iran-war",
-        "date": "Tue, 23 Jun 2026 22:00:08 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Li Qiang inspects Dalian; Response to US expansion of China military companies list; Contaminated diapers; No \"Plaza Accord\" to help the EU; Invest in China",
-        "link": "https://sinocism.com/p/li-qiang-inspects-dalian-response",
-        "date": "Mon, 22 Jun 2026 22:41:23 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "AI+ consumption; Xi Jinping Thought on Party Building; Network data security risk assessment",
-        "link": "https://sinocism.com/p/ai-consumption-xi-jinping-thought",
-        "date": "Thu, 18 Jun 2026 21:45:10 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Wang Yi speaks with Iranian FM; Global governance white paper; Employment plan; G7; US holds back tech restrictions",
-        "link": "https://sinocism.com/p/wang-yi-speaks-with-iranian-fm-global",
-        "date": "Wed, 17 Jun 2026 22:36:29 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Xi Thought on Party Building; May economic activity; Myanmar President in Beijing; Wang Yi on the Iran deal",
-        "link": "https://sinocism.com/p/xi-thought-on-party-building-may",
-        "date": "Tue, 16 Jun 2026 21:55:36 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "No newsletter today",
-        "link": "https://sinocism.com/p/no-newsletter-today-44a",
-        "date": "Mon, 15 Jun 2026 20:34:58 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "AI and workers' rights; Selected Works of Xi Jinping on Diplomacy; Busy regulators; Philippine Secretary of National Defense",
-        "link": "https://sinocism.com/p/ai-and-workers-rights-selected-works",
-        "date": "Thu, 11 Jun 2026 23:10:50 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Sharp China: Xi Goes to North Korea; Inspecting Xinjiang; A $295 Billion AI Buildout; The Pentagon Alleges PLA Links for Alibaba and Others",
-        "link": "https://sinocism.com/p/sharp-china-xi-goes-to-north-korea",
-        "date": "Thu, 11 Jun 2026 09:01:56 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -2034,8 +947,1148 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "cset": [
+      {
+        "title": "Companies turn to Chinese AI models to cut costs",
+        "link": "https://cset.georgetown.edu/article/companies-turn-to-chinese-ai-models-to-cut-costs/",
+        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "The White House Made Fixing Intel Its Pet Project. It’s Working.",
+        "link": "https://cset.georgetown.edu/article/the-white-house-made-fixing-intel-its-pet-project-its-working/",
+        "date": "Fri, 10 Jul 2026 09:00:00 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+        "link": "https://cset.georgetown.edu/article/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+        "date": "Thu, 09 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "China Successfully Launches Reusable Rocket in a Win for Space Program",
+        "link": "https://cset.georgetown.edu/article/china-successfully-launches-reusable-rocket-in-a-win-for-space-program/",
+        "date": "Fri, 10 Jul 2026 16:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Helen Toner Discusses U.S.-China AI Race at Aspen Ideas Festival",
+        "link": "https://cset.georgetown.edu/article/helen-toner-discusses-us-china-ai-race-at-aspen-ideas-festival/",
+        "date": "Fri, 10 Jul 2026 14:00:31 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+        "link": "https://cset.georgetown.edu/article/anthropic-thinks-its-own-success-is-key-to-making-ai-safe/",
+        "date": "Mon, 06 Jul 2026 15:20:08 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "A major online safety bill for kids just passed the House. Here’s what experts say parents need to know",
+        "link": "https://cset.georgetown.edu/article/a-major-online-safety-bill-for-kids-just-passed-the-house-heres-what-experts-say-parents-need-to-know/",
+        "date": "Thu, 02 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+        "link": "https://cset.georgetown.edu/article/you-can-now-sound-the-alarm-on-ai-behaving-badly/",
+        "date": "Wed, 01 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "When cheap AI becomes a secret weapon",
+        "link": "https://cset.georgetown.edu/article/when-cheap-ai-becomes-a-secret-weapon/",
+        "date": "Tue, 30 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Trump administration’s AI crackdown opens door for China to close gap",
+        "link": "https://cset.georgetown.edu/article/trump-administrations-ai-crackdown-opens-door-for-china-to-close-gap/",
+        "date": "Tue, 30 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Long Arm of the Chinese Academy of Sciences",
+        "link": "https://cset.georgetown.edu/article/the-long-arm-of-the-chinese-academy-of-sciences/",
+        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Anthropic-U.S. battle highlights AI power struggle",
+        "link": "https://cset.georgetown.edu/article/anthropic-u-s-battle-highlights-ai-power-struggle/",
+        "date": "Wed, 17 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Anthropic got hit by export rules nobody understands",
+        "link": "https://cset.georgetown.edu/article/anthropic-got-hit-by-export-rules-nobody-understands/",
+        "date": "Wed, 17 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "ac-geoecon": [
+      {
+        "title": "على رئيس وزراء العراق أن يقنع واشنطن المتشككة بجدوى الشراكة مع بغداد",
+        "link": "https://www.atlanticcouncil.org/dispatches/%d8%b9%d9%84%d9%89-%d8%b1%d8%a6%d9%8a%d8%b3-%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d8%a3%d9%86-%d9%8a%d9%82%d9%86%d8%b9-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d8%a7%d9%84/",
+        "date": "Mon, 13 Jul 2026 19:20:28 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Kroenig quoted in The Washington Post on Senator Lindsey Graham’s legacy",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-quoted-in-the-washington-post-on-senator-lindsey-grahams-legacy/",
+        "date": "Mon, 13 Jul 2026 13:30:16 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Dispatch from Ankara: Turkey is establishing its own role in ‘NATO 3.0’",
+        "link": "https://www.atlanticcouncil.org/dispatches/dispatch-from-ankara-turkey-is-establishing-its-own-role-in-nato-3-0/",
+        "date": "Mon, 13 Jul 2026 13:29:35 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Kroenig quoted in Jiji on the NATO Summit",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-quoted-in-jiji-on-the-nato-summit/",
+        "date": "Mon, 13 Jul 2026 13:20:47 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Israel’s next government must prioritize the Abraham Accords",
+        "link": "https://www.atlanticcouncil.org/blogs/menasource/israels-next-government-must-prioritize-the-abraham-accords/",
+        "date": "Mon, 13 Jul 2026 10:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Remembering Lindsey Graham",
+        "link": "https://www.atlanticcouncil.org/blogs/new-atlanticist/experts-react/remembering-lindsey-graham/",
+        "date": "Mon, 13 Jul 2026 02:08:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Iraq’s new prime minister must sell Iraq to a skeptical Washington",
+        "link": "https://www.atlanticcouncil.org/dispatches/iraqs-new-prime-minister-must-sell-iraq-to-a-skeptical-washington/",
+        "date": "Sat, 11 Jul 2026 13:26:14 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Venezuela’s earthquakes have deepened this century’s biggest economic crisis",
+        "link": "https://www.atlanticcouncil.org/dispatches/venezuelas-earthquakes-have-deepened-this-centurys-biggest-economic-crisis/",
+        "date": "Sat, 11 Jul 2026 13:23:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Ankara summit previewed the Gulf’s new security equation",
+        "link": "https://www.atlanticcouncil.org/dispatches/the-ankara-summit-previewed-the-gulfs-new-security-equation/",
+        "date": "Fri, 10 Jul 2026 18:27:39 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Israel and the new reality of buffer zones",
+        "link": "https://www.atlanticcouncil.org/dispatches/israel-and-the-new-reality-of-buffer-zones/",
+        "date": "Fri, 10 Jul 2026 15:40:51 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "McDowell quoted in a Bloomberg article on how political forces are influencing the dollar’s role",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/mcdowell-quoted-in-a-bloomberg-article-on-how-political-forces-are-influencing-the-dollars-role/",
+        "date": "Fri, 10 Jul 2026 14:14:20 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "De Kruijf and O’Connor’s piece on Iran sanctions featured on a Illicit Edge newsletter",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/de-kruijf-and-oconnors-piece-on-iran-sanctions-featured-on-a-illicit-edge-newsletter/",
+        "date": "Fri, 10 Jul 2026 14:12:02 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Inside the power struggle over Venezuela’s debt restructuring",
+        "link": "https://www.atlanticcouncil.org/blogs/econographics/inside-the-power-struggle-over-venezuelas-debt-restructuring/",
+        "date": "Fri, 10 Jul 2026 14:05:18 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Trump should seize upon his NATO-Ukraine moment",
+        "link": "https://www.atlanticcouncil.org/content-series/inflection-points/trump-should-seize-upon-his-nato-ukraine-moment/",
+        "date": "Fri, 10 Jul 2026 11:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/nato-summit-dashes-putins-hopes-of-outlasting-the-west-in-ukraine/",
+        "date": "Thu, 09 Jul 2026 21:05:19 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "What new tariffs would mean for US-Brazil trade",
+        "link": "https://www.atlanticcouncil.org/dispatches/what-new-tariffs-would-mean-for-us-brazil-trade/",
+        "date": "Thu, 09 Jul 2026 20:33:30 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Charai for The Jerusalem Strategic Tribune: Iran Failed Trump’s Test",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-the-jerusalem-strategic-tribune-iran-failed-trumps-test/",
+        "date": "Thu, 09 Jul 2026 20:14:28 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Eleven takeaways from the NATO Summit in Ankara",
+        "link": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara/",
+        "date": "Thu, 09 Jul 2026 17:22:20 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The collapse of Cuba’s state-run economy is years in the making",
+        "link": "https://www.atlanticcouncil.org/dispatches/the-collapse-of-cubas-state-run-economy-is-years-in-the-making/",
+        "date": "Thu, 09 Jul 2026 16:46:26 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Five lessons from the oil market shock",
+        "link": "https://www.atlanticcouncil.org/blogs/energysource/five-lessons-from-the-oil-market-shock/",
+        "date": "Thu, 09 Jul 2026 13:03:06 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Wieslander in Swedish media during Ankara Summit",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/wieslander-in-swedish-media-during-ankara-summit/",
+        "date": "Thu, 09 Jul 2026 08:41:03 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Was the NATO Summit a success?",
+        "link": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success/",
+        "date": "Wed, 08 Jul 2026 22:28:34 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Strategic Litigation Project Quarterly Newsletter: Responding to emerging crises",
+        "link": "https://www.atlanticcouncil.org/content-series/strategic-litigation/strategic-litigation-project-quarterly-newsletter-responding-to-emerging-crises/",
+        "date": "Wed, 08 Jul 2026 20:42:09 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Kroenig interviewed in NPR on the Ankara Summit",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-interviewed-in-npr-on-the-ankara-summit/",
+        "date": "Wed, 08 Jul 2026 20:23:27 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Braw in Foreign Policy on European response to Russia’s shadow fleet",
+        "link": "https://www.atlanticcouncil.org/commentary/braw-in-foreign-policy-on-european-response-to-russias-shadow-fleet/",
+        "date": "Wed, 08 Jul 2026 16:34:23 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The US paper fleet: The Jones Act and the 2026 Iran war stress test",
+        "link": "https://www.atlanticcouncil.org/blogs/energysource/the-us-paper-fleet-the-jones-act-and-the-2026-iran-war-stress-test/",
+        "date": "Wed, 08 Jul 2026 15:45:28 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Can soccer unite Bosnia beyond politics? | A Debrief With Jasmin Mujanović And Dženeta Karabegović",
+        "link": "https://www.atlanticcouncil.org/content-series/balkans-debrief/can-soccer-unite-bosnia-beyond-politics-a-debrief-with-jasmin-mujanovic-and-dzeneta-karabegovic/",
+        "date": "Wed, 08 Jul 2026 14:52:54 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Kroenig quoted in The New York Times on US leadership in NATO",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-quoted-in-the-new-york-times-on-us-leadership-in-nato/",
+        "date": "Wed, 08 Jul 2026 13:50:15 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "AI is the next major biodefense tech priority",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/ai-is-the-next-major-biodefense-tech-priority/",
+        "date": "Tue, 07 Jul 2026 19:36:55 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "India’s AI playbook: From talent incubator to AI leader",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/indias-ai-playbook-from-talent-incubator-to-ai-leader/",
+        "date": "Tue, 07 Jul 2026 17:27:19 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "NATO can emerge from the Ankara summit stronger. Here’s how.",
+        "link": "https://www.atlanticcouncil.org/dispatches/nato-can-emerge-from-the-ankara-summit-stronger-heres-how/",
+        "date": "Tue, 07 Jul 2026 16:45:03 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "A weak yen spells trouble for Japan—at home and abroad",
+        "link": "https://www.atlanticcouncil.org/blogs/econographics/a-weak-yen-spells-trouble-for-japan-at-home-and-abroad/",
+        "date": "Tue, 07 Jul 2026 16:37:16 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Putin escalates ballistic missile attacks as Patriot shortages leave Ukraine defenseless",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/putin-escalates-ballistic-missile-attacks-as-patriot-shortages-leave-ukraine-defenseless/",
+        "date": "Tue, 07 Jul 2026 13:03:41 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "NATO’s new Arctic presence shows that European allies are stepping up",
+        "link": "https://www.atlanticcouncil.org/dispatches/natos-new-arctic-presence-shows-that-european-allies-are-stepping-up/",
+        "date": "Mon, 06 Jul 2026 17:39:30 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "New Middle East corridors are about more than just bypassing the Strait of Hormuz",
+        "link": "https://www.atlanticcouncil.org/blogs/menasource/new-middle-east-corridors-are-about-more-than-just-bypassing-the-strait-of-hormuz/",
+        "date": "Mon, 06 Jul 2026 17:18:45 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Braw in Fox News on Russia’s use of shadow fleet to probe NATO drone defenses",
+        "link": "https://www.atlanticcouncil.org/commentary/braw-in-fox-news-on-russias-use-of-shadow-fleet-to-probe-nato-drone-defenses/",
+        "date": "Mon, 06 Jul 2026 16:28:40 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Braw in Bloomberg on the 2026 NATO Summit in Ankara",
+        "link": "https://www.atlanticcouncil.org/commentary/braw-in-bloomberg-on-the-2026-nato-summit-in-ankara/",
+        "date": "Mon, 06 Jul 2026 16:24:12 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Chalecki quoted in a Plastic News article on how a destabilized USMCA impacts investment and growth",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-a-plastic-news-article-on-how-a-destabilized-usmca-impacts-investment-and-growth/",
+        "date": "Mon, 06 Jul 2026 14:19:43 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Budginaite-Froehly published in the Martens Centre",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/budginaite-froehly-published-in-the-martens-centre/",
+        "date": "Mon, 06 Jul 2026 13:05:31 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "A stronger Europe in NATO—the way forward",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/a-stronger-europe-in-nato-the-way-forward/",
+        "date": "Mon, 06 Jul 2026 13:01:34 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Supporting freedom, combating anti-US regimes: A democracy assistance agenda for 2026-2028",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/supporting-freedom-combating-anti-us-regimes-a-democracy-assistance-agenda-for-2026-2028/",
+        "date": "Mon, 06 Jul 2026 13:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "A humanitarian crisis is unfolding in Russian-occupied southern Ukraine",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/a-humanitarian-crisis-is-unfolding-in-russian-occupied-southern-ukraine/",
+        "date": "Mon, 06 Jul 2026 10:25:01 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "With Putin visibly weakened, now is the time to back Ukraine",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/with-putin-visibly-weakened-now-is-the-time-to-back-ukraine/",
+        "date": "Sun, 05 Jul 2026 10:29:14 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Putin may gamble on mobilization to rescue Russia’s Ukraine invasion",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/putin-may-gamble-on-mobilization-to-rescue-russias-ukraine-invasion/",
+        "date": "Sat, 04 Jul 2026 15:09:37 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Ukraine is showing NATO the future of warfare",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-is-showing-nato-the-future-of-warfare/",
+        "date": "Sat, 04 Jul 2026 13:40:22 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "More European NATO allies should step up help to Ukraine through PURL",
+        "link": "https://www.atlanticcouncil.org/dispatches/more-european-nato-allies-should-step-up-help-to-ukraine-through-purl/",
+        "date": "Fri, 03 Jul 2026 21:07:21 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "‘What America means to me’: Global perspectives on the country’s 250th anniversary",
+        "link": "https://www.atlanticcouncil.org/dispatches/what-america-means-to-me-global-perspectives-on-the-countrys-250th-anniversary/",
+        "date": "Thu, 02 Jul 2026 22:58:27 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "A misguided war, a flawed deal, and a dangerous future. Here’s what to do next on Iran.",
+        "link": "https://www.atlanticcouncil.org/content-series/the-big-story/a-misguided-war-a-flawed-deal-and-a-dangerous-future-heres-what-to-do-next-on-iran/",
+        "date": "Thu, 02 Jul 2026 21:00:32 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The West can learn from Ukraine’s success against Russian propaganda",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/the-west-can-learn-from-ukraines-success-against-russian-propaganda/",
+        "date": "Thu, 02 Jul 2026 20:32:11 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Europe’s no-panic playbook for a radically different US foreign policy",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/europes-no-panic-playbook-for-a-radically-different-us-foreign-policy/",
+        "date": "Thu, 02 Jul 2026 20:06:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How NATO can strengthen the transatlantic defense industrial base in Ankara and beyond",
+        "link": "https://www.atlanticcouncil.org/dispatches/how-nato-can-strengthen-the-transatlantic-defense-industrial-base-in-ankara-and-beyond/",
+        "date": "Thu, 02 Jul 2026 18:11:22 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Europe should take the long bet on the US and the transatlantic security relationship",
+        "link": "https://www.atlanticcouncil.org/dispatches/europe-should-take-the-long-bet-on-the-us-and-the-transatlantic-security-relationship/",
+        "date": "Thu, 02 Jul 2026 17:51:28 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "With US sanctions temporarily lifted, is Iranian crude back on the menu?",
+        "link": "https://www.atlanticcouncil.org/blogs/energysource/with-us-sanctions-temporarily-lifted-is-iranian-crude-back-on-the-menu/",
+        "date": "Thu, 02 Jul 2026 17:06:52 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Civilian infrastructure is now a strategic target. NATO must adapt to protect it.",
+        "link": "https://www.atlanticcouncil.org/dispatches/civilian-infrastructure-is-now-a-strategic-target-nato-must-adapt-to-protect-it/",
+        "date": "Thu, 02 Jul 2026 15:46:22 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "From burden sharing to strategic delivery: NATO and Turkey’s priorities ahead of the Ankara summit",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/from-burden-sharing-to-strategic-delivery-nato-and-turkeys-priorities-ahead-of-the-ankara-summit/",
+        "date": "Thu, 02 Jul 2026 14:31:37 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Lipsky quoted in a TIME article on the impact of the US’s decision not to renew USMCA",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-a-time-article-on-the-impact-of-the-uss-decision-not-to-renew-usmca/",
+        "date": "Thu, 02 Jul 2026 14:17:41 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "“The Four Futures for Nato” by Anna Wieslander",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/the-four-futures-for-nato-by-anna-wieslander/",
+        "date": "Thu, 02 Jul 2026 13:07:18 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Libya doesn’t need another elite bargain",
+        "link": "https://www.atlanticcouncil.org/blogs/menasource/libya-doesnt-need-another-elite-bargain/",
+        "date": "Wed, 01 Jul 2026 22:26:42 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "US nuclear power in state energy planning: A policy roadmap",
+        "link": "https://www.atlanticcouncil.org/blogs/energysource/us-nuclear-power-in-state-energy-planning-a-policy-roadmap/",
+        "date": "Wed, 01 Jul 2026 20:19:59 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Chalecki quoted in Bloomberg article on the impact of USMCA uncertainty on supply chains",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-bloomberg-article-on-the-impact-of-usmca-uncertainty-on-supply-chains/",
+        "date": "Wed, 01 Jul 2026 20:19:20 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Chalecki quoted in Bloomberg article on US not renewing USMCA",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-bloomberg-article-on-us-not-renewing-usmca/",
+        "date": "Wed, 01 Jul 2026 20:18:47 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How America’s founding inspires its strategy in the world",
+        "link": "https://www.atlanticcouncil.org/dispatches/how-americas-founding-inspires-its-strategy-in-the-world/",
+        "date": "Wed, 01 Jul 2026 19:35:38 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Innovation ranges: How NATO can test and deploy cutting-edge capabilities faster",
+        "link": "https://www.atlanticcouncil.org/dispatches/innovation-ranges-how-nato-can-test-and-deploy-cutting-edge-capabilities-faster/",
+        "date": "Wed, 01 Jul 2026 19:31:36 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Europe and the Gulf have untapped strengths to counter great-power chaos",
+        "link": "https://www.atlanticcouncil.org/dispatches/europe-and-the-gulf-have-untapped-strengths-to-counter-great-power-chaos/",
+        "date": "Wed, 01 Jul 2026 19:17:52 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Charai in The National Interest: Why the Spanish Monarchy Still Matters to the US",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-in-the-national-interest-why-the-spanish-monarchy-still-matters-to-the-us/",
+        "date": "Wed, 01 Jul 2026 18:58:14 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The US is sending Syrian asylees back. Syria isn’t ready.",
+        "link": "https://www.atlanticcouncil.org/blogs/menasource/the-us-is-sending-syrian-asylees-back-syria-isnt-ready/",
+        "date": "Wed, 01 Jul 2026 15:00:53 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "At 250 years old, the US must continue to refine the message it sends abroad—including to Africa",
+        "link": "https://www.atlanticcouncil.org/blogs/africasource/at-250-years-old-the-us-must-continue-to-refine-the-message-it-sends-abroad-including-to-africa/",
+        "date": "Wed, 01 Jul 2026 14:37:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How NATO is facing mounting cybersecurity challenges",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-is-facing-mounting-cybersecurity-challenges/",
+        "date": "Wed, 01 Jul 2026 14:00:56 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Alliance evolving: The Ankara summit and NATO readiness",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/alliance-evolving-the-ankara-summit-and-nato-readiness/",
+        "date": "Wed, 01 Jul 2026 14:00:50 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Fighting a land war in the digital age: How armies must reinvent themselves—or be destroyed by those that do",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/fighting-a-land-war-in-the-digital-age/",
+        "date": "Wed, 01 Jul 2026 14:00:41 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "US-Turkish relations: Impact on NATO and the Middle East",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/us-turkish-relations-impact-on-nato-and-the-middle-east/",
+        "date": "Wed, 01 Jul 2026 14:00:34 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Q&A with Senator Jeanne Shaheen",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/qa-with-senator-jeanne-shaheen/",
+        "date": "Wed, 01 Jul 2026 14:00:26 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Q&A with Lieutenant General Max A. L. T. Nielsen, commandant of the NATO Defense College",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/qa-with-lieutenant-general-max-nielsen-commandant-of-nato-defense-college/",
+        "date": "Wed, 01 Jul 2026 14:00:18 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "From cloud to kill zone: How Ukraine rewired naval warfare for the age of algorithmic warfare",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/from-cloud-to-kill-zone-how-ukraine-rewired-naval-warfare/",
+        "date": "Wed, 01 Jul 2026 14:00:09 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Atlantic Alliance in the air",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/the-atlantic-alliance-in-the-air/",
+        "date": "Wed, 01 Jul 2026 14:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Warrick for the The Jerusalem Strategic Tribune: Gaza’s Fate Hangs in the Balance in a Crucial Three-Day Meeting in Cyprus",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/warrick-for-the-the-jerusalem-strategic-tribune-gazas-fate-hangs-in-the-balance-in-a-crucial-three-day-meeting-in-cyprus/",
+        "date": "Wed, 01 Jul 2026 13:09:42 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "When innovation becomes security: Finland’s innovation ecosystem in transition",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/when-innovation-becomes-security-finlands-innovation-ecosystem-in-transition/",
+        "date": "Wed, 01 Jul 2026 13:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Ukraine’s blockade of Crimea puts Putin’s greatest victory under threat",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-blockade-of-crimea-puts-putins-greatest-victory-under-threat/",
+        "date": "Tue, 30 Jun 2026 20:59:50 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Banning Russian soldiers from the EU is a common sense security measure",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/banning-russian-soldiers-from-the-eu-is-a-common-sense-security-measure/",
+        "date": "Tue, 30 Jun 2026 20:29:03 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Looking to a decade of delivery: The Three Seas Initiative charts its course forward",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/looking-to-a-decade-of-delivery-the-three-seas-initiative-charts-its-course-forward/",
+        "date": "Tue, 30 Jun 2026 17:39:26 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "What’s at stake in the USMCA review is a stronger, safer, and more prosperous North America",
+        "link": "https://www.atlanticcouncil.org/dispatches/whats-at-stake-in-the-usmca-review-is-a-stronger-safer-and-more-prosperous-north-america/",
+        "date": "Tue, 30 Jun 2026 17:26:13 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The five stages of a USMCA shakeup",
+        "link": "https://www.atlanticcouncil.org/blogs/econographics/the-five-stages-of-a-usmca-shakeup/",
+        "date": "Tue, 30 Jun 2026 16:52:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Algeria’s financial reforms are showing progress. Washington should take note.",
+        "link": "https://www.atlanticcouncil.org/blogs/menasource/algerias-financial-reforms-are-showing-progress-washington-should-take-note/",
+        "date": "Tue, 30 Jun 2026 13:27:12 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "A network of corridors is the only reliable hedge against Middle East chokepoint disruptions",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/a-network-of-corridors-is-the-only-reliable-hedge-against-middle-east-chokepoint-disruptions/",
+        "date": "Tue, 30 Jun 2026 13:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
+        "link": "https://www.atlanticcouncil.org/dispatches/european-allies-can-boost-nato-unity-at-the-ankara-summit-by-accelerating-eastern-flank-deterrence/",
+        "date": "Mon, 29 Jun 2026 16:11:20 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How can gradual EU integration work in the Balkans? A Debrief with Odeta Barbullushi & Adi Cerimagic",
+        "link": "https://www.atlanticcouncil.org/content-series/balkans-debrief/how-can-gradual-eu-integration-work-in-the-balkans-a-debrief-with-odeta-barbullushi-adi-cerimagic/",
+        "date": "Mon, 29 Jun 2026 14:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The new non-alignment: How the Middle East is carving out room to maneuver in AI",
+        "link": "https://www.atlanticcouncil.org/blogs/menasource/the-new-non-alignment-how-the-middle-east-is-carving-out-room-to-maneuver-in-ai/",
+        "date": "Mon, 29 Jun 2026 10:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Braw in POLITICO on public-private partnerships to defend against hybrid attacks",
+        "link": "https://www.atlanticcouncil.org/commentary/braw-in-politico-public-private-partnerships-to-defend-against-hybrid-attacks/",
+        "date": "Sat, 27 Jun 2026 20:14:50 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Secretary General Mark Rutte on Trump, Europe, and the future of NATO",
+        "link": "https://www.atlanticcouncil.org/commentary/podcast/secretary-general-mark-rutte-on-trump-europe-and-the-future-of-nato/",
+        "date": "Fri, 26 Jun 2026 22:21:16 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "NATO Secretary General Mark Rutte: Expect deals in Ankara, plus a sharp message to Moscow",
+        "link": "https://www.atlanticcouncil.org/commentary/event-recap/nato-secretary-general-mark-rutte-expect-deals-in-ankara-plus-a-sharp-message-to-moscow/",
+        "date": "Fri, 26 Jun 2026 18:53:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Chhangani quoted in WSJ article on how Chinese technology makes dollar alternatives more viable",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-quoted-in-wsj-article-on-how-chinese-technology-makes-dollar-alternatives-more-viable/",
+        "date": "Fri, 26 Jun 2026 16:19:24 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Lessons for Africa from Brazil on becoming more resilient to climate disasters",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/lessons-for-africa-from-brazil-on-becoming-more-resilient-to-climate-disasters/",
+        "date": "Fri, 26 Jun 2026 14:10:05 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The ‘MCC Effect’ is real. The Trump administration must not overlook it.",
+        "link": "https://www.atlanticcouncil.org/blogs/africasource/the-mcc-effect-is-real-the-trump-administration-must-not-overlook-it/",
+        "date": "Fri, 26 Jun 2026 13:35:54 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Lipsky quoted in WSJ article on CIPS transactions",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-wsj-article-on-cips-transactions/",
+        "date": "Thu, 25 Jun 2026 20:36:01 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Chalecki quoted in Straits Times article on the expiration of Section 122 tariffs",
+        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-straits-times-article-on-the-expiration-of-section-122-tariffs/",
+        "date": "Thu, 25 Jun 2026 20:35:20 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Belarus is quietly preparing to play a larger role in Russia’s Ukraine war",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/belarus-is-quietly-preparing-to-play-a-larger-role-in-russias-ukraine-war/",
+        "date": "Thu, 25 Jun 2026 19:37:19 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The West can learn from Ukraine’s AI future vision beyond the battlefield",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/the-west-can-learn-from-ukraines-ai-future-vision-beyond-the-battlefield/",
+        "date": "Thu, 25 Jun 2026 15:57:58 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Radiological and nuclear threats are no longer hypothetical. Europe needs to respond.",
+        "link": "https://www.atlanticcouncil.org/dispatches/radiological-and-nuclear-threats-are-no-longer-hypothetical-europe-needs-to-respond/",
+        "date": "Thu, 25 Jun 2026 13:25:19 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Governments are still underestimating the power of sports",
+        "link": "https://www.atlanticcouncil.org/blogs/africasource/governments-are-still-underestimating-the-power-of-sports/",
+        "date": "Wed, 24 Jun 2026 20:49:06 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Harmonizing USMCA: Enhancing customs to facilitate US-Mexico competitiveness",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/harmonizing-usmca-enhancing-customs-to-facilitate-us-mexico-competitiveness/",
+        "date": "Wed, 24 Jun 2026 20:15:55 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "As democracies grow old, it becomes harder to adopt sound economic policies",
+        "link": "https://www.atlanticcouncil.org/blogs/econographics/as-democracies-grow-old-it-becomes-harder-to-adopt-sound-economic-policies/",
+        "date": "Wed, 24 Jun 2026 16:56:07 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Perspectives from the 2026 CEO Dialogue",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/perspectives-from-the-2026-ceo-dialogue/",
+        "date": "Wed, 24 Jun 2026 16:00:48 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Dispatch from Tivat: What Montenegro still needs to do to join the European Union",
+        "link": "https://www.atlanticcouncil.org/dispatches/dispatch-from-tivat-what-montenegro-still-needs-to-do-to-join-the-european-union/",
+        "date": "Wed, 24 Jun 2026 14:19:47 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Greenspan legacy: How the Federal Reserve should face the AI revolution",
+        "link": "https://www.atlanticcouncil.org/dispatches/the-greenspan-legacy-how-the-federal-reserve-should-face-the-ai-revolution/",
+        "date": "Tue, 23 Jun 2026 22:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "rusi": [],
+    "semianalysis": [
+      {
+        "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
+        "link": "https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/",
+        "date": "Tue, 16 Sep 2025 17:38:01 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
+        "link": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
+        "date": "Wed, 10 Sep 2025 19:57:18 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
+        "link": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
+        "date": "Mon, 08 Sep 2025 09:54:57 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Amazon’s AI Resurgence: AWS & Anthropic’s Multi-Gigawatt Trainium Expansion",
+        "link": "https://semianalysis.com/2025/09/03/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion/",
+        "date": "Wed, 03 Sep 2025 20:55:46 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
+        "link": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
+        "date": "Wed, 20 Aug 2025 04:56:35 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
+        "link": "https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/",
+        "date": "Wed, 13 Aug 2025 00:27:14 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
+        "link": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
+        "date": "Tue, 12 Aug 2025 01:16:06 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Robotics Levels of Autonomy",
+        "link": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
+        "date": "Wed, 30 Jul 2025 17:02:25 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More",
+        "link": "https://semianalysis.com/2025/07/21/vlsi2025/",
+        "date": "Mon, 21 Jul 2025 14:23:37 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Meta Superintelligence – Leadership Compute, Talent, and Data",
+        "link": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
+        "date": "Fri, 11 Jul 2025 20:12:19 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "chinatalk": [
+      {
+        "title": "WarTalk: Randy Schriver on Asian Defense",
+        "link": "https://www.chinatalk.media/p/wartalk-randy-schriver-on-asian-defense",
+        "date": "Sun, 12 Jul 2026 11:38:10 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "“Eastern Data, Western Compute” is Fake",
+        "link": "https://www.chinatalk.media/p/eastern-data-western-compute-is-fake",
+        "date": "Fri, 10 Jul 2026 15:39:04 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Does Mythos change cyber risk on Chinese hardware?",
+        "link": "https://www.chinatalk.media/p/does-mythos-change-cyber-risk-on",
+        "date": "Thu, 09 Jul 2026 20:07:22 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "We're Hiring to Make Great Video!",
+        "link": "https://www.chinatalk.media/p/were-hiring-to-make-great-video",
+        "date": "Wed, 08 Jul 2026 21:00:53 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Chemistry of Chips",
+        "link": "https://www.chinatalk.media/p/the-chemistry-of-chips",
+        "date": "Wed, 08 Jul 2026 10:41:26 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The 20 Most Interesting Ideas We've Found in 2026",
+        "link": "https://www.chinatalk.media/p/the-20-most-interesting-ideas-weve",
+        "date": "Tue, 07 Jul 2026 10:33:27 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Robots Are Here",
+        "link": "https://www.chinatalk.media/p/the-robots-are-here",
+        "date": "Mon, 06 Jul 2026 11:02:54 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Taiwan's War on Renewables",
+        "link": "https://www.chinatalk.media/p/taiwans-war-on-renewables",
+        "date": "Wed, 01 Jul 2026 10:54:10 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Economic Security Megapod",
+        "link": "https://www.chinatalk.media/p/economic-security-megapod",
+        "date": "Mon, 29 Jun 2026 10:22:47 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "WarTalk: The BS Détente",
+        "link": "https://www.chinatalk.media/p/wartalk-the-bs-detente",
+        "date": "Thu, 25 Jun 2026 10:57:02 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "AI + Nukes $20k Essay Contest!",
+        "link": "https://www.chinatalk.media/p/ai-nukes-20k-essay-contest",
+        "date": "Wed, 24 Jun 2026 10:51:27 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Rare Earths",
+        "link": "https://www.chinatalk.media/p/rare-earths",
+        "date": "Tue, 23 Jun 2026 10:54:46 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Critical Mineral Security: The Endgame",
+        "link": "https://www.chinatalk.media/p/critical-mineral-security-the-endgame",
+        "date": "Mon, 22 Jun 2026 10:56:58 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Transmission Dominance with Chinese Characteristics",
+        "link": "https://www.chinatalk.media/p/transmission-dominance-with-chinese",
+        "date": "Sun, 21 Jun 2026 11:35:31 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Yes, Transformers Are a Problem...",
+        "link": "https://www.chinatalk.media/p/yes-transformers-are-a-problem",
+        "date": "Sat, 20 Jun 2026 11:26:25 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How Chinese make sense of the AI future",
+        "link": "https://www.chinatalk.media/p/chinese-society-has-an-ai-problem",
+        "date": "Fri, 19 Jun 2026 10:03:39 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Blaming China for Datacenter NIMBYism Is Cope",
+        "link": "https://www.chinatalk.media/p/blaming-china-for-datacenter-nimbyism",
+        "date": "Thu, 18 Jun 2026 10:47:35 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Will the MATCH Act Change Chip Controls?",
+        "link": "https://www.chinatalk.media/p/will-the-match-act-change-chip-controls",
+        "date": "Wed, 17 Jun 2026 10:49:54 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Emergency Pod: Claude Fable",
+        "link": "https://www.chinatalk.media/p/emergency-pod-claude-fable-fried",
+        "date": "Tue, 16 Jun 2026 09:41:15 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Notes on Egypt",
+        "link": "https://www.chinatalk.media/p/notes-on-egypt",
+        "date": "Sun, 14 Jun 2026 11:09:24 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "sinocism": [
+      {
+        "title": "China-Russia military cooperation; Deadly shoe factory fire; June price data; Developing the retail sector; Carbon peaking action plan",
+        "link": "https://sinocism.com/p/china-russia-military-cooperation",
+        "date": "Thu, 09 Jul 2026 22:25:34 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Sharp China: A Missile Test and New PLA Generals; The CITIC Plane Crash; America's Taiwan Interests; Guo Wengui Jailed and Ezra Jin Released",
+        "link": "https://sinocism.com/p/sharp-china-a-missile-test-and-new",
+        "date": "Thu, 09 Jul 2026 09:00:43 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Xi on Science and Technology; PBoC Q2 Monetary Policy Committee meeting; H200 orders?; PRC open-source and global AI governance",
+        "link": "https://sinocism.com/p/xi-on-science-and-technology-pboc",
+        "date": "Wed, 08 Jul 2026 22:28:39 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Floods and Xi’s instructions; PRC to limit access to top AI models?; PBoC policy support for Hong Kong; Tax burden on private firms",
+        "link": "https://sinocism.com/p/floods-and-xis-instructions-prc-to",
+        "date": "Tue, 07 Jul 2026 21:49:43 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Two new PLA generals; Submarine-launched missile test; Ezra Jin released; \"Routine\" patrols of waters east of Taiwan",
+        "link": "https://sinocism.com/p/two-new-pla-generals-submarine-launched",
+        "date": "Mon, 06 Jul 2026 21:48:32 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "American Decline, Chinese Exposure | Sinification: June 2026",
+        "link": "https://sinocism.com/p/american-decline-chinese-exposure",
+        "date": "Sun, 05 Jul 2026 22:31:12 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Official explanation of CITIC Tower crash; EU-China; Japan-PRC; Tungsten; Global significance of Xi Thought on Party Building",
+        "link": "https://sinocism.com/p/official-explanation-of-citic-tower",
+        "date": "Thu, 02 Jul 2026 21:20:03 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "CPC’s 105th anniversary ceremony; July 1 Medal recipients; AI model regulation; Coupang's Shanghai adventure; Alibaba settles with US government",
+        "link": "https://sinocism.com/p/cpcs-105th-anniversary-ceremony-july",
+        "date": "Wed, 01 Jul 2026 22:29:14 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "June Politburo meeting; CPC turns 105; Decent June economic data; Meituan's LLM; 30 years for Guo Wengui",
+        "link": "https://sinocism.com/p/june-politburo-meeting-cpc-turns",
+        "date": "Tue, 30 Jun 2026 22:28:41 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Plane flies into Beijing’s tallest building; More export controls on Japanese firms; Pause in march towards EU-China trade war?; Premier Li on AI",
+        "link": "https://sinocism.com/p/plane-flies-into-beijings-tallest",
+        "date": "Mon, 29 Jun 2026 21:14:27 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Xi in Shandong; Premier Li on “China Opportunity 2.0”; Tightening Supply Chain Security; Long Arm of the Law on Promoting Ethnic Unity and Progress; Basic Research",
+        "link": "https://sinocism.com/p/xi-in-shandong-premier-li-on-china",
+        "date": "Wed, 24 Jun 2026 21:55:44 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Sharp China: Party Building and Xi's Dominance; Memory Chips and ASML Accusations; Germany's Puzzling Push for Plaza Accords",
+        "link": "https://sinocism.com/p/sharp-china-party-building-and-xis",
+        "date": "Wed, 24 Jun 2026 11:48:38 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Wang Yi on lessons of US-Iran war; Selected Works of Xi Jinping on Party Building; Policy support for auto consumption; Liu Guozhong and biopharma and brain interfaces; Alibaba sues US government",
+        "link": "https://sinocism.com/p/wang-yi-on-lessons-of-us-iran-war",
+        "date": "Tue, 23 Jun 2026 22:00:08 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Li Qiang inspects Dalian; Response to US expansion of China military companies list; Contaminated diapers; No \"Plaza Accord\" to help the EU; Invest in China",
+        "link": "https://sinocism.com/p/li-qiang-inspects-dalian-response",
+        "date": "Mon, 22 Jun 2026 22:41:23 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "AI+ consumption; Xi Jinping Thought on Party Building; Network data security risk assessment",
+        "link": "https://sinocism.com/p/ai-consumption-xi-jinping-thought",
+        "date": "Thu, 18 Jun 2026 21:45:10 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Wang Yi speaks with Iranian FM; Global governance white paper; Employment plan; G7; US holds back tech restrictions",
+        "link": "https://sinocism.com/p/wang-yi-speaks-with-iranian-fm-global",
+        "date": "Wed, 17 Jun 2026 22:36:29 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Xi Thought on Party Building; May economic activity; Myanmar President in Beijing; Wang Yi on the Iran deal",
+        "link": "https://sinocism.com/p/xi-thought-on-party-building-may",
+        "date": "Tue, 16 Jun 2026 21:55:36 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "No newsletter today",
+        "link": "https://sinocism.com/p/no-newsletter-today-44a",
+        "date": "Mon, 15 Jun 2026 20:34:58 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "AI and workers' rights; Selected Works of Xi Jinping on Diplomacy; Busy regulators; Philippine Secretary of National Defense",
+        "link": "https://sinocism.com/p/ai-and-workers-rights-selected-works",
+        "date": "Thu, 11 Jun 2026 23:10:50 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Sharp China: Xi Goes to North Korea; Inspecting Xinjiang; A $295 Billion AI Buildout; The Pentagon Alleges PLA Links for Alibaba and Others",
+        "link": "https://sinocism.com/p/sharp-china-xi-goes-to-north-korea",
+        "date": "Thu, 11 Jun 2026 09:01:56 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "ecju": [
+      {
+        "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
+        "date": "2026-06-29T10:55:05Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Open general export licence (export of dual-use items)",
+        "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
+        "date": "2026-06-25T08:30:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Russia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
+        "date": "2026-05-19T23:01:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Military end-use controls",
+        "link": "https://www.gov.uk/guidance/military-end-use-controls",
+        "date": "2026-05-19T08:57:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202613-declaring-exports-under-ogels-and-geas-on-the-uks-customs-declarations-system",
+        "date": "2026-05-13T08:30:02Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
+        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
+        "date": "2026-05-05T14:30:41Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
+        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
+        "date": "2026-05-01T12:57:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
+        "date": "2026-05-01T10:20:09Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Libya sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
+        "date": "2026-05-01T10:20:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Somalia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
+        "date": "2026-05-01T10:20:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
+        "date": "2026-05-01T10:19:55Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Myanmar sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
+        "date": "2026-05-01T10:19:52Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Counter-terrorism international sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/counter-terrorism-international-sanctions-guidance",
+        "date": "2026-05-01T10:19:49Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: South Sudan sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/south-sudan-sanctions-guidance",
+        "date": "2026-05-01T10:19:47Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Sudan sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/sudan-sanctions-guidance",
+        "date": "2026-05-01T10:19:44Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Syria sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
+        "date": "2026-05-01T10:19:41Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Venezuela sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
+        "date": "2026-05-01T10:19:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Yemen sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/yemen-sanctions-guidance",
+        "date": "2026-05-01T10:19:35Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Zimbabwe sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/zimbabwe-sanctions-guidance",
+        "date": "2026-05-01T10:19:32Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Iran sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
+        "date": "2026-05-01T10:19:29Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "pekingnology": [
+      {
+        "title": "Sang Baichuan on Why Foreign Investment in China Is Falling",
+        "link": "https://www.pekingnology.com/p/sang-baichuan-on-why-foreign-investment",
+        "date": "Mon, 13 Jul 2026 15:51:01 GMT",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
       {
         "title": "Gao Shanwen on Chinese government and overcapacity: historical patterns, current context, and response strategies",
         "link": "https://www.pekingnology.com/p/gao-shanwen-on-chinese-government",
@@ -2157,7 +2210,14 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "cistec": [],
     "wirechina": [
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/13/the-daily-roundup-july-13-2026/",
+        "date": "Mon, 13 Jul 2026 12:44:21 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
       {
         "title": "Benn Steil on Why the Global Order is Falling Apart",
         "link": "https://www.thewirechina.com/2026/07/12/benn-steil-on-why-the-global-order-is-falling-apart/",
@@ -2459,68 +2519,6 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "aspi": [
-      {
-        "title": "Northern Australia’s strategic operating system: Industry, infrastructure and national resilience",
-        "link": "https://www.aspi.org.au/report/northern-australias-strategic-operating-system/",
-        "date": "Wed, 08 Jul 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Primed for pressure: A Preparedness, Resilience and Redundancy Scorecard",
-        "link": "https://www.aspi.org.au/report/primed-for-pressure/",
-        "date": "Wed, 01 Jul 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Australian security in an era of uncertainty: Views from the Defence Strategy Program in The Strategist: 2025-26 edition",
-        "link": "https://www.aspi.org.au/report/australian-security-era-uncertainty/",
-        "date": "Sun, 28 Jun 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "From common threats to narrative defence: An intelligence-led mission approach for Australia–Japan cooperation",
-        "link": "https://www.aspi.org.au/report/from-common-threats-narrative-defence/",
-        "date": "Thu, 25 Jun 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Synergies for the future: Australia–South Korea pathways in strategic defence technology cooperation",
-        "link": "https://www.aspi.org.au/report/synergies-for-the-future/",
-        "date": "Mon, 22 Jun 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Pressure Points Part 3: China in the Pacific and Indian oceans",
-        "link": "https://www.aspi.org.au/report/pressure-points-china-pacific-indian-oceans/",
-        "date": "Wed, 17 Jun 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Reading the room: Redesigning intelligence product for the AI age",
-        "link": "https://www.aspi.org.au/report/reading-the-room/",
-        "date": "Mon, 15 Jun 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Make stuff here…or else: A framework for deciding what Australia must produce, repair or regenerate domestically",
-        "link": "https://www.aspi.org.au/report/make-stuff-here-or-else/",
-        "date": "Thu, 11 Jun 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Darwin Dialogue 2026 – From exposure to endurance: competitive architecture for high-ESG mineral-specific supply chains",
-        "link": "https://www.aspi.org.au/report/darwin-dialogue-2026/",
-        "date": "Wed, 10 Jun 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "North of 26 south and the security of Australia: views from The Strategist Volume 13",
-        "link": "https://www.aspi.org.au/report/north-of-26-south-and-the-security-of-australia-views-from-the-strategist-volume-13/",
-        "date": "Wed, 03 Jun 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "ifi": [
       {
         "title": "Social Engineering Is Rewriting the Fraud Playbook",
@@ -2585,6 +2583,48 @@
     ],
     "gibsondunn": [
       {
+        "title": "Gibson Dunn Advised Welltower on Inaugural $1.15 Billion Canadian Dollar-Denominated Notes Offering",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advised-welltower-on-inaugural-1-15-billion-canadian-dollar-denominated-notes-offering/",
+        "date": "Mon, 13 Jul 2026 20:04:09 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Three Gibson Dunn Partners Named to Inaugural Lawdragon 500 Leading Global Investigations Lawyers List",
+        "link": "https://www.gibsondunn.com/three-gibson-dunn-partners-named-to-inaugural-lawdragon-500-leading-global-investigations-lawyers-list/",
+        "date": "Mon, 13 Jul 2026 19:13:08 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Gibson Dunn Advised Long Lake Management Holdings on $1 Billion Senior Secured Notes Offering",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advised-long-lake-management-holdings-on-1-billion-senior-secured-notes-offering/",
+        "date": "Mon, 13 Jul 2026 19:09:56 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Gibson Dunn Represented Amazon.com on $25 Billion Notes Offering",
+        "link": "https://www.gibsondunn.com/gibson-dunn-represented-amazon-com-on-25-billion-notes-offering/",
+        "date": "Mon, 13 Jul 2026 18:43:39 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Oleh Vretsona and F. Joseph Warin Quoted in Anti-Corruption Report Articles",
+        "link": "https://www.gibsondunn.com/oleh-vretsona-and-f-joseph-warin-quoted-in-anti-corruption-report-articles/",
+        "date": "Mon, 13 Jul 2026 18:33:35 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Karin Portlock Named to The National Black Lawyers Top 100 for 2026",
+        "link": "https://www.gibsondunn.com/karin-portlock-named-to-the-national-black-lawyers-top-100-for-2026/",
+        "date": "Mon, 13 Jul 2026 16:49:10 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Vivek Mohan and Meredith Williams-Range Among Co-Authors of Law360 Pulse’s “Law Firm AI Rollouts Depend on Buy-In, Not Bigger Budgets”",
+        "link": "https://www.gibsondunn.com/vivek-mohan-and-meredith-williams-range-among-co-authors-of-law360-pulses-law-firm-ai-rollouts-depend-on-buy-in-not-bigger-budgets/",
+        "date": "Mon, 13 Jul 2026 14:44:46 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
         "title": "Three Transactions in One — Navigating Operational Real Estate Investments",
         "link": "https://www.gibsondunn.com/three-transactions-in-one-navigating-operational-real-estate-investments/",
         "date": "Mon, 13 Jul 2026 07:00:00 +0000",
@@ -2645,246 +2685,65 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "tradetalks": [],
-    "bizlawyers": [
+    "aspi": [
       {
-        "title": "2026年7月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1555",
-        "date": "2026-07-09T08:00:00+09:00",
+        "title": "Northern Australia’s strategic operating system: Industry, infrastructure and national resilience",
+        "link": "https://www.aspi.org.au/report/northern-australias-strategic-operating-system/",
+        "date": "Wed, 08 Jul 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "宇賀克也教授に聞く令和8年個人情報保護法改正",
-        "link": "https://www.businesslawyers.jp/articles/1556",
-        "date": "2026-07-07T08:00:00+09:00",
+        "title": "Primed for pressure: A Preparedness, Resilience and Redundancy Scorecard",
+        "link": "https://www.aspi.org.au/report/primed-for-pressure/",
+        "date": "Wed, 01 Jul 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "従業員による資料印刷・持ち出しの法的リスク クラウド環境・テレワーク下での法的解釈や対策を弁護士解説",
-        "link": "https://www.businesslawyers.jp/practices/1493",
-        "date": "2026-07-01T15:00:00+09:00",
+        "title": "Australian security in an era of uncertainty: Views from the Defence Strategy Program in The Strategist: 2025-26 edition",
+        "link": "https://www.aspi.org.au/report/australian-security-era-uncertainty/",
+        "date": "Sun, 28 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "内製のコンプライアンス研修からの脱却。法務イントラへの常設で実現した、\"いつでも届く\"コンプライアンス教育",
-        "link": "https://www.businesslawyers.jp/articles/1553",
-        "date": "2026-06-29T17:30:00+09:00",
+        "title": "From common threats to narrative defence: An intelligence-led mission approach for Australia–Japan cooperation",
+        "link": "https://www.aspi.org.au/report/from-common-threats-narrative-defence/",
+        "date": "Thu, 25 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "退職金の全額不支給を認めた最高裁判決からみるコンプライアンスの引き締め方",
-        "link": "https://www.businesslawyers.jp/articles/1554",
-        "date": "2026-06-23T09:00:00+09:00",
+        "title": "Synergies for the future: Australia–South Korea pathways in strategic defence technology cooperation",
+        "link": "https://www.aspi.org.au/report/synergies-for-the-future/",
+        "date": "Mon, 22 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "「答え合わせができない仕事」に確信を。実務経験豊富な弁護士のロールプレイ研修で磨いた、グループ全体の内部通報対応力",
-        "link": "https://www.businesslawyers.jp/articles/1546",
-        "date": "2026-06-19T15:10:00+09:00",
+        "title": "Pressure Points Part 3: China in the Pacific and Indian oceans",
+        "link": "https://www.aspi.org.au/report/pressure-points-china-pacific-indian-oceans/",
+        "date": "Wed, 17 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "株主総会における取締役等の説明義務および株主発言における最近のキーワード",
-        "link": "https://www.businesslawyers.jp/articles/1552",
-        "date": "2026-06-18T12:00:00+09:00",
+        "title": "Reading the room: Redesigning intelligence product for the AI age",
+        "link": "https://www.aspi.org.au/report/reading-the-room/",
+        "date": "Mon, 15 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "「いまさら聞けない法務の基本」シリーズ一覧―若手法務の基礎固めから経験者の知識アップデートまで",
-        "link": "https://www.businesslawyers.jp/articles/1551",
-        "date": "2026-06-16T16:21:00+09:00",
+        "title": "Make stuff here…or else: A framework for deciding what Australia must produce, repair or regenerate domestically",
+        "link": "https://www.aspi.org.au/report/make-stuff-here-or-else/",
+        "date": "Thu, 11 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "「部門任せ」の研修体制から脱却。顧客の信頼を守る、全従業員3,000名へのコンプライアンス浸透の仕組みづくり",
-        "link": "https://www.businesslawyers.jp/articles/1541",
-        "date": "2026-06-16T10:30:00+09:00",
+        "title": "Darwin Dialogue 2026 – From exposure to endurance: competitive architecture for high-ESG mineral-specific supply chains",
+        "link": "https://www.aspi.org.au/report/darwin-dialogue-2026/",
+        "date": "Wed, 10 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "物流特殊指定・優越ガイドライン改正と製造委託等代金支払特殊指定の解説",
-        "link": "https://www.businesslawyers.jp/articles/1548",
-        "date": "2026-06-12T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年6月に押さえておくべき海外法の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1550",
-        "date": "2026-06-11T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年6月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1549",
-        "date": "2026-06-10T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "会社法改正中間試案「株主が見えない」問題にどう応えるか―東京大学・田中亘教授が語るオプションの拡大と資本市場の活用",
-        "link": "https://www.businesslawyers.jp/articles/1547",
-        "date": "2026-06-05T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "「コーポレートガバナンス・コード改訂案」に関する想定問答例",
-        "link": "https://www.businesslawyers.jp/articles/1545",
-        "date": "2026-05-28T14:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "経済安全保障時代に注目「オープンソース・インテリジェンス」を活用したリスク管理とは？",
-        "link": "https://www.businesslawyers.jp/articles/1538",
-        "date": "2026-05-27T10:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "東京証券取引所「『資本コストや株価を意識した経営』に関する4年目の取組み」を公表",
-        "link": "https://www.businesslawyers.jp/articles/1544",
-        "date": "2026-05-13T16:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年5月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1543",
-        "date": "2026-05-11T07:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "役員とは？会社法上の定義と役割、選任・解任の手順、役員報酬など",
-        "link": "https://www.businesslawyers.jp/articles/1540",
-        "date": "2026-05-07T17:30:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "事務局が知っておくべき株主総会の基本　近年の傾向、準備、当日運営など",
-        "link": "https://www.businesslawyers.jp/articles/1539",
-        "date": "2026-04-27T15:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "アクティビストや敵対的買収への対応実務〜大量保有報告制度の改正を踏まえて〜",
-        "link": "https://www.businesslawyers.jp/articles/1536",
-        "date": "2026-04-17T11:30:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "サイバー法令は「リスクマネジメントのツール」 海外サイバー規制動向とセキュリティ実務への影響を弁護士に聞く",
-        "link": "https://www.businesslawyers.jp/articles/1537",
-        "date": "2026-04-17T07:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "4月施行の改正法ほか2026年4月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1533",
-        "date": "2026-04-10T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "金融庁「有価証券報告書を定時株主総会前に提出する場合の留意点」を更新",
-        "link": "https://www.businesslawyers.jp/articles/1534",
-        "date": "2026-04-08T07:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "アクティビストとは？活動の具体例やトレンド、企業の対応策など",
-        "link": "https://www.businesslawyers.jp/articles/1535",
-        "date": "2026-04-03T18:45:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "AIに個人情報を入れてはいけない？　個人情報保護法改正を見据えて弁護士が解説",
-        "link": "https://www.businesslawyers.jp/articles/1532",
-        "date": "2026-03-31T10:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "NTTデータの出資法務・知財担当者が語る、事業成長を加速させる法務の役割とは",
-        "link": "https://www.businesslawyers.jp/articles/1530",
-        "date": "2026-03-26T10:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "アクティビストから面談を申し込まれたらどうする？弁護士が解説",
-        "link": "https://www.businesslawyers.jp/practices/1492",
-        "date": "2026-03-17T15:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "東証「従属上場会社における少数株主保護の在り方等に関する研究会」（第9回）を開催",
-        "link": "https://www.businesslawyers.jp/articles/1528",
-        "date": "2026-03-16T10:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "判例リサーチで事業の意思決定を支援するユーザベース流「判例秘書」の使い方",
-        "link": "https://www.businesslawyers.jp/articles/1529",
-        "date": "2026-03-13T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年3月に押さえておくべき海外法の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1526",
-        "date": "2026-03-11T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年3月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1527",
-        "date": "2026-03-10T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "妥協なき講師選定で現場が納得する研修を。形式的運用から脱却し、実務に直結させるまで",
-        "link": "https://www.businesslawyers.jp/articles/1531",
-        "date": "2026-03-06T14:30:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "取適法違反のリスクは？勧告・公表、指導などペナルティを解説",
-        "link": "https://www.businesslawyers.jp/practices/1491",
-        "date": "2026-02-26T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "有価証券報告書の総会前開示 2026年総会に向けた実務ポイント",
-        "link": "https://www.businesslawyers.jp/articles/1525",
-        "date": "2026-02-25T09:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "「経済安全保障と独占禁止法に関する事例集」の目的と背景",
-        "link": "https://www.businesslawyers.jp/articles/1524",
-        "date": "2026-02-19T11:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "取適法で禁止される「協議に応じない一方的な代金決定」を具体例とともに解説",
-        "link": "https://www.businesslawyers.jp/practices/1490",
-        "date": "2026-02-17T18:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "JT・稲村氏 × BoostDraft・渡邊氏対談　法務DXの本質は「人間性の回復」",
-        "link": "https://www.businesslawyers.jp/articles/1520",
-        "date": "2026-02-16T10:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "取適法が適用される特定運送委託を具体例とともにわかりやすく解説",
-        "link": "https://www.businesslawyers.jp/practices/1489",
-        "date": "2026-02-12T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年2月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1522",
-        "date": "2026-02-10T11:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "東証「市場区分の見直しに関するフォローアップ会議」（第25回）を開催",
-        "link": "https://www.businesslawyers.jp/articles/1523",
-        "date": "2026-02-10T07:00:00+09:00",
+        "title": "North of 26 south and the security of Australia: views from The Strategist Volume 13",
+        "link": "https://www.aspi.org.au/report/north-of-26-south-and-the-security-of-australia-views-from-the-strategist-volume-13/",
+        "date": "Wed, 03 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -3370,45 +3229,13 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "platracker": [
-      {
-        "title": "Beyond the Typhon: 1st Multi-Domain Task Force and Sea Denial in the Philippines",
-        "link": "https://www.platracker.com/post/beyond-the-typhon-1st-multi-domain-task-force-and-sea-denial-in-the-philippines",
-        "date": "Fri, 19 Dec 2025 21:50:28 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Operationalizing Intelligentized Warfare: Xi Replaces the Strategic Support Force with Three New “Arms”",
-        "link": "https://www.platracker.com/post/operationalizing-intelligentized-warfare-xi-replaces-the-strategic-support-force-with-three-new-ar",
-        "date": "Tue, 15 Jul 2025 19:57:04 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Russian Activity Around Japan: 2024 in Review",
-        "link": "https://www.platracker.com/post/russian-activity-around-japan-2024-in-review",
-        "date": "Tue, 25 Mar 2025 13:05:27 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Shangri-La Dialogue:                           A Choreographed Display of Power and Diplomacy",
-        "link": "https://www.platracker.com/post/shangri-la-dialogue-a-choreographed-display-of-power-and-diplomacy",
-        "date": "Tue, 04 Jun 2024 04:00:00 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "ADIZ Report - February 2024",
-        "link": "https://www.platracker.com/post/adiz-report-february-2024",
-        "date": "Sun, 03 Mar 2024 00:26:00 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Europe Should Play a Greater Role in Upholding Freedom of Navigation in the Taiwan Strait",
-        "link": "https://www.platracker.com/post/europe-should-play-a-greater-role-in-upholding-freedom-of-navigation-in-the-taiwan-strait",
-        "date": "Tue, 13 Feb 2024 01:56:16 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      }
-    ],
     "bm-sanctions": [
+      {
+        "title": "US Initiates Process to Rescind Syria’s State Sponsor of Terrorism Designation",
+        "link": "https://sanctionsnews.bakermckenzie.com/us-initiates-process-to-rescind-syrias-state-sponsor-of-terrorism-designation/",
+        "date": "Mon, 13 Jul 2026 20:28:34 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
       {
         "title": "OFAC and OFSI Publish Joint Guidance Comparing US and UK Sanctions Regimes Following Latest Enhanced Partnership Exchange",
         "link": "https://sanctionsnews.bakermckenzie.com/ofac-and-ofsi-publish-joint-guidance-comparing-us-and-uk-sanctions-regimes-following-latest-enhanced-partnership-exchange/",
@@ -3528,6 +3355,107 @@
         "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-no-134c-extending-authorization-for-certain-russia-origin-crude-oil-and-petroleum-product-transactions/",
         "date": "Tue, 26 May 2026 15:33:17 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "tradetalks": [],
+    "chinapower": [
+      {
+        "title": "Analyzing Trade Chokepoints in the South China Sea",
+        "link": "https://scstradedashboard.csis.org/#new_tab",
+        "date": "Mon, 06 Jul 2026 14:28:41 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Troubled Straits: Analyzing Trade Chokepoints in the South China Sea",
+        "link": "https://www.csis.org/analysis/south-china-sea-trade-chokepoints#new_tab",
+        "date": "Mon, 06 Jul 2026 14:28:35 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How Deep Are China-Russia Military Ties?",
+        "link": "https://chinapower.csis.org/china-russia-military-cooperation-arms-sales-exercises/",
+        "date": "Thu, 04 Aug 2022 14:47:27 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Is it a Risk for America that China Holds So Much U.S. Debt?",
+        "link": "https://chinapower.csis.org/us-debt/",
+        "date": "Tue, 02 Feb 2016 19:09:35 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How Is the Iran War Impacting China’s Economy?",
+        "link": "https://chinapower.csis.org/china-economic-impacts-iran-war/",
+        "date": "Thu, 30 Apr 2026 21:07:38 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Making Sense of China’s Government Budget",
+        "link": "https://chinapower.csis.org/making-sense-of-chinas-government-budget/",
+        "date": "Wed, 15 Mar 2023 23:13:55 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "What Does China Really Spend on its Military?",
+        "link": "https://chinapower.csis.org/military-spending/",
+        "date": "Mon, 28 Dec 2015 19:35:34 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Purges Within China’s Military Are Even Deeper Than You Think",
+        "link": "https://chinapower.csis.org/china-pla-military-purges/",
+        "date": "Tue, 24 Feb 2026 14:27:14 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Is China Leading the Robotics Revolution?",
+        "link": "https://chinapower.csis.org/china-industrial-robots/",
+        "date": "Thu, 12 Feb 2026 13:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Tracking China’s Increased Military Activities in the Indo-Pacific in 2025",
+        "link": "https://chinapower.csis.org/china-increased-military-activities-indo-pacific-2025/",
+        "date": "Thu, 05 Feb 2026 20:17:57 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "platracker": [
+      {
+        "title": "Beyond the Typhon: 1st Multi-Domain Task Force and Sea Denial in the Philippines",
+        "link": "https://www.platracker.com/post/beyond-the-typhon-1st-multi-domain-task-force-and-sea-denial-in-the-philippines",
+        "date": "Fri, 19 Dec 2025 21:50:28 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
+      },
+      {
+        "title": "Operationalizing Intelligentized Warfare: Xi Replaces the Strategic Support Force with Three New “Arms”",
+        "link": "https://www.platracker.com/post/operationalizing-intelligentized-warfare-xi-replaces-the-strategic-support-force-with-three-new-ar",
+        "date": "Tue, 15 Jul 2025 19:57:04 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
+      },
+      {
+        "title": "Russian Activity Around Japan: 2024 in Review",
+        "link": "https://www.platracker.com/post/russian-activity-around-japan-2024-in-review",
+        "date": "Tue, 25 Mar 2025 13:05:27 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
+      },
+      {
+        "title": "Shangri-La Dialogue:                           A Choreographed Display of Power and Diplomacy",
+        "link": "https://www.platracker.com/post/shangri-la-dialogue-a-choreographed-display-of-power-and-diplomacy",
+        "date": "Tue, 04 Jun 2024 04:00:00 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
+      },
+      {
+        "title": "ADIZ Report - February 2024",
+        "link": "https://www.platracker.com/post/adiz-report-february-2024",
+        "date": "Sun, 03 Mar 2024 00:26:00 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
+      },
+      {
+        "title": "Europe Should Play a Greater Role in Upholding Freedom of Navigation in the Taiwan Strait",
+        "link": "https://www.platracker.com/post/europe-should-play-a-greater-role-in-upholding-freedom-of-navigation-in-the-taiwan-strait",
+        "date": "Tue, 13 Feb 2024 01:56:16 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       }
     ],
     "windward": [
@@ -3666,66 +3594,382 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "pancanal": [
+      {
+        "title": "Canal de Panamá informa a coclesanos sobre el proyecto del Lago de Río Indio y otras iniciativas estratégicas",
+        "link": "https://pancanal.com/canal-de-panama-informa-a-coclesanos-sobre-el-proyecto-del-lago-de-rio-indio-y-otras-iniciativas-estrategicas/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-informa-a-coclesanos-sobre-el-proyecto-del-lago-de-rio-indio-y-otras-iniciativas-estrategicas",
+        "date": "Sat, 11 Jul 2026 19:19:39 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá es reconocido entre las mejores empresas para atraer y fidelizar talento en Panamá",
+        "link": "https://pancanal.com/canal-de-panama-es-reconocido-entre-las-mejores-empresas-para-atraer-y-fidelizar-talento-en-panama/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-es-reconocido-entre-las-mejores-empresas-para-atraer-y-fidelizar-talento-en-panama",
+        "date": "Fri, 10 Jul 2026 19:45:32 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Proceso de precalificación de terminales portuarias avanza con presentación de documentos",
+        "link": "https://pancanal.com/proceso-de-precalificacion-de-terminales-portuarias-avanza-con-presentacion-de-documentos/?utm_source=rss&utm_medium=rss&utm_campaign=proceso-de-precalificacion-de-terminales-portuarias-avanza-con-presentacion-de-documentos",
+        "date": "Thu, 09 Jul 2026 21:12:12 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "El Canal de Panamá y el Puerto de Houston renuevan acuerdo estratégico de cooperación",
+        "link": "https://pancanal.com/el-canal-de-panama-y-el-puerto-de-houston-renuevan-acuerdo-estrategico-de-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-y-el-puerto-de-houston-renuevan-acuerdo-estrategico-de-cooperacion",
+        "date": "Wed, 08 Jul 2026 20:55:43 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá conmemora una década de la ampliación mirando al futuro",
+        "link": "https://pancanal.com/canal-de-panama-conmemora-una-decada-de-la-ampliacion-mirando-al-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-conmemora-una-decada-de-la-ampliacion-mirando-al-futuro",
+        "date": "Tue, 07 Jul 2026 21:35:46 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá incorpora cinco nuevos remolcadores híbridos a su flota operativa",
+        "link": "https://pancanal.com/canal-de-panama-incorpora-cinco-nuevos-remolcadores-hibridos-a-su-flota-operativa/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-incorpora-cinco-nuevos-remolcadores-hibridos-a-su-flota-operativa",
+        "date": "Fri, 03 Jul 2026 20:53:07 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Ampliación del Canal de Panamá: Una década que transformó al mundo",
+        "link": "https://pancanal.com/ampliacion-del-canal-de-panama-una-decada-que-transformo-al-mundo/?utm_source=rss&utm_medium=rss&utm_campaign=ampliacion-del-canal-de-panama-una-decada-que-transformo-al-mundo",
+        "date": "Fri, 26 Jun 2026 16:36:13 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá realiza cámara seca para fortalecer el funcionamiento seguro y eficiente de las esclusas de Gatún",
+        "link": "https://pancanal.com/canal-de-panama-realiza-camara-seca-para-fortalecer-el-funcionamiento-seguro-y-eficiente-de-las-esclusas-de-gatun/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-realiza-camara-seca-para-fortalecer-el-funcionamiento-seguro-y-eficiente-de-las-esclusas-de-gatun",
+        "date": "Wed, 17 Jun 2026 19:58:03 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "El Canal de Panamá y PortMiami renuevan acuerdo de cooperación",
+        "link": "https://pancanal.com/el-canal-de-panama-y-portmiami-renuevan-acuerdo-de-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-y-portmiami-renuevan-acuerdo-de-cooperacion",
+        "date": "Thu, 11 Jun 2026 20:19:42 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá publica enmienda n.° 3 al pliego de precalificación del Corredor Energético",
+        "link": "https://pancanal.com/canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-del-corredor-energetico/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-del-corredor-energetico",
+        "date": "Fri, 05 Jun 2026 20:18:27 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá publica enmienda n.° 3 al pliego de precalificación de Terminales Portuarias de Transbordo de Contenedores de Corozal y Telfers",
+        "link": "https://pancanal.com/canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-de-terminales-portuarias-de-transbordo-de-contenedores-de-corozal-y-telfers/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-de-terminales-portuarias-de-transbordo-de-contenedores-de-corozal-y-telfers",
+        "date": "Fri, 05 Jun 2026 20:16:48 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "El Canal de Panamá fortalece la vigilancia ambiental para proteger la Cuenca",
+        "link": "https://pancanal.com/el-canal-de-panama-fortalece-la-vigilancia-ambiental-para-proteger-la-cuenca/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-fortalece-la-vigilancia-ambiental-para-proteger-la-cuenca",
+        "date": "Fri, 05 Jun 2026 20:07:51 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "kse": [],
-    "chinapower": [
+    "datalastic": [
       {
-        "title": "Analyzing Trade Chokepoints in the South China Sea",
-        "link": "https://scstradedashboard.csis.org/#new_tab",
-        "date": "Mon, 06 Jul 2026 14:28:41 +0000",
+        "title": "Find Vessels In The Gulf Of Oman",
+        "link": "https://datalastic.com/blog/find-vessels-in-the-gulf-of-oman/",
+        "date": "Mon, 15 Jun 2026 10:57:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Troubled Straits: Analyzing Trade Chokepoints in the South China Sea",
-        "link": "https://www.csis.org/analysis/south-china-sea-trade-chokepoints#new_tab",
-        "date": "Mon, 06 Jul 2026 14:28:35 +0000",
+        "title": "Enterprise Vessel Tracking API",
+        "link": "https://datalastic.com/blog/enterprise-vessel-tracking-api/",
+        "date": "Tue, 09 Jun 2026 10:35:02 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "How Deep Are China-Russia Military Ties?",
-        "link": "https://chinapower.csis.org/china-russia-military-cooperation-arms-sales-exercises/",
-        "date": "Thu, 04 Aug 2022 14:47:27 +0000",
+        "title": "Yacht tracking API: filter by Type, Size and Flag",
+        "link": "https://datalastic.com/blog/yacht-tracking-api-filter-by-type-size-and-flag/",
+        "date": "Tue, 19 May 2026 18:26:08 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Is it a Risk for America that China Holds So Much U.S. Debt?",
-        "link": "https://chinapower.csis.org/us-debt/",
-        "date": "Tue, 02 Feb 2016 19:09:35 +0000",
+        "title": "Oil Tanker Tracker API",
+        "link": "https://datalastic.com/blog/oil-tanker-tracker-api/",
+        "date": "Tue, 12 May 2026 13:32:19 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "How Is the Iran War Impacting China’s Economy?",
-        "link": "https://chinapower.csis.org/china-economic-impacts-iran-war/",
-        "date": "Thu, 30 Apr 2026 21:07:38 +0000",
+        "title": "Strait of Hormuz Vessel Tracking API: Monitor Ships",
+        "link": "https://datalastic.com/blog/strait-of-hormuz-vessel-tracking-api-monitor-ships/",
+        "date": "Tue, 05 May 2026 10:24:21 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Making Sense of China’s Government Budget",
-        "link": "https://chinapower.csis.org/making-sense-of-chinas-government-budget/",
-        "date": "Wed, 15 Mar 2023 23:13:55 +0000",
+        "title": "Most Maritime APIs Look the Same But They’re Not",
+        "link": "https://datalastic.com/blog/most-maritime-apis-look-the-same-but-theyre-not/",
+        "date": "Mon, 30 Mar 2026 10:51:48 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "What Does China Really Spend on its Military?",
-        "link": "https://chinapower.csis.org/military-spending/",
-        "date": "Mon, 28 Dec 2015 19:35:34 +0000",
+        "title": "Top 10 Most Congested Ports Right Now (Based on AIS Data)",
+        "link": "https://datalastic.com/blog/top-10-most-congested-ports-right-now-based-on-ais-data/",
+        "date": "Sat, 14 Mar 2026 00:55:24 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The Purges Within China’s Military Are Even Deeper Than You Think",
-        "link": "https://chinapower.csis.org/china-pla-military-purges/",
-        "date": "Tue, 24 Feb 2026 14:27:14 +0000",
+        "title": "Instant Vessel Tracking from NMEA AIS Data",
+        "link": "https://datalastic.com/blog/instant-vessel-tracking-from-nmea-ais-data/",
+        "date": "Fri, 20 Feb 2026 11:02:49 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Is China Leading the Robotics Revolution?",
-        "link": "https://chinapower.csis.org/china-industrial-robots/",
-        "date": "Thu, 12 Feb 2026 13:00:00 +0000",
+        "title": "Vessel Emission API: How to Calculate Using Engine Data",
+        "link": "https://datalastic.com/blog/vessel-emission-api-how-to-calculate-using-engine-data/",
+        "date": "Thu, 12 Feb 2026 10:27:40 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Tracking China’s Increased Military Activities in the Indo-Pacific in 2025",
-        "link": "https://chinapower.csis.org/china-increased-military-activities-indo-pacific-2025/",
-        "date": "Thu, 05 Feb 2026 20:17:57 +0000",
+        "title": "Choosing a Reliable Maritime API: Datalastic Uptime Explained",
+        "link": "https://datalastic.com/blog/choosing-a-reliable-maritime-api-datalastic-uptime-explained/",
+        "date": "Mon, 02 Feb 2026 08:54:50 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "bizlawyers": [
+      {
+        "title": "2026年7月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1555",
+        "date": "2026-07-09T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "宇賀克也教授に聞く令和8年個人情報保護法改正",
+        "link": "https://www.businesslawyers.jp/articles/1556",
+        "date": "2026-07-07T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "従業員による資料印刷・持ち出しの法的リスク クラウド環境・テレワーク下での法的解釈や対策を弁護士解説",
+        "link": "https://www.businesslawyers.jp/practices/1493",
+        "date": "2026-07-01T15:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "内製のコンプライアンス研修からの脱却。法務イントラへの常設で実現した、\"いつでも届く\"コンプライアンス教育",
+        "link": "https://www.businesslawyers.jp/articles/1553",
+        "date": "2026-06-29T17:30:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "退職金の全額不支給を認めた最高裁判決からみるコンプライアンスの引き締め方",
+        "link": "https://www.businesslawyers.jp/articles/1554",
+        "date": "2026-06-23T09:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "「答え合わせができない仕事」に確信を。実務経験豊富な弁護士のロールプレイ研修で磨いた、グループ全体の内部通報対応力",
+        "link": "https://www.businesslawyers.jp/articles/1546",
+        "date": "2026-06-19T15:10:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "株主総会における取締役等の説明義務および株主発言における最近のキーワード",
+        "link": "https://www.businesslawyers.jp/articles/1552",
+        "date": "2026-06-18T12:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "「いまさら聞けない法務の基本」シリーズ一覧―若手法務の基礎固めから経験者の知識アップデートまで",
+        "link": "https://www.businesslawyers.jp/articles/1551",
+        "date": "2026-06-16T16:21:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "「部門任せ」の研修体制から脱却。顧客の信頼を守る、全従業員3,000名へのコンプライアンス浸透の仕組みづくり",
+        "link": "https://www.businesslawyers.jp/articles/1541",
+        "date": "2026-06-16T10:30:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "物流特殊指定・優越ガイドライン改正と製造委託等代金支払特殊指定の解説",
+        "link": "https://www.businesslawyers.jp/articles/1548",
+        "date": "2026-06-12T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年6月に押さえておくべき海外法の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1550",
+        "date": "2026-06-11T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年6月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1549",
+        "date": "2026-06-10T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "会社法改正中間試案「株主が見えない」問題にどう応えるか―東京大学・田中亘教授が語るオプションの拡大と資本市場の活用",
+        "link": "https://www.businesslawyers.jp/articles/1547",
+        "date": "2026-06-05T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "「コーポレートガバナンス・コード改訂案」に関する想定問答例",
+        "link": "https://www.businesslawyers.jp/articles/1545",
+        "date": "2026-05-28T14:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "経済安全保障時代に注目「オープンソース・インテリジェンス」を活用したリスク管理とは？",
+        "link": "https://www.businesslawyers.jp/articles/1538",
+        "date": "2026-05-27T10:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "東京証券取引所「『資本コストや株価を意識した経営』に関する4年目の取組み」を公表",
+        "link": "https://www.businesslawyers.jp/articles/1544",
+        "date": "2026-05-13T16:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年5月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1543",
+        "date": "2026-05-11T07:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "役員とは？会社法上の定義と役割、選任・解任の手順、役員報酬など",
+        "link": "https://www.businesslawyers.jp/articles/1540",
+        "date": "2026-05-07T17:30:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "事務局が知っておくべき株主総会の基本　近年の傾向、準備、当日運営など",
+        "link": "https://www.businesslawyers.jp/articles/1539",
+        "date": "2026-04-27T15:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "アクティビストや敵対的買収への対応実務〜大量保有報告制度の改正を踏まえて〜",
+        "link": "https://www.businesslawyers.jp/articles/1536",
+        "date": "2026-04-17T11:30:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "サイバー法令は「リスクマネジメントのツール」 海外サイバー規制動向とセキュリティ実務への影響を弁護士に聞く",
+        "link": "https://www.businesslawyers.jp/articles/1537",
+        "date": "2026-04-17T07:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "4月施行の改正法ほか2026年4月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1533",
+        "date": "2026-04-10T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "金融庁「有価証券報告書を定時株主総会前に提出する場合の留意点」を更新",
+        "link": "https://www.businesslawyers.jp/articles/1534",
+        "date": "2026-04-08T07:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "アクティビストとは？活動の具体例やトレンド、企業の対応策など",
+        "link": "https://www.businesslawyers.jp/articles/1535",
+        "date": "2026-04-03T18:45:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "AIに個人情報を入れてはいけない？　個人情報保護法改正を見据えて弁護士が解説",
+        "link": "https://www.businesslawyers.jp/articles/1532",
+        "date": "2026-03-31T10:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "NTTデータの出資法務・知財担当者が語る、事業成長を加速させる法務の役割とは",
+        "link": "https://www.businesslawyers.jp/articles/1530",
+        "date": "2026-03-26T10:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "アクティビストから面談を申し込まれたらどうする？弁護士が解説",
+        "link": "https://www.businesslawyers.jp/practices/1492",
+        "date": "2026-03-17T15:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "東証「従属上場会社における少数株主保護の在り方等に関する研究会」（第9回）を開催",
+        "link": "https://www.businesslawyers.jp/articles/1528",
+        "date": "2026-03-16T10:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "判例リサーチで事業の意思決定を支援するユーザベース流「判例秘書」の使い方",
+        "link": "https://www.businesslawyers.jp/articles/1529",
+        "date": "2026-03-13T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年3月に押さえておくべき海外法の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1526",
+        "date": "2026-03-11T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年3月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1527",
+        "date": "2026-03-10T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "妥協なき講師選定で現場が納得する研修を。形式的運用から脱却し、実務に直結させるまで",
+        "link": "https://www.businesslawyers.jp/articles/1531",
+        "date": "2026-03-06T14:30:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "取適法違反のリスクは？勧告・公表、指導などペナルティを解説",
+        "link": "https://www.businesslawyers.jp/practices/1491",
+        "date": "2026-02-26T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "有価証券報告書の総会前開示 2026年総会に向けた実務ポイント",
+        "link": "https://www.businesslawyers.jp/articles/1525",
+        "date": "2026-02-25T09:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "「経済安全保障と独占禁止法に関する事例集」の目的と背景",
+        "link": "https://www.businesslawyers.jp/articles/1524",
+        "date": "2026-02-19T11:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "取適法で禁止される「協議に応じない一方的な代金決定」を具体例とともに解説",
+        "link": "https://www.businesslawyers.jp/practices/1490",
+        "date": "2026-02-17T18:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "JT・稲村氏 × BoostDraft・渡邊氏対談　法務DXの本質は「人間性の回復」",
+        "link": "https://www.businesslawyers.jp/articles/1520",
+        "date": "2026-02-16T10:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "取適法が適用される特定運送委託を具体例とともにわかりやすく解説",
+        "link": "https://www.businesslawyers.jp/practices/1489",
+        "date": "2026-02-12T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年2月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1522",
+        "date": "2026-02-10T11:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "東証「市場区分の見直しに関するフォローアップ会議」（第25回）を開催",
+        "link": "https://www.businesslawyers.jp/articles/1523",
+        "date": "2026-02-10T07:00:00+09:00",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -4029,142 +4273,6 @@
         "link": "https://dataspace.copernicus.eu/news/2026-5-8-potential-issues-ams-endpoint-07-may-2026-resolved",
         "date": "Fri, 08 May 2026 04:59:31 UTC",
         "firstSeen": "2026-07-13T10:49:13.098Z"
-      }
-    ],
-    "pancanal": [
-      {
-        "title": "Canal de Panamá informa a coclesanos sobre el proyecto del Lago de Río Indio y otras iniciativas estratégicas",
-        "link": "https://pancanal.com/canal-de-panama-informa-a-coclesanos-sobre-el-proyecto-del-lago-de-rio-indio-y-otras-iniciativas-estrategicas/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-informa-a-coclesanos-sobre-el-proyecto-del-lago-de-rio-indio-y-otras-iniciativas-estrategicas",
-        "date": "Sat, 11 Jul 2026 19:19:39 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Canal de Panamá es reconocido entre las mejores empresas para atraer y fidelizar talento en Panamá",
-        "link": "https://pancanal.com/canal-de-panama-es-reconocido-entre-las-mejores-empresas-para-atraer-y-fidelizar-talento-en-panama/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-es-reconocido-entre-las-mejores-empresas-para-atraer-y-fidelizar-talento-en-panama",
-        "date": "Fri, 10 Jul 2026 19:45:32 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Proceso de precalificación de terminales portuarias avanza con presentación de documentos",
-        "link": "https://pancanal.com/proceso-de-precalificacion-de-terminales-portuarias-avanza-con-presentacion-de-documentos/?utm_source=rss&utm_medium=rss&utm_campaign=proceso-de-precalificacion-de-terminales-portuarias-avanza-con-presentacion-de-documentos",
-        "date": "Thu, 09 Jul 2026 21:12:12 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "El Canal de Panamá y el Puerto de Houston renuevan acuerdo estratégico de cooperación",
-        "link": "https://pancanal.com/el-canal-de-panama-y-el-puerto-de-houston-renuevan-acuerdo-estrategico-de-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-y-el-puerto-de-houston-renuevan-acuerdo-estrategico-de-cooperacion",
-        "date": "Wed, 08 Jul 2026 20:55:43 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Canal de Panamá conmemora una década de la ampliación mirando al futuro",
-        "link": "https://pancanal.com/canal-de-panama-conmemora-una-decada-de-la-ampliacion-mirando-al-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-conmemora-una-decada-de-la-ampliacion-mirando-al-futuro",
-        "date": "Tue, 07 Jul 2026 21:35:46 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Canal de Panamá incorpora cinco nuevos remolcadores híbridos a su flota operativa",
-        "link": "https://pancanal.com/canal-de-panama-incorpora-cinco-nuevos-remolcadores-hibridos-a-su-flota-operativa/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-incorpora-cinco-nuevos-remolcadores-hibridos-a-su-flota-operativa",
-        "date": "Fri, 03 Jul 2026 20:53:07 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Ampliación del Canal de Panamá: Una década que transformó al mundo",
-        "link": "https://pancanal.com/ampliacion-del-canal-de-panama-una-decada-que-transformo-al-mundo/?utm_source=rss&utm_medium=rss&utm_campaign=ampliacion-del-canal-de-panama-una-decada-que-transformo-al-mundo",
-        "date": "Fri, 26 Jun 2026 16:36:13 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Canal de Panamá realiza cámara seca para fortalecer el funcionamiento seguro y eficiente de las esclusas de Gatún",
-        "link": "https://pancanal.com/canal-de-panama-realiza-camara-seca-para-fortalecer-el-funcionamiento-seguro-y-eficiente-de-las-esclusas-de-gatun/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-realiza-camara-seca-para-fortalecer-el-funcionamiento-seguro-y-eficiente-de-las-esclusas-de-gatun",
-        "date": "Wed, 17 Jun 2026 19:58:03 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "El Canal de Panamá y PortMiami renuevan acuerdo de cooperación",
-        "link": "https://pancanal.com/el-canal-de-panama-y-portmiami-renuevan-acuerdo-de-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-y-portmiami-renuevan-acuerdo-de-cooperacion",
-        "date": "Thu, 11 Jun 2026 20:19:42 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Canal de Panamá publica enmienda n.° 3 al pliego de precalificación del Corredor Energético",
-        "link": "https://pancanal.com/canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-del-corredor-energetico/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-del-corredor-energetico",
-        "date": "Fri, 05 Jun 2026 20:18:27 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Canal de Panamá publica enmienda n.° 3 al pliego de precalificación de Terminales Portuarias de Transbordo de Contenedores de Corozal y Telfers",
-        "link": "https://pancanal.com/canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-de-terminales-portuarias-de-transbordo-de-contenedores-de-corozal-y-telfers/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-de-terminales-portuarias-de-transbordo-de-contenedores-de-corozal-y-telfers",
-        "date": "Fri, 05 Jun 2026 20:16:48 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "El Canal de Panamá fortalece la vigilancia ambiental para proteger la Cuenca",
-        "link": "https://pancanal.com/el-canal-de-panama-fortalece-la-vigilancia-ambiental-para-proteger-la-cuenca/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-fortalece-la-vigilancia-ambiental-para-proteger-la-cuenca",
-        "date": "Fri, 05 Jun 2026 20:07:51 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "datalastic": [
-      {
-        "title": "Find Vessels In The Gulf Of Oman",
-        "link": "https://datalastic.com/blog/find-vessels-in-the-gulf-of-oman/",
-        "date": "Mon, 15 Jun 2026 10:57:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Enterprise Vessel Tracking API",
-        "link": "https://datalastic.com/blog/enterprise-vessel-tracking-api/",
-        "date": "Tue, 09 Jun 2026 10:35:02 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Yacht tracking API: filter by Type, Size and Flag",
-        "link": "https://datalastic.com/blog/yacht-tracking-api-filter-by-type-size-and-flag/",
-        "date": "Tue, 19 May 2026 18:26:08 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Oil Tanker Tracker API",
-        "link": "https://datalastic.com/blog/oil-tanker-tracker-api/",
-        "date": "Tue, 12 May 2026 13:32:19 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Strait of Hormuz Vessel Tracking API: Monitor Ships",
-        "link": "https://datalastic.com/blog/strait-of-hormuz-vessel-tracking-api-monitor-ships/",
-        "date": "Tue, 05 May 2026 10:24:21 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Most Maritime APIs Look the Same But They’re Not",
-        "link": "https://datalastic.com/blog/most-maritime-apis-look-the-same-but-theyre-not/",
-        "date": "Mon, 30 Mar 2026 10:51:48 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Top 10 Most Congested Ports Right Now (Based on AIS Data)",
-        "link": "https://datalastic.com/blog/top-10-most-congested-ports-right-now-based-on-ais-data/",
-        "date": "Sat, 14 Mar 2026 00:55:24 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Instant Vessel Tracking from NMEA AIS Data",
-        "link": "https://datalastic.com/blog/instant-vessel-tracking-from-nmea-ais-data/",
-        "date": "Fri, 20 Feb 2026 11:02:49 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Vessel Emission API: How to Calculate Using Engine Data",
-        "link": "https://datalastic.com/blog/vessel-emission-api-how-to-calculate-using-engine-data/",
-        "date": "Thu, 12 Feb 2026 10:27:40 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Choosing a Reliable Maritime API: Datalastic Uptime Explained",
-        "link": "https://datalastic.com/blog/choosing-a-reliable-maritime-api-datalastic-uptime-explained/",
-        "date": "Mon, 02 Feb 2026 08:54:50 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
     "crea": [

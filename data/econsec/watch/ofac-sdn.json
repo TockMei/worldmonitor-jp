@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-07-13T11:25:50.408Z",
+  "generated": "2026-07-13T22:03:34.597Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19143,
+  "count": 19156,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -76569,6 +76569,10 @@
       "name": "PALACIOS QUINTANILLA, Enrique Daniel",
       "list": "SUDAN-EO14098"
     },
+    "57975": {
+      "name": "FIRST VPN SERVICE",
+      "list": "CYBER4"
+    },
     "57976": {
       "name": "DERMAN GUZMAN, Jack Peter",
       "list": "SUDAN-EO14098"
@@ -76576,6 +76580,54 @@
     "57977": {
       "name": "LOPEZ OCAMPO, Fredy Alejandro",
       "list": "SUDAN-EO14098"
+    },
+    "57978": {
+      "name": "RASHEVSKYI, Dmytro",
+      "list": "CYBER4"
+    },
+    "58046": {
+      "name": "ASSOCIATION OF COMBATANTS OF THE CUBAN REVOLUTION",
+      "list": "CUBA-EO14404"
+    },
+    "58051": {
+      "name": "GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR",
+      "list": "CUBA-EO14404"
+    },
+    "58052": {
+      "name": "ENETEC S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58053": {
+      "name": "ORGANIZACION SUPERIOR DE DIRECCION EMPRESARIAL CAUDAL S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58054": {
+      "name": "GRUPO EMPRESARIAL DE TRANSPORTE MARITIMO PORTUARIO",
+      "list": "CUBA-EO14404"
+    },
+    "58055": {
+      "name": "MILICIAS DE TROPAS TERRITORIALES",
+      "list": "CUBA-EO14404"
+    },
+    "58056": {
+      "name": "CORPORACION ANTILLANA EXPORTADORA SA",
+      "list": "CUBA-EO14404"
+    },
+    "58057": {
+      "name": "COREYDAN S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58058": {
+      "name": "RAPID RESPONSE BRIGADES",
+      "list": "CUBA-EO14404"
+    },
+    "58059": {
+      "name": "MINISTRY OF TOURISM OF CUBA",
+      "list": "CUBA-EO14404"
+    },
+    "58077": {
+      "name": "SILAYEV, Yevgeniy Vladimirovich",
+      "list": "CYBER4"
     }
   }
 }
