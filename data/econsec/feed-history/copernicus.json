@@ -1,8 +1,14 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-07-13T22:03:34.597Z",
+  "generated": "2026-07-14T22:04:58.078Z",
   "items": [
+    {
+      "title": "Timestamp behavior alignment for ListObjects requests",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-14-timestamp-behavior-alignment-listobjects-requests",
+      "date": "Tue, 14 Jul 2026 07:22:27 UTC",
+      "firstSeen": "2026-07-14T22:04:58.078Z"
+    },
     {
       "title": "Copernicus Sentinel-3B unavailability notice for the IP Manoeuvre #163 planned on 09 July 2026 [DOY 190]",
       "link": "https://dataspace.copernicus.eu/news/2026-7-8-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-163-planned-09-july-2026",

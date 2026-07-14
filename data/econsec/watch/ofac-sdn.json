@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-07-13T22:03:34.597Z",
+  "generated": "2026-07-14T22:04:58.078Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19156,
+  "count": 19210,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -76628,6 +76628,222 @@
     "58077": {
       "name": "SILAYEV, Yevgeniy Vladimirovich",
       "list": "CYBER4"
+    },
+    "58093": {
+      "name": "AVA TARABAR DARYA COMPANY",
+      "list": "IRAN-EO13902"
+    },
+    "58094": {
+      "name": "RAHBAR MADANI, Mohammad Reza",
+      "list": "IRAN-EO13902"
+    },
+    "58095": {
+      "name": "SEPEHR NOOR MOBIN COMPANY",
+      "list": "IRAN-EO13902"
+    },
+    "58096": {
+      "name": "SEPEHR PAYAM",
+      "list": "IRAN-EO13902"
+    },
+    "58097": {
+      "name": "ERIKA",
+      "list": "IRAN-EO13902"
+    },
+    "58098": {
+      "name": "ARKANOOR 2",
+      "list": "IRAN-EO13902"
+    },
+    "58099": {
+      "name": "ARKANOOR 3",
+      "list": "IRAN-EO13902"
+    },
+    "58100": {
+      "name": "SEA CRUISER",
+      "list": "IRAN-EO13902"
+    },
+    "58101": {
+      "name": "SEA CASTLE",
+      "list": "IRAN-EO13902"
+    },
+    "58102": {
+      "name": "SEA ANCHOR",
+      "list": "IRAN-EO13902"
+    },
+    "58103": {
+      "name": "SEA LEAD SHIPPING PTE. LTD.",
+      "list": "IRAN-EO13902"
+    },
+    "58104": {
+      "name": "KANGRI 1 INC",
+      "list": "IRAN-EO13902"
+    },
+    "58106": {
+      "name": "CICCIO",
+      "list": "IRAN-EO13902"
+    },
+    "58107": {
+      "name": "SHENTON WAY",
+      "list": "IRAN-EO13902"
+    },
+    "58109": {
+      "name": "TANJONG PAGAR 1",
+      "list": "IRAN-EO13902"
+    },
+    "58110": {
+      "name": "VIRENT",
+      "list": "IRAN-EO13902"
+    },
+    "58111": {
+      "name": "PLATINUM KNIGHTS LTD",
+      "list": "IRAN-EO13902"
+    },
+    "58112": {
+      "name": "HOPE 1 SHIPPING INC",
+      "list": "IRAN-EO13902"
+    },
+    "58113": {
+      "name": "NUVETRRO SHIPPING INC",
+      "list": "IRAN-EO13902"
+    },
+    "58114": {
+      "name": "VELTRRIVO SHIPPING INC",
+      "list": "IRAN-EO13902"
+    },
+    "58115": {
+      "name": "OCEAN SEARUM ONE LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58116": {
+      "name": "HANSA SHIPPING INC.",
+      "list": "IRAN-EO13902"
+    },
+    "58117": {
+      "name": "HOPE 1",
+      "list": "IRAN-EO13902"
+    },
+    "58118": {
+      "name": "JADE",
+      "list": "IRAN-EO13902"
+    },
+    "58119": {
+      "name": "OPAL",
+      "list": "IRAN-EO13902"
+    },
+    "58120": {
+      "name": "ELPINIKI",
+      "list": "IRAN-EO13902"
+    },
+    "58121": {
+      "name": "DARIKA",
+      "list": "IRAN-EO13902"
+    },
+    "58122": {
+      "name": "GEORGE, Jijin",
+      "list": "IRAN-EO13902"
+    },
+    "58123": {
+      "name": "TSERNOSJOV, Maksim",
+      "list": "IRAN-EO13902"
+    },
+    "58124": {
+      "name": "VISHAVDEEP, Gautam",
+      "list": "IRAN-EO13902"
+    },
+    "58125": {
+      "name": "DEHKORDI, Asghar Aghili",
+      "list": "IRAN-EO13902"
+    },
+    "58127": {
+      "name": "MOGHADAS, Behzad",
+      "list": "IRAN-EO13902"
+    },
+    "58128": {
+      "name": "ZAHED, Hossein Ghorbani",
+      "list": "IRAN-EO13902"
+    },
+    "58131": {
+      "name": "GOLDEN NEST GROUP LTD",
+      "list": "IRAN-EO13902"
+    },
+    "58132": {
+      "name": "BSG MANAGEMENT LTD",
+      "list": "IRAN-EO13902"
+    },
+    "58134": {
+      "name": "SEA LEAD SHIPPING AGENCY INDIA PRIVATE LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58135": {
+      "name": "SEA LEAD SHIPPING MARSHALL ISLANDS LTD",
+      "list": "IRAN-EO13902"
+    },
+    "58136": {
+      "name": "SEA LEAD SHIPPING DMCC",
+      "list": "IRAN-EO13902"
+    },
+    "58137": {
+      "name": "WE FREIGHT SHIPPING LLC",
+      "list": "IRAN-EO13902"
+    },
+    "58138": {
+      "name": "VOLTA SHIPPING SERVICES LLC",
+      "list": "IRAN-EO13902"
+    },
+    "58146": {
+      "name": "LUBECK SHIPPING LLC",
+      "list": "IRAN-EO13902"
+    },
+    "58147": {
+      "name": "RAKHBARMADANI, Ali",
+      "list": "IRAN-EO13902"
+    },
+    "58148": {
+      "name": "DEZERA SHIPPING FZCO",
+      "list": "IRAN-EO13902"
+    },
+    "58149": {
+      "name": "AL KINA COMMERCIAL BROKER LLC",
+      "list": "IRAN-EO13902"
+    },
+    "58150": {
+      "name": "AARE LINES INC.",
+      "list": "IRAN-EO13902"
+    },
+    "58151": {
+      "name": "GLAVOS SHIPPING FZCO",
+      "list": "IRAN-EO13902"
+    },
+    "58152": {
+      "name": "SAI WAN SHIPPING LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58153": {
+      "name": "GEMMA",
+      "list": "IRAN-EO13902"
+    },
+    "58154": {
+      "name": "RONCO, Alessandra",
+      "list": "IRAN-EO13902"
+    },
+    "58155": {
+      "name": "NADIA",
+      "list": "IRAN-EO13902"
+    },
+    "58157": {
+      "name": "EVORIT STRATEGY CONSULTING LLC-FZ",
+      "list": "IRAN-EO13902"
+    },
+    "58158": {
+      "name": "SEA GALLEON",
+      "list": "IRAN-EO13902"
+    },
+    "58159": {
+      "name": "PAYA LEBAR",
+      "list": "IRAN-EO13902"
+    },
+    "58160": {
+      "name": "KAALUND, Martin Austin",
+      "list": "IRAN-EO13902"
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "id": "uksl",
   "label": "UK Sanctions List (UKSL, successor to the OFSI Consolidated List)",
-  "generated": "2026-07-13T22:03:34.597Z",
+  "generated": "2026-07-14T22:04:58.078Z",
   "resolvedUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
-  "count": 6295,
+  "count": 6296,
   "entities": {
     "AFG0001": {
       "name": "Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah",
@@ -8503,6 +8503,10 @@
     },
     "IRN0280": {
       "name": "Pourya ZARRINGHALAM",
+      "list": "The Iran (Sanctions) Regulations 2023"
+    },
+    "IRN0281": {
+      "name": "Islamic Movement of the People of the Right Hand",
       "list": "The Iran (Sanctions) Regulations 2023"
     },
     "IRQ0013": {
