@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-07-14T22:04:58.078Z",
+  "generated": "2026-07-15T22:05:17.826Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19210,
+  "count": 19217,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -2871,7 +2871,7 @@
     },
     "8237": {
       "name": "JUAREZ CARTEL",
-      "list": "SDNTK] [ILLICIT-DRUGS-EO14059"
+      "list": "SDNTK] [FTO] [SDGT] [ILLICIT-DRUGS-EO14059"
     },
     "8239": {
       "name": "NEMBHARD, Norris",
@@ -66823,7 +66823,7 @@
     },
     "52435": {
       "name": "LOS VIAGRAS",
-      "list": "ILLICIT-DRUGS-EO14059"
+      "list": "FTO] [SDGT] [ILLICIT-DRUGS-EO14059"
     },
     "52437": {
       "name": "SIERRA SANTANA, Nicolas",
@@ -76753,6 +76753,10 @@
       "name": "DEHKORDI, Asghar Aghili",
       "list": "IRAN-EO13902"
     },
+    "58126": {
+      "name": "AVRATEK OOO",
+      "list": "NPWMD] [IFSR"
+    },
     "58127": {
       "name": "MOGHADAS, Behzad",
       "list": "IRAN-EO13902"
@@ -76760,6 +76764,10 @@
     "58128": {
       "name": "ZAHED, Hossein Ghorbani",
       "list": "IRAN-EO13902"
+    },
+    "58130": {
+      "name": "NIKA JET COMPANY",
+      "list": "NPWMD] [IFSR"
     },
     "58131": {
       "name": "GOLDEN NEST GROUP LTD",
@@ -76788,6 +76796,26 @@
     "58138": {
       "name": "VOLTA SHIPPING SERVICES LLC",
       "list": "IRAN-EO13902"
+    },
+    "58139": {
+      "name": "ETTAIB, Dounia",
+      "list": "NPWMD] [IFSR"
+    },
+    "58142": {
+      "name": "NAMAZI, Behrouz",
+      "list": "NPWMD] [IFSR"
+    },
+    "58143": {
+      "name": "SELINA, Mariya Vladimirovna",
+      "list": "NPWMD] [IFSR"
+    },
+    "58144": {
+      "name": "DRUZHBIN, Vadim Anatolyevich",
+      "list": "NPWMD] [IFSR"
+    },
+    "58145": {
+      "name": "VANGUARD TACTICAL SUPPLY LIMITED",
+      "list": "NPWMD] [IFSR"
     },
     "58146": {
       "name": "LUBECK SHIPPING LLC",

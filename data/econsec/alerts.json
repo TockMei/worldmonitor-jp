@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-14T22:04:58.078Z"
+    "generated": "2026-07-15T22:05:17.826Z"
   },
   "alerts": [
     {
@@ -1480,6 +1480,301 @@
       "entity": "Endangered and Threatened Wildlife and Plants; 90-Day Findings for 10 Species",
       "detail": "2026-07-14",
       "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14098/endangered-and-threatened-wildlife-and-plants-90-day-findings-for-10-species"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "AVRATEK OOO",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "NIKA JET COMPANY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ETTAIB, Dounia",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "NAMAZI, Behrouz",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SELINA, Mariya Vladimirovna",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DRUZHBIN, Vadim Anatolyevich",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "VANGUARD TACTICAL SUPPLY LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "AVRATEK OOO",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "NIKA JET COMPANY",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ETTAIB, Dounia",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "NAMAZI, Behrouz",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SELINA, Mariya Vladimirovna",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DRUZHBIN, Vadim Anatolyevich",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "VANGUARD TACTICAL SUPPLY LIMITED",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "Last Updated 07/08/2026 → Last Updated 07/14/2026"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of OFAC Sanctions Action",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14247/notice-of-ofac-sanctions-action"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14196/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Submission for OMB Review; Comment Request",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14194/submission-for-omb-review-comment-request"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Air Plan Approval; Wisconsin; Source-Specific Air Quality Implementation Plan; Oak Creek Power Plant",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14282/air-plan-approval-wisconsin-source-specific-air-quality-implementation-plan-oak-creek-power-plant"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14281/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Approval of Source-Specific Air Quality Implementation Plan; New York; Castleton Power, LLC",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14261/approval-of-source-specific-air-quality-implementation-plan-new-york-castleton-power-llc"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Air Plan Approval; Missouri; Control of NOX Emissions From Large Stationary Internal Combustion Engines",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14260/air-plan-approval-missouri-control-of-nox-emissions-from-large-stationary-internal-combustion"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Churchill Asset Management LLC",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14249/churchill-asset-management-llc"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Establishment of Class E Airspace; Crown Point, IN",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14248/establishment-of-class-e-airspace-crown-point-in"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Montana Regulatory Program",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14245/montana-regulatory-program"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Montana Regulatory Program",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14244/montana-regulatory-program"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14238/airworthiness-directives-bell-textron-canada-limited-helicopters"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "New Postal Products",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14228/new-postal-products"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Safety Zone; Cuyahoga River, Cleveland, OH",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14224/safety-zone-cuyahoga-river-cleveland-oh"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Gulf South Pipeline Company, LLC; Notice of Application and Establishing Intervention Deadline",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14213/gulf-south-pipeline-company-llc-notice-of-application-and-establishing-intervention-deadline"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Submission of Proposed Information Collection to OMB",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14209/notice-of-submission-of-proposed-information-collection-to-omb"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Reforming and Modernizing the NRC's Radiation Protection Framework",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14208/reforming-and-modernizing-the-nrcs-radiation-protection-framework"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Safety Zones; Recurring Events in Captain of the Port Duluth Zone",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14207/safety-zones-recurring-events-in-captain-of-the-port-duluth-zone"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Amendment of Class D Airspace and Removal of Class E4 Airspace Over Nashua, NH",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14205/amendment-of-class-d-airspace-and-removal-of-class-e4-airspace-over-nashua-nh"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Lake Ontario National Marine Sanctuary; Delay of Effective Date",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14204/lake-ontario-national-marine-sanctuary-delay-of-effective-date"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Definition of Professional To Require Monthly Reviews of Orders",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14203/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of"
+    },
+    {
+      "date": "2026-07-15T22:05:17.826Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Review of Professional Orders",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14202/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed"
     }
   ]
 }
