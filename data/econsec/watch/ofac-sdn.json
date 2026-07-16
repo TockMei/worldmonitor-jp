@@ -1,7 +1,7 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-07-15T22:05:17.826Z",
+  "generated": "2026-07-16T22:05:42.331Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
   "count": 19217,
   "entities": {

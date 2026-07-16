@@ -1,8 +1,356 @@
 {
   "meta": {
-    "generated": "2026-07-15T22:05:17.826Z"
+    "generated": "2026-07-16T22:05:42.331Z"
   },
   "history": {
+    "ofsi": [
+      {
+        "title": "Guidance: OFSI General licence INT/2025/5787748",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20255787748",
+        "date": "2026-07-16T15:03:10Z",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Guidance: OFSI General Licence - INT/2025/6641960",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20256641960",
+        "date": "2026-07-13T15:06:07Z",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Guidance: OFSI General Licence INT/2026/8893924",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20268893924",
+        "date": "2026-07-06T11:21:19Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: OFSI General Licence INT/2026/9491628",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269491628",
+        "date": "2026-06-24T14:31:48Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: UK Financial Sanctions FAQs",
+        "link": "https://www.gov.uk/government/publications/uk-financial-sanctions-faqs",
+        "date": "2026-06-24T14:29:48Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: The U.S. and UK Economic Sanctions Authorities: A Comparative Overview",
+        "link": "https://www.gov.uk/government/publications/the-us-and-uk-economic-sanctions-authorities-a-comparative-overview",
+        "date": "2026-06-23T14:34:02Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: OFSI General Licence INT/2025/8031092",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20258031092",
+        "date": "2026-06-19T13:00:28Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "UK issues largest penalty for financial sanctions breaches since Russia’s 2022 illegal invasion of Ukraine",
+        "link": "https://www.gov.uk/government/news/uk-issues-largest-penalty-for-financial-sanctions-breaches-since-russias-2022-illegal-invasion-of-ukraine",
+        "date": "2026-06-17T11:04:35Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Notice: Imposition of Monetary Penalty - Sabre Global Technologies Limited (SGTL)",
+        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-sabre-global-technologies-limited-sgtl",
+        "date": "2026-06-17T10:44:07Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: OFSI General Licence - INT/2026/9559192",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269559192",
+        "date": "2026-06-15T17:27:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: OFSI General licence INT/2024/4761108",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20244761108",
+        "date": "2026-05-26T12:48:47Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Russia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
+        "date": "2026-05-19T23:01:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Notice: Imposition of Monetary Penalty – Deutsche Bank AG London Branch (“DBLB”)",
+        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-deutsche-bank-ag-london-branch-dblb",
+        "date": "2026-05-19T09:52:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Sanctions compliance in the Art Market Participants and High Value Goods sector: Threat Assessment",
+        "link": "https://www.gov.uk/government/publications/sanctions-compliance-in-the-art-market-participants-and-high-value-goods-sector-threat-assessment",
+        "date": "2026-05-12T09:27:04Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Financial sanctions general guidance",
+        "link": "https://www.gov.uk/government/publications/financial-sanctions-general-guidance",
+        "date": "2026-05-12T09:26:45Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Financial sanctions guidance for high value dealers and art market participants",
+        "link": "https://www.gov.uk/government/publications/financial-sanctions-guidance-for-high-value-dealers-and-art-market-participants",
+        "date": "2026-05-12T09:26:35Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
+        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
+        "date": "2026-05-08T08:40:08Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
+        "date": "2026-05-01T10:20:09Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Libya sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
+        "date": "2026-05-01T10:20:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Somalia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
+        "date": "2026-05-01T10:20:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
+        "date": "2026-05-01T10:19:55Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Myanmar sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
+        "date": "2026-05-01T10:19:52Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "opensanctions": [
+      {
+        "title": "How we’re adding PEP data sources faster: The Australian example",
+        "link": "https://www.opensanctions.org/articles/2026-07-01-australia-peps/",
+        "date": "Wed, 01 Jul 2026 13:55:42 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How we reverse-engineered OFAC's sanctions screening algorithm",
+        "link": "https://www.opensanctions.org/articles/2026-07-01-ofac-matcher/",
+        "date": "Wed, 01 Jul 2026 09:13:00 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Should you run the OpenSanctions API yourself?",
+        "link": "https://www.opensanctions.org/articles/2026-06-25-should-you-run-the-opensanctions-api-yourself/",
+        "date": "Thu, 25 Jun 2026 11:09:13 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Dataharvest 2026: Sessions you won’t want to miss",
+        "link": "https://www.opensanctions.org/articles/2026-05-20-dataharvest/",
+        "date": "Wed, 20 May 2026 11:29:00 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How LLMs are changing screening",
+        "link": "https://www.opensanctions.org/articles/2026-05-12-llms-screening/",
+        "date": "Tue, 12 May 2026 09:41:00 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Wikidata contains many gaps in its political data. We’ve built a tool to change that",
+        "link": "https://www.opensanctions.org/articles/2026-03-24-poliloom/",
+        "date": "Tue, 24 Mar 2026 13:51:00 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "As the CIA closes The World Factbook, we’re opening our global map of political power",
+        "link": "https://www.opensanctions.org/articles/2026-02-18-every-politician/",
+        "date": "Wed, 18 Feb 2026 12:42:00 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Making the most of the OpenSanctions dataset browser",
+        "link": "https://www.opensanctions.org/articles/2026-01-28-dataset-browser/",
+        "date": "Wed, 28 Jan 2026 10:40:37 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "This was 2025 at OpenSanctions",
+        "link": "https://www.opensanctions.org/articles/2025-review/",
+        "date": "Thu, 18 Dec 2025 11:32:28 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OpenSanctions and Taktile partner to combine stronger data with smarter screening",
+        "link": "https://www.opensanctions.org/articles/2025-12-15-taktile-partnership/",
+        "date": "Mon, 15 Dec 2025 12:11:37 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Here’s everything that goes wrong when AI does text extraction (and how we’re still using it)",
+        "link": "https://www.opensanctions.org/articles/everything-that-goes-wrong-ai-text-extraction/",
+        "date": "Thu, 04 Dec 2025 11:13:55 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Launching our enforcements collection — and bringing context to OFAC sanctions",
+        "link": "https://www.opensanctions.org/articles/launching-our-enforcements-collection/",
+        "date": "Tue, 02 Dec 2025 11:39:13 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Investigating financial crime: Five things I learned at #GIJC25",
+        "link": "https://www.opensanctions.org/articles/2025-11-25-5-things-i-learnt-gijc25/",
+        "date": "Tue, 25 Nov 2025 14:56:37 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How journalists can use OpenSanctions to find leads and strengthen stories",
+        "link": "https://www.opensanctions.org/articles/2025-11-13-investigative-journalists-data/",
+        "date": "Thu, 13 Nov 2025 10:45:08 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Rosetta, not Roulette: Improving sanctions screening results with our new logic-v2 matcher",
+        "link": "https://www.opensanctions.org/articles/2025-09-11-logic-v2/",
+        "date": "Mon, 15 Sep 2025 07:06:00 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "otsi": [
+      {
+        "title": "Apply for a licence to carry out sanctioned trade through OTSI",
+        "link": "https://www.gov.uk/guidance/apply-for-a-licence-to-carry-out-sanctioned-trade-through-otsi",
+        "date": "2026-05-20T14:05:30Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Russia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
+        "date": "2026-05-19T23:01:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: General trade licence: maritime transportation of liquefied natural gas",
+        "link": "https://www.gov.uk/government/publications/general-trade-licence-maritime-transportation-of-liquefied-natural-gas",
+        "date": "2026-05-19T16:20:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
+        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
+        "date": "2026-05-08T08:40:08Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
+        "date": "2026-05-01T10:19:55Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Myanmar sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
+        "date": "2026-05-01T10:19:52Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Syria sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
+        "date": "2026-05-01T10:19:41Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Venezuela sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
+        "date": "2026-05-01T10:19:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Iran sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
+        "date": "2026-05-01T10:19:29Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Trading under sanctions with Russia",
+        "link": "https://www.gov.uk/guidance/trading-under-sanctions-with-russia",
+        "date": "2026-04-23T11:26:40Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How to use exceptions and licences to comply with sanctions",
+        "link": "https://www.gov.uk/guidance/how-to-use-exceptions-and-licences-to-comply-with-sanctions",
+        "date": "2026-04-23T11:26:39Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How to apply for a trade sanctions licence",
+        "link": "https://www.gov.uk/guidance/how-to-apply-for-a-trade-sanctions-licence",
+        "date": "2026-04-23T11:26:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How OTSI assesses applications for trade sanctions licences",
+        "link": "https://www.gov.uk/guidance/how-otsi-assesses-applications-for-trade-sanctions-licences",
+        "date": "2026-04-23T11:26:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Democratic People's Republic of Korea sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/democratic-peoples-republic-of-korea-sanctions-guidance",
+        "date": "2026-04-23T10:50:48Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Sanctions End-Use Controls: guidance for businesses",
+        "link": "https://www.gov.uk/government/publications/sanctions-end-use-controls-guidance-for-businesses",
+        "date": "2026-04-22T14:37:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Starter guide to UK sanctions",
+        "link": "https://www.gov.uk/guidance/starter-guide-to-uk-sanctions",
+        "date": "2026-03-30T09:00:02Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Countering Russian sanctions evasion and circumvention",
+        "link": "https://www.gov.uk/government/publications/countering-russian-sanctions-evasion-and-circumvention",
+        "date": "2026-03-12T09:40:59Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Look up considerations for trade licences under the Belarus sanctions",
+        "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-belarus-sanctions",
+        "date": "2026-03-05T09:53:19Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Corporate report: One year of the Office of Trade Sanctions Implementation (OTSI)",
+        "link": "https://www.gov.uk/government/publications/one-year-of-the-office-of-trade-sanctions-implementation-otsi",
+        "date": "2025-12-04T11:00:11Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Countering sanctions evasion: guidance for freight and shipping",
+        "link": "https://www.gov.uk/government/publications/countering-sanctions-evasion-guidance-for-freight-and-shipping",
+        "date": "2025-11-03T12:06:26Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "cset-eto": [
       {
         "title": "Updates to PATHWISE, our emerging technology talent tracking tool",
@@ -605,98 +953,6 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "opensanctions": [
-      {
-        "title": "How we’re adding PEP data sources faster: The Australian example",
-        "link": "https://www.opensanctions.org/articles/2026-07-01-australia-peps/",
-        "date": "Wed, 01 Jul 2026 13:55:42 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How we reverse-engineered OFAC's sanctions screening algorithm",
-        "link": "https://www.opensanctions.org/articles/2026-07-01-ofac-matcher/",
-        "date": "Wed, 01 Jul 2026 09:13:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Should you run the OpenSanctions API yourself?",
-        "link": "https://www.opensanctions.org/articles/2026-06-25-should-you-run-the-opensanctions-api-yourself/",
-        "date": "Thu, 25 Jun 2026 11:09:13 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Dataharvest 2026: Sessions you won’t want to miss",
-        "link": "https://www.opensanctions.org/articles/2026-05-20-dataharvest/",
-        "date": "Wed, 20 May 2026 11:29:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How LLMs are changing screening",
-        "link": "https://www.opensanctions.org/articles/2026-05-12-llms-screening/",
-        "date": "Tue, 12 May 2026 09:41:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Wikidata contains many gaps in its political data. We’ve built a tool to change that",
-        "link": "https://www.opensanctions.org/articles/2026-03-24-poliloom/",
-        "date": "Tue, 24 Mar 2026 13:51:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "As the CIA closes The World Factbook, we’re opening our global map of political power",
-        "link": "https://www.opensanctions.org/articles/2026-02-18-every-politician/",
-        "date": "Wed, 18 Feb 2026 12:42:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Making the most of the OpenSanctions dataset browser",
-        "link": "https://www.opensanctions.org/articles/2026-01-28-dataset-browser/",
-        "date": "Wed, 28 Jan 2026 10:40:37 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "This was 2025 at OpenSanctions",
-        "link": "https://www.opensanctions.org/articles/2025-review/",
-        "date": "Thu, 18 Dec 2025 11:32:28 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OpenSanctions and Taktile partner to combine stronger data with smarter screening",
-        "link": "https://www.opensanctions.org/articles/2025-12-15-taktile-partnership/",
-        "date": "Mon, 15 Dec 2025 12:11:37 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Here’s everything that goes wrong when AI does text extraction (and how we’re still using it)",
-        "link": "https://www.opensanctions.org/articles/everything-that-goes-wrong-ai-text-extraction/",
-        "date": "Thu, 04 Dec 2025 11:13:55 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Launching our enforcements collection — and bringing context to OFAC sanctions",
-        "link": "https://www.opensanctions.org/articles/launching-our-enforcements-collection/",
-        "date": "Tue, 02 Dec 2025 11:39:13 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Investigating financial crime: Five things I learned at #GIJC25",
-        "link": "https://www.opensanctions.org/articles/2025-11-25-5-things-i-learnt-gijc25/",
-        "date": "Tue, 25 Nov 2025 14:56:37 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How journalists can use OpenSanctions to find leads and strengthen stories",
-        "link": "https://www.opensanctions.org/articles/2025-11-13-investigative-journalists-data/",
-        "date": "Thu, 13 Nov 2025 10:45:08 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Rosetta, not Roulette: Improving sanctions screening results with our new logic-v2 matcher",
-        "link": "https://www.opensanctions.org/articles/2025-09-11-logic-v2/",
-        "date": "Mon, 15 Sep 2025 07:06:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "cset": [
       {
         "title": "Companies turn to Chinese AI models to cut costs",
@@ -778,7 +1034,26 @@
       }
     ],
     "cistec": [],
+    "rusi": [],
     "ac-geoecon": [
+      {
+        "title": "Innovation under fire: Ukraine’s energy defense is a blueprint for the world",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/innovation-under-fire-ukraines-energy-defense-is-a-blueprint-for-the-world/",
+        "date": "Thu, 16 Jul 2026 14:36:09 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Ukraine’s national recovery must go far beyond rebuilding what was lost",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-national-recovery-must-go-far-beyond-rebuilding-what-was-lost/",
+        "date": "Thu, 16 Jul 2026 13:21:57 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Artificial intelligence and the future of African mining",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/artificial-intelligence-and-the-future-of-african-mining/",
+        "date": "Thu, 16 Jul 2026 12:44:08 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
       {
         "title": "The defining issues Lindsey Graham leaves behind",
         "link": "https://www.atlanticcouncil.org/content-series/inflection-points/the-defining-issues-lindsey-graham-leaves-behind/",
@@ -1440,69 +1715,6 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "rusi": [],
-    "semianalysis": [
-      {
-        "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
-        "link": "https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/",
-        "date": "Tue, 16 Sep 2025 17:38:01 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
-        "link": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
-        "date": "Wed, 10 Sep 2025 19:57:18 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
-        "link": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
-        "date": "Mon, 08 Sep 2025 09:54:57 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Amazon’s AI Resurgence: AWS & Anthropic’s Multi-Gigawatt Trainium Expansion",
-        "link": "https://semianalysis.com/2025/09/03/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion/",
-        "date": "Wed, 03 Sep 2025 20:55:46 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
-        "link": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
-        "date": "Wed, 20 Aug 2025 04:56:35 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
-        "link": "https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/",
-        "date": "Wed, 13 Aug 2025 00:27:14 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
-        "link": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
-        "date": "Tue, 12 Aug 2025 01:16:06 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Robotics Levels of Autonomy",
-        "link": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
-        "date": "Wed, 30 Jul 2025 17:02:25 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More",
-        "link": "https://semianalysis.com/2025/07/21/vlsi2025/",
-        "date": "Mon, 21 Jul 2025 14:23:37 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Meta Superintelligence – Leadership Compute, Talent, and Data",
-        "link": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
-        "date": "Fri, 11 Jul 2025 20:12:19 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "ecju": [
       {
         "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
@@ -1626,6 +1838,18 @@
       }
     ],
     "sinocism": [
+      {
+        "title": "Sharp China: K-Shaped Economic Data And Its Implications; Ma Xingrui News; Closing Window for Open Source AI?; The SCS and International Law",
+        "link": "https://sinocism.com/p/sharp-china-k-shaped-economic-data",
+        "date": "Thu, 16 Jul 2026 09:01:11 GMT",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Xi inspects Shanghai; GDP data; Problems in the US-China trade deal; Foreign Correspondents Club on reporting challenges",
+        "link": "https://sinocism.com/p/xi-inspects-shanghai-gdp-data-problems",
+        "date": "Wed, 15 Jul 2026 22:20:30 GMT",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
       {
         "title": "Ma Xingrui case; Trade data; Themes for Xi's WAIC speech; Kevin Rudd on Xi and China",
         "link": "https://sinocism.com/p/ma-xingrui-case-trade-data-themes",
@@ -1759,257 +1983,75 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "otsi": [
+    "semianalysis": [
       {
-        "title": "Apply for a licence to carry out sanctioned trade through OTSI",
-        "link": "https://www.gov.uk/guidance/apply-for-a-licence-to-carry-out-sanctioned-trade-through-otsi",
-        "date": "2026-05-20T14:05:30Z",
+        "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
+        "link": "https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/",
+        "date": "Tue, 16 Sep 2025 17:38:01 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Russia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
-        "date": "2026-05-19T23:01:01Z",
+        "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
+        "link": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
+        "date": "Wed, 10 Sep 2025 19:57:18 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Guidance: General trade licence: maritime transportation of liquefied natural gas",
-        "link": "https://www.gov.uk/government/publications/general-trade-licence-maritime-transportation-of-liquefied-natural-gas",
-        "date": "2026-05-19T16:20:00Z",
+        "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
+        "link": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
+        "date": "Mon, 08 Sep 2025 09:54:57 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
-        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
-        "date": "2026-05-08T08:40:08Z",
+        "title": "Amazon’s AI Resurgence: AWS & Anthropic’s Multi-Gigawatt Trainium Expansion",
+        "link": "https://semianalysis.com/2025/09/03/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion/",
+        "date": "Wed, 03 Sep 2025 20:55:46 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
-        "date": "2026-05-01T10:19:55Z",
+        "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
+        "link": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
+        "date": "Wed, 20 Aug 2025 04:56:35 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Myanmar sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
-        "date": "2026-05-01T10:19:52Z",
+        "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
+        "link": "https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/",
+        "date": "Wed, 13 Aug 2025 00:27:14 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Syria sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
-        "date": "2026-05-01T10:19:41Z",
+        "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
+        "link": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
+        "date": "Tue, 12 Aug 2025 01:16:06 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Venezuela sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
-        "date": "2026-05-01T10:19:37Z",
+        "title": "Robotics Levels of Autonomy",
+        "link": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
+        "date": "Wed, 30 Jul 2025 17:02:25 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Iran sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
-        "date": "2026-05-01T10:19:29Z",
+        "title": "Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More",
+        "link": "https://semianalysis.com/2025/07/21/vlsi2025/",
+        "date": "Mon, 21 Jul 2025 14:23:37 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Trading under sanctions with Russia",
-        "link": "https://www.gov.uk/guidance/trading-under-sanctions-with-russia",
-        "date": "2026-04-23T11:26:40Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How to use exceptions and licences to comply with sanctions",
-        "link": "https://www.gov.uk/guidance/how-to-use-exceptions-and-licences-to-comply-with-sanctions",
-        "date": "2026-04-23T11:26:39Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How to apply for a trade sanctions licence",
-        "link": "https://www.gov.uk/guidance/how-to-apply-for-a-trade-sanctions-licence",
-        "date": "2026-04-23T11:26:37Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How OTSI assesses applications for trade sanctions licences",
-        "link": "https://www.gov.uk/guidance/how-otsi-assesses-applications-for-trade-sanctions-licences",
-        "date": "2026-04-23T11:26:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Democratic People's Republic of Korea sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/democratic-peoples-republic-of-korea-sanctions-guidance",
-        "date": "2026-04-23T10:50:48Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Sanctions End-Use Controls: guidance for businesses",
-        "link": "https://www.gov.uk/government/publications/sanctions-end-use-controls-guidance-for-businesses",
-        "date": "2026-04-22T14:37:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Starter guide to UK sanctions",
-        "link": "https://www.gov.uk/guidance/starter-guide-to-uk-sanctions",
-        "date": "2026-03-30T09:00:02Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Countering Russian sanctions evasion and circumvention",
-        "link": "https://www.gov.uk/government/publications/countering-russian-sanctions-evasion-and-circumvention",
-        "date": "2026-03-12T09:40:59Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Look up considerations for trade licences under the Belarus sanctions",
-        "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-belarus-sanctions",
-        "date": "2026-03-05T09:53:19Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Corporate report: One year of the Office of Trade Sanctions Implementation (OTSI)",
-        "link": "https://www.gov.uk/government/publications/one-year-of-the-office-of-trade-sanctions-implementation-otsi",
-        "date": "2025-12-04T11:00:11Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Countering sanctions evasion: guidance for freight and shipping",
-        "link": "https://www.gov.uk/government/publications/countering-sanctions-evasion-guidance-for-freight-and-shipping",
-        "date": "2025-11-03T12:06:26Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "ofsi": [
-      {
-        "title": "Guidance: OFSI General Licence - INT/2025/6641960",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20256641960",
-        "date": "2026-07-13T15:06:07Z",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence INT/2026/8893924",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20268893924",
-        "date": "2026-07-06T11:21:19Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence INT/2026/9491628",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269491628",
-        "date": "2026-06-24T14:31:48Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: UK Financial Sanctions FAQs",
-        "link": "https://www.gov.uk/government/publications/uk-financial-sanctions-faqs",
-        "date": "2026-06-24T14:29:48Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: The U.S. and UK Economic Sanctions Authorities: A Comparative Overview",
-        "link": "https://www.gov.uk/government/publications/the-us-and-uk-economic-sanctions-authorities-a-comparative-overview",
-        "date": "2026-06-23T14:34:02Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence INT/2025/8031092",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20258031092",
-        "date": "2026-06-19T13:00:28Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "UK issues largest penalty for financial sanctions breaches since Russia’s 2022 illegal invasion of Ukraine",
-        "link": "https://www.gov.uk/government/news/uk-issues-largest-penalty-for-financial-sanctions-breaches-since-russias-2022-illegal-invasion-of-ukraine",
-        "date": "2026-06-17T11:04:35Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notice: Imposition of Monetary Penalty - Sabre Global Technologies Limited (SGTL)",
-        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-sabre-global-technologies-limited-sgtl",
-        "date": "2026-06-17T10:44:07Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence - INT/2026/9559192",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269559192",
-        "date": "2026-06-15T17:27:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General licence INT/2024/4761108",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20244761108",
-        "date": "2026-05-26T12:48:47Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Russia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
-        "date": "2026-05-19T23:01:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notice: Imposition of Monetary Penalty – Deutsche Bank AG London Branch (“DBLB”)",
-        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-deutsche-bank-ag-london-branch-dblb",
-        "date": "2026-05-19T09:52:37Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Sanctions compliance in the Art Market Participants and High Value Goods sector: Threat Assessment",
-        "link": "https://www.gov.uk/government/publications/sanctions-compliance-in-the-art-market-participants-and-high-value-goods-sector-threat-assessment",
-        "date": "2026-05-12T09:27:04Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Financial sanctions general guidance",
-        "link": "https://www.gov.uk/government/publications/financial-sanctions-general-guidance",
-        "date": "2026-05-12T09:26:45Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Financial sanctions guidance for high value dealers and art market participants",
-        "link": "https://www.gov.uk/government/publications/financial-sanctions-guidance-for-high-value-dealers-and-art-market-participants",
-        "date": "2026-05-12T09:26:35Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
-        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
-        "date": "2026-05-08T08:40:08Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
-        "date": "2026-05-01T10:20:09Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Libya sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
-        "date": "2026-05-01T10:20:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Somalia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
-        "date": "2026-05-01T10:20:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
-        "date": "2026-05-01T10:19:55Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Myanmar sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
-        "date": "2026-05-01T10:19:52Z",
+        "title": "Meta Superintelligence – Leadership Compute, Talent, and Data",
+        "link": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
+        "date": "Fri, 11 Jul 2025 20:12:19 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
     "chinatalk": [
+      {
+        "title": "China’s Mythos Moment",
+        "link": "https://www.chinatalk.media/p/chinas-mythos-moment",
+        "date": "Thu, 16 Jul 2026 11:02:08 GMT",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
       {
         "title": "The Monkey Supply Chain",
         "link": "https://www.chinatalk.media/p/the-monkey-supply-chain",
@@ -2139,6 +2181,12 @@
     ],
     "pekingnology": [
       {
+        "title": "Cai Fang's prescription for AI job disruption in China",
+        "link": "https://www.pekingnology.com/p/cai-fangs-prescription-for-ai-job",
+        "date": "Thu, 16 Jul 2026 12:07:41 GMT",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
         "title": "Sang Baichuan on Why Foreign Investment in China Is Falling",
         "link": "https://www.pekingnology.com/p/sang-baichuan-on-why-foreign-investment",
         "date": "Mon, 13 Jul 2026 15:51:01 GMT",
@@ -2265,7 +2313,201 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "gibsondunn": [
+      {
+        "title": "FLSA Litigation and Regulatory Update: Recent Developments and Areas to Watch",
+        "link": "https://www.gibsondunn.com/flsa-litigation-and-regulatory-update-recent-developments-and-areas-to-watch/",
+        "date": "Thu, 16 Jul 2026 18:56:37 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "UK Public M&A: The Month in a Minute (June 2026)",
+        "link": "https://www.gibsondunn.com/uk-public-ma-the-month-in-a-minute-june-2026/",
+        "date": "Thu, 16 Jul 2026 17:50:36 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Gibson Dunn Tops The Texas Lawbook’s 1H 2026 Deals List for Total Value of Texas-Led and Texas-Related Deals",
+        "link": "https://www.gibsondunn.com/gibson-dunn-tops-the-texas-lawbooks-1h-2026-deals-list-for-total-value-of-texas-led-and-texas-related-deals/",
+        "date": "Thu, 16 Jul 2026 16:53:26 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "2026 Unrivaled Honoree Collin Cox Discusses Background, Advice for Young Trial Lawyers With Bloomberg Law",
+        "link": "https://www.gibsondunn.com/2026-unrivaled-honoree-collin-cox-discusses-background-advice-for-young-trial-lawyers-with-bloomberg-law/",
+        "date": "Thu, 16 Jul 2026 16:50:24 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Gibson Dunn Secures Landmark Attorney-Immunity Victory for In-House Counsel in First-Ever Merits Mandamus to Texas Business Court",
+        "link": "https://www.gibsondunn.com/gibson-dunn-secures-landmark-attorney-immunity-victory-for-in-house-counsel-in-first-ever-merits-mandamus-to-texas-business-court/",
+        "date": "Wed, 15 Jul 2026 22:07:43 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Gibson Dunn Advises Underwriters on Fermi’s $431.25 Million Convertible Senior Notes Offering and Related Capped Call",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advises-underwriters-on-fermis-431-25-million-convertible-senior-notes-offering-and-related-capped-call/",
+        "date": "Wed, 15 Jul 2026 21:58:56 +0000",
+        "firstSeen": "2026-07-15T22:05:17.826Z"
+      },
+      {
+        "title": "Gibson Dunn Advised ERock on Initial Public Offering",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advised-erock-on-initial-public-offering/",
+        "date": "Wed, 15 Jul 2026 20:34:49 +0000",
+        "firstSeen": "2026-07-15T22:05:17.826Z"
+      },
+      {
+        "title": "Gibson Dunn Advises Veritas Capital on BGIS Acquisition",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advises-veritas-capital-on-bgis-acquisition/",
+        "date": "Wed, 15 Jul 2026 16:58:01 +0000",
+        "firstSeen": "2026-07-15T22:05:17.826Z"
+      },
+      {
+        "title": "Gibson Dunn Shortlisted for Innovative Lawyers in Restructuring Award at FT 2026 Innovative Lawyers Awards Europe",
+        "link": "https://www.gibsondunn.com/gibson-dunn-shortlisted-for-innovative-lawyers-in-restructuring-award-at-ft-2026-innovative-lawyers-awards-europe/",
+        "date": "Tue, 14 Jul 2026 22:12:35 +0000",
+        "firstSeen": "2026-07-15T22:05:17.826Z"
+      },
+      {
+        "title": "Gibson Dunn Pro Bono Practice Among Top in Law.com 2026 Pro Bono Report",
+        "link": "https://www.gibsondunn.com/gibson-dunn-pro-bono-practice-among-top-in-law-com-2026-pro-bono-report/",
+        "date": "Tue, 14 Jul 2026 20:49:50 +0000",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "Harrison Tucker Discusses SpaceX IPO With Law360",
+        "link": "https://www.gibsondunn.com/harrison-tucker-discusses-spacex-ipo-with-law360/",
+        "date": "Tue, 14 Jul 2026 17:01:35 +0000",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "Trey Cox Speaks to Importance of Credibility for Trial Lawyers With Bloomberg Law After 2026 Unrivaled Recognition",
+        "link": "https://www.gibsondunn.com/trey-cox-speaks-to-importance-of-credibility-for-trial-lawyers-with-bloomberg-law-after-2026-unrivaled-recognition/",
+        "date": "Tue, 14 Jul 2026 15:23:45 +0000",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "Gibson Dunn Adds Employee Benefits and Executive Compensation Practice in London with Partner Richard Surtees",
+        "link": "https://www.gibsondunn.com/gibson-dunn-adds-employee-benefits-and-executive-compensation-practice-in-london-with-partner-richard-surtees/",
+        "date": "Tue, 14 Jul 2026 11:30:00 +0000",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "Gibson Dunn Represented Accenture on $5 Billion Registered Debt Offering",
+        "link": "https://www.gibsondunn.com/gibson-dunn-represented-accenture-on-5-billion-registered-debt-offering/",
+        "date": "Mon, 13 Jul 2026 23:48:42 +0000",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "Gibson Dunn Advised Welltower on Inaugural $1.15 Billion Canadian Dollar-Denominated Notes Offering",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advised-welltower-on-inaugural-1-15-billion-canadian-dollar-denominated-notes-offering/",
+        "date": "Mon, 13 Jul 2026 20:04:09 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Three Gibson Dunn Partners Named to Inaugural Lawdragon 500 Leading Global Investigations Lawyers List",
+        "link": "https://www.gibsondunn.com/three-gibson-dunn-partners-named-to-inaugural-lawdragon-500-leading-global-investigations-lawyers-list/",
+        "date": "Mon, 13 Jul 2026 19:13:08 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Gibson Dunn Advised Long Lake Management Holdings on $1 Billion Senior Secured Notes Offering",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advised-long-lake-management-holdings-on-1-billion-senior-secured-notes-offering/",
+        "date": "Mon, 13 Jul 2026 19:09:56 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Gibson Dunn Represented Amazon.com on $25 Billion Notes Offering",
+        "link": "https://www.gibsondunn.com/gibson-dunn-represented-amazon-com-on-25-billion-notes-offering/",
+        "date": "Mon, 13 Jul 2026 18:43:39 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Oleh Vretsona and F. Joseph Warin Quoted in Anti-Corruption Report Articles",
+        "link": "https://www.gibsondunn.com/oleh-vretsona-and-f-joseph-warin-quoted-in-anti-corruption-report-articles/",
+        "date": "Mon, 13 Jul 2026 18:33:35 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Karin Portlock Named to The National Black Lawyers Top 100 for 2026",
+        "link": "https://www.gibsondunn.com/karin-portlock-named-to-the-national-black-lawyers-top-100-for-2026/",
+        "date": "Mon, 13 Jul 2026 16:49:10 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Vivek Mohan and Meredith Williams-Range Among Co-Authors of Law360 Pulse’s “Law Firm AI Rollouts Depend on Buy-In, Not Bigger Budgets”",
+        "link": "https://www.gibsondunn.com/vivek-mohan-and-meredith-williams-range-among-co-authors-of-law360-pulses-law-firm-ai-rollouts-depend-on-buy-in-not-bigger-budgets/",
+        "date": "Mon, 13 Jul 2026 14:44:46 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Three Transactions in One — Navigating Operational Real Estate Investments",
+        "link": "https://www.gibsondunn.com/three-transactions-in-one-navigating-operational-real-estate-investments/",
+        "date": "Mon, 13 Jul 2026 07:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "DFSA Proposes Welcome Reforms to the DIFC Funds Regime",
+        "link": "https://www.gibsondunn.com/dfsa-proposes-welcome-reforms-to-the-difc-funds-regime/",
+        "date": "Mon, 13 Jul 2026 04:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Derivatives, Legislative and Regulatory Weekly Update (July 10, 2026)",
+        "link": "https://www.gibsondunn.com/derivatives-legislative-and-regulatory-weekly-update-july-10-2026/",
+        "date": "Fri, 10 Jul 2026 23:50:01 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Collin Cox and Trey Cox Named to Bloomberg Law’s 2026 Unrivaled List",
+        "link": "https://www.gibsondunn.com/collin-cox-and-trey-cox-named-to-bloomberg-laws-2026-unrivaled-list/",
+        "date": "Fri, 10 Jul 2026 21:51:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Trey Cox Interviewed by Law360 on Use of AI in Litigation",
+        "link": "https://www.gibsondunn.com/trey-cox-interviewed-by-law360-on-use-of-ai-in-litigation/",
+        "date": "Fri, 10 Jul 2026 17:34:57 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Katherine V.A. Smith Discusses Career and Employment Law With Daily Journal",
+        "link": "https://www.gibsondunn.com/katherine-v-a-smith-discusses-career-and-employment-law-with-daily-journal/",
+        "date": "Fri, 10 Jul 2026 17:33:40 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Gibson Dunn Advised Lone Star on €1.85 Billion Sale of Xella to Holcim",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advised-lone-star-on-e1-85-billion-sale-of-xella-to-holcim/",
+        "date": "Fri, 10 Jul 2026 14:57:16 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Gibson Dunn | Europe | Data Protection – July 2026",
+        "link": "https://www.gibsondunn.com/gibson-dunn-europe-data-protection-july-2026/",
+        "date": "Thu, 09 Jul 2026 21:36:36 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Gibson Dunn Advised All3Media and RedBird IMI on Merger of Banijay Entertainment and All3Media",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advised-all3media-and-redbird-imi-on-merger-of-banijay-entertainment-and-all3media/",
+        "date": "Thu, 09 Jul 2026 21:28:51 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Gibson Dunn Advised Hamilton Lane on Organization of Hamilton Lane Equity Opportunities Fund VI",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advised-hamilton-lane-on-organization-of-hamilton-lane-equity-opportunities-fund-vi/",
+        "date": "Thu, 09 Jul 2026 18:36:46 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "wirechina": [
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/16/the-daily-roundup-july-16-2026/",
+        "date": "Thu, 16 Jul 2026 12:08:54 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
       {
         "title": "The Daily Roundup",
         "link": "https://www.thewirechina.com/2026/07/15/the-daily-roundup-july-15-2026/",
@@ -2585,6 +2827,68 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "ifi": [
+      {
+        "title": "Social Engineering Is Rewriting the Fraud Playbook",
+        "link": "https://finintegrity.org/social-engineering-is-rewriting-the-fraud-playbook/",
+        "date": "Wed, 08 Jul 2026 11:00:56 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Hadhramout Bank Selects IFI as Training Provider to Strengthen Financial Integrity and Cross-Border Payment Compliance",
+        "link": "https://finintegrity.org/hadhramout-bank-selects-ifi-as-training-provider-to-strengthen-financial-integrity-and-cross-border-payment-compliance/",
+        "date": "Tue, 07 Jul 2026 12:00:45 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "June 2026 Sanctions and Export Controls Report",
+        "link": "https://finintegrity.org/june-2026-sanctions-and-export-controls-report/",
+        "date": "Wed, 01 Jul 2026 11:00:39 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Crypto Layering",
+        "link": "https://finintegrity.org/crypto-layering/",
+        "date": "Wed, 17 Jun 2026 11:00:01 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Who Owns the Risk?",
+        "link": "https://finintegrity.org/who-owns-the-risk/",
+        "date": "Wed, 10 Jun 2026 11:00:16 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "May 2026 Sanctions and Export Controls Update",
+        "link": "https://finintegrity.org/may-2026-monthly-sanctions-and-export-controls-report/",
+        "date": "Wed, 03 Jun 2026 11:00:14 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 3",
+        "link": "https://finintegrity.org/fatf-part-3/",
+        "date": "Wed, 13 May 2026 11:00:08 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "IFI Expands Arabic Training Offering to Meet Growing Demand",
+        "link": "https://finintegrity.org/ifi-expands-arabic-training-offering-to-meet-growing-demand/",
+        "date": "Tue, 12 May 2026 12:00:16 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "April 2026 Monthly Sanctions and Export Controls Report",
+        "link": "https://finintegrity.org/april-2026-monthly-sanctions-and-export-controls-report/",
+        "date": "Tue, 05 May 2026 11:00:33 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 2",
+        "link": "https://finintegrity.org/fatf-part-2/",
+        "date": "Tue, 28 Apr 2026 11:00:03 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "aspi": [
       {
         "title": "Polar security: Strategic competition at the ends of the Earth",
@@ -2650,226 +2954,6 @@
         "title": "North of 26 south and the security of Australia: views from The Strategist Volume 13",
         "link": "https://www.aspi.org.au/report/north-of-26-south-and-the-security-of-australia-views-from-the-strategist-volume-13/",
         "date": "Wed, 03 Jun 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "gibsondunn": [
-      {
-        "title": "Gibson Dunn Advises Underwriters on Fermi’s $431.25 Million Convertible Senior Notes Offering and Related Capped Call",
-        "link": "https://www.gibsondunn.com/gibson-dunn-advises-underwriters-on-fermis-431-25-million-convertible-senior-notes-offering-and-related-capped-call/",
-        "date": "Wed, 15 Jul 2026 21:58:56 +0000",
-        "firstSeen": "2026-07-15T22:05:17.826Z"
-      },
-      {
-        "title": "Gibson Dunn Advised ERock on Initial Public Offering",
-        "link": "https://www.gibsondunn.com/gibson-dunn-advised-erock-on-initial-public-offering/",
-        "date": "Wed, 15 Jul 2026 20:34:49 +0000",
-        "firstSeen": "2026-07-15T22:05:17.826Z"
-      },
-      {
-        "title": "Gibson Dunn Advises Veritas Capital on BGIS Acquisition",
-        "link": "https://www.gibsondunn.com/gibson-dunn-advises-veritas-capital-on-bgis-acquisition/",
-        "date": "Wed, 15 Jul 2026 16:58:01 +0000",
-        "firstSeen": "2026-07-15T22:05:17.826Z"
-      },
-      {
-        "title": "Gibson Dunn Shortlisted for Innovative Lawyers in Restructuring Award at FT 2026 Innovative Lawyers Awards Europe",
-        "link": "https://www.gibsondunn.com/gibson-dunn-shortlisted-for-innovative-lawyers-in-restructuring-award-at-ft-2026-innovative-lawyers-awards-europe/",
-        "date": "Tue, 14 Jul 2026 22:12:35 +0000",
-        "firstSeen": "2026-07-15T22:05:17.826Z"
-      },
-      {
-        "title": "Gibson Dunn Pro Bono Practice Among Top in Law.com 2026 Pro Bono Report",
-        "link": "https://www.gibsondunn.com/gibson-dunn-pro-bono-practice-among-top-in-law-com-2026-pro-bono-report/",
-        "date": "Tue, 14 Jul 2026 20:49:50 +0000",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "Harrison Tucker Discusses SpaceX IPO With Law360",
-        "link": "https://www.gibsondunn.com/harrison-tucker-discusses-spacex-ipo-with-law360/",
-        "date": "Tue, 14 Jul 2026 17:01:35 +0000",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "Trey Cox Speaks to Importance of Credibility for Trial Lawyers With Bloomberg Law After 2026 Unrivaled Recognition",
-        "link": "https://www.gibsondunn.com/trey-cox-speaks-to-importance-of-credibility-for-trial-lawyers-with-bloomberg-law-after-2026-unrivaled-recognition/",
-        "date": "Tue, 14 Jul 2026 15:23:45 +0000",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "Gibson Dunn Adds Employee Benefits and Executive Compensation Practice in London with Partner Richard Surtees",
-        "link": "https://www.gibsondunn.com/gibson-dunn-adds-employee-benefits-and-executive-compensation-practice-in-london-with-partner-richard-surtees/",
-        "date": "Tue, 14 Jul 2026 11:30:00 +0000",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "Gibson Dunn Represented Accenture on $5 Billion Registered Debt Offering",
-        "link": "https://www.gibsondunn.com/gibson-dunn-represented-accenture-on-5-billion-registered-debt-offering/",
-        "date": "Mon, 13 Jul 2026 23:48:42 +0000",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "Gibson Dunn Advised Welltower on Inaugural $1.15 Billion Canadian Dollar-Denominated Notes Offering",
-        "link": "https://www.gibsondunn.com/gibson-dunn-advised-welltower-on-inaugural-1-15-billion-canadian-dollar-denominated-notes-offering/",
-        "date": "Mon, 13 Jul 2026 20:04:09 +0000",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Three Gibson Dunn Partners Named to Inaugural Lawdragon 500 Leading Global Investigations Lawyers List",
-        "link": "https://www.gibsondunn.com/three-gibson-dunn-partners-named-to-inaugural-lawdragon-500-leading-global-investigations-lawyers-list/",
-        "date": "Mon, 13 Jul 2026 19:13:08 +0000",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Gibson Dunn Advised Long Lake Management Holdings on $1 Billion Senior Secured Notes Offering",
-        "link": "https://www.gibsondunn.com/gibson-dunn-advised-long-lake-management-holdings-on-1-billion-senior-secured-notes-offering/",
-        "date": "Mon, 13 Jul 2026 19:09:56 +0000",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Gibson Dunn Represented Amazon.com on $25 Billion Notes Offering",
-        "link": "https://www.gibsondunn.com/gibson-dunn-represented-amazon-com-on-25-billion-notes-offering/",
-        "date": "Mon, 13 Jul 2026 18:43:39 +0000",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Oleh Vretsona and F. Joseph Warin Quoted in Anti-Corruption Report Articles",
-        "link": "https://www.gibsondunn.com/oleh-vretsona-and-f-joseph-warin-quoted-in-anti-corruption-report-articles/",
-        "date": "Mon, 13 Jul 2026 18:33:35 +0000",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Karin Portlock Named to The National Black Lawyers Top 100 for 2026",
-        "link": "https://www.gibsondunn.com/karin-portlock-named-to-the-national-black-lawyers-top-100-for-2026/",
-        "date": "Mon, 13 Jul 2026 16:49:10 +0000",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Vivek Mohan and Meredith Williams-Range Among Co-Authors of Law360 Pulse’s “Law Firm AI Rollouts Depend on Buy-In, Not Bigger Budgets”",
-        "link": "https://www.gibsondunn.com/vivek-mohan-and-meredith-williams-range-among-co-authors-of-law360-pulses-law-firm-ai-rollouts-depend-on-buy-in-not-bigger-budgets/",
-        "date": "Mon, 13 Jul 2026 14:44:46 +0000",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Three Transactions in One — Navigating Operational Real Estate Investments",
-        "link": "https://www.gibsondunn.com/three-transactions-in-one-navigating-operational-real-estate-investments/",
-        "date": "Mon, 13 Jul 2026 07:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "DFSA Proposes Welcome Reforms to the DIFC Funds Regime",
-        "link": "https://www.gibsondunn.com/dfsa-proposes-welcome-reforms-to-the-difc-funds-regime/",
-        "date": "Mon, 13 Jul 2026 04:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Derivatives, Legislative and Regulatory Weekly Update (July 10, 2026)",
-        "link": "https://www.gibsondunn.com/derivatives-legislative-and-regulatory-weekly-update-july-10-2026/",
-        "date": "Fri, 10 Jul 2026 23:50:01 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Collin Cox and Trey Cox Named to Bloomberg Law’s 2026 Unrivaled List",
-        "link": "https://www.gibsondunn.com/collin-cox-and-trey-cox-named-to-bloomberg-laws-2026-unrivaled-list/",
-        "date": "Fri, 10 Jul 2026 21:51:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Trey Cox Interviewed by Law360 on Use of AI in Litigation",
-        "link": "https://www.gibsondunn.com/trey-cox-interviewed-by-law360-on-use-of-ai-in-litigation/",
-        "date": "Fri, 10 Jul 2026 17:34:57 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Katherine V.A. Smith Discusses Career and Employment Law With Daily Journal",
-        "link": "https://www.gibsondunn.com/katherine-v-a-smith-discusses-career-and-employment-law-with-daily-journal/",
-        "date": "Fri, 10 Jul 2026 17:33:40 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Gibson Dunn Advised Lone Star on €1.85 Billion Sale of Xella to Holcim",
-        "link": "https://www.gibsondunn.com/gibson-dunn-advised-lone-star-on-e1-85-billion-sale-of-xella-to-holcim/",
-        "date": "Fri, 10 Jul 2026 14:57:16 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Gibson Dunn | Europe | Data Protection – July 2026",
-        "link": "https://www.gibsondunn.com/gibson-dunn-europe-data-protection-july-2026/",
-        "date": "Thu, 09 Jul 2026 21:36:36 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Gibson Dunn Advised All3Media and RedBird IMI on Merger of Banijay Entertainment and All3Media",
-        "link": "https://www.gibsondunn.com/gibson-dunn-advised-all3media-and-redbird-imi-on-merger-of-banijay-entertainment-and-all3media/",
-        "date": "Thu, 09 Jul 2026 21:28:51 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Gibson Dunn Advised Hamilton Lane on Organization of Hamilton Lane Equity Opportunities Fund VI",
-        "link": "https://www.gibsondunn.com/gibson-dunn-advised-hamilton-lane-on-organization-of-hamilton-lane-equity-opportunities-fund-vi/",
-        "date": "Thu, 09 Jul 2026 18:36:46 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "ifi": [
-      {
-        "title": "Social Engineering Is Rewriting the Fraud Playbook",
-        "link": "https://finintegrity.org/social-engineering-is-rewriting-the-fraud-playbook/",
-        "date": "Wed, 08 Jul 2026 11:00:56 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Hadhramout Bank Selects IFI as Training Provider to Strengthen Financial Integrity and Cross-Border Payment Compliance",
-        "link": "https://finintegrity.org/hadhramout-bank-selects-ifi-as-training-provider-to-strengthen-financial-integrity-and-cross-border-payment-compliance/",
-        "date": "Tue, 07 Jul 2026 12:00:45 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "June 2026 Sanctions and Export Controls Report",
-        "link": "https://finintegrity.org/june-2026-sanctions-and-export-controls-report/",
-        "date": "Wed, 01 Jul 2026 11:00:39 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Crypto Layering",
-        "link": "https://finintegrity.org/crypto-layering/",
-        "date": "Wed, 17 Jun 2026 11:00:01 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Who Owns the Risk?",
-        "link": "https://finintegrity.org/who-owns-the-risk/",
-        "date": "Wed, 10 Jun 2026 11:00:16 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "May 2026 Sanctions and Export Controls Update",
-        "link": "https://finintegrity.org/may-2026-monthly-sanctions-and-export-controls-report/",
-        "date": "Wed, 03 Jun 2026 11:00:14 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 3",
-        "link": "https://finintegrity.org/fatf-part-3/",
-        "date": "Wed, 13 May 2026 11:00:08 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "IFI Expands Arabic Training Offering to Meet Growing Demand",
-        "link": "https://finintegrity.org/ifi-expands-arabic-training-offering-to-meet-growing-demand/",
-        "date": "Tue, 12 May 2026 12:00:16 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "April 2026 Monthly Sanctions and Export Controls Report",
-        "link": "https://finintegrity.org/april-2026-monthly-sanctions-and-export-controls-report/",
-        "date": "Tue, 05 May 2026 11:00:33 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 2",
-        "link": "https://finintegrity.org/fatf-part-2/",
-        "date": "Tue, 28 Apr 2026 11:00:03 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -3528,69 +3612,13 @@
         "firstSeen": "2026-07-13T11:23:09.088Z"
       }
     ],
-    "chinapower": [
-      {
-        "title": "Analyzing Trade Chokepoints in the South China Sea",
-        "link": "https://scstradedashboard.csis.org/#new_tab",
-        "date": "Mon, 06 Jul 2026 14:28:41 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Troubled Straits: Analyzing Trade Chokepoints in the South China Sea",
-        "link": "https://www.csis.org/analysis/south-china-sea-trade-chokepoints#new_tab",
-        "date": "Mon, 06 Jul 2026 14:28:35 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How Deep Are China-Russia Military Ties?",
-        "link": "https://chinapower.csis.org/china-russia-military-cooperation-arms-sales-exercises/",
-        "date": "Thu, 04 Aug 2022 14:47:27 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Is it a Risk for America that China Holds So Much U.S. Debt?",
-        "link": "https://chinapower.csis.org/us-debt/",
-        "date": "Tue, 02 Feb 2016 19:09:35 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How Is the Iran War Impacting China’s Economy?",
-        "link": "https://chinapower.csis.org/china-economic-impacts-iran-war/",
-        "date": "Thu, 30 Apr 2026 21:07:38 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Making Sense of China’s Government Budget",
-        "link": "https://chinapower.csis.org/making-sense-of-chinas-government-budget/",
-        "date": "Wed, 15 Mar 2023 23:13:55 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "What Does China Really Spend on its Military?",
-        "link": "https://chinapower.csis.org/military-spending/",
-        "date": "Mon, 28 Dec 2015 19:35:34 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Purges Within China’s Military Are Even Deeper Than You Think",
-        "link": "https://chinapower.csis.org/china-pla-military-purges/",
-        "date": "Tue, 24 Feb 2026 14:27:14 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Is China Leading the Robotics Revolution?",
-        "link": "https://chinapower.csis.org/china-industrial-robots/",
-        "date": "Thu, 12 Feb 2026 13:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Tracking China’s Increased Military Activities in the Indo-Pacific in 2025",
-        "link": "https://chinapower.csis.org/china-increased-military-activities-indo-pacific-2025/",
-        "date": "Thu, 05 Feb 2026 20:17:57 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "gfw": [
+      {
+        "title": "Gaps in Monthly Registry Source Ingestion",
+        "link": "https://globalfishingwatch.org/platform-update/gaps-in-monthly-registry-source-ingestion/",
+        "date": "Mon, 13 Jul 2026 13:08:00 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
       {
         "title": "Panama Publishes Ultimate Beneficial Ownership Data for Its International Fishing Fleet",
         "link": "https://globalfishingwatch.org/success-story/panama-publishes-ultimate-beneficial-ownership-data-for-its-international-fishing-fleet/",
@@ -3986,6 +4014,69 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "chinapower": [
+      {
+        "title": "Analyzing Trade Chokepoints in the South China Sea",
+        "link": "https://scstradedashboard.csis.org/#new_tab",
+        "date": "Mon, 06 Jul 2026 14:28:41 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Troubled Straits: Analyzing Trade Chokepoints in the South China Sea",
+        "link": "https://www.csis.org/analysis/south-china-sea-trade-chokepoints#new_tab",
+        "date": "Mon, 06 Jul 2026 14:28:35 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How Deep Are China-Russia Military Ties?",
+        "link": "https://chinapower.csis.org/china-russia-military-cooperation-arms-sales-exercises/",
+        "date": "Thu, 04 Aug 2022 14:47:27 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Is it a Risk for America that China Holds So Much U.S. Debt?",
+        "link": "https://chinapower.csis.org/us-debt/",
+        "date": "Tue, 02 Feb 2016 19:09:35 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How Is the Iran War Impacting China’s Economy?",
+        "link": "https://chinapower.csis.org/china-economic-impacts-iran-war/",
+        "date": "Thu, 30 Apr 2026 21:07:38 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Making Sense of China’s Government Budget",
+        "link": "https://chinapower.csis.org/making-sense-of-chinas-government-budget/",
+        "date": "Wed, 15 Mar 2023 23:13:55 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "What Does China Really Spend on its Military?",
+        "link": "https://chinapower.csis.org/military-spending/",
+        "date": "Mon, 28 Dec 2015 19:35:34 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Purges Within China’s Military Are Even Deeper Than You Think",
+        "link": "https://chinapower.csis.org/china-pla-military-purges/",
+        "date": "Tue, 24 Feb 2026 14:27:14 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Is China Leading the Robotics Revolution?",
+        "link": "https://chinapower.csis.org/china-industrial-robots/",
+        "date": "Thu, 12 Feb 2026 13:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Tracking China’s Increased Military Activities in the Indo-Pacific in 2025",
+        "link": "https://chinapower.csis.org/china-increased-military-activities-indo-pacific-2025/",
+        "date": "Thu, 05 Feb 2026 20:17:57 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "kse": [],
     "pancanal": [
       {
         "title": "Canal de Panamá informa a coclesanos sobre el proyecto del Lago de Río Indio y otras iniciativas estratégicas",
@@ -4060,7 +4151,6 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "kse": [],
     "datalastic": [
       {
         "title": "Find Vessels In The Gulf Of Oman",
@@ -4120,104 +4210,6 @@
         "title": "Choosing a Reliable Maritime API: Datalastic Uptime Explained",
         "link": "https://datalastic.com/blog/choosing-a-reliable-maritime-api-datalastic-uptime-explained/",
         "date": "Mon, 02 Feb 2026 08:54:50 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "crea": [
-      {
-        "title": "China H1 2026 Air quality review: EV-related oil cuts emerge as a new driver for China’s clean air progress",
-        "link": "https://energyandcleanair.org/china-h1-2026-air-quality-review/",
-        "date": "Tue, 14 Jul 2026 08:41:30 +0000",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "India monthly ambient air quality snapshot: June 2026",
-        "link": "https://energyandcleanair.org/india-monthly-ambient-air-quality-snapshot-june-2026/",
-        "date": "Tue, 14 Jul 2026 01:11:27 +0000",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "June 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
-        "link": "https://energyandcleanair.org/june-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
-        "date": "Fri, 10 Jul 2026 09:45:29 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Energy systems around the world will feel the strain of a super El Niño, but none more than India’s",
-        "link": "https://energyandcleanair.org/energy-systems-around-the-world-will-feel-the-strain-of-asuper-el-nino-but-none-more-than-indias/",
-        "date": "Mon, 06 Jul 2026 06:30:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China’s new energy plan leaves emissions loose",
-        "link": "https://energyandcleanair.org/chinas-new-energy-plan-leaves-emissions-loose/",
-        "date": "Mon, 29 Jun 2026 10:30:11 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China Energy and Emissions Trends – May 2026 snapshot",
-        "link": "https://energyandcleanair.org/china-energy-and-emissions-trends-may-2026-snapshot/",
-        "date": "Thu, 18 Jun 2026 05:42:51 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Can China’s new steel capacity rules accelerate its green transition?",
-        "link": "https://energyandcleanair.org/can-chinas-new-steel-capacity-rules-accelerate-its-green-transition/",
-        "date": "Wed, 17 Jun 2026 03:51:10 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Indonesia’s currency crisis: Fossil fuel dependence and subsidies a key driver",
-        "link": "https://energyandcleanair.org/indonesia-currency-crisis-fossil-fuels/",
-        "date": "Mon, 15 Jun 2026 01:01:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "May 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
-        "link": "https://energyandcleanair.org/may-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
-        "date": "Thu, 11 Jun 2026 08:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "India monthly ambient air quality snapshot: May 2026",
-        "link": "https://energyandcleanair.org/india-monthly-ambient-air-quality-snapshot-may-2026/",
-        "date": "Wed, 10 Jun 2026 05:53:58 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China Air Quality Trends – May 2026 Snapshot",
-        "link": "https://energyandcleanair.org/china-air-quality-trends-may-2026-snapshot/",
-        "date": "Tue, 09 Jun 2026 04:43:41 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
-        "link": "https://energyandcleanair.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
-        "date": "Tue, 26 May 2026 02:13:58 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "What drove China’s historic drop in power-sector emissions?",
-        "link": "https://energyandcleanair.org/what-drove-chinas-historic-drop-in-power-sector-emissions/",
-        "date": "Thu, 21 May 2026 02:05:05 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China Energy and Emissions Trends – April 2026 snapshot",
-        "link": "https://energyandcleanair.org/china-energy-and-emissions-trends-april-2026-snapshot/",
-        "date": "Tue, 19 May 2026 11:30:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "April 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
-        "link": "https://energyandcleanair.org/april-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
-        "date": "Mon, 11 May 2026 09:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China Air Quality Trends – April 2026 Snapshot",
-        "link": "https://energyandcleanair.org/china-air-quality-trends-april-2026-snapshot/",
-        "date": "Fri, 08 May 2026 07:14:45 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -4527,6 +4519,104 @@
         "link": "https://dataspace.copernicus.eu/news/2026-5-8-potential-issues-ams-endpoint-07-may-2026-resolved",
         "date": "Fri, 08 May 2026 04:59:31 UTC",
         "firstSeen": "2026-07-13T10:49:13.098Z"
+      }
+    ],
+    "crea": [
+      {
+        "title": "China H1 2026 Air quality review: EV-related oil cuts emerge as a new driver for China’s clean air progress",
+        "link": "https://energyandcleanair.org/china-h1-2026-air-quality-review/",
+        "date": "Tue, 14 Jul 2026 08:41:30 +0000",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "India monthly ambient air quality snapshot: June 2026",
+        "link": "https://energyandcleanair.org/india-monthly-ambient-air-quality-snapshot-june-2026/",
+        "date": "Tue, 14 Jul 2026 01:11:27 +0000",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "June 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+        "link": "https://energyandcleanair.org/june-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+        "date": "Fri, 10 Jul 2026 09:45:29 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Energy systems around the world will feel the strain of a super El Niño, but none more than India’s",
+        "link": "https://energyandcleanair.org/energy-systems-around-the-world-will-feel-the-strain-of-asuper-el-nino-but-none-more-than-indias/",
+        "date": "Mon, 06 Jul 2026 06:30:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "China’s new energy plan leaves emissions loose",
+        "link": "https://energyandcleanair.org/chinas-new-energy-plan-leaves-emissions-loose/",
+        "date": "Mon, 29 Jun 2026 10:30:11 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "China Energy and Emissions Trends – May 2026 snapshot",
+        "link": "https://energyandcleanair.org/china-energy-and-emissions-trends-may-2026-snapshot/",
+        "date": "Thu, 18 Jun 2026 05:42:51 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Can China’s new steel capacity rules accelerate its green transition?",
+        "link": "https://energyandcleanair.org/can-chinas-new-steel-capacity-rules-accelerate-its-green-transition/",
+        "date": "Wed, 17 Jun 2026 03:51:10 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Indonesia’s currency crisis: Fossil fuel dependence and subsidies a key driver",
+        "link": "https://energyandcleanair.org/indonesia-currency-crisis-fossil-fuels/",
+        "date": "Mon, 15 Jun 2026 01:01:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "May 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+        "link": "https://energyandcleanair.org/may-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+        "date": "Thu, 11 Jun 2026 08:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "India monthly ambient air quality snapshot: May 2026",
+        "link": "https://energyandcleanair.org/india-monthly-ambient-air-quality-snapshot-may-2026/",
+        "date": "Wed, 10 Jun 2026 05:53:58 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "China Air Quality Trends – May 2026 Snapshot",
+        "link": "https://energyandcleanair.org/china-air-quality-trends-may-2026-snapshot/",
+        "date": "Tue, 09 Jun 2026 04:43:41 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
+        "link": "https://energyandcleanair.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
+        "date": "Tue, 26 May 2026 02:13:58 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "What drove China’s historic drop in power-sector emissions?",
+        "link": "https://energyandcleanair.org/what-drove-chinas-historic-drop-in-power-sector-emissions/",
+        "date": "Thu, 21 May 2026 02:05:05 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "China Energy and Emissions Trends – April 2026 snapshot",
+        "link": "https://energyandcleanair.org/china-energy-and-emissions-trends-april-2026-snapshot/",
+        "date": "Tue, 19 May 2026 11:30:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "April 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+        "link": "https://energyandcleanair.org/april-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+        "date": "Mon, 11 May 2026 09:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "China Air Quality Trends – April 2026 Snapshot",
+        "link": "https://energyandcleanair.org/china-air-quality-trends-april-2026-snapshot/",
+        "date": "Fri, 08 May 2026 07:14:45 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ]
   }

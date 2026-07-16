@@ -1,9 +1,9 @@
 {
   "id": "un-consolidated",
   "label": "UN Security Council Consolidated List",
-  "generated": "2026-07-15T22:05:17.826Z",
+  "generated": "2026-07-16T22:05:42.331Z",
   "resolvedUrl": "https://scsanctions.un.org/resources/xml/en/name/consolidated.xml",
-  "count": 1002,
+  "count": 1010,
   "entities": {
     "110326": {
       "name": "YAZD METALLURGY INDUSTRIES (YMI)",
@@ -4008,6 +4008,38 @@
     "6909560": {
       "name": "MATEO ANDRES DUQUE BOTERO",
       "list": "Sudan"
+    },
+    "6909613": {
+      "name": "CORNEILLE NANGAA YOBELUO",
+      "list": "DRC"
+    },
+    "6909614": {
+      "name": "SEBASTIEN UWIMBABAZI",
+      "list": "DRC"
+    },
+    "6909615": {
+      "name": "MUHAMMED LUMISA",
+      "list": "DRC"
+    },
+    "6909616": {
+      "name": "CHARLES SEMATAMA",
+      "list": "DRC"
+    },
+    "6909617": {
+      "name": "JOHN IMANI NZENZE",
+      "list": "DRC"
+    },
+    "6909618": {
+      "name": "GUSTAVE KUBWAYO",
+      "list": "DRC"
+    },
+    "6909619": {
+      "name": "ALLIANCE FLEUVE CONGO (AFC)",
+      "list": "DRC"
+    },
+    "6909620": {
+      "name": "TWIRWANEHO",
+      "list": "DRC"
     },
     "6909621": {
       "name": "HAMIDA NABAGGALA",

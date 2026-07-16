@@ -1,9 +1,9 @@
 {
   "id": "uksl",
   "label": "UK Sanctions List (UKSL, successor to the OFSI Consolidated List)",
-  "generated": "2026-07-15T22:05:17.826Z",
+  "generated": "2026-07-16T22:05:42.331Z",
   "resolvedUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
-  "count": 6296,
+  "count": 6307,
   "entities": {
     "AFG0001": {
       "name": "Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah",
@@ -23507,6 +23507,50 @@
     },
     "SUD0036": {
       "name": "Al-qoni Hamdan DAGALO",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0051": {
+      "name": "Abo Zer Abdelnabi Habiballa Ahmmed",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0052": {
+      "name": "Mazen Qamar Al Din Mohamed Fadlallah",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0053": {
+      "name": "Prodiqis Real Estate Administrative Supervision Service",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0054": {
+      "name": "Aoun Commercial Brokers",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0055": {
+      "name": "ARIAB MINING COMPANY LIMITED",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0056": {
+      "name": "Sitana Khalafalla Abdallah Ahmed",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0057": {
+      "name": "Ahmed Hamad El Basher HASHIM",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0058": {
+      "name": "NATWEST LOGISTICS LLC",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0059": {
+      "name": "Sudamine",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0060": {
+      "name": "Cloud Computing International Hong Kong Limited",
+      "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
+    },
+    "SUD0061": {
+      "name": "Umdurman Mining",
       "list": "The Sudan (Sanctions) (EU Exit) Regulations 2020"
     },
     "SYR0001": {
