@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-07-16T22:05:42.331Z",
+  "generated": "2026-07-17T22:02:36.375Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19217,
+  "count": 19169,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -27181,50 +27181,6 @@
       "name": "DE LIMA SALAS, David Eugenio",
       "list": "VENEZUELA"
     },
-    "29242": {
-      "name": "TANG, Chris",
-      "list": "HK-EO13936"
-    },
-    "29243": {
-      "name": "CHENG, Teresa",
-      "list": "HK-EO13936"
-    },
-    "29244": {
-      "name": "LO, Stephen",
-      "list": "HK-EO13936"
-    },
-    "29246": {
-      "name": "TSANG, Erick",
-      "list": "HK-EO13936"
-    },
-    "29249": {
-      "name": "LAM, Carrie",
-      "list": "HK-EO13936"
-    },
-    "29250": {
-      "name": "LEE, John Ka-chiu",
-      "list": "HK-EO13936"
-    },
-    "29259": {
-      "name": "ZHANG, Xiaoming",
-      "list": "HK-EO13936"
-    },
-    "29260": {
-      "name": "CHAN, Eric",
-      "list": "HK-EO13936"
-    },
-    "29261": {
-      "name": "ZHENG, Yanxiong",
-      "list": "HK-EO13936"
-    },
-    "29262": {
-      "name": "XIA, Baolong",
-      "list": "HK-EO13936"
-    },
-    "29263": {
-      "name": "LUO, Huining",
-      "list": "HK-EO13936"
-    },
     "29279": {
       "name": "AL-ASSAD, Hafez",
       "list": "PAARSSR-EO13894"
@@ -28245,25 +28201,9 @@
       "name": "HUANG, Chin-Hua",
       "list": "NPWMD] [IFSR"
     },
-    "30322": {
-      "name": "LAU, Edwina",
-      "list": "HK-EO13936"
-    },
     "30342": {
       "name": "SHERMAN, Harry Varney Gboto-Nambi",
       "list": "GLOMAG"
-    },
-    "30343": {
-      "name": "LI, Kwai-wah",
-      "list": "HK-EO13936"
-    },
-    "30344": {
-      "name": "DENG, Zhonghua",
-      "list": "HK-EO13936"
-    },
-    "30345": {
-      "name": "LI, Jiangzhou",
-      "list": "HK-EO13936"
     },
     "30346": {
       "name": "ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION",
@@ -28544,62 +28484,6 @@
     "30502": {
       "name": "CEIEC",
       "list": "VENEZUELA"
-    },
-    "30503": {
-      "name": "WANG, Chen",
-      "list": "HK-EO13936"
-    },
-    "30504": {
-      "name": "CAO, Jianming",
-      "list": "HK-EO13936"
-    },
-    "30505": {
-      "name": "ZHANG, Chunxian",
-      "list": "HK-EO13936"
-    },
-    "30506": {
-      "name": "SHEN, Yueyue",
-      "list": "HK-EO13936"
-    },
-    "30507": {
-      "name": "JI, Bingxuan",
-      "list": "HK-EO13936"
-    },
-    "30508": {
-      "name": "IMIRBAKI, Arken",
-      "list": "HK-EO13936"
-    },
-    "30509": {
-      "name": "WAN, Exiang",
-      "list": "HK-EO13936"
-    },
-    "30510": {
-      "name": "CHEN, Zhu",
-      "list": "HK-EO13936"
-    },
-    "30511": {
-      "name": "WANG, Dongming",
-      "list": "HK-EO13936"
-    },
-    "30512": {
-      "name": "CHOLING, Padma",
-      "list": "HK-EO13936"
-    },
-    "30513": {
-      "name": "DING, Zhongli",
-      "list": "HK-EO13936"
-    },
-    "30514": {
-      "name": "HAO, Mingjin",
-      "list": "HK-EO13936"
-    },
-    "30515": {
-      "name": "CAI, Dafeng",
-      "list": "HK-EO13936"
-    },
-    "30516": {
-      "name": "WU, Weihua",
-      "list": "HK-EO13936"
     },
     "30517": {
       "name": "ASTREIKA, Alyaksandr Vyachaslavavich",
@@ -29156,30 +29040,6 @@
     "30962": {
       "name": "AL-SAMAHI, Alaa Ali Ali Mohammed",
       "list": "SDGT"
-    },
-    "30964": {
-      "name": "CHOI, Frederic",
-      "list": "HK-EO13936"
-    },
-    "30965": {
-      "name": "KONG, Kelvin",
-      "list": "HK-EO13936"
-    },
-    "30966": {
-      "name": "KAN, Andrew",
-      "list": "HK-EO13936"
-    },
-    "30967": {
-      "name": "SUN, Wenqing",
-      "list": "HK-EO13936"
-    },
-    "30968": {
-      "name": "YOU, Quan",
-      "list": "HK-EO13936"
-    },
-    "30969": {
-      "name": "TAM, Yiu-chung",
-      "list": "HK-EO13936"
     },
     "30970": {
       "name": "KHIABANI, Mohammad Reza Modarres",
@@ -30372,34 +30232,6 @@
     "32455": {
       "name": "COMPRADORES Y EXPORTADORES DE CAFE CAPTZIN, SOCIEDAD ANONIMA",
       "list": "ILLICIT-DRUGS-EO14059"
-    },
-    "32471": {
-      "name": "CHEN, Dong",
-      "list": "HK-EO13936"
-    },
-    "32472": {
-      "name": "YANG, Jianping",
-      "list": "HK-EO13936"
-    },
-    "32473": {
-      "name": "QIU, Hong",
-      "list": "HK-EO13936"
-    },
-    "32474": {
-      "name": "LU, Xinning",
-      "list": "HK-EO13936"
-    },
-    "32475": {
-      "name": "TAN, Tieniu",
-      "list": "HK-EO13936"
-    },
-    "32476": {
-      "name": "HE, Jing",
-      "list": "HK-EO13936"
-    },
-    "32477": {
-      "name": "YIN, Zonghua",
-      "list": "HK-EO13936"
     },
     "32491": {
       "name": "SARAYA AL-AREEN",
@@ -68113,14 +67945,6 @@
       "name": "MOGHADAM, Reza Amiri",
       "list": "HOSTAGES-EO14078"
     },
-    "53814": {
-      "name": "LAM, Paul Ting Kwok",
-      "list": "HK-EO13936"
-    },
-    "53815": {
-      "name": "AU, Sonny Chi Kwong",
-      "list": "HK-EO13936"
-    },
     "53816": {
       "name": "KOREA SONGKWANG TRADING GENERAL CORPORATION",
       "list": "DPRK4"
@@ -68156,22 +67980,6 @@
     "53824": {
       "name": "ASATRYAN, Gayk",
       "list": "DPRK3"
-    },
-    "53825": {
-      "name": "DONG, Jingwei",
-      "list": "HK-EO13936"
-    },
-    "53826": {
-      "name": "WONG, Dick Chung Chun",
-      "list": "HK-EO13936"
-    },
-    "53827": {
-      "name": "SIU, Raymond Chak Yee",
-      "list": "HK-EO13936"
-    },
-    "53828": {
-      "name": "CHIU, Margaret Wing Lan",
-      "list": "HK-EO13936"
     },
     "53830": {
       "name": "RAH ROSHD INTERNATIONAL TRADE EXCHANGES DEVELOPMENT",

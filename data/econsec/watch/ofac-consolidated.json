@@ -1,9 +1,9 @@
 {
   "id": "ofac-consolidated",
   "label": "OFAC Non-SDN Consolidated List (incl. NS-CMIC)",
-  "generated": "2026-07-16T22:05:42.331Z",
+  "generated": "2026-07-17T22:02:36.375Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONSOLIDATED.XML",
-  "count": 442,
+  "count": 481,
   "entities": {
     "9639": {
       "name": "Ismail Abdul Salah HANIYA",
@@ -1469,6 +1469,118 @@
       "name": "TNK TRADING INTERNATIONAL S.A.",
       "list": "VENEZUELA-EO13850;UKRAINE-EO13662"
     },
+    "29242": {
+      "name": "Chris TANG",
+      "list": "HKAA"
+    },
+    "29243": {
+      "name": "Teresa CHENG",
+      "list": "HKAA"
+    },
+    "29246": {
+      "name": "Erick TSANG",
+      "list": "HKAA"
+    },
+    "29249": {
+      "name": "Carrie LAM",
+      "list": "HKAA"
+    },
+    "29250": {
+      "name": "John Ka-chiu LEE",
+      "list": "HKAA"
+    },
+    "29259": {
+      "name": "Xiaoming ZHANG",
+      "list": "HKAA"
+    },
+    "29260": {
+      "name": "Eric CHAN",
+      "list": "HKAA"
+    },
+    "29261": {
+      "name": "Yanxiong ZHENG",
+      "list": "HKAA"
+    },
+    "29262": {
+      "name": "Baolong XIA",
+      "list": "HKAA"
+    },
+    "29263": {
+      "name": "Huining LUO",
+      "list": "HKAA"
+    },
+    "30322": {
+      "name": "Edwina LAU",
+      "list": "HKAA"
+    },
+    "30343": {
+      "name": "Kwai-wah LI",
+      "list": "HKAA"
+    },
+    "30344": {
+      "name": "Zhonghua DENG",
+      "list": "HKAA"
+    },
+    "30345": {
+      "name": "Jiangzhou LI",
+      "list": "HKAA"
+    },
+    "30503": {
+      "name": "Chen WANG",
+      "list": "HKAA"
+    },
+    "30504": {
+      "name": "Jianming CAO",
+      "list": "HKAA"
+    },
+    "30505": {
+      "name": "Chunxian ZHANG",
+      "list": "HKAA"
+    },
+    "30506": {
+      "name": "Yueyue SHEN",
+      "list": "HKAA"
+    },
+    "30507": {
+      "name": "Bingxuan JI",
+      "list": "HKAA"
+    },
+    "30508": {
+      "name": "Arken IMIRBAKI",
+      "list": "HKAA"
+    },
+    "30509": {
+      "name": "Exiang WAN",
+      "list": "HKAA"
+    },
+    "30510": {
+      "name": "Zhu CHEN",
+      "list": "HKAA"
+    },
+    "30511": {
+      "name": "Dongming WANG",
+      "list": "HKAA"
+    },
+    "30512": {
+      "name": "Padma CHOLING",
+      "list": "HKAA"
+    },
+    "30513": {
+      "name": "Zhongli DING",
+      "list": "HKAA"
+    },
+    "30514": {
+      "name": "Mingjin HAO",
+      "list": "HKAA"
+    },
+    "30515": {
+      "name": "Dafeng CAI",
+      "list": "HKAA"
+    },
+    "30516": {
+      "name": "Weihua WU",
+      "list": "HKAA"
+    },
     "30882": {
       "name": "CHINA TELECOM CORPORATION LIMITED",
       "list": "CMIC-EO13959"
@@ -1584,6 +1696,30 @@
     "30959": {
       "name": "CHINA RAILWAY CONSTRUCTION CORPORATION LIMITED",
       "list": "CMIC-EO13959"
+    },
+    "30964": {
+      "name": "Frederic CHOI",
+      "list": "HKAA"
+    },
+    "30965": {
+      "name": "Kelvin KONG",
+      "list": "HKAA"
+    },
+    "30966": {
+      "name": "Andrew KAN",
+      "list": "HKAA"
+    },
+    "30967": {
+      "name": "Wenqing SUN",
+      "list": "HKAA"
+    },
+    "30968": {
+      "name": "Quan YOU",
+      "list": "HKAA"
+    },
+    "30969": {
+      "name": "Yiu-chung TAM",
+      "list": "HKAA"
     },
     "31693": {
       "name": "NATIONAL WEALTH FUND OF THE RUSSIAN FEDERATION",
@@ -1716,6 +1852,26 @@
     "32153": {
       "name": "ZHONGHANG ELECTRONIC MEASURING INSTRUMENTS COMPANY LIMITED",
       "list": "CMIC-EO13959"
+    },
+    "32471": {
+      "name": "Dong CHEN",
+      "list": "HKAA"
+    },
+    "32474": {
+      "name": "Xinning LU",
+      "list": "HKAA"
+    },
+    "32475": {
+      "name": "Tieniu TAN",
+      "list": "HKAA"
+    },
+    "32476": {
+      "name": "Jing HE",
+      "list": "HKAA"
+    },
+    "32477": {
+      "name": "Zonghua YIN",
+      "list": "HKAA"
     },
     "33091": {
       "name": "MEGVII TECHNOLOGY LIMITED",

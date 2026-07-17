@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-16T22:05:42.331Z"
+    "generated": "2026-07-17T22:02:36.375Z"
   },
   "alerts": [
     {
@@ -2134,6 +2134,1053 @@
       "entity": "Certain Mobile Access Equipment and Subassemblies Thereof From the People's Republic of China: Preliminary Results, Preliminary Determination of No Shipments, and Partial Rescission of Antidumping Duty Administrative Review; 2024-2025",
       "detail": "2026-07-16",
       "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14312/certain-mobile-access-equipment-and-subassemblies-thereof-from-the-peoples-republic-of-china"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "LO, Stephen",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "YANG, Jianping",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "QIU, Hong",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "LAM, Paul Ting Kwok",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "AU, Sonny Chi Kwong",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "DONG, Jingwei",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "WONG, Dick Chung Chun",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "SIU, Raymond Chak Yee",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "CHIU, Margaret Wing Lan",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TANG, Chris",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHENG, Teresa",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LO, Stephen",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TSANG, Erick",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LAM, Carrie",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LEE, John Ka-chiu",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ZHANG, Xiaoming",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHAN, Eric",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ZHENG, Yanxiong",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "XIA, Baolong",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LUO, Huining",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LAU, Edwina",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LI, Kwai-wah",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "DENG, Zhonghua",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LI, Jiangzhou",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WANG, Chen",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CAO, Jianming",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ZHANG, Chunxian",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "SHEN, Yueyue",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "JI, Bingxuan",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "IMIRBAKI, Arken",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WAN, Exiang",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHEN, Zhu",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WANG, Dongming",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHOLING, Padma",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "DING, Zhongli",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "HAO, Mingjin",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CAI, Dafeng",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WU, Weihua",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHOI, Frederic",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "KONG, Kelvin",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "KAN, Andrew",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "SUN, Wenqing",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "YOU, Quan",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TAM, Yiu-chung",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHEN, Dong",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "YANG, Jianping",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "QIU, Hong",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LU, Xinning",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TAN, Tieniu",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "HE, Jing",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "YIN, Zonghua",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LAM, Paul Ting Kwok",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "AU, Sonny Chi Kwong",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "DONG, Jingwei",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WONG, Dick Chung Chun",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "SIU, Raymond Chak Yee",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHIU, Margaret Wing Lan",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Chris TANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Teresa CHENG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Erick TSANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Carrie LAM",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "John Ka-chiu LEE",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Xiaoming ZHANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Eric CHAN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Yanxiong ZHENG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Baolong XIA",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Huining LUO",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Edwina LAU",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Kwai-wah LI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Zhonghua DENG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Jiangzhou LI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Chen WANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Jianming CAO",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Chunxian ZHANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Yueyue SHEN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Bingxuan JI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Arken IMIRBAKI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Exiang WAN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Zhu CHEN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Dongming WANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Padma CHOLING",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Zhongli DING",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Mingjin HAO",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Dafeng CAI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Weihua WU",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Frederic CHOI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Kelvin KONG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Andrew KAN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Wenqing SUN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Quan YOU",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Yiu-chung TAM",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Dong CHEN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Xinning LU",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Tieniu TAN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Jing HE",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Zonghua YIN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "AFC",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Twigwaneho",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Sebanyana",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Yobeluo Corneille",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Syrkoff",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Imani Nzene",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Mukake",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Sebastien Uwimbabazi",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "uksl",
+      "type": "remove",
+      "entity": "Baroque Investments Limited",
+      "detail": "The Libya (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "Last Updated 09/29/2019 → Last Updated 03/08/2024"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of OFAC Sanctions Action",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14477/notice-of-ofac-sanctions-action"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of OFAC Sanctions Action",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14458/notice-of-ofac-sanctions-action"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "30-Day Notice of Proposed Information Collection: Crisis Assistance Request Form",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14499/30-day-notice-of-proposed-information-collection-crisis-assistance-request-form"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Brancusi: The Artist and His Studio” Exhibition",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14445/notice-of-determinations-culturally-significant-objects-being-imported-for-exhibition-determinations"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Modifying the Bears Ears National Monument",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14548/modifying-the-bears-ears-national-monument"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Margin Requirements for Uncleared Swaps for Swap Dealers and Major Swap Participants",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14509/margin-requirements-for-uncleared-swaps-for-swap-dealers-and-major-swap-participants"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Privacy Act of 1974; System of Records",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14508/privacy-act-of-1974-system-of-records"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Kennedy Lewis Capital Company, et al.",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14505/kennedy-lewis-capital-company-et-al"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Safety Zones; Annual Events in the Captain of the Port Eastern Great Lakes Zone",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14501/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Special Local Regulation; Cayuga Lake, Ithaca, NY",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14500/special-local-regulation-cayuga-lake-ithaca-ny"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14497/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14495/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Information Collections Being Submitted for Review and Approval to Office of Management and Budget",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14494/information-collections-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Endangered and Threatened Wildlife and Plants; Reclassification of the Razorback Sucker From Endangered to Threatened With a Section 4(d) Rule",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14492/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-razorback-sucker-from"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Guardian Pipeline, LLC; Notice of Application and Establishing Intervention Deadline",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14488/guardian-pipeline-llc-notice-of-application-and-establishing-intervention-deadline"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14481/airworthiness-directives-bell-textron-canada-limited-helicopters"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Airworthiness Directives; General Electric Company Engines",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14478/airworthiness-directives-general-electric-company-engines"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Establishment of Class E Airspace; Peoria, IL",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14471/establishment-of-class-e-airspace-peoria-il"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Hydrofluorocarbon Blends From the People's Republic of China: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14470/hydrofluorocarbon-blends-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "New Postal Products",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14467/new-postal-products"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Implementing Voluntary Agreements Under the Defense Production Act",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14461/implementing-voluntary-agreements-under-the-defense-production-act"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Endangered and Threatened Wildlife and Plants; Grizzly Bear Listing on the List of Endangered and Threatened Wildlife With a Revised Section 4(d) Rule; Proposed Revision of the Protective Regulations Under Section 4(d)",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14450/endangered-and-threatened-wildlife-and-plants-grizzly-bear-listing-on-the-list-of-endangered-and"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14447/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14446/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures"
+    },
+    {
+      "date": "2026-07-17T22:02:36.375Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
     }
   ]
 }

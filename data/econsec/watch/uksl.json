@@ -1,9 +1,9 @@
 {
   "id": "uksl",
   "label": "UK Sanctions List (UKSL, successor to the OFSI Consolidated List)",
-  "generated": "2026-07-16T22:05:42.331Z",
+  "generated": "2026-07-17T22:02:36.375Z",
   "resolvedUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
-  "count": 6307,
+  "count": 6314,
   "entities": {
     "AFG0001": {
       "name": "Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah",
@@ -4913,6 +4913,38 @@
       "name": "Alen Goz",
       "list": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019"
     },
+    "DRC0076": {
+      "name": "AFC",
+      "list": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "DRC0077": {
+      "name": "Twigwaneho",
+      "list": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "DRC0078": {
+      "name": "Sebanyana",
+      "list": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "DRC0079": {
+      "name": "Yobeluo Corneille",
+      "list": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "DRC0080": {
+      "name": "Syrkoff",
+      "list": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "DRC0081": {
+      "name": "Imani Nzene",
+      "list": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "DRC0082": {
+      "name": "Mukake",
+      "list": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019"
+    },
+    "DRC0083": {
+      "name": "Sebastien Uwimbabazi",
+      "list": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019"
+    },
     "GAC0001": {
       "name": "Artyom Konstantinovich KUZNETSOV",
       "list": "The Global Anti-Corruption Sanctions Regulations 2021"
@@ -8859,10 +8891,6 @@
     },
     "LIB0014": {
       "name": "Capitana Seas Limited",
-      "list": "The Libya (Sanctions) (EU Exit) Regulations 2020"
-    },
-    "LIB0015": {
-      "name": "Baroque Investments Limited",
       "list": "The Libya (Sanctions) (EU Exit) Regulations 2020"
     },
     "LIB0016": {
