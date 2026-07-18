@@ -1,7 +1,9 @@
 // Pure rendering/filtering logic for the econsec source directory.
 // Kept DOM-free so it can be unit-tested in node.
 import type {
+  EconsecAlert,
   EconsecAlertsResponse,
+  EconsecAlertType,
   EconsecFeedHistoryItem,
   EconsecFeedItem,
   EconsecFilterState,
@@ -241,12 +243,119 @@ const ALERT_TYPE_BADGES: Record<string, string> = {
   'fr-new': '<span class="badge alert-badge-fr">官報</span>',
 };
 
+// yyyy-mm-dd in JST - same +9h shift as formatJst, so "same day" grouping
+// always matches the calendar date a human reading the JST-labeled
+// timestamps in the panel would expect (an alert at 23:58 UTC and one at
+// 00:02 UTC the next day can be the same JST day, or vice versa).
+function jstDateKey(iso: string): string {
+  const jst = new Date(new Date(iso).getTime() + 9 * 60 * 60 * 1000);
+  const pad = (n: number) => String(n).padStart(2, '0');
+  return `${jst.getUTCFullYear()}-${pad(jst.getUTCMonth() + 1)}-${pad(jst.getUTCDate())}`;
+}
+
+const ALERT_GROUP_MIN_SIZE = 4;
+
+export interface EconsecAlertGroup {
+  source: string;
+  type: EconsecAlertType;
+  alerts: EconsecAlert[];
+}
+
+export type EconsecAlertDisplayItem =
+  | { kind: 'single'; alert: EconsecAlert }
+  | { kind: 'group'; group: EconsecAlertGroup };
+
+// Collapses runs of ALERT_GROUP_MIN_SIZE+ consecutive alerts (consecutive in
+// the already newest-first sorted list, not a global group-by) sharing the
+// same JST calendar day, source, and type into one aggregate item - e.g. a
+// 30-entity OFAC SDN add batch from one run becomes one summary row instead
+// of 30. Runs of ALERT_GROUP_MIN_SIZE-1 or fewer stay as individual items,
+// and grouping only ever merges alerts that were already adjacent in the
+// time-sorted display, so it never reorders anything.
+export function groupAlertsForDisplay(alerts: EconsecAlert[]): EconsecAlertDisplayItem[] {
+  const items: EconsecAlertDisplayItem[] = [];
+  let i = 0;
+  while (i < alerts.length) {
+    const first = alerts[i];
+    if (!first) break;
+    const day = jstDateKey(first.date);
+    let j = i + 1;
+    for (; j < alerts.length; j++) {
+      const next = alerts[j];
+      if (!next || jstDateKey(next.date) !== day || next.source !== first.source || next.type !== first.type) break;
+    }
+    const run = alerts.slice(i, j);
+    if (run.length >= ALERT_GROUP_MIN_SIZE) {
+      items.push({ kind: 'group', group: { source: first.source, type: first.type, alerts: run } });
+    } else {
+      for (const alert of run) items.push({ kind: 'single', alert });
+    }
+    i = j;
+  }
+  return items;
+}
+
+// Single alert row - shared by the top-level list and by a group's expanded
+// members, so the expanded format is guaranteed identical to the
+// non-grouped case (same link/detail-truncation/toggle markup either way).
+function renderAlertRow(a: EconsecAlert, key: string): string {
+  const label = ALERT_SOURCE_LABELS[a.source] || a.source;
+  const badge = ALERT_TYPE_BADGES[a.type] || '';
+  const entity =
+    a.url && isSafeHttpUrl(a.url)
+      ? `<a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.entity)}</a>`
+      : escapeHtml(a.entity);
+  const isLong = a.detail.length > ALERT_DETAIL_TRUNCATE_CHARS;
+  const detail = isLong
+    ? `<span class="econsec-alert-detail-text" data-detail-view="short">${escapeHtml(
+        `${a.detail.slice(0, ALERT_DETAIL_TRUNCATE_CHARS).replace(/\n/g, ' ')}…`,
+      )}</span><span class="econsec-alert-detail-text" data-detail-view="full" hidden>${renderMultilineText(
+        a.detail,
+      )}</span><button type="button" class="econsec-alert-detail-toggle" data-detail-toggle="${key}" aria-expanded="false">詳細</button>`
+    : renderMultilineText(a.detail);
+  return `
+      <div class="econsec-alert-row">
+        <span class="econsec-alert-source">${escapeHtml(label)}</span>
+        ${badge}
+        <span class="econsec-alert-entity">${entity}</span>
+        <span class="econsec-alert-detail">${detail}</span>
+        <span class="econsec-alert-date">${escapeHtml(formatJst(a.date))}</span>
+      </div>`;
+}
+
+// Aggregate summary row for a 4+ run: source label (linked to the group's
+// representative page, the first member that has one - same source+type
+// alerts resolve to the same source-level url in practice) + type badge +
+// count. Clicking it expands/collapses the member rows underneath, each
+// rendered by the same renderAlertRow used for non-grouped alerts.
+function renderAlertGroupRow(group: EconsecAlertGroup, keyPrefix: string): string {
+  const label = ALERT_SOURCE_LABELS[group.source] || group.source;
+  const badge = ALERT_TYPE_BADGES[group.type] || '';
+  const representativeUrl = group.alerts.find((a) => a.url && isSafeHttpUrl(a.url))?.url;
+  const sourceLabel = representativeUrl
+    ? `<a href="${escapeHtml(representativeUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(label)}</a>`
+    : escapeHtml(label);
+  const members = group.alerts.map((a, i) => renderAlertRow(a, `${keyPrefix}-${i}`)).join('');
+
+  return `
+      <div class="econsec-alert-group">
+        <div class="econsec-alert-row econsec-alert-group-summary" role="button" tabindex="0" aria-expanded="false">
+          <span class="econsec-alert-source">${sourceLabel}</span>
+          ${badge}
+          <span class="econsec-alert-group-count">${group.alerts.length}件</span>
+        </div>
+        <div class="econsec-alert-group-members" hidden>${members}</div>
+      </div>`;
+}
+
 // Renders the regulatory-list/regulatory-page diff log watched by
 // scripts/econsec-watch.mjs: last 30 days, newest first, empty state shows
 // the last successful run time so a quiet week reads as "checked", not
 // "broken". Any alert carrying a url (fr-new's own document link, or a
 // sources.json-resolved link for add/remove/page-change) renders its entity
-// text as a link; alerts with no resolvable url stay plain text.
+// text as a link; alerts with no resolvable url stay plain text. Runs of 4+
+// same-day/source/type alerts collapse into one expandable group row (see
+// groupAlertsForDisplay) so a bulk list refresh doesn't flood the panel.
 export function renderAlertsPanel(data: EconsecAlertsResponse): string {
   const cutoff = Date.now() - ALERT_WINDOW_DAYS * 24 * 60 * 60 * 1000;
   const recent = data.alerts
@@ -263,31 +372,10 @@ export function renderAlertsPanel(data: EconsecAlertsResponse): string {
     return `${header}<div class="econsec-alerts-empty">差分なし</div>`;
   }
 
-  const rows = recent
-    .map((a, i) => {
-      const label = ALERT_SOURCE_LABELS[a.source] || a.source;
-      const badge = ALERT_TYPE_BADGES[a.type] || '';
-      const entity =
-        a.url && isSafeHttpUrl(a.url)
-          ? `<a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.entity)}</a>`
-          : escapeHtml(a.entity);
-      const isLong = a.detail.length > ALERT_DETAIL_TRUNCATE_CHARS;
-      const detail = isLong
-        ? `<span class="econsec-alert-detail-text" data-detail-view="short">${escapeHtml(
-            `${a.detail.slice(0, ALERT_DETAIL_TRUNCATE_CHARS).replace(/\n/g, ' ')}…`,
-          )}</span><span class="econsec-alert-detail-text" data-detail-view="full" hidden>${renderMultilineText(
-            a.detail,
-          )}</span><button type="button" class="econsec-alert-detail-toggle" data-detail-toggle="${i}" aria-expanded="false">詳細</button>`
-        : renderMultilineText(a.detail);
-      return `
-      <div class="econsec-alert-row">
-        <span class="econsec-alert-source">${escapeHtml(label)}</span>
-        ${badge}
-        <span class="econsec-alert-entity">${entity}</span>
-        <span class="econsec-alert-detail">${detail}</span>
-        <span class="econsec-alert-date">${escapeHtml(formatJst(a.date))}</span>
-      </div>`;
-    })
+  const rows = groupAlertsForDisplay(recent)
+    .map((item, i) =>
+      item.kind === 'group' ? renderAlertGroupRow(item.group, `g${i}`) : renderAlertRow(item.alert, `s${i}`),
+    )
     .join('');
 
   return `${header}<div class="econsec-alerts-list">${rows}</div>`;

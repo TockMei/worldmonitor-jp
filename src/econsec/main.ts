@@ -175,6 +175,39 @@ function bindAlertDetailToggle(panel: HTMLElement): void {
   });
 }
 
+function toggleAlertGroup(summary: HTMLElement): void {
+  const group = summary.closest<HTMLElement>('.econsec-alert-group');
+  const members = group?.querySelector<HTMLElement>('.econsec-alert-group-members');
+  if (!members) return;
+
+  const expanded = !members.hidden;
+  members.hidden = expanded;
+  summary.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+}
+
+// Expands/collapses an aggregated alert group's member rows. Delegated on
+// the panel container for the same reason as bindAlertDetailToggle above.
+// The whole summary row is the click target (not a dedicated button), per
+// spec; a click landing on the source link inside it still toggles the
+// group in addition to opening the link in a new tab, which is harmless.
+// The summary is a div with role="button"/tabindex="0" (it contains a
+// nested <a>, which HTML doesn't allow inside a real <button>), so Enter/
+// Space are wired explicitly - a native button gets this for free, a div
+// does not.
+function bindAlertGroupToggle(panel: HTMLElement): void {
+  panel.addEventListener('click', (e) => {
+    const summary = (e.target as HTMLElement).closest<HTMLElement>('.econsec-alert-group-summary');
+    if (summary) toggleAlertGroup(summary);
+  });
+  panel.addEventListener('keydown', (e) => {
+    if (e.key !== 'Enter' && e.key !== ' ') return;
+    const summary = (e.target as HTMLElement).closest<HTMLElement>('.econsec-alert-group-summary');
+    if (!summary) return;
+    e.preventDefault();
+    toggleAlertGroup(summary);
+  });
+}
+
 function bindEvents(): void {
   $('econsec-tabs').addEventListener('click', (e) => {
     const btn = (e.target as HTMLElement).closest<HTMLElement>('.tier-tab');
@@ -186,6 +219,7 @@ function bindEvents(): void {
 
   bindHistoryToggle($('econsec-list'));
   bindAlertDetailToggle($('econsec-alerts-panel'));
+  bindAlertGroupToggle($('econsec-alerts-panel'));
 
   const bindSelect = (id: string, key: 'category' | 'cost') => {
     $(id).addEventListener('change', (e) => {

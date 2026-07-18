@@ -320,6 +320,28 @@ body {
   border-bottom-color: var(--accent);
 }
 
+.econsec-alert-group-summary {
+  cursor: pointer;
+}
+
+.econsec-alert-group-summary:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.econsec-alert-group-count {
+  color: var(--text);
+  font-size: 11px;
+}
+
+.econsec-alert-group-members {
+  border-left: 2px solid var(--border);
+  margin-left: 10px;
+}
+
+.econsec-alert-group-members .econsec-alert-row {
+  padding-left: 8px;
+}
+
 .econsec-alert-detail-toggle {
   margin-left: 4px;
   background: none;

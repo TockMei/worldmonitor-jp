@@ -269,11 +269,24 @@ export class EconsecLivePanel {
       this.syncMute();
       return;
     }
-    if (!this.player) void this.createPlayer(channel);
+    // this.player can exist but not be ready yet (onReady hasn't fired) -
+    // e.g. a tab click landing during the first channel's startup load.
+    // Neither branch above used to run in that case: the tab highlight in
+    // renderSwitcher() above still switched, but the video kept playing
+    // whatever the in-flight player was loading, producing a tab/player
+    // mismatch. Tear down the not-yet-ready player and start fresh for the
+    // newly requested channel instead of silently dropping the request.
+    this.destroyPlayer();
+    void this.createPlayer(channel);
   }
 
   private async createPlayer(channel: AdoptedChannel): Promise<void> {
     const yt = await loadYouTubeApi();
+    // A later tab click may have changed this.active while this call was
+    // awaiting the (usually already-cached, but not guaranteed instant)
+    // IFrame API load - without this guard, this stale continuation would
+    // overwrite the newer selection's player once it resolves.
+    if (this.active?.id !== channel.id) return;
     this.content.innerHTML = '';
     const container = document.createElement('div');
     container.className = 'live-news-player';
