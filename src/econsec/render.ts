@@ -36,21 +36,25 @@ const STATUS_LABELS: Record<string, string> = {
   skip: 'SKIP',
 };
 
+// Japanese-first labels for the alert panel's source column. Sources with
+// an established Japanese short name use it; the rest follow the "country
+// abbreviation + original name" convention (e.g. "EU FSF") rather than a
+// forced translation.
 const ALERT_SOURCE_LABELS: Record<string, string> = {
-  csl: 'Trade.gov CSL',
-  'ofac-sdn': 'OFAC SDN',
-  'ofac-consolidated': 'OFAC Non-SDN(NS-CMIC含む)',
+  csl: '米CSL統合スクリーニング',
+  'ofac-sdn': '米OFAC SDN',
+  'ofac-consolidated': '米OFAC Non-SDN(NS-CMIC含む)',
   uksl: '英UKSL',
   'un-consolidated': '国連統合リスト',
   'meti-foreign-user-list': 'METI外国ユーザーリスト',
   'mof-sanctions': '財務省制裁リスト',
-  'dhs-uflpa': 'DHS UFLPAリスト',
+  'dhs-uflpa': '米UFLPA EL',
   'eu-fsf': 'EU FSF',
-  'fcc-covered-list': 'FCC Covered List',
+  'fcc-covered-list': '米FCC対象機器リスト',
   'mofcom-unreliable-entity-list': '中国商務部 不可靠実体清単',
   'mofcom-export-control': '中国商務部 輸出管制公告',
-  'acquisition-section-889': 'acquisition.gov Sec.889',
-  'federal-register': 'Federal Register新着',
+  'acquisition-section-889': '米国防権限法889',
+  'federal-register': '米官報FR',
 };
 
 const ALERT_WINDOW_DAYS = 30;
@@ -277,9 +281,9 @@ export function renderAlertsPanel(data: EconsecAlertsResponse): string {
         : renderMultilineText(a.detail);
       return `
       <div class="econsec-alert-row">
+        <span class="econsec-alert-source">${escapeHtml(label)}</span>
         ${badge}
         <span class="econsec-alert-entity">${entity}</span>
-        <span class="econsec-alert-source">${escapeHtml(label)}</span>
         <span class="econsec-alert-detail">${detail}</span>
         <span class="econsec-alert-date">${escapeHtml(formatJst(a.date))}</span>
       </div>`;
