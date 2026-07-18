@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-13T11:25:50.408Z"
+    "generated": "2026-07-18T12:49:22.971Z"
   },
   "alerts": [
     {
@@ -240,6 +240,2557 @@
       "type": "page-change",
       "entity": "acquisition.gov Section 889",
       "detail": "{\"path\":{\"baseUrl\":\"\\/\",\"pathPrefix\":\"\",\"currentPath\":\"node\\/20330\",\"currentPathIsAdmin\":false,\"isFront\":false,\"currentLanguage\":\"en\",\"themeUrl\":\"themes\\/custom\\/acquisition_gov\"},\"pluralDelimiter\":\"\\ → (なし)"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "FIRST VPN SERVICE",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "RASHEVSKYI, Dmytro",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ASSOCIATION OF COMBATANTS OF THE CUBAN REVOLUTION",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ENETEC S.A.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ORGANIZACION SUPERIOR DE DIRECCION EMPRESARIAL CAUDAL S.A.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "GRUPO EMPRESARIAL DE TRANSPORTE MARITIMO PORTUARIO",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "MILICIAS DE TROPAS TERRITORIALES",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "CORPORACION ANTILLANA EXPORTADORA SA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "COREYDAN S.A.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "RAPID RESPONSE BRIGADES",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "MINISTRY OF TOURISM OF CUBA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SILAYEV, Yevgeniy Vladimirovich",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "AVA TARABAR DARYA COMPANY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "RAHBAR MADANI, Mohammad Reza",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SEPEHR NOOR MOBIN COMPANY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SEPEHR PAYAM",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ERIKA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ARKANOOR 2",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ARKANOOR 3",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SEA CRUISER",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SEA CASTLE",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SEA ANCHOR",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SEA LEAD SHIPPING PTE. LTD.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "KANGRI 1 INC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "CICCIO",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SHENTON WAY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "TANJONG PAGAR 1",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "VIRENT",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "PLATINUM KNIGHTS LTD",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "HOPE 1 SHIPPING INC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "NUVETRRO SHIPPING INC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "VELTRRIVO SHIPPING INC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "OCEAN SEARUM ONE LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "HANSA SHIPPING INC.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "HOPE 1",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "JADE",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "OPAL",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ELPINIKI",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DARIKA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "GEORGE, Jijin",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "TSERNOSJOV, Maksim",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "VISHAVDEEP, Gautam",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DEHKORDI, Asghar Aghili",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "AVRATEK OOO",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "MOGHADAS, Behzad",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ZAHED, Hossein Ghorbani",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "NIKA JET COMPANY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "GOLDEN NEST GROUP LTD",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "BSG MANAGEMENT LTD",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SEA LEAD SHIPPING AGENCY INDIA PRIVATE LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SEA LEAD SHIPPING MARSHALL ISLANDS LTD",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SEA LEAD SHIPPING DMCC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "WE FREIGHT SHIPPING LLC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "VOLTA SHIPPING SERVICES LLC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ETTAIB, Dounia",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "NAMAZI, Behrouz",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SELINA, Mariya Vladimirovna",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DRUZHBIN, Vadim Anatolyevich",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "VANGUARD TACTICAL SUPPLY LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "LUBECK SHIPPING LLC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "RAKHBARMADANI, Ali",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DEZERA SHIPPING FZCO",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "AL KINA COMMERCIAL BROKER LLC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "AARE LINES INC.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "GLAVOS SHIPPING FZCO",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SAI WAN SHIPPING LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "GEMMA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "RONCO, Alessandra",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "NADIA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "EVORIT STRATEGY CONSULTING LLC-FZ",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "SEA GALLEON",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "PAYA LEBAR",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "KAALUND, Martin Austin",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "LO, Stephen",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "YANG, Jianping",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "QIU, Hong",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "LAM, Paul Ting Kwok",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "AU, Sonny Chi Kwong",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "DONG, Jingwei",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "WONG, Dick Chung Chun",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "SIU, Raymond Chak Yee",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "CHIU, Margaret Wing Lan",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "FIRST VPN SERVICE",
+      "detail": "CYBER4",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "RASHEVSKYI, Dmytro",
+      "detail": "CYBER4",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ASSOCIATION OF COMBATANTS OF THE CUBAN REVOLUTION",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ENETEC S.A.",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ORGANIZACION SUPERIOR DE DIRECCION EMPRESARIAL CAUDAL S.A.",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "GRUPO EMPRESARIAL DE TRANSPORTE MARITIMO PORTUARIO",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "MILICIAS DE TROPAS TERRITORIALES",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "CORPORACION ANTILLANA EXPORTADORA SA",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "COREYDAN S.A.",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "RAPID RESPONSE BRIGADES",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "MINISTRY OF TOURISM OF CUBA",
+      "detail": "CUBA-EO14404",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SILAYEV, Yevgeniy Vladimirovich",
+      "detail": "CYBER4",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "AVA TARABAR DARYA COMPANY",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "RAHBAR MADANI, Mohammad Reza",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SEPEHR NOOR MOBIN COMPANY",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SEPEHR PAYAM",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ERIKA",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ARKANOOR 2",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ARKANOOR 3",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SEA CRUISER",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SEA CASTLE",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SEA ANCHOR",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SEA LEAD SHIPPING PTE. LTD.",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "KANGRI 1 INC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "CICCIO",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SHENTON WAY",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "TANJONG PAGAR 1",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "VIRENT",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "PLATINUM KNIGHTS LTD",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "HOPE 1 SHIPPING INC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "NUVETRRO SHIPPING INC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "VELTRRIVO SHIPPING INC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "OCEAN SEARUM ONE LIMITED",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "HANSA SHIPPING INC.",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "HOPE 1",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "JADE",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "OPAL",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ELPINIKI",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DARIKA",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "GEORGE, Jijin",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "TSERNOSJOV, Maksim",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "VISHAVDEEP, Gautam",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DEHKORDI, Asghar Aghili",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "AVRATEK OOO",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "MOGHADAS, Behzad",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ZAHED, Hossein Ghorbani",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "NIKA JET COMPANY",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "GOLDEN NEST GROUP LTD",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "BSG MANAGEMENT LTD",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SEA LEAD SHIPPING AGENCY INDIA PRIVATE LIMITED",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SEA LEAD SHIPPING MARSHALL ISLANDS LTD",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SEA LEAD SHIPPING DMCC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "WE FREIGHT SHIPPING LLC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "VOLTA SHIPPING SERVICES LLC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ETTAIB, Dounia",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "NAMAZI, Behrouz",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SELINA, Mariya Vladimirovna",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DRUZHBIN, Vadim Anatolyevich",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "VANGUARD TACTICAL SUPPLY LIMITED",
+      "detail": "NPWMD] [IFSR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "LUBECK SHIPPING LLC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "RAKHBARMADANI, Ali",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DEZERA SHIPPING FZCO",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "AL KINA COMMERCIAL BROKER LLC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "AARE LINES INC.",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "GLAVOS SHIPPING FZCO",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SAI WAN SHIPPING LIMITED",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "GEMMA",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "RONCO, Alessandra",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "NADIA",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "EVORIT STRATEGY CONSULTING LLC-FZ",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "SEA GALLEON",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "PAYA LEBAR",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "KAALUND, Martin Austin",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TANG, Chris",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHENG, Teresa",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LO, Stephen",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TSANG, Erick",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LAM, Carrie",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LEE, John Ka-chiu",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ZHANG, Xiaoming",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHAN, Eric",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ZHENG, Yanxiong",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "XIA, Baolong",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LUO, Huining",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LAU, Edwina",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LI, Kwai-wah",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "DENG, Zhonghua",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LI, Jiangzhou",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WANG, Chen",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CAO, Jianming",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ZHANG, Chunxian",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "SHEN, Yueyue",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "JI, Bingxuan",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "IMIRBAKI, Arken",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WAN, Exiang",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHEN, Zhu",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WANG, Dongming",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHOLING, Padma",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "DING, Zhongli",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "HAO, Mingjin",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CAI, Dafeng",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WU, Weihua",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHOI, Frederic",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "KONG, Kelvin",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "KAN, Andrew",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "SUN, Wenqing",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "YOU, Quan",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TAM, Yiu-chung",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHEN, Dong",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "YANG, Jianping",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "QIU, Hong",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LU, Xinning",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TAN, Tieniu",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "HE, Jing",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "YIN, Zonghua",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LAM, Paul Ting Kwok",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "AU, Sonny Chi Kwong",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "DONG, Jingwei",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WONG, Dick Chung Chun",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "SIU, Raymond Chak Yee",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHIU, Margaret Wing Lan",
+      "detail": "HK-EO13936",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Chris TANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Teresa CHENG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Erick TSANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Carrie LAM",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "John Ka-chiu LEE",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Xiaoming ZHANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Eric CHAN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Yanxiong ZHENG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Baolong XIA",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Huining LUO",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Edwina LAU",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Kwai-wah LI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Zhonghua DENG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Jiangzhou LI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Chen WANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Jianming CAO",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Chunxian ZHANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Yueyue SHEN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Bingxuan JI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Arken IMIRBAKI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Exiang WAN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Zhu CHEN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Dongming WANG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Padma CHOLING",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Zhongli DING",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Mingjin HAO",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Dafeng CAI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Weihua WU",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Frederic CHOI",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Kelvin KONG",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Andrew KAN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Wenqing SUN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Quan YOU",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Yiu-chung TAM",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Dong CHEN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Xinning LU",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Tieniu TAN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Jing HE",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Zonghua YIN",
+      "detail": "HKAA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "AFC",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019｜団体",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Twigwaneho",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019｜団体",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Sebanyana",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019｜個人",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Yobeluo Corneille",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019｜個人",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Syrkoff",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019｜個人",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Imani Nzene",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019｜個人",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Mukake",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019｜個人",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Sebastien Uwimbabazi",
+      "detail": "The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019｜個人",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Islamic Movement of the People of the Right Hand",
+      "detail": "The Iran (Sanctions) Regulations 2023｜団体",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Abo Zer Abdelnabi Habiballa Ahmmed",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜個人",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Mazen Qamar Al Din Mohamed Fadlallah",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜個人",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Prodiqis Real Estate Administrative Supervision Service",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜団体",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Aoun Commercial Brokers",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜団体",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "ARIAB MINING COMPANY LIMITED",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜団体",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Sitana Khalafalla Abdallah Ahmed",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜個人",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Ahmed Hamad El Basher HASHIM",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜個人",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "NATWEST LOGISTICS LLC",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜団体",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Sudamine",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜団体",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Cloud Computing International Hong Kong Limited",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜団体",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "Umdurman Mining",
+      "detail": "The Sudan (Sanctions) (EU Exit) Regulations 2020｜団体",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "uksl",
+      "type": "remove",
+      "entity": "Baroque Investments Limited",
+      "detail": "The Libya (Sanctions) (EU Exit) Regulations 2020",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "un-consolidated",
+      "type": "add",
+      "entity": "CHARLES SEMATAMA",
+      "detail": "DRC",
+      "url": "https://scsanctions.un.org"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "un-consolidated",
+      "type": "add",
+      "entity": "CORNEILLE NANGAA YOBELUO",
+      "detail": "DRC",
+      "url": "https://scsanctions.un.org"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "un-consolidated",
+      "type": "add",
+      "entity": "GUSTAVE KUBWAYO",
+      "detail": "DRC",
+      "url": "https://scsanctions.un.org"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "un-consolidated",
+      "type": "add",
+      "entity": "JOHN IMANI NZENZE",
+      "detail": "DRC",
+      "url": "https://scsanctions.un.org"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "un-consolidated",
+      "type": "add",
+      "entity": "MUHAMMED LUMISA",
+      "detail": "DRC",
+      "url": "https://scsanctions.un.org"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "un-consolidated",
+      "type": "add",
+      "entity": "SEBASTIEN UWIMBABAZI",
+      "detail": "DRC",
+      "url": "https://scsanctions.un.org"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "un-consolidated",
+      "type": "add",
+      "entity": "ALLIANCE FLEUVE CONGO (AFC)",
+      "detail": "DRC",
+      "url": "https://scsanctions.un.org"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "un-consolidated",
+      "type": "add",
+      "entity": "TWIRWANEHO",
+      "detail": "DRC",
+      "url": "https://scsanctions.un.org"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "fcc-covered-list",
+      "type": "page-change",
+      "entity": "FCC Covered List",
+      "detail": "表示上の変更のみ（本文変更なし）",
+      "url": "https://www.fcc.gov/supplychain/coveredlist"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "－SOFARS／＋(なし)\n－CAOC／＋(なし)\n－CAAC／＋(なし)"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Enhanced Favorable Treatment for the United Arab Emirates Under the Export Administration Regulations",
+      "detail": "2026-07-14",
+      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of OFAC Sanctions Action",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14514/notice-of-ofac-sanctions-action"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of OFAC Sanctions Action",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14477/notice-of-ofac-sanctions-action"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of OFAC Sanctions Action",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14458/notice-of-ofac-sanctions-action"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of OFAC Sanctions Action",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14247/notice-of-ofac-sanctions-action"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of OFAC Sanctions Action",
+      "detail": "2026-07-14",
+      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14093/notice-of-ofac-sanctions-action"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "United States Passports Invalid for Travel to, in, or Through the Democratic People's Republic of Korea (DPRK)",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14601/united-states-passports-invalid-for-travel-to-in-or-through-the-democratic-peoples-republic-of-korea"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Department of State Sanctions Action",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14593/notice-of-department-of-state-sanctions-action"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Imposition of Additional Sanctions on Sudan Under the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14568/imposition-of-additional-sanctions-on-sudan-under-the-chemical-and-biological-weapons-control-and"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "30-Day Notice of Proposed Information Collection: Crisis Assistance Request Form",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14499/30-day-notice-of-proposed-information-collection-crisis-assistance-request-form"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Brancusi: The Artist and His Studio” Exhibition",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14445/notice-of-determinations-culturally-significant-objects-being-imported-for-exhibition-determinations"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Specially Designated Global Terrorist Designations of Juarez Cartel and Los Viagras",
+      "detail": "2026-07-16",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14278/specially-designated-global-terrorist-designations-of-juarez-cartel-and-los-viagras"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Foreign Terrorist Organization Designation of Juarez Cartel and Los Viagras",
+      "detail": "2026-07-16",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14259/foreign-terrorist-organization-designation-of-juarez-cartel-and-los-viagras"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Mississippi River Commission Public Meetings for Fall 2026",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14529/notice-of-mississippi-river-commission-public-meetings-for-fall-2026"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Renewal of Department of Defense Federal Advisory Committee-National Security Education Board",
+      "detail": "2026-07-16",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14378/renewal-of-department-of-defense-federal-advisory-committee-national-security-education-board"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Renewal of Department of Defense Federal Advisory Committee-Board of Regents, Uniformed Services University of the Health Sciences",
+      "detail": "2026-07-16",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14377/renewal-of-department-of-defense-federal-advisory-committee-board-of-regents-uniformed-services"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Privacy Act of 1974; System of Records",
+      "detail": "2026-07-16",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14376/privacy-act-of-1974-system-of-records"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Privacy Act of 1974; Implementation",
+      "detail": "2026-07-16",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14368/privacy-act-of-1974-implementation"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14196/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Submission for OMB Review; Comment Request",
+      "detail": "2026-07-15",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14194/submission-for-omb-review-comment-request"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Intent To Grant an Exclusive License; Spyris Holdings Inc.",
+      "detail": "2026-07-14",
+      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14094/notice-of-intent-to-grant-an-exclusive-license-spyris-holdings-inc"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Drawbridge Operation Regulation; Newark Bay, Between the City of Newark and City of Bayonne, NJ",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14598/drawbridge-operation-regulation-newark-bay-between-the-city-of-newark-and-city-of-bayonne-nj"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "MountainWest Overthrust Pipeline, LLC; Notice of Application and Establishing Intervention Deadline",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14590/mountainwest-overthrust-pipeline-llc-notice-of-application-and-establishing-intervention-deadline"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Request for Nominations for Members To Serve on National Institute of Standards and Technology Federal Advisory Committees",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14585/request-for-nominations-for-members-to-serve-on-national-institute-of-standards-and-technology"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Safety Zones; Delaware River Dredging, Marcus Hook, PA",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14584/safety-zones-delaware-river-dredging-marcus-hook-pa"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Texas Parks and Wildlife Department Fisheries Research",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14578/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-texas"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Renewal of the Agricultural Advisory Committee",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14575/renewal-of-the-agricultural-advisory-committee"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Food Standards of Identity Modernization; Pasteurized Orange Juice",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14573/food-standards-of-identity-modernization-pasteurized-orange-juice"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "New Postal Products",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14563/new-postal-products"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Amendment of Class D Airspace and Class E Airspace Over Augusta, GA",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14559/amendment-of-class-d-airspace-and-class-e-airspace-over-augusta-ga"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Green Sturgeon 4(d) Rule Take Exceptions and Exemptions",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14557/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Amendment of Jet Routes J-190 and J-584 and Very High Frequency Omnidirectional Range Federal Airways V-170 and V-188 in the Vicinity of Slate Run, Pennsylvania",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14552/amendment-of-jet-routes-j-190-and-j-584-and-very-high-frequency-omnidirectional-range-federal"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Endangered and Threatened Wildlife and Plants; Reclassification of the Hawaiian Stilt (Kukuluae'o or Ae'o) From Endangered to Threatened With a Section 4(d) Rule",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14550/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-hawaiian-stilt-kukuluaeo-or"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Modernization of Delegations of Authority to Commission Staff",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14540/modernization-of-delegations-of-authority-to-commission-staff"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Public Charge Ground of Inadmissibility",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14539/public-charge-ground-of-inadmissibility"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the FINRA Rule 6300 Series (Trade Reporting Facilities) To Extend the Trade Reporting Facilities Operating Hours to 23 Hours Per Day, Five Days Per Week",
+      "detail": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14528/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Modifying the Bears Ears National Monument",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14548/modifying-the-bears-ears-national-monument"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Margin Requirements for Uncleared Swaps for Swap Dealers and Major Swap Participants",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14509/margin-requirements-for-uncleared-swaps-for-swap-dealers-and-major-swap-participants"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Privacy Act of 1974; System of Records",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14508/privacy-act-of-1974-system-of-records"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Kennedy Lewis Capital Company, et al.",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14505/kennedy-lewis-capital-company-et-al"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+      "detail": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Modernizing Reactor Licensing, Safety Oversight, and Siting Practices",
+      "detail": "2026-07-16",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14341/modernizing-reactor-licensing-safety-oversight-and-siting-practices"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Financial Assistance Regulations-Conflict of Interest and Conflict of Commitment Policy Requirements",
+      "detail": "2026-07-16",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14333/financial-assistance-regulations-conflict-of-interest-and-conflict-of-commitment-policy-requirements"
+    },
+    {
+      "date": "2026-07-18T12:48:36.027Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Amendments and Nonconformance Penalties for Model Year 2027 and Later Heavy-Duty Highway Engines and Amendments to Inducement Provisions for SCR-Equipped Diesel Engines",
+      "detail": "2026-07-14",
+      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14112/amendments-and-nonconformance-penalties-for-model-year-2027-and-later-heavy-duty-highway-engines-and"
     }
   ]
 }

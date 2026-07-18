@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-07-13T11:25:50.408Z",
+  "generated": "2026-07-18T12:49:22.971Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19143,
+  "count": 19169,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -2871,7 +2871,7 @@
     },
     "8237": {
       "name": "JUAREZ CARTEL",
-      "list": "SDNTK] [ILLICIT-DRUGS-EO14059"
+      "list": "SDNTK] [FTO] [SDGT] [ILLICIT-DRUGS-EO14059"
     },
     "8239": {
       "name": "NEMBHARD, Norris",
@@ -27181,50 +27181,6 @@
       "name": "DE LIMA SALAS, David Eugenio",
       "list": "VENEZUELA"
     },
-    "29242": {
-      "name": "TANG, Chris",
-      "list": "HK-EO13936"
-    },
-    "29243": {
-      "name": "CHENG, Teresa",
-      "list": "HK-EO13936"
-    },
-    "29244": {
-      "name": "LO, Stephen",
-      "list": "HK-EO13936"
-    },
-    "29246": {
-      "name": "TSANG, Erick",
-      "list": "HK-EO13936"
-    },
-    "29249": {
-      "name": "LAM, Carrie",
-      "list": "HK-EO13936"
-    },
-    "29250": {
-      "name": "LEE, John Ka-chiu",
-      "list": "HK-EO13936"
-    },
-    "29259": {
-      "name": "ZHANG, Xiaoming",
-      "list": "HK-EO13936"
-    },
-    "29260": {
-      "name": "CHAN, Eric",
-      "list": "HK-EO13936"
-    },
-    "29261": {
-      "name": "ZHENG, Yanxiong",
-      "list": "HK-EO13936"
-    },
-    "29262": {
-      "name": "XIA, Baolong",
-      "list": "HK-EO13936"
-    },
-    "29263": {
-      "name": "LUO, Huining",
-      "list": "HK-EO13936"
-    },
     "29279": {
       "name": "AL-ASSAD, Hafez",
       "list": "PAARSSR-EO13894"
@@ -28245,25 +28201,9 @@
       "name": "HUANG, Chin-Hua",
       "list": "NPWMD] [IFSR"
     },
-    "30322": {
-      "name": "LAU, Edwina",
-      "list": "HK-EO13936"
-    },
     "30342": {
       "name": "SHERMAN, Harry Varney Gboto-Nambi",
       "list": "GLOMAG"
-    },
-    "30343": {
-      "name": "LI, Kwai-wah",
-      "list": "HK-EO13936"
-    },
-    "30344": {
-      "name": "DENG, Zhonghua",
-      "list": "HK-EO13936"
-    },
-    "30345": {
-      "name": "LI, Jiangzhou",
-      "list": "HK-EO13936"
     },
     "30346": {
       "name": "ISLAMIC REVOLUTION MOSTAZAFAN FOUNDATION",
@@ -28544,62 +28484,6 @@
     "30502": {
       "name": "CEIEC",
       "list": "VENEZUELA"
-    },
-    "30503": {
-      "name": "WANG, Chen",
-      "list": "HK-EO13936"
-    },
-    "30504": {
-      "name": "CAO, Jianming",
-      "list": "HK-EO13936"
-    },
-    "30505": {
-      "name": "ZHANG, Chunxian",
-      "list": "HK-EO13936"
-    },
-    "30506": {
-      "name": "SHEN, Yueyue",
-      "list": "HK-EO13936"
-    },
-    "30507": {
-      "name": "JI, Bingxuan",
-      "list": "HK-EO13936"
-    },
-    "30508": {
-      "name": "IMIRBAKI, Arken",
-      "list": "HK-EO13936"
-    },
-    "30509": {
-      "name": "WAN, Exiang",
-      "list": "HK-EO13936"
-    },
-    "30510": {
-      "name": "CHEN, Zhu",
-      "list": "HK-EO13936"
-    },
-    "30511": {
-      "name": "WANG, Dongming",
-      "list": "HK-EO13936"
-    },
-    "30512": {
-      "name": "CHOLING, Padma",
-      "list": "HK-EO13936"
-    },
-    "30513": {
-      "name": "DING, Zhongli",
-      "list": "HK-EO13936"
-    },
-    "30514": {
-      "name": "HAO, Mingjin",
-      "list": "HK-EO13936"
-    },
-    "30515": {
-      "name": "CAI, Dafeng",
-      "list": "HK-EO13936"
-    },
-    "30516": {
-      "name": "WU, Weihua",
-      "list": "HK-EO13936"
     },
     "30517": {
       "name": "ASTREIKA, Alyaksandr Vyachaslavavich",
@@ -29156,30 +29040,6 @@
     "30962": {
       "name": "AL-SAMAHI, Alaa Ali Ali Mohammed",
       "list": "SDGT"
-    },
-    "30964": {
-      "name": "CHOI, Frederic",
-      "list": "HK-EO13936"
-    },
-    "30965": {
-      "name": "KONG, Kelvin",
-      "list": "HK-EO13936"
-    },
-    "30966": {
-      "name": "KAN, Andrew",
-      "list": "HK-EO13936"
-    },
-    "30967": {
-      "name": "SUN, Wenqing",
-      "list": "HK-EO13936"
-    },
-    "30968": {
-      "name": "YOU, Quan",
-      "list": "HK-EO13936"
-    },
-    "30969": {
-      "name": "TAM, Yiu-chung",
-      "list": "HK-EO13936"
     },
     "30970": {
       "name": "KHIABANI, Mohammad Reza Modarres",
@@ -30372,34 +30232,6 @@
     "32455": {
       "name": "COMPRADORES Y EXPORTADORES DE CAFE CAPTZIN, SOCIEDAD ANONIMA",
       "list": "ILLICIT-DRUGS-EO14059"
-    },
-    "32471": {
-      "name": "CHEN, Dong",
-      "list": "HK-EO13936"
-    },
-    "32472": {
-      "name": "YANG, Jianping",
-      "list": "HK-EO13936"
-    },
-    "32473": {
-      "name": "QIU, Hong",
-      "list": "HK-EO13936"
-    },
-    "32474": {
-      "name": "LU, Xinning",
-      "list": "HK-EO13936"
-    },
-    "32475": {
-      "name": "TAN, Tieniu",
-      "list": "HK-EO13936"
-    },
-    "32476": {
-      "name": "HE, Jing",
-      "list": "HK-EO13936"
-    },
-    "32477": {
-      "name": "YIN, Zonghua",
-      "list": "HK-EO13936"
     },
     "32491": {
       "name": "SARAYA AL-AREEN",
@@ -66823,7 +66655,7 @@
     },
     "52435": {
       "name": "LOS VIAGRAS",
-      "list": "ILLICIT-DRUGS-EO14059"
+      "list": "FTO] [SDGT] [ILLICIT-DRUGS-EO14059"
     },
     "52437": {
       "name": "SIERRA SANTANA, Nicolas",
@@ -68113,14 +67945,6 @@
       "name": "MOGHADAM, Reza Amiri",
       "list": "HOSTAGES-EO14078"
     },
-    "53814": {
-      "name": "LAM, Paul Ting Kwok",
-      "list": "HK-EO13936"
-    },
-    "53815": {
-      "name": "AU, Sonny Chi Kwong",
-      "list": "HK-EO13936"
-    },
     "53816": {
       "name": "KOREA SONGKWANG TRADING GENERAL CORPORATION",
       "list": "DPRK4"
@@ -68156,22 +67980,6 @@
     "53824": {
       "name": "ASATRYAN, Gayk",
       "list": "DPRK3"
-    },
-    "53825": {
-      "name": "DONG, Jingwei",
-      "list": "HK-EO13936"
-    },
-    "53826": {
-      "name": "WONG, Dick Chung Chun",
-      "list": "HK-EO13936"
-    },
-    "53827": {
-      "name": "SIU, Raymond Chak Yee",
-      "list": "HK-EO13936"
-    },
-    "53828": {
-      "name": "CHIU, Margaret Wing Lan",
-      "list": "HK-EO13936"
     },
     "53830": {
       "name": "RAH ROSHD INTERNATIONAL TRADE EXCHANGES DEVELOPMENT",
@@ -76569,6 +76377,10 @@
       "name": "PALACIOS QUINTANILLA, Enrique Daniel",
       "list": "SUDAN-EO14098"
     },
+    "57975": {
+      "name": "FIRST VPN SERVICE",
+      "list": "CYBER4"
+    },
     "57976": {
       "name": "DERMAN GUZMAN, Jack Peter",
       "list": "SUDAN-EO14098"
@@ -76576,6 +76388,298 @@
     "57977": {
       "name": "LOPEZ OCAMPO, Fredy Alejandro",
       "list": "SUDAN-EO14098"
+    },
+    "57978": {
+      "name": "RASHEVSKYI, Dmytro",
+      "list": "CYBER4"
+    },
+    "58046": {
+      "name": "ASSOCIATION OF COMBATANTS OF THE CUBAN REVOLUTION",
+      "list": "CUBA-EO14404"
+    },
+    "58051": {
+      "name": "GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR",
+      "list": "CUBA-EO14404"
+    },
+    "58052": {
+      "name": "ENETEC S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58053": {
+      "name": "ORGANIZACION SUPERIOR DE DIRECCION EMPRESARIAL CAUDAL S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58054": {
+      "name": "GRUPO EMPRESARIAL DE TRANSPORTE MARITIMO PORTUARIO",
+      "list": "CUBA-EO14404"
+    },
+    "58055": {
+      "name": "MILICIAS DE TROPAS TERRITORIALES",
+      "list": "CUBA-EO14404"
+    },
+    "58056": {
+      "name": "CORPORACION ANTILLANA EXPORTADORA SA",
+      "list": "CUBA-EO14404"
+    },
+    "58057": {
+      "name": "COREYDAN S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58058": {
+      "name": "RAPID RESPONSE BRIGADES",
+      "list": "CUBA-EO14404"
+    },
+    "58059": {
+      "name": "MINISTRY OF TOURISM OF CUBA",
+      "list": "CUBA-EO14404"
+    },
+    "58077": {
+      "name": "SILAYEV, Yevgeniy Vladimirovich",
+      "list": "CYBER4"
+    },
+    "58093": {
+      "name": "AVA TARABAR DARYA COMPANY",
+      "list": "IRAN-EO13902"
+    },
+    "58094": {
+      "name": "RAHBAR MADANI, Mohammad Reza",
+      "list": "IRAN-EO13902"
+    },
+    "58095": {
+      "name": "SEPEHR NOOR MOBIN COMPANY",
+      "list": "IRAN-EO13902"
+    },
+    "58096": {
+      "name": "SEPEHR PAYAM",
+      "list": "IRAN-EO13902"
+    },
+    "58097": {
+      "name": "ERIKA",
+      "list": "IRAN-EO13902"
+    },
+    "58098": {
+      "name": "ARKANOOR 2",
+      "list": "IRAN-EO13902"
+    },
+    "58099": {
+      "name": "ARKANOOR 3",
+      "list": "IRAN-EO13902"
+    },
+    "58100": {
+      "name": "SEA CRUISER",
+      "list": "IRAN-EO13902"
+    },
+    "58101": {
+      "name": "SEA CASTLE",
+      "list": "IRAN-EO13902"
+    },
+    "58102": {
+      "name": "SEA ANCHOR",
+      "list": "IRAN-EO13902"
+    },
+    "58103": {
+      "name": "SEA LEAD SHIPPING PTE. LTD.",
+      "list": "IRAN-EO13902"
+    },
+    "58104": {
+      "name": "KANGRI 1 INC",
+      "list": "IRAN-EO13902"
+    },
+    "58106": {
+      "name": "CICCIO",
+      "list": "IRAN-EO13902"
+    },
+    "58107": {
+      "name": "SHENTON WAY",
+      "list": "IRAN-EO13902"
+    },
+    "58109": {
+      "name": "TANJONG PAGAR 1",
+      "list": "IRAN-EO13902"
+    },
+    "58110": {
+      "name": "VIRENT",
+      "list": "IRAN-EO13902"
+    },
+    "58111": {
+      "name": "PLATINUM KNIGHTS LTD",
+      "list": "IRAN-EO13902"
+    },
+    "58112": {
+      "name": "HOPE 1 SHIPPING INC",
+      "list": "IRAN-EO13902"
+    },
+    "58113": {
+      "name": "NUVETRRO SHIPPING INC",
+      "list": "IRAN-EO13902"
+    },
+    "58114": {
+      "name": "VELTRRIVO SHIPPING INC",
+      "list": "IRAN-EO13902"
+    },
+    "58115": {
+      "name": "OCEAN SEARUM ONE LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58116": {
+      "name": "HANSA SHIPPING INC.",
+      "list": "IRAN-EO13902"
+    },
+    "58117": {
+      "name": "HOPE 1",
+      "list": "IRAN-EO13902"
+    },
+    "58118": {
+      "name": "JADE",
+      "list": "IRAN-EO13902"
+    },
+    "58119": {
+      "name": "OPAL",
+      "list": "IRAN-EO13902"
+    },
+    "58120": {
+      "name": "ELPINIKI",
+      "list": "IRAN-EO13902"
+    },
+    "58121": {
+      "name": "DARIKA",
+      "list": "IRAN-EO13902"
+    },
+    "58122": {
+      "name": "GEORGE, Jijin",
+      "list": "IRAN-EO13902"
+    },
+    "58123": {
+      "name": "TSERNOSJOV, Maksim",
+      "list": "IRAN-EO13902"
+    },
+    "58124": {
+      "name": "VISHAVDEEP, Gautam",
+      "list": "IRAN-EO13902"
+    },
+    "58125": {
+      "name": "DEHKORDI, Asghar Aghili",
+      "list": "IRAN-EO13902"
+    },
+    "58126": {
+      "name": "AVRATEK OOO",
+      "list": "NPWMD] [IFSR"
+    },
+    "58127": {
+      "name": "MOGHADAS, Behzad",
+      "list": "IRAN-EO13902"
+    },
+    "58128": {
+      "name": "ZAHED, Hossein Ghorbani",
+      "list": "IRAN-EO13902"
+    },
+    "58130": {
+      "name": "NIKA JET COMPANY",
+      "list": "NPWMD] [IFSR"
+    },
+    "58131": {
+      "name": "GOLDEN NEST GROUP LTD",
+      "list": "IRAN-EO13902"
+    },
+    "58132": {
+      "name": "BSG MANAGEMENT LTD",
+      "list": "IRAN-EO13902"
+    },
+    "58134": {
+      "name": "SEA LEAD SHIPPING AGENCY INDIA PRIVATE LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58135": {
+      "name": "SEA LEAD SHIPPING MARSHALL ISLANDS LTD",
+      "list": "IRAN-EO13902"
+    },
+    "58136": {
+      "name": "SEA LEAD SHIPPING DMCC",
+      "list": "IRAN-EO13902"
+    },
+    "58137": {
+      "name": "WE FREIGHT SHIPPING LLC",
+      "list": "IRAN-EO13902"
+    },
+    "58138": {
+      "name": "VOLTA SHIPPING SERVICES LLC",
+      "list": "IRAN-EO13902"
+    },
+    "58139": {
+      "name": "ETTAIB, Dounia",
+      "list": "NPWMD] [IFSR"
+    },
+    "58142": {
+      "name": "NAMAZI, Behrouz",
+      "list": "NPWMD] [IFSR"
+    },
+    "58143": {
+      "name": "SELINA, Mariya Vladimirovna",
+      "list": "NPWMD] [IFSR"
+    },
+    "58144": {
+      "name": "DRUZHBIN, Vadim Anatolyevich",
+      "list": "NPWMD] [IFSR"
+    },
+    "58145": {
+      "name": "VANGUARD TACTICAL SUPPLY LIMITED",
+      "list": "NPWMD] [IFSR"
+    },
+    "58146": {
+      "name": "LUBECK SHIPPING LLC",
+      "list": "IRAN-EO13902"
+    },
+    "58147": {
+      "name": "RAKHBARMADANI, Ali",
+      "list": "IRAN-EO13902"
+    },
+    "58148": {
+      "name": "DEZERA SHIPPING FZCO",
+      "list": "IRAN-EO13902"
+    },
+    "58149": {
+      "name": "AL KINA COMMERCIAL BROKER LLC",
+      "list": "IRAN-EO13902"
+    },
+    "58150": {
+      "name": "AARE LINES INC.",
+      "list": "IRAN-EO13902"
+    },
+    "58151": {
+      "name": "GLAVOS SHIPPING FZCO",
+      "list": "IRAN-EO13902"
+    },
+    "58152": {
+      "name": "SAI WAN SHIPPING LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58153": {
+      "name": "GEMMA",
+      "list": "IRAN-EO13902"
+    },
+    "58154": {
+      "name": "RONCO, Alessandra",
+      "list": "IRAN-EO13902"
+    },
+    "58155": {
+      "name": "NADIA",
+      "list": "IRAN-EO13902"
+    },
+    "58157": {
+      "name": "EVORIT STRATEGY CONSULTING LLC-FZ",
+      "list": "IRAN-EO13902"
+    },
+    "58158": {
+      "name": "SEA GALLEON",
+      "list": "IRAN-EO13902"
+    },
+    "58159": {
+      "name": "PAYA LEBAR",
+      "list": "IRAN-EO13902"
+    },
+    "58160": {
+      "name": "KAALUND, Martin Austin",
+      "list": "IRAN-EO13902"
     }
   }
 }

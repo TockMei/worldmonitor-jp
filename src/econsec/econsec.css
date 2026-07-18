@@ -320,6 +320,21 @@ body {
   border-bottom-color: var(--accent);
 }
 
+.econsec-alert-detail-toggle {
+  margin-left: 4px;
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  font-size: 10px;
+  padding: 1px 6px;
+  cursor: pointer;
+}
+
+.econsec-alert-detail-toggle:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
 #econsec-meta {
   color: var(--text-dim);
   font-size: 10px;

@@ -154,6 +154,27 @@ function bindHistoryToggle(list: HTMLElement): void {
   });
 }
 
+// Toggles an alert row's detail text between its 80-char preview and the
+// full text. Delegated on the panel container (not the individual rows)
+// since loadAlerts() replaces the panel's innerHTML wholesale on every
+// fetch, which would otherwise orphan a per-row listener - same reasoning
+// as bindHistoryToggle above.
+function bindAlertDetailToggle(panel: HTMLElement): void {
+  panel.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest<HTMLElement>('.econsec-alert-detail-toggle');
+    if (!btn?.dataset.detailToggle) return;
+    const row = btn.closest<HTMLElement>('.econsec-alert-detail');
+    const shortEl = row?.querySelector<HTMLElement>('[data-detail-view="short"]');
+    const fullEl = row?.querySelector<HTMLElement>('[data-detail-view="full"]');
+    if (!shortEl || !fullEl) return;
+
+    const expanded = !fullEl.hidden;
+    fullEl.hidden = expanded;
+    shortEl.hidden = !expanded;
+    btn.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+  });
+}
+
 function bindEvents(): void {
   $('econsec-tabs').addEventListener('click', (e) => {
     const btn = (e.target as HTMLElement).closest<HTMLElement>('.tier-tab');
@@ -164,6 +185,7 @@ function bindEvents(): void {
   });
 
   bindHistoryToggle($('econsec-list'));
+  bindAlertDetailToggle($('econsec-alerts-panel'));
 
   const bindSelect = (id: string, key: 'category' | 'cost') => {
     $(id).addEventListener('change', (e) => {

@@ -59,6 +59,28 @@ export function hashKey(...parts) {
   return createHash('sha1').update(parts.join('')).digest('hex').slice(0, 16);
 }
 
+// Joins whatever per-entity context fields a source was able to extract
+// (e.g. UKSL's regime name + individual/entity type) into a single detail
+// string, dropping any part that came back empty rather than rendering a
+// blank slot - an entity with only one available field just shows that one.
+export function joinDetailParts(...parts) {
+  return parts
+    .map((p) => (p == null ? '' : String(p).trim()))
+    .filter(Boolean)
+    .join('｜');
+}
+
+// UK Sanctions List's "Group Type" column values, translated for display.
+// Anything not in this map (e.g. "Ship") is passed through as-is rather
+// than dropped, since it's still a genuine, human-readable classification.
+export function mapUkslGroupType(raw) {
+  const v = (raw || '').trim();
+  if (!v) return '';
+  if (v === 'Individual') return '個人';
+  if (v === 'Entity') return '団体';
+  return v;
+}
+
 // ---- Generic delimited-text parser (RFC4180-ish: quoted fields, embedded
 // delimiters/newlines inside quotes, "" as an escaped quote). ----
 export function parseDelimited(text, delimiter = ',') {
@@ -460,22 +482,133 @@ function stripMofcomSidebar(html) {
   return stripBalancedTag(html, 'aside', (tag) => /\bclass="[^"]*\bjgRBox\b[^"]*"/i.test(tag));
 }
 
-// Returns both sides of the first differing line, not just the new value -
-// a page-change alert with only the new value can't distinguish a real
-// content change from a value flapping back and forth between two states
-// across runs (confirmed happening in practice, 2026-07-13: acquisition.gov's
-// "Last Updated" stamp toggled between two dates across consecutive fetches).
-// Showing old -> new lets a human tell the two cases apart at a glance;
-// automatically suppressing repeat flips is deliberately NOT done here, since
-// a wrong suppression rule risks hiding a genuine change.
-function firstDiffLine(oldLines, newLines) {
-  const len = Math.max(oldLines.length, newLines.length);
-  for (let i = 0; i < len; i++) {
-    if (oldLines[i] !== newLines[i]) {
-      return { oldLine: oldLines[i] ?? '(なし)', newLine: newLines[i] ?? '(なし)' };
+// ---- Page-diff detail construction: every changed line across the whole
+// page (not just the first), filtered down to lines that look like real
+// body text, capped to the 3 most sentence-like pairs. Showing old -> new
+// per pair (rather than the new value alone) lets a human tell a genuine
+// content change apart from a value flapping back and forth between two
+// states across runs (confirmed happening in practice, 2026-07-13:
+// acquisition.gov's "Last Updated" stamp toggled between two dates across
+// consecutive fetches) - automatically suppressing repeat flips is
+// deliberately NOT done, since a wrong suppression rule risks hiding a
+// genuine change. ----
+
+// A line is noise if it's digits/punctuation only (version stamps, dates
+// standing alone), looks like leftover script/style markup ({ } ;), or is a
+// single unbroken token of mixed letters+digits (hash/nonce/query-string
+// remnants that normalizePage's <script>-stripping didn't catch).
+const NOISE_DIGIT_RE = /^[\d\s:./,-]+$/;
+const NOISE_CODE_RE = /[{};]/;
+const NOISE_TOKEN_RE = /^[A-Za-z0-9+/=_-]{12,}$/;
+
+function isNoiseLine(line) {
+  if (!line) return true;
+  if (NOISE_DIGIT_RE.test(line)) return true;
+  if (NOISE_CODE_RE.test(line)) return true;
+  if (NOISE_TOKEN_RE.test(line) && /\d/.test(line) && /[A-Za-z]/.test(line)) return true;
+  return false;
+}
+
+// A changed-line pair is worth surfacing if at least one side isn't noise -
+// e.g. a line added where the old side is empty (pure insertion) still
+// counts as long as the new text itself is real.
+function isMeaningfulPair(pair) {
+  return [pair.oldLine, pair.newLine].some((l) => l && !isNoiseLine(l));
+}
+
+// Letter-density heuristic used to prioritize which pairs to show when more
+// than 3 survive the noise filter: counts Unicode letters (covers CJK,
+// which has no inter-word spaces, as well as Latin scripts) against total
+// length. Natural-language lines score high; numeric/punctuation/code lines
+// (already excluded above, but this also breaks ties among survivors) score
+// low.
+function naturalness(line) {
+  if (!line) return 0;
+  const letters = line.match(/\p{L}/gu) || [];
+  return letters.length / line.length;
+}
+
+// Standard suffix-LCS backtrack (O(n*m), fine at the few-hundred-line scale
+// normalizePage produces): walks both line arrays and groups consecutive
+// non-matching lines into hunks, so a multi-line edit stays together rather
+// than each line being diffed independently.
+function diffLineHunks(oldLines, newLines) {
+  const n = oldLines.length;
+  const m = newLines.length;
+  const dp = Array.from({ length: n + 1 }, () => new Uint32Array(m + 1));
+  for (let i = n - 1; i >= 0; i--) {
+    for (let j = m - 1; j >= 0; j--) {
+      dp[i][j] =
+        oldLines[i] === newLines[j] ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
     }
   }
-  return { oldLine: '', newLine: '' };
+
+  const hunks = [];
+  let current = null;
+  let i = 0;
+  let j = 0;
+  const closeCurrent = () => {
+    if (current && (current.oldLines.length || current.newLines.length)) hunks.push(current);
+    current = null;
+  };
+  while (i < n && j < m) {
+    if (oldLines[i] === newLines[j]) {
+      closeCurrent();
+      i++;
+      j++;
+      continue;
+    }
+    if (!current) current = { oldLines: [], newLines: [] };
+    if (dp[i + 1][j] >= dp[i][j + 1]) {
+      current.oldLines.push(oldLines[i]);
+      i++;
+    } else {
+      current.newLines.push(newLines[j]);
+      j++;
+    }
+  }
+  if (!current) current = { oldLines: [], newLines: [] };
+  while (i < n) current.oldLines.push(oldLines[i++]);
+  while (j < m) current.newLines.push(newLines[j++]);
+  closeCurrent();
+  return hunks;
+}
+
+// Within a hunk, pairs old/new lines up positionally (the common case is a
+// like-for-like edit); a hunk lopsided in length (pure insertion/removal of
+// extra lines) pairs the excess against an empty string.
+function hunksToPairs(hunks) {
+  const pairs = [];
+  for (const hunk of hunks) {
+    const len = Math.max(hunk.oldLines.length, hunk.newLines.length);
+    for (let k = 0; k < len; k++) {
+      pairs.push({ oldLine: hunk.oldLines[k] ?? '', newLine: hunk.newLines[k] ?? '' });
+    }
+  }
+  return pairs;
+}
+
+const PAGE_CHANGE_DETAIL_MAX_PAIRS = 3;
+const PAGE_CHANGE_DETAIL_LINE_CHARS = 120;
+const PAGE_CHANGE_NO_MEANINGFUL_DIFF = '表示上の変更のみ（本文変更なし）';
+
+export function buildPageChangeDetail(oldLines, newLines) {
+  const pairs = hunksToPairs(diffLineHunks(oldLines, newLines)).filter(isMeaningfulPair);
+  if (pairs.length === 0) return PAGE_CHANGE_NO_MEANINGFUL_DIFF;
+
+  const top = pairs
+    .map((pair, index) => ({ pair, index, score: Math.max(naturalness(pair.oldLine), naturalness(pair.newLine)) }))
+    .sort((a, b) => b.score - a.score || a.index - b.index)
+    .slice(0, PAGE_CHANGE_DETAIL_MAX_PAIRS)
+    .sort((a, b) => a.index - b.index);
+
+  return top
+    .map(({ pair }) => {
+      const oldText = (pair.oldLine || '(なし)').slice(0, PAGE_CHANGE_DETAIL_LINE_CHARS);
+      const newText = (pair.newLine || '(なし)').slice(0, PAGE_CHANGE_DETAIL_LINE_CHARS);
+      return `－${oldText}／＋${newText}`;
+    })
+    .join('\n');
 }
 
 // ---- Entity-level sources: bulk list -> Map<id, {name, list}> ----
@@ -559,6 +692,10 @@ const SOURCES = [
       const idxId = header.indexOf('Unique ID');
       const nameIdxs = [1, 2, 3, 4, 5, 6].map((n) => header.indexOf(`Name ${n}`)).filter((i) => i !== -1);
       const idxRegime = header.indexOf('Regime Name');
+      // Confirmed against the live CSV (2026-07-18): this column is named
+      // "Designation Type", not "Group Type" - values seen are "Individual"
+      // and "Entity".
+      const idxGroupType = header.indexOf('Designation Type');
       const entities = new Map();
       for (const r of rows.slice(headerIdx + 1)) {
         const id = (r[idxId] || '').trim();
@@ -569,7 +706,9 @@ const SOURCES = [
           .join(' ')
           .trim();
         if (!name) continue;
-        entities.set(id, { name, list: idxRegime !== -1 ? r[idxRegime] : 'UKSL' });
+        const regime = idxRegime !== -1 ? r[idxRegime] : '';
+        const groupType = idxGroupType !== -1 ? mapUkslGroupType(r[idxGroupType]) : '';
+        entities.set(id, { name, list: joinDetailParts(regime, groupType) || 'UKSL' });
       }
       return { resolvedUrl: url, entities };
     },
@@ -646,7 +785,7 @@ const SOURCES = [
         for (const r of rows.slice(1)) {
           const name = (r[idxName] || '').trim();
           if (!name) continue;
-          entities.set(hashKey(name), { name, list: idxDate !== -1 ? r[idxDate] : 'UFLPA' });
+          entities.set(hashKey(name), { name, list: idxDate !== -1 ? (r[idxDate] || '').trim() : '' });
         }
       }
       if (entities.size === 0) throw new Error('dhs-uflpa: parsed 0 entities - schema may have changed');
@@ -1034,8 +1173,7 @@ async function processPageSource(source, ctx) {
     const prevLines = previous.lines || [];
     const changed = prevLines.length !== lines.length || prevLines.some((l, i) => l !== lines[i]);
     if (changed) {
-      const { oldLine, newLine } = firstDiffLine(prevLines, lines);
-      const detail = `${oldLine.slice(0, 200)} → ${newLine.slice(0, 200)}`;
+      const detail = buildPageChangeDetail(prevLines, lines);
       const url = resolveAlertUrl(ctx, source.id);
       const alert = { date: ctx.nowIso, source: source.id, type: 'page-change', entity: source.label, detail, url };
       ctx.alerts.push(alert);

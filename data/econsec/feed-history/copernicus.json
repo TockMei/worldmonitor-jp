@@ -1,8 +1,32 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-07-13T11:25:50.408Z",
+  "generated": "2026-07-18T12:49:22.971Z",
   "items": [
+    {
+      "title": "Copernicus Sentinel-3A unavailability notice for the OLCI S09 Calibration planned on 26 July 2026 [DOY 207]",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-17-copernicus-sentinel-3a-unavailability-notice-olci-s09-calibration-planned-26-july",
+      "date": "Fri, 17 Jul 2026 18:41:18 UTC",
+      "firstSeen": "2026-07-18T12:48:36.027Z"
+    },
+    {
+      "title": "Copernicus DEM 30m View Service – License Acceptance",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-17-copernicus-dem-30m-view-service-license-acceptance",
+      "date": "Fri, 17 Jul 2026 10:41:22 UTC",
+      "firstSeen": "2026-07-18T12:48:36.027Z"
+    },
+    {
+      "title": "Registration for the CDSE User Summit 2026 now open",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-16-registration-cdse-user-summit-2026-now-open",
+      "date": "Thu, 16 Jul 2026 06:45:21 UTC",
+      "firstSeen": "2026-07-18T12:48:36.027Z"
+    },
+    {
+      "title": "Timestamp behavior alignment for ListObjects requests",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-14-timestamp-behavior-alignment-listobjects-requests",
+      "date": "Tue, 14 Jul 2026 07:22:27 UTC",
+      "firstSeen": "2026-07-18T12:48:36.027Z"
+    },
     {
       "title": "Copernicus Sentinel-3B unavailability notice for the IP Manoeuvre #163 planned on 09 July 2026 [DOY 190]",
       "link": "https://dataspace.copernicus.eu/news/2026-7-8-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-163-planned-09-july-2026",

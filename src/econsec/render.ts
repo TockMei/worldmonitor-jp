@@ -54,6 +54,14 @@ const ALERT_SOURCE_LABELS: Record<string, string> = {
 };
 
 const ALERT_WINDOW_DAYS = 30;
+const ALERT_DETAIL_TRUNCATE_CHARS = 80;
+
+// scripts/econsec-watch.mjs's page-change detail can carry multiple
+// "－old／＋new" lines joined by \n; escapeHtml alone would render them
+// run-together, so line breaks are re-inserted as <br> after escaping.
+function renderMultilineText(value: string): string {
+  return escapeHtml(value).replace(/\n/g, '<br>');
+}
 
 export function escapeHtml(value: string): string {
   return value
@@ -252,19 +260,27 @@ export function renderAlertsPanel(data: EconsecAlertsResponse): string {
   }
 
   const rows = recent
-    .map((a) => {
+    .map((a, i) => {
       const label = ALERT_SOURCE_LABELS[a.source] || a.source;
       const badge = ALERT_TYPE_BADGES[a.type] || '';
       const entity =
         a.url && isSafeHttpUrl(a.url)
           ? `<a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.entity)}</a>`
           : escapeHtml(a.entity);
+      const isLong = a.detail.length > ALERT_DETAIL_TRUNCATE_CHARS;
+      const detail = isLong
+        ? `<span class="econsec-alert-detail-text" data-detail-view="short">${escapeHtml(
+            `${a.detail.slice(0, ALERT_DETAIL_TRUNCATE_CHARS).replace(/\n/g, ' ')}…`,
+          )}</span><span class="econsec-alert-detail-text" data-detail-view="full" hidden>${renderMultilineText(
+            a.detail,
+          )}</span><button type="button" class="econsec-alert-detail-toggle" data-detail-toggle="${i}" aria-expanded="false">詳細</button>`
+        : renderMultilineText(a.detail);
       return `
       <div class="econsec-alert-row">
         ${badge}
         <span class="econsec-alert-entity">${entity}</span>
         <span class="econsec-alert-source">${escapeHtml(label)}</span>
-        <span class="econsec-alert-detail">${escapeHtml(a.detail)}</span>
+        <span class="econsec-alert-detail">${detail}</span>
         <span class="econsec-alert-date">${escapeHtml(formatJst(a.date))}</span>
       </div>`;
     })
