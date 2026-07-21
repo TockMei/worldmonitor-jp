@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { groupAlertsForDisplay } from './render.ts';
+import { countRecentAlertsByType, groupAlertsForDisplay } from './render.ts';
 import type { EconsecAlert } from './types';
 
 function alert(overrides: Partial<EconsecAlert>): EconsecAlert {
@@ -97,4 +97,28 @@ test('groupAlertsForDisplay groups by JST calendar day, not raw UTC date', () =>
   // Z alone (different JST day) + B,C,D (3, below threshold) -> all singles
   assert.equal(splitItems.length, 4);
   assert.ok(splitItems.every((item) => item.kind === 'single'));
+});
+
+test('countRecentAlertsByType counts each type within the last 7 days and excludes older alerts', () => {
+  const now = new Date('2026-07-18T12:00:00.000Z').getTime();
+  const alerts = [
+    alert({ type: 'add', date: '2026-07-18T00:00:00.000Z' }), // within
+    alert({ type: 'add', date: '2026-07-15T00:00:00.000Z' }), // within
+    alert({ type: 'remove', date: '2026-07-12T00:00:00.000Z' }), // within (after the 07-11T12:00 cutoff)
+    alert({ type: 'page-change', date: '2026-07-10T00:00:00.000Z' }), // outside (8 days before now)
+  ];
+
+  const counts = countRecentAlertsByType(alerts, now);
+
+  assert.deepEqual(counts, { add: 2, remove: 1, 'page-change': 0, 'fr-new': 0 });
+});
+
+test('countRecentAlertsByType returns all-zero counts for an empty or fully-stale alert list', () => {
+  const now = new Date('2026-07-18T12:00:00.000Z').getTime();
+  const alerts = [alert({ type: 'fr-new', date: '2026-06-01T00:00:00.000Z' })];
+
+  const counts = countRecentAlertsByType(alerts, now);
+
+  assert.deepEqual(counts, { add: 0, remove: 0, 'page-change': 0, 'fr-new': 0 });
+  assert.deepEqual(countRecentAlertsByType([], now), { add: 0, remove: 0, 'page-change': 0, 'fr-new': 0 });
 });

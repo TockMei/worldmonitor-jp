@@ -175,6 +175,36 @@ function bindAlertDetailToggle(panel: HTMLElement): void {
   });
 }
 
+// Toggles the alert panel's "?" legend popover. Delegated on the panel
+// container for the same reason as bindAlertDetailToggle/bindAlertGroupToggle
+// above: loadAlerts() replaces the panel's innerHTML wholesale on every
+// fetch, which would orphan a listener bound directly to the button.
+function bindAlertLegendToggle(panel: HTMLElement): void {
+  panel.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest<HTMLElement>('.econsec-alert-legend-toggle');
+    if (!btn) return;
+    const legend = panel.querySelector<HTMLElement>('#econsec-alert-legend');
+    if (!legend) return;
+    const expanded = !legend.hidden;
+    legend.hidden = expanded;
+    btn.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+  });
+}
+
+// Toggles the "このサイトについて" collapsible below the header. Static
+// markup (not re-rendered per fetch like the alert panel), so a direct
+// listener is fine - no delegation needed.
+function bindAboutToggle(): void {
+  const toggle = document.getElementById('econsec-about-toggle');
+  const body = document.getElementById('econsec-about-body');
+  if (!toggle || !body) return;
+  toggle.addEventListener('click', () => {
+    const expanded = !body.hidden;
+    body.hidden = expanded;
+    toggle.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+  });
+}
+
 function toggleAlertGroup(summary: HTMLElement): void {
   const group = summary.closest<HTMLElement>('.econsec-alert-group');
   const members = group?.querySelector<HTMLElement>('.econsec-alert-group-members');
@@ -220,6 +250,7 @@ function bindEvents(): void {
   bindHistoryToggle($('econsec-list'));
   bindAlertDetailToggle($('econsec-alerts-panel'));
   bindAlertGroupToggle($('econsec-alerts-panel'));
+  bindAlertLegendToggle($('econsec-alerts-panel'));
 
   const bindSelect = (id: string, key: 'category' | 'cost') => {
     $(id).addEventListener('change', (e) => {
@@ -240,6 +271,10 @@ function bindEvents(): void {
 }
 
 async function init(): Promise<void> {
+  // Independent of the sources fetch below, so it still works if that fetch
+  // fails.
+  bindAboutToggle();
+
   const list = $('econsec-list');
   try {
     const res = await fetch(SOURCES_URL, { credentials: 'same-origin' });
@@ -254,6 +289,11 @@ async function init(): Promise<void> {
 
   $('econsec-meta').textContent =
     `${data.meta.name} v${data.meta.version} (generated: ${data.meta.generated})`;
+  // "このサイトについて" cites the source count inline; sources.json is the
+  // single source of truth for it (see AGENTS.md), so the static "147" in
+  // index.html is swapped for the live count as soon as it's fetched.
+  const sourceCountEl = document.getElementById('econsec-source-count-inline');
+  if (sourceCountEl) sourceCountEl.textContent = String(data.sources.length);
   populateSelect('econsec-filter-region', uniqueValues(data.sources, 'region'));
   populateSelect('econsec-filter-category', uniqueValues(data.sources, 'category'));
   populateSelect('econsec-filter-cost', uniqueValues(data.sources, 'cost'));

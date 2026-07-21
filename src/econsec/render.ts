@@ -243,6 +243,27 @@ const ALERT_TYPE_BADGES: Record<string, string> = {
   'fr-new': '<span class="badge alert-badge-fr">官報</span>',
 };
 
+// Order for the 7-day summary badge and the legend's badge-meaning list -
+// same 4 types as ALERT_TYPE_BADGES, kept as a separate ordered array since
+// Record key order isn't guaranteed by the type system.
+const ALERT_TYPE_ORDER: EconsecAlertType[] = ['add', 'remove', 'page-change', 'fr-new'];
+
+const WEEKLY_BADGE_LABELS: Record<EconsecAlertType, string> = {
+  add: '追加',
+  remove: '削除',
+  'page-change': '変更',
+  'fr-new': '官報',
+};
+
+// The alert panel's entity-total figure is not derivable client-side: the
+// per-list entity counts only exist in data/econsec/watch/*.json, which is
+// not fetched by the browser (only sources/feeds/alerts/feed-history are
+// proxied - see vercel.json). Fixed per the 2026-07-22 display-layer-only
+// scope decision rather than wiring a new data endpoint for one label.
+const ENTITY_TOTAL_LABEL = '約5万件';
+
+const ALERT_WEEK_DAYS = 7;
+
 // yyyy-mm-dd in JST - same +9h shift as formatJst, so "same day" grouping
 // always matches the calendar date a human reading the JST-labeled
 // timestamps in the panel would expect (an alert at 23:58 UTC and one at
@@ -348,6 +369,64 @@ function renderAlertGroupRow(group: EconsecAlertGroup, keyPrefix: string): strin
       </div>`;
 }
 
+// Counts alerts from the last ALERT_WEEK_DAYS days by type, for the alert
+// panel's header summary badge. Independent of the 30-day display window
+// used by renderAlertsPanel below (7 days is always a subset of it, but this
+// stays correct even if that window changes).
+export function countRecentAlertsByType(
+  alerts: EconsecAlert[],
+  now: number = Date.now(),
+): Record<EconsecAlertType, number> {
+  const cutoff = now - ALERT_WEEK_DAYS * 24 * 60 * 60 * 1000;
+  const counts: Record<EconsecAlertType, number> = { add: 0, remove: 0, 'page-change': 0, 'fr-new': 0 };
+  for (const a of alerts) {
+    if (new Date(a.date).getTime() >= cutoff) counts[a.type] += 1;
+  }
+  return counts;
+}
+
+// "追加n・削除n・変更n・官報n" - zero-count types are omitted entirely (a
+// quiet week for one list type shouldn't show a "0" badge next to the ones
+// that did move).
+function renderWeeklyBadges(counts: Record<EconsecAlertType, number>): string {
+  const parts = ALERT_TYPE_ORDER.filter((t) => counts[t] > 0).map(
+    (t) => `<span class="econsec-weekly-badge econsec-weekly-badge-${t}">${WEEKLY_BADGE_LABELS[t]}${counts[t]}</span>`,
+  );
+  if (parts.length === 0) return '';
+  return `<span class="econsec-weekly-badges">${parts.join('<span class="econsec-weekly-sep">・</span>')}</span>`;
+}
+
+// Legend content behind the header's "?" toggle: the monitored-list names
+// (Japanese, same labels the alert rows themselves use), what the 4 badge
+// types mean, and that a grouped/aggregate row expands on click.
+function renderAlertLegend(): string {
+  const sourceNames = Object.values(ALERT_SOURCE_LABELS).join('、');
+  const badgeMeanings = [
+    ['add', '新規指定'],
+    ['remove', '指定解除'],
+    ['page-change', '規制ページの記載変更'],
+    ['fr-new', '官報への新規掲載'],
+  ] as const;
+  const badgeList = badgeMeanings
+    .map(([type, meaning]) => `${ALERT_TYPE_BADGES[type]}${escapeHtml(meaning)}`)
+    .join('');
+
+  return `
+    <div class="econsec-alert-legend" id="econsec-alert-legend" hidden>
+      <div class="econsec-legend-row">
+        <span class="econsec-legend-label">監視対象リスト</span>
+        <span class="econsec-legend-text">${escapeHtml(sourceNames)}</span>
+      </div>
+      <div class="econsec-legend-row">
+        <span class="econsec-legend-label">バッジの意味</span>
+        <span class="econsec-legend-badges">${badgeList}</span>
+      </div>
+      <div class="econsec-legend-row">
+        <span class="econsec-legend-text">件数でまとめられた集約行はクリックで個別エントリを展開できます。</span>
+      </div>
+    </div>`;
+}
+
 // Renders the regulatory-list/regulatory-page diff log watched by
 // scripts/econsec-watch.mjs: last 30 days, newest first, empty state shows
 // the last successful run time so a quiet week reads as "checked", not
@@ -362,10 +441,21 @@ export function renderAlertsPanel(data: EconsecAlertsResponse): string {
     .filter((a) => new Date(a.date).getTime() >= cutoff)
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
+  const weeklyCounts = countRecentAlertsByType(data.alerts);
+
   const header = `
     <div class="econsec-alerts-header">
-      <h2>規制アラート</h2>
-      <span class="econsec-alerts-updated">最終確認: ${escapeHtml(formatJst(data.meta.generated))}</span>
+      <div class="econsec-alerts-titlebar">
+        <h2>規制アラート<span class="econsec-alerts-sublabel">制裁・輸出管理リスト差分検知</span></h2>
+        <button type="button" class="econsec-alert-legend-toggle" aria-expanded="false" aria-controls="econsec-alert-legend" title="凡例">?</button>
+        <span class="econsec-alerts-updated">最終確認: ${escapeHtml(formatJst(data.meta.generated))}</span>
+      </div>
+      <div class="econsec-alerts-status">
+        <span class="econsec-status-dot" aria-hidden="true"></span>
+        <span class="econsec-status-text">${escapeHtml(ENTITY_TOTAL_LABEL)}・日次照合</span>
+        ${renderWeeklyBadges(weeklyCounts)}
+      </div>
+      ${renderAlertLegend()}
     </div>`;
 
   if (recent.length === 0) {

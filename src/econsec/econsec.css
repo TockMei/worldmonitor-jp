@@ -218,6 +218,52 @@ body {
   font-size: 10px;
 }
 
+.econsec-tagline {
+  color: var(--text-dim);
+  font-size: 10px;
+}
+
+/* "このサイトについて": same collapsed-by-default button+panel pattern as
+   .source-history-toggle / .econsec-alert-detail-toggle elsewhere on this
+   page, not a native <details> element. */
+.econsec-about {
+  margin-top: 12px;
+}
+
+.econsec-about-toggle {
+  font-family: inherit;
+  font-size: 11px;
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  padding: 3px 8px;
+  cursor: pointer;
+}
+
+.econsec-about-toggle:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.econsec-about-body {
+  margin-top: 6px;
+  padding: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-dim);
+  font-size: 11px;
+  line-height: 1.7;
+}
+
+.econsec-about-body p + p {
+  margin-top: 6px;
+}
+
+.econsec-about-example {
+  color: var(--text-dim);
+  font-size: 10px;
+}
+
 /* Regulatory alerts panel: entity-level diff log from econsec-watch.mjs,
    shown at the very top of the page (above the map/video section) so a new
    sanctions listing is the first thing visible. */
@@ -228,12 +274,15 @@ body {
 }
 
 .econsec-alerts-header {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 8px;
   padding: 8px 10px;
   border-bottom: 1px solid var(--border);
+}
+
+.econsec-alerts-titlebar {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
 }
 
 .econsec-alerts-header h2 {
@@ -242,9 +291,130 @@ body {
   letter-spacing: 0.05em;
 }
 
-.econsec-alerts-updated {
+.econsec-alerts-sublabel {
+  margin-left: 6px;
   color: var(--text-dim);
   font-size: 10px;
+  font-weight: 400;
+  letter-spacing: normal;
+}
+
+.econsec-alert-legend-toggle {
+  font-family: inherit;
+  font-size: 10px;
+  line-height: 1;
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+  padding: 0;
+  cursor: pointer;
+}
+
+.econsec-alert-legend-toggle:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.econsec-alerts-updated {
+  margin-left: auto;
+  color: var(--text-dim);
+  font-size: 10px;
+}
+
+.econsec-alerts-status {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+
+.econsec-status-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--green);
+  animation: econsec-status-blink 2s ease-in-out infinite;
+}
+
+@keyframes econsec-status-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
+.econsec-status-text {
+  color: var(--text-dim);
+  font-size: 10px;
+}
+
+.econsec-weekly-badges {
+  color: var(--text-dim);
+  font-size: 10px;
+  margin-left: 4px;
+}
+
+.econsec-weekly-badge-add {
+  color: var(--green);
+}
+
+.econsec-weekly-badge-remove {
+  color: var(--red);
+}
+
+.econsec-weekly-badge-page-change {
+  color: var(--yellow);
+}
+
+.econsec-weekly-badge-fr-new {
+  color: var(--text);
+}
+
+.econsec-weekly-sep {
+  color: var(--text-dim);
+  margin: 0 2px;
+}
+
+/* No `display` set here on purpose: this panel is toggled via the native
+   `hidden` DOM property (main.ts bindAlertLegendToggle), and an author rule
+   setting `display` on the same selector as `[hidden]` would win the
+   specificity tie and defeat it - same reasoning as .source-history and
+   .econsec-alert-group-members elsewhere on this page, which also stay
+   `display`-less for this reason. */
+.econsec-alert-legend {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+}
+
+.econsec-legend-row {
+  display: flex;
+  gap: 6px;
+  font-size: 10px;
+  line-height: 1.6;
+}
+
+.econsec-legend-row + .econsec-legend-row {
+  margin-top: 6px;
+}
+
+.econsec-legend-label {
+  flex-shrink: 0;
+  color: var(--text-dim);
+}
+
+.econsec-legend-text {
+  color: var(--text-dim);
+}
+
+.econsec-legend-badges {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-wrap: wrap;
+  color: var(--text-dim);
 }
 
 .econsec-alerts-empty {
@@ -316,6 +486,24 @@ body {
 }
 
 .econsec-alert-entity a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* Group summary rows (renderAlertGroupRow) are the only place a source
+   label is ever wrapped in a link - single alert rows show it as plain
+   text. Without an explicit color here it falls back to the UA default
+   link blue (-webkit-link), which - unlike every other explicitly-colored
+   link on this page - fails to resolve a CJK glyph in this font stack and
+   renders as tofu. Confirmed by isolated repro: identical text/font-family,
+   only the default link color produced the missing glyph. */
+.econsec-alert-source a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--text-dim);
+}
+
+.econsec-alert-source a:hover {
   color: var(--accent);
   border-bottom-color: var(--accent);
 }
