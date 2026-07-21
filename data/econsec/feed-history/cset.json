@@ -1,8 +1,14 @@
 {
   "id": "cset",
   "label": "CSET（Georgetown）",
-  "generated": "2026-07-20T22:05:23.456Z",
+  "generated": "2026-07-21T22:05:28.619Z",
   "items": [
+    {
+      "title": "Why Do AI Systems Misbehave?",
+      "link": "https://cset.georgetown.edu/article/why-do-ai-systems-misbehave/",
+      "date": "Tue, 21 Jul 2026 13:30:36 +0000",
+      "firstSeen": "2026-07-21T22:05:28.619Z"
+    },
     {
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "link": "https://cset.georgetown.edu/article/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",

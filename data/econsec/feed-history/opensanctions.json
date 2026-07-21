@@ -1,8 +1,14 @@
 {
   "id": "opensanctions",
   "label": "OpenSanctions",
-  "generated": "2026-07-20T22:05:23.456Z",
+  "generated": "2026-07-21T22:05:28.619Z",
   "items": [
+    {
+      "title": "How Marble built on top of our open-source matcher",
+      "link": "https://www.opensanctions.org/articles/2026-07-21-marble/",
+      "date": "Mon, 20 Jul 2026 15:58:54 GMT",
+      "firstSeen": "2026-07-21T22:05:28.619Z"
+    },
     {
       "title": "How we’re adding PEP data sources faster: The Australian example",
       "link": "https://www.opensanctions.org/articles/2026-07-01-australia-peps/",

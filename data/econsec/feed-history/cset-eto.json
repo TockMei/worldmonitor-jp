@@ -1,8 +1,14 @@
 {
   "id": "cset-eto",
   "label": "CSET ETO",
-  "generated": "2026-07-20T22:05:23.456Z",
+  "generated": "2026-07-21T22:05:28.619Z",
   "items": [
+    {
+      "title": "Chinese AI undercuts American models: editors' picks from ETO Scout, volume 29 (5/11/26-7/21/26)",
+      "link": "https://eto.tech/blog/scout-editors-picks-volume-29/",
+      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-21T22:05:28.619Z"
+    },
     {
       "title": "Updates to PATHWISE, our emerging technology talent tracking tool",
       "link": "https://eto.tech/blog/updates-to-pathwise-our-emerging-technology-talent-tracking-tool/",
