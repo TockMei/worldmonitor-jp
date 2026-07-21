@@ -1,8 +1,14 @@
 {
   "id": "cset",
   "label": "CSET（Georgetown）",
-  "generated": "2026-07-18T12:49:22.971Z",
+  "generated": "2026-07-20T22:05:23.456Z",
   "items": [
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "link": "https://cset.georgetown.edu/article/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "date": "Wed, 15 Jul 2026 21:00:00 +0000",
+      "firstSeen": "2026-07-20T22:05:23.456Z"
+    },
     {
       "title": "Washington Is Looking to Keep China From Training Its AI on US Models",
       "link": "https://cset.georgetown.edu/article/washington-is-looking-to-keep-china-from-training-its-ai-on-us-models/",

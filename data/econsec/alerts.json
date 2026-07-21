@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-18T12:49:22.971Z"
+    "generated": "2026-07-20T22:05:23.456Z"
   },
   "alerts": [
     {
@@ -5732,6 +5732,27 @@
       "entity": "Amendments and Nonconformance Penalties for Model Year 2027 and Later Heavy-Duty Highway Engines and Amendments to Inducement Provisions for SCR-Equipped Diesel Engines",
       "detail": "2026-07-14",
       "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14112/amendments-and-nonconformance-penalties-for-model-year-2027-and-later-heavy-duty-highway-engines-and"
+    },
+    {
+      "date": "2026-07-18T22:01:55.971Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "－Last Updated 09/29/2019／＋Last Updated 07/16/2026"
+    },
+    {
+      "date": "2026-07-19T22:02:54.231Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "－Last Updated 07/16/2026／＋Last Updated 03/08/2024"
+    },
+    {
+      "date": "2026-07-20T22:05:23.456Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "－Last Updated 03/08/2024／＋Last Updated 07/20/2026"
     }
   ]
 }
