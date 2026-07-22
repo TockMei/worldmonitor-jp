@@ -23,6 +23,7 @@ import {
   populateFeedContainers,
   renderAlertsPanel,
   renderFeedHistoryList,
+  renderSourceLegend,
   renderSourceList,
   tierCounts,
   uniqueValues,
@@ -205,6 +206,23 @@ function bindAboutToggle(): void {
   });
 }
 
+// Toggles the source directory's "?" legend popover. Static markup, same
+// pattern as bindAboutToggle - the legend content has no per-source data,
+// so it's populated once here rather than re-rendered with the list.
+function bindSourceLegendToggle(): void {
+  const container = document.getElementById('econsec-source-legend-container');
+  const toggle = document.getElementById('econsec-source-legend-toggle');
+  if (!container || !toggle) return;
+  container.innerHTML = renderSourceLegend();
+  const legend = document.getElementById('econsec-source-legend');
+  if (!legend) return;
+  toggle.addEventListener('click', () => {
+    const expanded = !legend.hidden;
+    legend.hidden = expanded;
+    toggle.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+  });
+}
+
 function toggleAlertGroup(summary: HTMLElement): void {
   const group = summary.closest<HTMLElement>('.econsec-alert-group');
   const members = group?.querySelector<HTMLElement>('.econsec-alert-group-members');
@@ -274,6 +292,7 @@ async function init(): Promise<void> {
   // Independent of the sources fetch below, so it still works if that fetch
   // fails.
   bindAboutToggle();
+  bindSourceLegendToggle();
 
   const list = $('econsec-list');
   try {

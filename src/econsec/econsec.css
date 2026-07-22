@@ -614,6 +614,34 @@ body {
   color: var(--text-dim);
 }
 
+.econsec-source-legend-toggle {
+  font-family: inherit;
+  font-size: 10px;
+  line-height: 1;
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 50%;
+  width: 14px;
+  height: 14px;
+  padding: 0;
+  cursor: pointer;
+}
+
+.econsec-source-legend-toggle:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* No `display` set here on purpose: toggled via the native `hidden` DOM
+   property (main.ts bindSourceLegendToggle) - same reasoning as
+   .econsec-alert-legend above. */
+.econsec-source-legend {
+  margin: 8px 0 12px;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+}
+
 /* Source list: multi-column card grid on desktop, matching the main
    dashboard's .panels-grid density; collapses to a single stacked column at
    the same breakpoint the dashboard uses for its own mobile layout

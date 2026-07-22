@@ -38,12 +38,14 @@
       <nav id="econsec-tabs" class="econsec-tabs"></nav>
 
       <div class="econsec-filters">
+        <button type="button" id="econsec-source-legend-toggle" class="econsec-source-legend-toggle" aria-expanded="false" aria-controls="econsec-source-legend" title="凡例">?</button>
         <label>region <select id="econsec-filter-region"></select></label>
         <label>category <select id="econsec-filter-category"></select></label>
         <label>cost <select id="econsec-filter-cost"></select></label>
         <input id="econsec-search" type="search" placeholder="検索（名称・notes・URL）" />
         <span id="econsec-count"></span>
       </div>
+      <div id="econsec-source-legend-container"></div>
 
       <main id="econsec-list"></main>
     </div>

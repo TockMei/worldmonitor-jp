@@ -29,6 +29,8 @@ const MR_BADGES: Record<string, string> = {
   xml: 'XML',
 };
 
+const MR_DESCRIPTION = '機械取得可能な配信形式。自動監視・履歴蓄積の対象にできる';
+
 const STATUS_LABELS: Record<string, string> = {
   ok: 'OK',
   redirect: 'REDIRECT',
@@ -36,6 +38,25 @@ const STATUS_LABELS: Record<string, string> = {
   dead: 'DEAD',
   dead_candidate: 'DEAD候補',
   skip: 'SKIP',
+};
+
+// Mirrors scripts/econsec-check.mjs's status semantics (see its header
+// comment): dead_candidate is the unconfirmed first failure, dead is only
+// set after a second consecutive failing run.
+const STATUS_DESCRIPTIONS: Record<string, string> = {
+  ok: '正常応答',
+  redirect: 'URL移転を検知（リンクは新URLへ）',
+  blocked: 'bot対策等で自動確認不可（サイト自体は稼働の可能性が高い）',
+  dead_candidate: '初回失敗を検知・未確定（要再確認）',
+  dead: '連続失敗で確定・要確認',
+  skip: 'SNS等、自動死活チェック対象外',
+};
+const STATUS_UNCHECKED_DESCRIPTION = '自動チェック未実施';
+
+const COST_DESCRIPTIONS: Record<string, string> = {
+  free: '無料',
+  freemium: '一部無料',
+  paid: '有償',
 };
 
 // Japanese-first labels for the alert panel's source column. Sources with
@@ -121,15 +142,18 @@ export function tierCounts(sources: EconsecSource[]): Record<EconsecTier | 'all'
 function renderMrBadges(mr: string[]): string {
   return mr
     .filter((m) => m in MR_BADGES)
-    .map((m) => `<span class="badge badge-mr badge-mr-${m}">${MR_BADGES[m]}</span>`)
+    .map((m) => `<span class="badge badge-mr badge-mr-${m}" title="${escapeHtml(MR_BADGES[m] || m)}: ${escapeHtml(MR_DESCRIPTION)}">${MR_BADGES[m]}</span>`)
     .join('');
 }
 
 function renderStatusBadge(s: EconsecSource): string {
-  if (!s.status) return '<span class="badge badge-status badge-status-unchecked">未チェック</span>';
+  if (!s.status) {
+    return `<span class="badge badge-status badge-status-unchecked" title="${escapeHtml(STATUS_UNCHECKED_DESCRIPTION)}">未チェック</span>`;
+  }
   const label = STATUS_LABELS[s.status] || escapeHtml(s.status);
-  const checked = s.last_checked ? ` title="checked: ${escapeHtml(s.last_checked)}"` : '';
-  return `<span class="badge badge-status badge-status-${escapeHtml(s.status)}"${checked}>${label}</span>`;
+  const description = STATUS_DESCRIPTIONS[s.status] || '';
+  const checked = s.last_checked ? `（checked: ${escapeHtml(s.last_checked)}）` : '';
+  return `<span class="badge badge-status badge-status-${escapeHtml(s.status)}" title="${escapeHtml(label)}: ${escapeHtml(description)}${checked}">${label}</span>`;
 }
 
 export function renderSourceRow(s: EconsecSource): string {
@@ -141,13 +165,13 @@ export function renderSourceRow(s: EconsecSource): string {
     : '';
   const noLinkNote = s.url
     ? ''
-    : '<span class="badge badge-nolink">リンクなし</span>';
+    : '<span class="badge badge-nolink" title="URLが未収録">リンクなし</span>';
   const tags = [
-    `<span class="tag tag-tier">T${escapeHtml(s.tier)}</span>`,
+    `<span class="tag tag-tier" title="${escapeHtml(TIER_LABELS[s.tier])}">T${escapeHtml(s.tier)}</span>`,
     `<span class="tag">${escapeHtml(s.region)}</span>`,
     `<span class="tag">${escapeHtml(s.category)}</span>`,
     `<span class="tag">${escapeHtml(s.lang)}</span>`,
-    `<span class="tag tag-cost-${escapeHtml(s.cost)}">${escapeHtml(s.cost)}</span>`,
+    `<span class="tag tag-cost-${escapeHtml(s.cost)}" title="${escapeHtml(COST_DESCRIPTIONS[s.cost] || s.cost)}">${escapeHtml(s.cost)}</span>`,
   ].join('');
   // Feed items are filled in later (client-side, once /internal/econsec/feeds.json
   // resolves) via populateFeedContainer; only sources tagged mr:"rss" get a
@@ -171,6 +195,59 @@ export function renderSourceRow(s: EconsecSource): string {
       <div class="source-row-tags">${tags}</div>
       <div class="source-row-notes">${escapeHtml(s.notes)}</div>
       ${feedContainer}
+    </div>`;
+}
+
+const STATUS_LEGEND_ORDER = ['ok', 'redirect', 'blocked', 'dead_candidate', 'dead', 'skip'] as const;
+const COST_LEGEND_ORDER: Array<'free' | 'freemium' | 'paid'> = ['free', 'freemium', 'paid'];
+const TIER_LEGEND_ORDER: EconsecTier[] = ['0', '1', '2', '3', 'raw'];
+
+// Legend content behind the source directory's "?" toggle: what each
+// implemented badge/tag means, using the same markup (badge span + label)
+// shown on the source cards themselves so the legend's colors always match
+// what's on screen. Same toggle-behind-"?", default-closed pattern as the
+// alert panel (renderAlertLegend above).
+export function renderSourceLegend(): string {
+  const statusList = STATUS_LEGEND_ORDER
+    .map(
+      (status) =>
+        `<span class="badge badge-status badge-status-${status}">${STATUS_LABELS[status]}</span>${escapeHtml(STATUS_DESCRIPTIONS[status] || '')}`,
+    )
+    .join('');
+  const uncheckedItem = `<span class="badge badge-status badge-status-unchecked">未チェック</span>${escapeHtml(STATUS_UNCHECKED_DESCRIPTION)}`;
+
+  const mrList = Object.entries(MR_BADGES)
+    .map(([m, label]) => `<span class="badge badge-mr badge-mr-${m}">${label}</span>`)
+    .join('');
+
+  const costList = COST_LEGEND_ORDER
+    .map((cost) => `<span class="tag tag-cost-${cost}">${cost}</span>${escapeHtml(COST_DESCRIPTIONS[cost] || '')}`)
+    .join('');
+
+  const tierList = TIER_LEGEND_ORDER
+    .map((tier) => `<span class="tag tag-tier">T${tier}</span>${escapeHtml(TIER_LABELS[tier])}`)
+    .join('');
+
+  return `
+    <div class="econsec-source-legend" id="econsec-source-legend" hidden>
+      <div class="econsec-legend-row">
+        <span class="econsec-legend-label">ステータス</span>
+        <span class="econsec-legend-badges">${statusList}${uncheckedItem}</span>
+      </div>
+      <div class="econsec-legend-row">
+        <span class="econsec-legend-label">機械可読</span>
+        <span class="econsec-legend-badges">${mrList}</span>
+        <span class="econsec-legend-text">${escapeHtml(MR_DESCRIPTION)}</span>
+      </div>
+      <div class="econsec-legend-row">
+        <span class="econsec-legend-label">費用</span>
+        <span class="econsec-legend-badges">${costList}</span>
+      </div>
+      <div class="econsec-legend-row">
+        <span class="econsec-legend-label">分類</span>
+        <span class="econsec-legend-badges">${tierList}</span>
+        <span class="econsec-legend-text">ほか地域・言語タグ</span>
+      </div>
     </div>`;
 }
 
