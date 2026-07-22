@@ -1,8 +1,14 @@
 {
   "id": "ifi",
   "label": "Institute for Financial Integrity 月次レポート",
-  "generated": "2026-07-21T22:05:28.619Z",
+  "generated": "2026-07-22T22:05:33.220Z",
   "items": [
+    {
+      "title": "The Hidden Factor Behind Effective Compliance Training",
+      "link": "https://finintegrity.org/the-hidden-factor-behind-effective-compliance-training/",
+      "date": "Wed, 22 Jul 2026 11:00:13 +0000",
+      "firstSeen": "2026-07-22T22:05:33.220Z"
+    },
     {
       "title": "Social Engineering Is Rewriting the Fraud Playbook",
       "link": "https://finintegrity.org/social-engineering-is-rewriting-the-fraud-playbook/",

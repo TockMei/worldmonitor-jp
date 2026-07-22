@@ -1,8 +1,26 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-07-21T22:05:28.619Z",
+  "generated": "2026-07-22T22:05:33.220Z",
   "items": [
+    {
+      "title": "Copernicus Sentinel-3A unavailability notice for the IP manoeuvre #158 planned on 22 July 2026 [DOY 203]",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-22-copernicus-sentinel-3a-unavailability-notice-ip-manoeuvre-158-planned-22-july-2026",
+      "date": "Wed, 22 Jul 2026 08:34:24 UTC",
+      "firstSeen": "2026-07-22T22:05:33.220Z"
+    },
+    {
+      "title": "[UPDATE] Copernicus Sentinel-2B Temporary Data Availability Delay (19–20 July 2026)",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-22-update-copernicus-sentinel-2b-temporary-data-availability-delay-19-20-july-2026",
+      "date": "Wed, 22 Jul 2026 08:20:46 UTC",
+      "firstSeen": "2026-07-22T22:05:33.220Z"
+    },
+    {
+      "title": "VHR IMAGE 2024 Mosaic Now Available in Copernicus Browser",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-22-vhr-image-2024-mosaic-now-available-copernicus-browser",
+      "date": "Wed, 22 Jul 2026 06:54:20 UTC",
+      "firstSeen": "2026-07-22T22:05:33.220Z"
+    },
     {
       "title": "Copernicus Sentinel-3A unavailability notice for the OLCI S09 Calibration planned on 26 July 2026 [DOY 207]",
       "link": "https://dataspace.copernicus.eu/news/2026-7-17-copernicus-sentinel-3a-unavailability-notice-olci-s09-calibration-planned-26-july",
