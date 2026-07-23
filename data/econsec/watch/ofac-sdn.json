@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-07-22T22:05:33.220Z",
+  "generated": "2026-07-23T22:05:56.839Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19169,
+  "count": 19241,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -47313,10 +47313,6 @@
       "name": "AJROUCH, Ali Ismail",
       "list": "SDGT"
     },
-    "44525": {
-      "name": "BEL-KAP-STEEL LLC",
-      "list": "BELARUS-EO14038"
-    },
     "44538": {
       "name": "ALEKSIN, Dzmitry Aliakseevich",
       "list": "BELARUS-EO14038"
@@ -74973,6 +74969,10 @@
       "name": "GARCIA BATTE, Omar Fernando",
       "list": "SUDAN-EO14098"
     },
+    "57370": {
+      "name": "GONZALEZ, Juan Carlos",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
     "57384": {
       "name": "BALKHKANLU, Kamal Sabah",
       "list": "NPWMD] [IFSR"
@@ -76353,13 +76353,29 @@
       "name": "SPIDER GAYRIMENKUL VE GENEL TICARET LIMITED SIRKETI",
       "list": "SDGT"
     },
+    "57965": {
+      "name": "ZEPEDA RODRIGUEZ, Jorge",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "57966": {
+      "name": "DIAZ ROBLES, Marcial Apolinar",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
     "57967": {
       "name": "ALKARAM DANISMANLIK GAYRIMENKUL IC VE DIS GENEL TICARET LIMITED SIRKETI",
       "list": "SDGT"
     },
+    "57968": {
+      "name": "DIAZ ROBLES, Pedro Marcial",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
     "57969": {
       "name": "MUHAMMAD, Mukhtar Adamu",
       "list": "SDGT"
+    },
+    "57970": {
+      "name": "OPTIC PRIVATE TRANSPORTATION S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
     },
     "57971": {
       "name": "NINE TO NINE EXCHANGE BUREAU DE CHANGE LIMITED",
@@ -76392,6 +76408,138 @@
     "57978": {
       "name": "RASHEVSKYI, Dmytro",
       "list": "CYBER4"
+    },
+    "57995": {
+      "name": "RODRIGUEZ FLORES, Salvador Israel",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "57996": {
+      "name": "VILLA SANCHEZ, Jorge",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "57997": {
+      "name": "MEDINA CHAVIRA, Adolfo Gabriel",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "57998": {
+      "name": "CRUZ CABRERA, Jorge Fernando",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "57999": {
+      "name": "CASTELLANOS CEJA, Julio Cesar",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58000": {
+      "name": "MENDOZA GARCIA, Luis Mario",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58002": {
+      "name": "SANCHEZ TAMAYO, Hugo Alejandro",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58003": {
+      "name": "MEDIN PRODUCTS",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58004": {
+      "name": "MUNDO FIT SUPLEMENTOS S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58013": {
+      "name": "BOTELLO ROZALEZ, Gerardo",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58014": {
+      "name": "BOTELLO RODRIGUEZ, Gustavo",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58015": {
+      "name": "BOTELLO RODRIGUEZ, Wiliams Geovanni",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58016": {
+      "name": "BUBUX BABY SHOES S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58017": {
+      "name": "AYALA BOTELLO, Miguel Angel",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58018": {
+      "name": "CORPORATIVO DE SEGURIDAD PRIVADA ALFA Y GAMA S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58019": {
+      "name": "RANCHO SAN MIGUEL LOS TRES HERMANOS S.P.R. DE R.L. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58020": {
+      "name": "GREEN AGROPACIFIC S.P.R. DE R.L. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58021": {
+      "name": "CISNEROS TAPIA, Liliana",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58022": {
+      "name": "BOTELLO ORTIZ, Edgar Gerardo",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58023": {
+      "name": "BOTELLO ORTIZ, Jesus David",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58024": {
+      "name": "BOTELLO ORTIZ, Ricardo",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58033": {
+      "name": "LEDEZMA RAMIREZ, Feliciano",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58034": {
+      "name": "MENA ALVARADO, Alma Laura",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58035": {
+      "name": "MORA LEON, Jose",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58036": {
+      "name": "STRONG ENERGY S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58037": {
+      "name": "TRANSIC LOGISTIC S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58038": {
+      "name": "GONZALEZ RAMIREZ, Francisco Noe",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58039": {
+      "name": "LOZA GARCIA, Rodolfo Alejandro",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58041": {
+      "name": "RAMIREZ BANALES, Karely Lizbeth",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58042": {
+      "name": "MEDINA FLORES, Areli Isis",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58043": {
+      "name": "RUIZ BANUELOS, Jose Guadalupe",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58044": {
+      "name": "VILLASENOR OLIVARES, Cesar Alejandro",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58045": {
+      "name": "SERRANO MAGANA, Gabriel",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
     },
     "58046": {
       "name": "ASSOCIATION OF COMBATANTS OF THE CUBAN REVOLUTION",
@@ -76432,6 +76580,74 @@
     "58059": {
       "name": "MINISTRY OF TOURISM OF CUBA",
       "list": "CUBA-EO14404"
+    },
+    "58060": {
+      "name": "GARCIA MARTINEZ, Jose Octaviano",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58061": {
+      "name": "DOMINGUEZ AGUILERA, Joana",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58062": {
+      "name": "PETROCODA S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58063": {
+      "name": "STELLA SERVICIOS COMERCIALES Y EMPRESARIALES S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58064": {
+      "name": "EL ALMACEN LICORERIA",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58065": {
+      "name": "ALVARADO RODRIGUEZ, Martha Alicia",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58066": {
+      "name": "RIVERA ZEPEDA, Cuauhtemoc",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58067": {
+      "name": "HERNANDEZ MORALES, Uriel",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58068": {
+      "name": "CORONA PIMENTEL, Efrain",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58069": {
+      "name": "LOPEZ LARIOS, Angel Gabriel",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58070": {
+      "name": "GUTIERREZ VALDEZ, Jose Jesus",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58071": {
+      "name": "MORENO LOPEZ, Fidel Damian",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58072": {
+      "name": "JIMENEZ ARIAS, Roberto",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58073": {
+      "name": "PRODUCTORES VAGU S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58074": {
+      "name": "CASA TEQUILERA EL ORIGEN DEL TEQUILA S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58075": {
+      "name": "HURRARI KASH S.A. PROMOTORA DE INVERSION DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58076": {
+      "name": "AGROPECUARIA AMATEQ DEL VALLE S.A. DE C.V.",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
     },
     "58077": {
       "name": "SILAYEV, Yevgeniy Vladimirovich",
@@ -76680,6 +76896,78 @@
     "58160": {
       "name": "KAALUND, Martin Austin",
       "list": "IRAN-EO13902"
+    },
+    "58195": {
+      "name": "EL-ABIARY, Mahmoud",
+      "list": "SDGT"
+    },
+    "58196": {
+      "name": "MADAD PALESTINE CHARITABLE SOCIETY",
+      "list": "SDGT"
+    },
+    "58197": {
+      "name": "EL-KAHIRA FOR GENERAL TRADING",
+      "list": "SDGT"
+    },
+    "58198": {
+      "name": "ALDEN, Khaldun Khamis Zakaria",
+      "list": "SDGT"
+    },
+    "58199": {
+      "name": "AL-JEBOURI, Zaid Issam Ahmed",
+      "list": "SDGT"
+    },
+    "58200": {
+      "name": "AL-JEBOURI, Abdulla Issam Ahmad",
+      "list": "SDGT"
+    },
+    "58201": {
+      "name": "TUJUH BULIR GLOBAL",
+      "list": "SDGT"
+    },
+    "58202": {
+      "name": "ORBIT S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58203": {
+      "name": "TERMINAL DE CONTENEDORES DE MARIEL S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58204": {
+      "name": "CORAL MARITIMA S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58205": {
+      "name": "CEIBA INVESTMENTS LIMITED",
+      "list": "CUBA-EO14404"
+    },
+    "58206": {
+      "name": "EMPRESA DE ENERGIA S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58207": {
+      "name": "EINARBO S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58208": {
+      "name": "CENTRO DE INVESTIGACIONES DEL PETROLEO S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58210": {
+      "name": "COMERCIALIZADORA DE SERVICIOS MEDICOS CUBANOS SA",
+      "list": "CUBA-EO14404"
+    },
+    "58211": {
+      "name": "PORTAL MIRANDA, Jose Angel",
+      "list": "CUBA-EO14404"
+    },
+    "58212": {
+      "name": "UNIDAD CENTRAL DE COOPERACION MEDICA",
+      "list": "CUBA-EO14404"
+    },
+    "58213": {
+      "name": "SANCHEZ PADRON, Gretza",
+      "list": "CUBA-EO14404"
     }
   }
 }

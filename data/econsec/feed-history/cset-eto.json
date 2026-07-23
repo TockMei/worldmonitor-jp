@@ -1,8 +1,14 @@
 {
   "id": "cset-eto",
   "label": "CSET ETO",
-  "generated": "2026-07-22T22:05:33.220Z",
+  "generated": "2026-07-23T22:05:56.839Z",
   "items": [
+    {
+      "title": "Exploring State AI Governance in AGORA #2: AI Regulatory Sandboxes",
+      "link": "https://eto.tech/blog/agora-state-ai-governance-tracker-2/",
+      "date": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-23T22:05:56.839Z"
+    },
     {
       "title": "Chinese AI undercuts American models: editors' picks from ETO Scout, volume 29 (5/11/26-7/21/26)",
       "link": "https://eto.tech/blog/scout-editors-picks-volume-29/",

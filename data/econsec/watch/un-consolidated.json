@@ -1,9 +1,9 @@
 {
   "id": "un-consolidated",
   "label": "UN Security Council Consolidated List",
-  "generated": "2026-07-22T22:05:33.220Z",
+  "generated": "2026-07-23T22:05:56.839Z",
   "resolvedUrl": "https://scsanctions.un.org/resources/xml/en/name/consolidated.xml",
-  "count": 1010,
+  "count": 1011,
   "entities": {
     "110326": {
       "name": "YAZD METALLURGY INDUSTRIES (YMI)",
@@ -4008,6 +4008,10 @@
     "6909560": {
       "name": "MATEO ANDRES DUQUE BOTERO",
       "list": "Sudan"
+    },
+    "6909568": {
+      "name": "AVAX",
+      "list": "Libya"
     },
     "6909613": {
       "name": "CORNEILLE NANGAA YOBELUO",

@@ -1,7 +1,7 @@
 {
   "id": "uksl",
   "label": "UK Sanctions List (UKSL, successor to the OFSI Consolidated List)",
-  "generated": "2026-07-22T22:05:33.220Z",
+  "generated": "2026-07-23T22:05:56.839Z",
   "resolvedUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
   "count": 6314,
   "entities": {
@@ -14654,7 +14654,7 @@
       "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜個人"
     },
     "RUS1333": {
-      "name": "Pavel EZUBOV",
+      "name": "Pavel Alexeevich EZOUBOV",
       "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜個人"
     },
     "RUS1334": {
@@ -23258,7 +23258,7 @@
       "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜個人"
     },
     "RUS3697": {
-      "name": "Darya ROSLYAKOVA",
+      "name": "Darya Sergeyevna ROSLYAKOVA",
       "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜個人"
     },
     "RUS3698": {
