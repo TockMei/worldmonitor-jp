@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-23T22:05:56.839Z"
+    "generated": "2026-07-24T22:05:39.748Z"
   },
   "alerts": [
     {
@@ -7535,6 +7535,389 @@
       "entity": "Agency Information Collection Activities; Notice and Request for Comment; Distraction: Modern Voice Command Interfaces",
       "detail": "2026-07-23",
       "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14904/agency-information-collection-activities-notice-and-request-for-comment-distraction-modern-voice"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ZEDPAY FINANSAL SISTEM VE HIZMETLERI ANONIM SIRKETI",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DOT ONE VALUE CREATION GROUP",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ZEDX DMCC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DOTONE GOLD COMPANY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DOTONE RAIL COMPANY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DOTONE BARTER COMPANY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DOTONE AIRLINES COMPANY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "DOTONE TRIP",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "BZ DIAMOND DMCC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "ZANJANI, Bahareh Morteza",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "REZAZADEH, Mehdi",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "OIMAKHMADOV, Sukhrob",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "BANI, Solmaz",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ZEDPAY FINANSAL SISTEM VE HIZMETLERI ANONIM SIRKETI",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DOT ONE VALUE CREATION GROUP",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ZEDX DMCC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DOTONE GOLD COMPANY",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DOTONE RAIL COMPANY",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DOTONE BARTER COMPANY",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DOTONE AIRLINES COMPANY",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "DOTONE TRIP",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "BZ DIAMOND DMCC",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "ZANJANI, Bahareh Morteza",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "REZAZADEH, Mehdi",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "OIMAKHMADOV, Sukhrob",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "BANI, Solmaz",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "uksl",
+      "type": "add",
+      "entity": "IMO 9058713 ('AVAX')",
+      "detail": "The Libya (Sanctions) (EU Exit) Regulations 2020｜Ship",
+      "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "－Last Updated 07/20/2026／＋Last Updated 11/26/2025"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Bureau of Political-Military Affairs; Statutory Debarment Under the Arms Export Control Act and the International Traffic in Arms Regulations",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15042/bureau-of-political-military-affairs-statutory-debarment-under-the-arms-export-control-act-and-the"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Availability of Record of Decision for the Surveillance Towed Array Sensor System Low-Frequency Active Sonar Training and Testing Supplemental Environmental Impact Statement/Overseas Environmental Impact Statement in the Western North Pacific and Indian Oceans (ID# SEIS-007-17-USN-1727716941)",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15011/notice-of-availability-of-record-of-decision-for-the-surveillance-towed-array-sensor-system"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Nondiscrimination in Federally Assisted Programs of the Department of Defense-Effectuation of Title VI of the Civil Rights Act of 1964; Amendment",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-14983/nondiscrimination-in-federally-assisted-programs-of-the-department-of-defense-effectuation-of-title"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Amendment of Class D Airspace and Class E Airspace Over Westfield, MA",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15062/amendment-of-class-d-airspace-and-class-e-airspace-over-westfield-ma"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15048/agency-information-collection-activities-proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Establishment of Class E Airspace; Ottawa, IL",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15047/establishment-of-class-e-airspace-ottawa-il"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "HHS Request for Comment on the Update to the National Plan To Address Alzheimer's Disease",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15045/hhs-request-for-comment-on-the-update-to-the-national-plan-to-address-alzheimers-disease"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Freeport LNG Development, L.P.; FLNG Liquefaction, LLC; FLNG Liquefaction 2, LLC; FLNG Liquefaction 3, LLC; Notice of Application and Establishing Intervention Deadline",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15040/freeport-lng-development-lp-flng-liquefaction-llc-flng-liquefaction-2-llc-flng-liquefaction-3-llc"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Amendment to the Definition of Huione Group, a Financial Institution Operating Outside the United States of Primary Money Laundering Concern; Extension of Comment Period",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15030/proposed-amendment-to-the-definition-of-huione-group-a-financial-institution-operating-outside-the"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Loan Performance Categories and Financial Reporting",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15027/loan-performance-categories-and-financial-reporting"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Rescinding Portions of the Department of Education Title VI Regulations To Align With the Statutory Text and Conform to Executive Order 14281",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15019/rescinding-portions-of-the-department-of-education-title-vi-regulations-to-align-with-the-statutory"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Pacific Island Fisheries; 2026-2028 Annual Catch Limits and Accountability Measures for Deepwater Shrimp and Precious Coral Fisheries in Hawaii",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15018/pacific-island-fisheries-2026-2028-annual-catch-limits-and-accountability-measures-for-deepwater"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Final Waivers and Extensions of the Project Periods With Funding for the Native American Career and Technical Education Program (NACTEP)",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15009/final-waivers-and-extensions-of-the-project-periods-with-funding-for-the-native-american-career-and"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "New Postal Products",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15007/new-postal-products"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Rescinding Portions of the U.S. Department of Health and Human Services Title VI Regulations To Align With the Statutory Text and Conform to Executive Order 14281",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15000/rescinding-portions-of-the-us-department-of-health-and-human-services-title-vi-regulations-to-align"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Significant New Use Rule on a Certain Chemical Substance; Multi-Walled Carbon Nanotubes",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-14994/significant-new-use-rule-on-a-certain-chemical-substance-multi-walled-carbon-nanotubes"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Cboe Clear U.S., LLC; Notice of Filing of an Application, as Amended, for Temporary Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-14979/cboe-clear-us-llc-notice-of-filing-of-an-application-as-amended-for-temporary-registration-as-a"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing of Partial Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend Rules 19.3 and 19.4 To Establish Listing Criteria and Withdrawal Standards for Options on Commodity-Based Trusts That Hold Multiple Crypto Assets",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-14977/self-regulatory-organizations-memx-llc-notice-of-filing-of-partial-amendment-no-1-and-order-granting"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Modify Rules 971.1NYP and 971.2NYP To Allow FLEX Options To Trade in Its CUBE Auction for Single-Leg and Complex Orders",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-14976/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
+    },
+    {
+      "date": "2026-07-24T22:05:39.748Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of the Establishment of the Arctic Shipping Federal Advisory Committee; Solicitation of Nominations for Membership",
+      "detail": "2026-07-24",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-14962/notice-of-the-establishment-of-the-arctic-shipping-federal-advisory-committee-solicitation-of"
     }
   ]
 }

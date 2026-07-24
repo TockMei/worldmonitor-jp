@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-07-23T22:05:56.839Z",
+  "generated": "2026-07-24T22:05:39.748Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19241,
+  "count": 19254,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -76895,6 +76895,58 @@
     },
     "58160": {
       "name": "KAALUND, Martin Austin",
+      "list": "IRAN-EO13902"
+    },
+    "58174": {
+      "name": "ZEDPAY FINANSAL SISTEM VE HIZMETLERI ANONIM SIRKETI",
+      "list": "IRAN-EO13902"
+    },
+    "58176": {
+      "name": "DOT ONE VALUE CREATION GROUP",
+      "list": "IRAN-EO13902"
+    },
+    "58177": {
+      "name": "ZEDX DMCC",
+      "list": "IRAN-EO13902"
+    },
+    "58178": {
+      "name": "DOTONE GOLD COMPANY",
+      "list": "IRAN-EO13902"
+    },
+    "58179": {
+      "name": "DOTONE RAIL COMPANY",
+      "list": "IRAN-EO13902"
+    },
+    "58180": {
+      "name": "DOTONE BARTER COMPANY",
+      "list": "IRAN-EO13902"
+    },
+    "58181": {
+      "name": "DOTONE AIRLINES COMPANY",
+      "list": "IRAN-EO13902"
+    },
+    "58182": {
+      "name": "DOTONE TRIP",
+      "list": "IRAN-EO13902"
+    },
+    "58183": {
+      "name": "BZ DIAMOND DMCC",
+      "list": "IRAN-EO13902"
+    },
+    "58185": {
+      "name": "ZANJANI, Bahareh Morteza",
+      "list": "IRAN-EO13902"
+    },
+    "58186": {
+      "name": "REZAZADEH, Mehdi",
+      "list": "IRAN-EO13902"
+    },
+    "58187": {
+      "name": "OIMAKHMADOV, Sukhrob",
+      "list": "IRAN-EO13902"
+    },
+    "58188": {
+      "name": "BANI, Solmaz",
       "list": "IRAN-EO13902"
     },
     "58195": {

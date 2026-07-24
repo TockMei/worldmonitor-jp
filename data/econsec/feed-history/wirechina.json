@@ -1,8 +1,14 @@
 {
   "id": "wirechina",
   "label": "The Wire China",
-  "generated": "2026-07-23T22:05:56.839Z",
+  "generated": "2026-07-24T22:05:39.748Z",
   "items": [
+    {
+      "title": "The Daily Roundup",
+      "link": "https://www.thewirechina.com/2026/07/24/the-daily-roundup-july-24-2026/",
+      "date": "Fri, 24 Jul 2026 12:15:00 +0000",
+      "firstSeen": "2026-07-24T22:05:39.748Z"
+    },
     {
       "title": "China’s New Technology Trap",
       "link": "https://www.thewirechina.com/2026/07/23/chinas-new-technology-trap/",

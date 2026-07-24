@@ -1,9 +1,9 @@
 {
   "id": "uksl",
   "label": "UK Sanctions List (UKSL, successor to the OFSI Consolidated List)",
-  "generated": "2026-07-23T22:05:56.839Z",
+  "generated": "2026-07-24T22:05:39.748Z",
   "resolvedUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
-  "count": 6314,
+  "count": 6315,
   "entities": {
     "AFG0001": {
       "name": "Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah",
@@ -9100,6 +9100,10 @@
     "LIB0078": {
       "name": "Andrey Vladimirovich Averyanov",
       "list": "The Libya (Sanctions) (EU Exit) Regulations 2020｜個人"
+    },
+    "LIB0079": {
+      "name": "IMO 9058713 ('AVAX')",
+      "list": "The Libya (Sanctions) (EU Exit) Regulations 2020｜Ship"
     },
     "MAL0010": {
       "name": "Macina Katiba",
