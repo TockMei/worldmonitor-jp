@@ -1,8 +1,14 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-07-24T22:05:39.748Z",
+  "generated": "2026-07-25T22:03:18.308Z",
   "items": [
+    {
+      "title": "Copernicus Sentinel-3A unavailability notice for the Lunar Calibration planned on 30 July 2026 [DOY 211]",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-25-copernicus-sentinel-3a-unavailability-notice-lunar-calibration-planned-30-july-2026",
+      "date": "Sat, 25 Jul 2026 09:51:37 UTC",
+      "firstSeen": "2026-07-25T22:03:18.308Z"
+    },
     {
       "title": "Copernicus Sentinel-3A unavailability notice for the IP manoeuvre #158 planned on 22 July 2026 [DOY 203]",
       "link": "https://dataspace.copernicus.eu/news/2026-7-22-copernicus-sentinel-3a-unavailability-notice-ip-manoeuvre-158-planned-22-july-2026",

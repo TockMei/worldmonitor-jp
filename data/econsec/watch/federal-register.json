@@ -1,7 +1,7 @@
 {
   "id": "federal-register",
   "label": "Federal Register 新着",
-  "generated": "2026-07-24T22:05:39.748Z",
+  "generated": "2026-07-25T22:03:18.308Z",
   "count": 173,
   "seen": {
     "2026-13663": {
@@ -1558,6 +1558,111 @@
       "title": "Notice of the Establishment of the Arctic Shipping Federal Advisory Committee; Solicitation of Nominations for Membership",
       "url": "https://www.federalregister.gov/documents/2026/07/24/2026-14962/notice-of-the-establishment-of-the-arctic-shipping-federal-advisory-committee-solicitation-of",
       "date": "2026-07-24"
+    },
+    "2026-15112": {
+      "title": "Updating Website and Contact Information, and Authorizations for Payments for Legal Services",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15112/updating-website-and-contact-information-and-authorizations-for-payments-for-legal-services",
+      "date": "2026-07-27"
+    },
+    "2026-15068": {
+      "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Covered Defense Telecommunications Equipment or Services",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15068/information-collection-requirement-defense-federal-acquisition-regulation-supplement-covered-defense",
+      "date": "2026-07-27"
+    },
+    "2026-15141": {
+      "title": "Proposed Extension of Information Collection: Safety Program for Surface Mobile Equipment",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15141/proposed-extension-of-information-collection-safety-program-for-surface-mobile-equipment",
+      "date": "2026-07-27"
+    },
+    "2026-15140": {
+      "title": "Proposed Extension of Information Collection: Sealing of Abandoned Areas",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15140/proposed-extension-of-information-collection-sealing-of-abandoned-areas",
+      "date": "2026-07-27"
+    },
+    "2026-15139": {
+      "title": "Proposed Extension of Information Collection: Safety Standards for Underground Coal Mine Ventilation-Belt Entry Used as an Intake Air Course To Ventilate Working Sections and Areas Where Mechanized Mining Equipment Is Being Installed or Removed",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15139/proposed-extension-of-information-collection-safety-standards-for-underground-coal-mine",
+      "date": "2026-07-27"
+    },
+    "2026-15138": {
+      "title": "Proposed Extension of Information Collection: Hazard Communication (HazCom)-30 CFR Part 47",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15138/proposed-extension-of-information-collection-hazard-communication-hazcom-30-cfr-part-47",
+      "date": "2026-07-27"
+    },
+    "2026-15137": {
+      "title": "Proposed Extension of Information Collection: Examinations and Testing of Electric Equipment",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15137/proposed-extension-of-information-collection-examinations-and-testing-of-electric-equipment",
+      "date": "2026-07-27"
+    },
+    "2026-15136": {
+      "title": "Proposed Extension of Information Collection: Rock Burst Control Plan (Pertains to Underground Metal/Nonmetal Mines)",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15136/proposed-extension-of-information-collection-rock-burst-control-plan-pertains-to-underground",
+      "date": "2026-07-27"
+    },
+    "2026-15135": {
+      "title": "Proposed Extension of Information Collection: Safety Defects; Examination, Correction, and Records",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15135/proposed-extension-of-information-collection-safety-defects-examination-correction-and-records",
+      "date": "2026-07-27"
+    },
+    "2026-15134": {
+      "title": "Proposed Extension of Information Collection: Hoist Operators' Physical Fitness",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15134/proposed-extension-of-information-collection-hoist-operators-physical-fitness",
+      "date": "2026-07-27"
+    },
+    "2026-15133": {
+      "title": "Proposed Extension of Information Collection: Escape and Evacuation Plans",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15133/proposed-extension-of-information-collection-escape-and-evacuation-plans",
+      "date": "2026-07-27"
+    },
+    "2026-15132": {
+      "title": "Proposed Extension of Information Collection: Mine Accident, Injury and Illness Report and Quarterly Mine Employment and Coal Production Report",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15132/proposed-extension-of-information-collection-mine-accident-injury-and-illness-report-and-quarterly",
+      "date": "2026-07-27"
+    },
+    "2026-15130": {
+      "title": "Radiant Nuclear, LLC; Radiant's Special Nuclear Material License; License Application",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15130/radiant-nuclear-llc-radiants-special-nuclear-material-license-license-application",
+      "date": "2026-07-27"
+    },
+    "2026-15127": {
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15127/information-collection-being-reviewed-by-the-federal-communications-commission",
+      "date": "2026-07-27"
+    },
+    "2026-15126": {
+      "title": "Information Collections Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15126/information-collections-being-reviewed-by-the-federal-communications-commission-under-delegated",
+      "date": "2026-07-27"
+    },
+    "2026-15123": {
+      "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15123/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+      "date": "2026-07-27"
+    },
+    "2026-15121": {
+      "title": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15121/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget",
+      "date": "2026-07-27"
+    },
+    "2026-15120": {
+      "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15120/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+      "date": "2026-07-27"
+    },
+    "2026-15117": {
+      "title": "Modernizing Package Certification Requirements",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15117/modernizing-package-certification-requirements",
+      "date": "2026-07-27"
+    },
+    "2026-15116": {
+      "title": "Medicare Program; Approved Renewal of Deeming Authority of the National Committee for Quality Assurance (NCQA) for Medicare Advantage Health Maintenance Organizations and Preferred Provider Organizations",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15116/medicare-program-approved-renewal-of-deeming-authority-of-the-national-committee-for-quality",
+      "date": "2026-07-27"
+    },
+    "2026-15101": {
+      "title": "Steel Reef Pipelines US LLC; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed Flat Lake Access Pipeline Project",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15101/steel-reef-pipelines-us-llc-notice-of-scoping-period-requesting-comments-on-environmental-issues-for",
+      "date": "2026-07-27"
     }
   }
 }
