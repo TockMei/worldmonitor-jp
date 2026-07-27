@@ -1,14 +1,10 @@
 {
   "id": "ofac-consolidated",
   "label": "OFAC Non-SDN Consolidated List (incl. NS-CMIC)",
-  "generated": "2026-07-26T22:04:44.868Z",
+  "generated": "2026-07-27T22:06:16.105Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONSOLIDATED.XML",
   "count": 481,
   "entities": {
-    "9639": {
-      "name": "Ismail Abdul Salah HANIYA",
-      "list": "NS-PLC"
-    },
     "9640": {
       "name": "Mohammed ABU TEIR",
       "list": "NS-PLC"
@@ -653,10 +649,6 @@
       "name": "LIMITED LIABILITY COMPANY SBERBANK FINANCIAL COMPANY",
       "list": "UKRAINE-EO13662;RUSSIA-EO14024"
     },
-    "18745": {
-      "name": "LLC SOVREMENNYE TECHNOLOGII",
-      "list": "UKRAINE-EO13662"
-    },
     "18746": {
       "name": "SBERBANK TECHNOLOGIES CLOSED JOINT STOCK COMPANY",
       "list": "UKRAINE-EO13662"
@@ -681,10 +673,6 @@
       "name": "LIMITED LIABILITY COMPANY SBERBANK INSURANCE BROKER",
       "list": "UKRAINE-EO13662;RUSSIA-EO14024"
     },
-    "18752": {
-      "name": "KORUS CONSULTING CIS LIMITED LIABILITY COMPANY",
-      "list": "UKRAINE-EO13662"
-    },
     "18753": {
       "name": "SB SECURITIES SA",
       "list": "UKRAINE-EO13662;RUSSIA-EO14024"
@@ -700,10 +688,6 @@
     "18770": {
       "name": "OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS",
       "list": "UKRAINE-EO13662;RUSSIA-EO14024"
-    },
-    "18771": {
-      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT",
-      "list": "UKRAINE-EO13662"
     },
     "18772": {
       "name": "NPK TEKHMASH OAO",
@@ -845,13 +829,13 @@
       "name": "ULYANOVSKI GIPROAVIAPROM OAO",
       "list": "UKRAINE-EO13662"
     },
-    "18819": {
-      "name": "OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA OAO",
-      "list": "UKRAINE-EO13662"
-    },
     "18820": {
       "name": "VERTOLETY ROSSII AO",
       "list": "UKRAINE-EO13662;RUSSIA-EO14024"
+    },
+    "18962": {
+      "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT",
+      "list": "UKRAINE-EO13685;UKRAINE-EO13662"
     },
     "19468": {
       "name": "GAZPROM DOBYCHA YAMBURG, OOO",
@@ -1461,6 +1445,10 @@
       "name": "JOINT STOCK COMPANY SURGUTNEFTEGASBANK",
       "list": "UKRAINE-EO13662;RUSSIA-EO14024"
     },
+    "23627": {
+      "name": "Ismail Abdul Salah HANIYAH",
+      "list": "SDGT;NS-PLC"
+    },
     "27016": {
       "name": "PRESIDENCY OF DEFENSE INDUSTRIES",
       "list": "CAATSA - RUSSIA"
@@ -1920,6 +1908,18 @@
     "34736": {
       "name": "OPEN JOINT STOCK COMPANY RUSSIAN RAILWAYS",
       "list": "RUSSIA-EO14024"
+    },
+    "36409": {
+      "name": "SOVREMENNYE TEKHNOLOGII LIMITED LIABILITY COMPANY",
+      "list": "RUSSIA-EO14024;UKRAINE-EO13662"
+    },
+    "36419": {
+      "name": "LIMITED LIABILITY COMPANY KORUS CONSULTING CIS",
+      "list": "RUSSIA-EO14024;UKRAINE-EO13662"
+    },
+    "37782": {
+      "name": "JOINT STOCK COMPANY UNITED ENGINE CORPORATION",
+      "list": "RUSSIA-EO14024;UKRAINE-EO13662"
     },
     "46072": {
       "name": "MYANMA OIL AND GAS ENTERPRISE",

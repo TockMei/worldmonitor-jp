@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-26T22:04:44.868Z"
+    "generated": "2026-07-27T22:06:16.105Z"
   },
   "alerts": [
     {
@@ -8086,6 +8086,1685 @@
       "entity": "Steel Reef Pipelines US LLC; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed Flat Lake Access Pipeline Project",
       "detail": "2026-07-27",
       "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15101/steel-reef-pipelines-us-llc-notice-of-scoping-period-requesting-comments-on-environmental-issues-for"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "RODRIGUEZ OREJUELA, Gilberto Jose",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ARELLANO FELIX, Ramon Eduardo",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "CHANG, Chi Fu",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "HEATH, Noel Timothy",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "OGUNGBUYI, Oluwole A.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "OGUNGBUYI, Abeni O.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "AGRICOLA GANADERA HENAO GONZALEZ Y CIA. S.C.S.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "COMPANIA AGROINVERSORA HENAGRO LTDA.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "DESARROLLOS COMERCIALES E INDUSTRIALES HENAO GONZALEZ Y CIA. S.C.S.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "MAQUINARIA TECNICA Y TIERRAS LTDA.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ORGANIZACION EMPRESARIAL A DE J HENAO M E HIJOS Y CIA. S.C.S.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "GONZALEZ BENITEZ, Olga Patricia",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "AFGHAN, Sher",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "CHANG, Ping Yun",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "GILBOA, Joseph",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "HAMIEH, Jamiel",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "HIGUERA GUERRERO, Ismael",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "KHAN, Nasir Ali",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "TUFAIL, Mohammed",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ARIZONA S.A.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ZERFAOUI, Ahmad",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ZEVALLOS GONZALES, Winston Ricardo",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "AL-TURKI, Hassan Abdullah Hersi",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "A.W.A. ENGINEERING LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ADMINCHECK LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ADVANCED ELECTRONICS DEVELOPMENT, LTD",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ARAB PETROLEUM ENGINEERING COMPANY LTD",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ARCHI CENTRE I.C.E. LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ARCHICONSULT LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ASSOCIATED ENGINEERS",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ATIA, Hachim K.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ATIA, Hachim K.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ATLAS AIR CONDITIONING COMPANY LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ATLAS EQUIPMENT COMPANY LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "BAROON SHIPPING COMPANY LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ENDSHIRE EXPORT MARKETING",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "FALCON SYSTEMS",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "H & H METALFORM GMBH",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "I.P.C. INTERNATIONAL LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "I.P.C. MARKETING LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "INVESTACAST PRECISION CASTINGS, LTD.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "IRAQI ALLIED SERVICES LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "IRAQI FREIGHT SERVICES LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "IRAQI TRADE CENTER",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "JARACO S.A.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "KEENCLOUD LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "MEED INTERNATIONAL LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ORIENT SHIPPING LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "PANDORA SHIPPING CO. S.A.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "PETRA NAVIGATION & INTERNATIONAL TRADING CO. LTD.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "RAJBROOK LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "REYNOLDS AND WILSON, LTD.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "T N K FABRICS LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "T.E.G. LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "TRADING & MARITIME INVESTMENTS",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "U.I. INTERNATIONAL",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "WHALE SHIPPING LTD.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "A.T.E. INTERNATIONAL LTD.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "SALI JR., Jainal Antel",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "SHANT, Adam Yacub",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "Ismail Abdul Salah HANIYA",
+      "detail": "Palestinian Legislative Council List (PLC) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "RENDON RAMIREZ, Jose Aldemar",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "TAHA, Khalil Ibrahim Mohamed Achar Foudail",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ISSA, Issa Osman",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "AWEYS, Hassan Dahir",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "AW-MOHAMED, Ahmed Abdi",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "MORENO GONZALEZ, Nazario",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "PLANCARTE SOLIS, Enrique",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "FLORES BORREGO, Samuel",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "HERNANDEZ BARRON, Raul",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "MELLADO CRUZ, Galdino",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "GONZALEZ PIZANA JR., Rogelio",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ZLITNI, Abdulhafid",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ABD AL-RAHMAN, Atiyah",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "COLORADO CESSA, Francisco Antonio",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ADT PETROSERVICIOS, S.A. DE C.V.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "PAEZ SOTO, Ramon Ignacio",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "KIYOTA, Jiro",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "ARECHIGA GAMBOA, Jose Rodrigo",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "PADIERNA PENA, Luis Orlando",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "MESA PAEZ, Aristides Manuel",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "GARCIA ARBOLEDA, Edward",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "LA TIENDA DE MINGO",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "INVERSIONES C.P.C.L. Y CIA. S. EN C.S.",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "VALENZUELA VERDUGO, Jorge Mario",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "NUR, Mohammed",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "LLC SOVREMENNYE TECHNOLOGII",
+      "detail": "Sectoral Sanctions Identifications List (SSI) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "KORUS CONSULTING CIS LIMITED LIABILITY COMPANY",
+      "detail": "Sectoral Sanctions Identifications List (SSI) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT",
+      "detail": "Sectoral Sanctions Identifications List (SSI) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA OAO",
+      "detail": "Sectoral Sanctions Identifications List (SSI) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "JEDI, Muhammad Wanndy Bin Mohamed",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "RIVAS REYES, Roberto Jose",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "FAIZ, Mohammed Karim Yusop",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "MUZZAMIL, Mohammad Daoud",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "JOINT STOCK COMPANY SHIPREPAIRING CENTER ZVYOZDOCHKA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "USTINOV, Vladimir Vasilyevich",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "JOINT STOCK COMPANY ARZAMASSKY PRIBOROSTROITELNY ZAVOD IMENI PLANDINA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "CSOFT DEVELOPMENT",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "JOINT STOCK COMPANY POLEMA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "SPECIAL SYSTEMS PHOTONICS LLC",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "SECOND ACADEMY OF NATURAL SCIENCES FOREIGN AFFAIRS BUREAU",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "csl",
+      "type": "remove",
+      "entity": "TASCA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "RODRIGUEZ OREJUELA, Gilberto Jose",
+      "detail": "SDNT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ARELLANO FELIX, Ramon Eduardo",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHANG, Chi Fu",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "HEATH, Noel Timothy",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "OGUNGBUYI, Oluwole A.",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "OGUNGBUYI, Abeni O.",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "AGRICOLA GANADERA HENAO GONZALEZ Y CIA. S.C.S.",
+      "detail": "SDNT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "COMPANIA AGROINVERSORA HENAGRO LTDA.",
+      "detail": "SDNT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "DESARROLLOS COMERCIALES E INDUSTRIALES HENAO GONZALEZ Y CIA. S.C.S.",
+      "detail": "SDNT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "MAQUINARIA TECNICA Y TIERRAS LTDA.",
+      "detail": "SDNT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ORGANIZACION EMPRESARIAL A DE J HENAO M E HIJOS Y CIA. S.C.S.",
+      "detail": "SDNT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "GONZALEZ BENITEZ, Olga Patricia",
+      "detail": "SDNT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "AFGHAN, Sher",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CHANG, Ping Yun",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "GILBOA, Joseph",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "HAMIEH, Jamiel",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "HIGUERA GUERRERO, Ismael",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "KHAN, Nasir Ali",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TUFAIL, Mohammed",
+      "detail": "SDGT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ARIZONA S.A.",
+      "detail": "SDNT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ZERFAOUI, Ahmad",
+      "detail": "SDGT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ZEVALLOS GONZALES, Winston Ricardo",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "AL-TURKI, Hassan Abdullah Hersi",
+      "detail": "SDGT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "A.W.A. ENGINEERING LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ADMINCHECK LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ADVANCED ELECTRONICS DEVELOPMENT, LTD",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ARAB PETROLEUM ENGINEERING COMPANY LTD",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ARCHI CENTRE I.C.E. LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ARCHICONSULT LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ASSOCIATED ENGINEERS",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ATIA, Hachim K.",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ATIA, Hachim K.",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ATLAS AIR CONDITIONING COMPANY LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ATLAS EQUIPMENT COMPANY LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "BAROON SHIPPING COMPANY LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ENDSHIRE EXPORT MARKETING",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "FALCON SYSTEMS",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "H & H METALFORM GMBH",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "I.P.C. INTERNATIONAL LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "I.P.C. MARKETING LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "INVESTACAST PRECISION CASTINGS, LTD.",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "IRAQI ALLIED SERVICES LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "IRAQI FREIGHT SERVICES LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "IRAQI TRADE CENTER",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "JARACO S.A.",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "KEENCLOUD LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "MEED INTERNATIONAL LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ORIENT SHIPPING LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "PANDORA SHIPPING CO. S.A.",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "PETRA NAVIGATION & INTERNATIONAL TRADING CO. LTD.",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "RAJBROOK LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "REYNOLDS AND WILSON, LTD.",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "T N K FABRICS LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "T.E.G. LIMITED",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TRADING & MARITIME INVESTMENTS",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "U.I. INTERNATIONAL",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "WHALE SHIPPING LTD.",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "A.T.E. INTERNATIONAL LTD.",
+      "detail": "IRAQ2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "SALI JR., Jainal Antel",
+      "detail": "SDGT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "SHANT, Adam Yacub",
+      "detail": "DARFUR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "RENDON RAMIREZ, Jose Aldemar",
+      "detail": "SDNT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TAHA, Khalil Ibrahim Mohamed Achar Foudail",
+      "detail": "DARFUR",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ISSA, Issa Osman",
+      "detail": "SDGT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "AWEYS, Hassan Dahir",
+      "detail": "SOMALIA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "AW-MOHAMED, Ahmed Abdi",
+      "detail": "SOMALIA",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "MORENO GONZALEZ, Nazario",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "PLANCARTE SOLIS, Enrique",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "FLORES BORREGO, Samuel",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "HERNANDEZ BARRON, Raul",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "MELLADO CRUZ, Galdino",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "GONZALEZ PIZANA JR., Rogelio",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ZLITNI, Abdulhafid",
+      "detail": "LIBYA2",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ABD AL-RAHMAN, Atiyah",
+      "detail": "SDGT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "COLORADO CESSA, Francisco Antonio",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ADT PETROSERVICIOS, S.A. DE C.V.",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "PAEZ SOTO, Ramon Ignacio",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "KIYOTA, Jiro",
+      "detail": "TCO",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "ARECHIGA GAMBOA, Jose Rodrigo",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "PADIERNA PENA, Luis Orlando",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "MESA PAEZ, Aristides Manuel",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "GARCIA ARBOLEDA, Edward",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "LA TIENDA DE MINGO",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "INVERSIONES C.P.C.L. Y CIA. S. EN C.S.",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "VALENZUELA VERDUGO, Jorge Mario",
+      "detail": "SDNTK",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "NUR, Mohammed",
+      "detail": "SDGT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "JEDI, Muhammad Wanndy Bin Mohamed",
+      "detail": "SDGT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "RIVAS REYES, Roberto Jose",
+      "detail": "GLOMAG",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "FAIZ, Mohammed Karim Yusop",
+      "detail": "SDGT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "MUZZAMIL, Mohammad Daoud",
+      "detail": "SDGT",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "JOINT STOCK COMPANY SHIPREPAIRING CENTER ZVYOZDOCHKA",
+      "detail": "RUSSIA-EO14024",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "USTINOV, Vladimir Vasilyevich",
+      "detail": "RUSSIA-EO14024",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "JOINT STOCK COMPANY ARZAMASSKY PRIBOROSTROITELNY ZAVOD IMENI PLANDINA",
+      "detail": "RUSSIA-EO14024",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "CSOFT DEVELOPMENT",
+      "detail": "RUSSIA-EO14024",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "JOINT STOCK COMPANY POLEMA",
+      "detail": "RUSSIA-EO14024",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "SPECIAL SYSTEMS PHOTONICS LLC",
+      "detail": "RUSSIA-EO14024",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "SECOND ACADEMY OF NATURAL SCIENCES FOREIGN AFFAIRS BUREAU",
+      "detail": "NPWMD",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-sdn",
+      "type": "remove",
+      "entity": "TASCA",
+      "detail": "IRAN-EO13846",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT",
+      "detail": "UKRAINE-EO13685;UKRAINE-EO13662",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "Ismail Abdul Salah HANIYAH",
+      "detail": "SDGT;NS-PLC",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "SOVREMENNYE TEKHNOLOGII LIMITED LIABILITY COMPANY",
+      "detail": "RUSSIA-EO14024;UKRAINE-EO13662",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "LIMITED LIABILITY COMPANY KORUS CONSULTING CIS",
+      "detail": "RUSSIA-EO14024;UKRAINE-EO13662",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-consolidated",
+      "type": "add",
+      "entity": "JOINT STOCK COMPANY UNITED ENGINE CORPORATION",
+      "detail": "RUSSIA-EO14024;UKRAINE-EO13662",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-consolidated",
+      "type": "remove",
+      "entity": "Ismail Abdul Salah HANIYA",
+      "detail": "NS-PLC",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-consolidated",
+      "type": "remove",
+      "entity": "LLC SOVREMENNYE TECHNOLOGII",
+      "detail": "UKRAINE-EO13662",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-consolidated",
+      "type": "remove",
+      "entity": "KORUS CONSULTING CIS LIMITED LIABILITY COMPANY",
+      "detail": "UKRAINE-EO13662",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-consolidated",
+      "type": "remove",
+      "entity": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT",
+      "detail": "UKRAINE-EO13662",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "ofac-consolidated",
+      "type": "remove",
+      "entity": "OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA OAO",
+      "detail": "UKRAINE-EO13662",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-27T22:06:16.105Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "－Last Updated 11/26/2025／＋Last Updated 07/20/2026"
     }
   ]
 }

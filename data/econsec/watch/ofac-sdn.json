@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-07-26T22:04:44.868Z",
+  "generated": "2026-07-27T22:06:16.105Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19254,
+  "count": 19157,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -289,10 +289,6 @@
       "name": "ABU MARZOOK, Mousa Mohammed",
       "list": "SDGT"
     },
-    "4107": {
-      "name": "RODRIGUEZ OREJUELA, Gilberto Jose",
-      "list": "SDNT"
-    },
     "4108": {
       "name": "RODRIGUEZ OREJUELA, Miguel Angel",
       "list": "SDNT"
@@ -445,32 +441,12 @@
       "name": "AMEZCUA CONTRERAS, Luis Ignacio",
       "list": "SDNTK"
     },
-    "6706": {
-      "name": "ARELLANO FELIX, Ramon Eduardo",
-      "list": "SDNTK"
-    },
     "6707": {
       "name": "CARO QUINTERO, Rafael",
       "list": "SDNTK"
     },
     "6708": {
       "name": "CARRILLO FUENTES, Vicente",
-      "list": "SDNTK"
-    },
-    "6709": {
-      "name": "CHANG, Chi Fu",
-      "list": "SDNTK"
-    },
-    "6710": {
-      "name": "HEATH, Noel Timothy",
-      "list": "SDNTK"
-    },
-    "6712": {
-      "name": "OGUNGBUYI, Oluwole A.",
-      "list": "SDNTK"
-    },
-    "6713": {
-      "name": "OGUNGBUYI, Abeni O.",
       "list": "SDNTK"
     },
     "6714": {
@@ -483,30 +459,6 @@
     },
     "6717": {
       "name": "HENAO MONTOYA, Arcangel de Jesus",
-      "list": "SDNT"
-    },
-    "6719": {
-      "name": "AGRICOLA GANADERA HENAO GONZALEZ Y CIA. S.C.S.",
-      "list": "SDNT"
-    },
-    "6720": {
-      "name": "COMPANIA AGROINVERSORA HENAGRO LTDA.",
-      "list": "SDNT"
-    },
-    "6721": {
-      "name": "DESARROLLOS COMERCIALES E INDUSTRIALES HENAO GONZALEZ Y CIA. S.C.S.",
-      "list": "SDNT"
-    },
-    "6722": {
-      "name": "MAQUINARIA TECNICA Y TIERRAS LTDA.",
-      "list": "SDNT"
-    },
-    "6723": {
-      "name": "ORGANIZACION EMPRESARIAL A DE J HENAO M E HIJOS Y CIA. S.C.S.",
-      "list": "SDNT"
-    },
-    "6724": {
-      "name": "GONZALEZ BENITEZ, Olga Patricia",
       "list": "SDNT"
     },
     "6725": {
@@ -533,10 +485,6 @@
       "name": "NEW IRISH REPUBLICAN ARMY",
       "list": "FTO] [SDGT"
     },
-    "6856": {
-      "name": "AFGHAN, Sher",
-      "list": "SDNTK"
-    },
     "6857": {
       "name": "CARDENAS GUILLEN, Osiel",
       "list": "SDNTK"
@@ -545,28 +493,8 @@
       "name": "CARO QUINTERO, Miguel Angel",
       "list": "SDNTK"
     },
-    "6859": {
-      "name": "CHANG, Ping Yun",
-      "list": "SDNTK"
-    },
-    "6860": {
-      "name": "GILBOA, Joseph",
-      "list": "SDNTK"
-    },
     "6861": {
       "name": "GUZMAN LOERA, Joaquin",
-      "list": "SDNTK"
-    },
-    "6862": {
-      "name": "HAMIEH, Jamiel",
-      "list": "SDNTK"
-    },
-    "6863": {
-      "name": "HIGUERA GUERRERO, Ismael",
-      "list": "SDNTK"
-    },
-    "6864": {
-      "name": "KHAN, Nasir Ali",
       "list": "SDNTK"
     },
     "6865": {
@@ -751,7 +679,7 @@
     },
     "7006": {
       "name": "AWEYS, Hassan Dahir",
-      "list": "SDGT"
+      "list": "SDGT] [SOMALIA"
     },
     "7114": {
       "name": "AL-AQSA ISLAMIC BANK",
@@ -775,10 +703,6 @@
     },
     "7135": {
       "name": "MAJEED, Abdul",
-      "list": "SDGT"
-    },
-    "7138": {
-      "name": "TUFAIL, Mohammed",
       "list": "SDGT"
     },
     "7140": {
@@ -1199,10 +1123,6 @@
     },
     "7284": {
       "name": "AGROPECUARIA MIRALINDO S.A.",
-      "list": "SDNT"
-    },
-    "7285": {
-      "name": "ARIZONA S.A.",
       "list": "SDNT"
     },
     "7286": {
@@ -2825,10 +2745,6 @@
       "name": "DJERMANE, Kamel",
       "list": "SDGT"
     },
-    "8222": {
-      "name": "ZERFAOUI, Ahmad",
-      "list": "SDGT"
-    },
     "8223": {
       "name": "AL-HARAMAIN & AL MASJED AL-AQSA CHARITY FOUNDATION : BOSNIA BRANCH",
       "list": "SDGT"
@@ -2917,10 +2833,6 @@
       "name": "ZEVALLOS GONZALES, Milagros Angelina",
       "list": "SDNTK"
     },
-    "8253": {
-      "name": "ZEVALLOS GONZALES, Winston Ricardo",
-      "list": "SDNTK"
-    },
     "8254": {
       "name": "AERO CONTINENTE (USA) INC.",
       "list": "SDNTK"
@@ -2955,10 +2867,6 @@
     },
     "8263": {
       "name": "AL-AQIL, Aqeel Abdulaziz Aqeeil",
-      "list": "SDGT"
-    },
-    "8264": {
-      "name": "AL-TURKI, Hassan Abdullah Hersi",
       "list": "SDGT"
     },
     "8265": {
@@ -3009,20 +2917,8 @@
       "name": "RUPRAH, Sanjivan Singh",
       "list": "DRCONGO"
     },
-    "8306": {
-      "name": "A.W.A. ENGINEERING LIMITED",
-      "list": "IRAQ2"
-    },
     "8307": {
       "name": "ABBAS, Abdul Hussein",
-      "list": "IRAQ2"
-    },
-    "8309": {
-      "name": "ADMINCHECK LIMITED",
-      "list": "IRAQ2"
-    },
-    "8310": {
-      "name": "ADVANCED ELECTRONICS DEVELOPMENT, LTD",
       "list": "IRAQ2"
     },
     "8311": {
@@ -3121,48 +3017,12 @@
       "name": "AMD CO. LTD AGENCY",
       "list": "IRAQ2"
     },
-    "8341": {
-      "name": "ARAB PETROLEUM ENGINEERING COMPANY LTD",
-      "list": "IRAQ2"
-    },
     "8342": {
       "name": "ARAB PROJECTS COMPANY S.A. LTD.",
       "list": "IRAQ2"
     },
-    "8345": {
-      "name": "ARCHI CENTRE I.C.E. LIMITED",
-      "list": "IRAQ2"
-    },
-    "8346": {
-      "name": "ARCHICONSULT LIMITED",
-      "list": "IRAQ2"
-    },
-    "8347": {
-      "name": "ASSOCIATED ENGINEERS",
-      "list": "IRAQ2"
-    },
     "8348": {
       "name": "ATIA, Hachim K.",
-      "list": "IRAQ2"
-    },
-    "8349": {
-      "name": "ATIA, Hachim K.",
-      "list": "IRAQ2"
-    },
-    "8350": {
-      "name": "ATIA, Hachim K.",
-      "list": "IRAQ2"
-    },
-    "8351": {
-      "name": "ATLAS AIR CONDITIONING COMPANY LIMITED",
-      "list": "IRAQ2"
-    },
-    "8352": {
-      "name": "ATLAS EQUIPMENT COMPANY LIMITED",
-      "list": "IRAQ2"
-    },
-    "8354": {
-      "name": "BAROON SHIPPING COMPANY LIMITED",
       "list": "IRAQ2"
     },
     "8357": {
@@ -3171,14 +3031,6 @@
     },
     "8359": {
       "name": "DURAND PROPERTIES LIMITED",
-      "list": "IRAQ2"
-    },
-    "8360": {
-      "name": "ENDSHIRE EXPORT MARKETING",
-      "list": "IRAQ2"
-    },
-    "8364": {
-      "name": "FALCON SYSTEMS",
       "list": "IRAQ2"
     },
     "8365": {
@@ -3193,44 +3045,12 @@
       "name": "FATTAH, Jum'a Abdul",
       "list": "IRAQ2"
     },
-    "8368": {
-      "name": "H & H METALFORM GMBH",
-      "list": "IRAQ2"
-    },
     "8369": {
       "name": "HABIB, Mohammed Turki",
       "list": "IRAQ2"
     },
     "8370": {
       "name": "HELFORD DIRECTORS LIMITED",
-      "list": "IRAQ2"
-    },
-    "8371": {
-      "name": "I.P.C. INTERNATIONAL LIMITED",
-      "list": "IRAQ2"
-    },
-    "8372": {
-      "name": "I.P.C. MARKETING LIMITED",
-      "list": "IRAQ2"
-    },
-    "8373": {
-      "name": "INVESTACAST PRECISION CASTINGS, LTD.",
-      "list": "IRAQ2"
-    },
-    "8374": {
-      "name": "IRAQI ALLIED SERVICES LIMITED",
-      "list": "IRAQ2"
-    },
-    "8375": {
-      "name": "IRAQI FREIGHT SERVICES LIMITED",
-      "list": "IRAQ2"
-    },
-    "8376": {
-      "name": "IRAQI TRADE CENTER",
-      "list": "IRAQ2"
-    },
-    "8377": {
-      "name": "JARACO S.A.",
       "list": "IRAQ2"
     },
     "8378": {
@@ -3249,20 +3069,12 @@
       "name": "KARAGHULLY, Labeed A.",
       "list": "IRAQ2"
     },
-    "8383": {
-      "name": "KEENCLOUD LIMITED",
-      "list": "IRAQ2"
-    },
     "8384": {
       "name": "KHALIL, Dr. Ahmad Murtada Ahmad",
       "list": "IRAQ2"
     },
     "8385": {
       "name": "MALIK, Assim Mohammed Rafiq Abdul",
-      "list": "IRAQ2"
-    },
-    "8387": {
-      "name": "MEED INTERNATIONAL LIMITED",
       "list": "IRAQ2"
     },
     "8388": {
@@ -3281,40 +3093,12 @@
       "name": "OMRAN, Karim Dhaidas",
       "list": "IRAQ2"
     },
-    "8393": {
-      "name": "ORIENT SHIPPING LIMITED",
-      "list": "IRAQ2"
-    },
-    "8394": {
-      "name": "PANDORA SHIPPING CO. S.A.",
-      "list": "IRAQ2"
-    },
-    "8395": {
-      "name": "PETRA NAVIGATION & INTERNATIONAL TRADING CO. LTD.",
-      "list": "IRAQ2"
-    },
-    "8396": {
-      "name": "RAJBROOK LIMITED",
-      "list": "IRAQ2"
-    },
-    "8397": {
-      "name": "REYNOLDS AND WILSON, LTD.",
-      "list": "IRAQ2"
-    },
     "8399": {
       "name": "RZOOKI, Hanna",
       "list": "IRAQ2"
     },
     "8401": {
       "name": "SALIH, Abd al-Munim Ahmad",
-      "list": "IRAQ2"
-    },
-    "8403": {
-      "name": "T N K FABRICS LIMITED",
-      "list": "IRAQ2"
-    },
-    "8404": {
-      "name": "T.E.G. LIMITED",
       "list": "IRAQ2"
     },
     "8405": {
@@ -3337,28 +3121,12 @@
       "name": "TIGRIS TRADING, INC.",
       "list": "IRAQ2"
     },
-    "8411": {
-      "name": "TRADING & MARITIME INVESTMENTS",
-      "list": "IRAQ2"
-    },
-    "8412": {
-      "name": "U.I. INTERNATIONAL",
-      "list": "IRAQ2"
-    },
     "8413": {
       "name": "ZAHRAN, Yousuf",
       "list": "IRAQ2"
     },
     "8414": {
       "name": "ZAINAL, Akram",
-      "list": "IRAQ2"
-    },
-    "8415": {
-      "name": "WHALE SHIPPING LTD.",
-      "list": "IRAQ2"
-    },
-    "8416": {
-      "name": "A.T.E. INTERNATIONAL LTD.",
       "list": "IRAQ2"
     },
     "8418": {
@@ -3965,10 +3733,6 @@
       "name": "QUINTERO SANCLEMENTE, Ramon Alberto",
       "list": "SDNT"
     },
-    "9583": {
-      "name": "SALI JR., Jainal Antel",
-      "list": "SDGT"
-    },
     "9584": {
       "name": "SAHIRON, Radulan",
       "list": "SDGT"
@@ -4083,10 +3847,6 @@
     },
     "9620": {
       "name": "EL HASSAN, Gaffar Mohmed",
-      "list": "DARFUR"
-    },
-    "9621": {
-      "name": "SHANT, Adam Yacub",
       "list": "DARFUR"
     },
     "9647": {
@@ -4265,10 +4025,6 @@
       "name": "GOMEZ BUSTAMANTE, Luis Alfonso",
       "list": "SDNT"
     },
-    "9999": {
-      "name": "RENDON RAMIREZ, Jose Aldemar",
-      "list": "SDNT"
-    },
     "10000": {
       "name": "CANO CORREA, Jhon Eidelber",
       "list": "SDNT"
@@ -4396,10 +4152,6 @@
     "10118": {
       "name": "GREAT LAKES BUSINESS COMPANY",
       "list": "DRCONGO"
-    },
-    "10119": {
-      "name": "TAHA, Khalil Ibrahim Mohamed Achar Foudail",
-      "list": "DARFUR"
     },
     "10122": {
       "name": "KALAYE ELECTRIC COMPANY",
@@ -5651,11 +5403,7 @@
     },
     "11311": {
       "name": "AW-MOHAMED, Ahmed Abdi",
-      "list": "SDGT"
-    },
-    "11312": {
-      "name": "ISSA, Issa Osman",
-      "list": "SDGT"
+      "list": "SDGT] [SOMALIA"
     },
     "11313": {
       "name": "ROBOW, Mukhtar",
@@ -6459,18 +6207,10 @@
     },
     "11743": {
       "name": "AL-TURKI, Hassan Abdullah Hersi",
-      "list": "SOMALIA"
-    },
-    "11744": {
-      "name": "AWEYS, Hassan Dahir",
-      "list": "SOMALIA"
+      "list": "SDGT] [SOMALIA"
     },
     "11745": {
       "name": "KHALAF, Fuad Mohamed",
-      "list": "SOMALIA"
-    },
-    "11746": {
-      "name": "AW-MOHAMED, Ahmed Abdi",
       "list": "SOMALIA"
     },
     "11747": {
@@ -6577,20 +6317,12 @@
       "name": "MENDEZ VARGAS, Jose de Jesus",
       "list": "SDNTK"
     },
-    "11799": {
-      "name": "MORENO GONZALEZ, Nazario",
-      "list": "SDNTK"
-    },
     "11800": {
       "name": "LOYA PLANCARTE, Dionicio",
       "list": "SDNTK"
     },
     "11801": {
       "name": "GOMEZ MARTINEZ, Servando",
-      "list": "SDNTK"
-    },
-    "11802": {
-      "name": "PLANCARTE SOLIS, Enrique",
       "list": "SDNTK"
     },
     "11803": {
@@ -6873,10 +6605,6 @@
       "name": "MEJIA GONZALEZ, Juan Reyes",
       "list": "SDNTK"
     },
-    "11919": {
-      "name": "FLORES BORREGO, Samuel",
-      "list": "SDNTK"
-    },
     "11920": {
       "name": "PENA MENDOZA, Sergio",
       "list": "SDNTK"
@@ -6949,10 +6677,6 @@
       "name": "MENDOZA CONTRERAS, Cipriano",
       "list": "SDNTK"
     },
-    "11939": {
-      "name": "HERNANDEZ BARRON, Raul",
-      "list": "SDNTK"
-    },
     "11940": {
       "name": "PEREZ ROJAS, Daniel",
       "list": "SDNTK"
@@ -7017,16 +6741,8 @@
       "name": "GERESANO ESCRIBANO, Gonzalo",
       "list": "SDNTK"
     },
-    "11958": {
-      "name": "MELLADO CRUZ, Galdino",
-      "list": "SDNTK"
-    },
     "11959": {
       "name": "ESTRADA GONZALEZ, Eduardo",
-      "list": "SDNTK"
-    },
-    "11960": {
-      "name": "GONZALEZ PIZANA JR., Rogelio",
       "list": "SDNTK"
     },
     "11961": {
@@ -8037,10 +7753,6 @@
       "name": "AL-ASIRI, Ibrahim Hassan Tali",
       "list": "SDGT"
     },
-    "12684": {
-      "name": "ZLITNI, Abdulhafid",
-      "list": "LIBYA2"
-    },
     "12685": {
       "name": "GADDAFI INTERNATIONAL CHARITY AND DEVELOPMENT FOUNDATION",
       "list": "LIBYA2"
@@ -8235,10 +7947,6 @@
     },
     "12842": {
       "name": "MUHAMMADI, Umid",
-      "list": "SDGT"
-    },
-    "12843": {
-      "name": "ABD AL-RAHMAN, Atiyah",
       "list": "SDGT"
     },
     "12845": {
@@ -8885,10 +8593,6 @@
       "name": "SHAH, Sayed Wazir",
       "list": "SDNTK"
     },
-    "13173": {
-      "name": "COLORADO CESSA, Francisco Antonio",
-      "list": "SDNTK"
-    },
     "13346": {
       "name": "CASANOVA ORDONEZ, Hermes Alirio",
       "list": "SDNTK"
@@ -9195,10 +8899,6 @@
     },
     "15014": {
       "name": "SERVICIOS CHULAVISTA, S.A. DE C.V.",
-      "list": "SDNTK"
-    },
-    "15015": {
-      "name": "ADT PETROSERVICIOS, S.A. DE C.V.",
       "list": "SDNTK"
     },
     "15016": {
@@ -9695,10 +9395,6 @@
     },
     "15254": {
       "name": "NIEBLAS NAVA, Guillermo",
-      "list": "SDNTK"
-    },
-    "15255": {
-      "name": "PAEZ SOTO, Ramon Ignacio",
       "list": "SDNTK"
     },
     "15256": {
@@ -10299,10 +9995,6 @@
     },
     "15661": {
       "name": "INAGAWA-KAI",
-      "list": "TCO"
-    },
-    "15662": {
-      "name": "KIYOTA, Jiro",
       "list": "TCO"
     },
     "15663": {
@@ -11225,10 +10917,6 @@
       "name": "MANSUR, Muhammad Yusuf Ahmad",
       "list": "SDGT"
     },
-    "16161": {
-      "name": "ARECHIGA GAMBOA, Jose Rodrigo",
-      "list": "SDNTK"
-    },
     "16167": {
       "name": "YAYLA, Bulut",
       "list": "SDGT"
@@ -11539,14 +11227,6 @@
     },
     "16461": {
       "name": "PALENCIA GONZALEZ, Cipriam Manuel",
-      "list": "SDNTK"
-    },
-    "16463": {
-      "name": "PADIERNA PENA, Luis Orlando",
-      "list": "SDNTK"
-    },
-    "16464": {
-      "name": "MESA PAEZ, Aristides Manuel",
       "list": "SDNTK"
     },
     "16465": {
@@ -12397,21 +12077,9 @@
       "name": "ACUAMATERIALES Y CIA. LIMITADA",
       "list": "SDNTK"
     },
-    "16974": {
-      "name": "GARCIA ARBOLEDA, Edward",
-      "list": "SDNTK"
-    },
     "16984": {
       "name": "BIDOGNETTI, Francesco",
       "list": "TCO"
-    },
-    "16985": {
-      "name": "LA TIENDA DE MINGO",
-      "list": "SDNTK"
-    },
-    "16990": {
-      "name": "INVERSIONES C.P.C.L. Y CIA. S. EN C.S.",
-      "list": "SDNTK"
     },
     "16991": {
       "name": "AL-BADANI, Shawki Ali Ahmed",
@@ -13377,10 +13045,6 @@
       "name": "DENISE COMPANY",
       "list": "NPWMD"
     },
-    "17848": {
-      "name": "VALENZUELA VERDUGO, Jorge Mario",
-      "list": "SDNTK"
-    },
     "17849": {
       "name": "FERNANDEZ VALENCIA, Guadalupe",
       "list": "SDNTK"
@@ -14013,10 +13677,6 @@
       "name": "CHAD, Mustapha",
       "list": "SDGT"
     },
-    "18602": {
-      "name": "NUR, Mohammed",
-      "list": "SDGT"
-    },
     "18603": {
       "name": "HELAL, Mounir Ben Dhaou Ben Brahim Ben",
       "list": "SDGT"
@@ -14455,7 +14115,7 @@
     },
     "18962": {
       "name": "OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT",
-      "list": "UKRAINE-EO13685"
+      "list": "UKRAINE-EO13662] [UKRAINE-EO13685"
     },
     "18963": {
       "name": "ABDURAKHMANOV, Maghomed Maghomedzakirovich",
@@ -15547,7 +15207,7 @@
     },
     "20201": {
       "name": "OAO SHIP REPAIR CENTER 'ZVEZDOCHKA'",
-      "list": "UKRAINE-EO13685"
+      "list": "UKRAINE-EO13685] [RUSSIA-EO14024"
     },
     "20202": {
       "name": "SUE RC 'FEODOSIA OPTICAL PLANT'",
@@ -16927,10 +16587,6 @@
     },
     "21726": {
       "name": "TAMTOMO, Muhammad Bahrun Naim Anggih",
-      "list": "SDGT"
-    },
-    "21727": {
-      "name": "JEDI, Muhammad Wanndy Bin Mohamed",
       "list": "SDGT"
     },
     "21728": {
@@ -18485,10 +18141,6 @@
       "name": "KARIMOVA, Gulnara",
       "list": "GLOMAG"
     },
-    "23308": {
-      "name": "RIVAS REYES, Roberto Jose",
-      "list": "GLOMAG"
-    },
     "23323": {
       "name": "KANILAI GROUP INTERNATIONAL",
       "list": "GLOMAG"
@@ -19110,8 +18762,8 @@
       "list": "SDGT"
     },
     "23627": {
-      "name": "HANIYEH, Ismail",
-      "list": "SDGT"
+      "name": "HANIYAH, Ismail Abdul Salah",
+      "list": "SDGT] [NS-PLC"
     },
     "23628": {
       "name": "HASM",
@@ -19799,7 +19451,7 @@
     },
     "24143": {
       "name": "USTINOV, Vladimir Vasilyevich",
-      "list": "UKRAINE-EO13661"
+      "list": "UKRAINE-EO13661] [RUSSIA-EO14024"
     },
     "24163": {
       "name": "DYUMIN, Alexey Gennadyevich",
@@ -20607,10 +20259,6 @@
     },
     "24783": {
       "name": "UDIN, Mohamad Rafi",
-      "list": "SDGT"
-    },
-    "24784": {
-      "name": "FAIZ, Mohammed Karim Yusop",
       "list": "SDGT"
     },
     "24785": {
@@ -21467,10 +21115,6 @@
     },
     "25399": {
       "name": "FAROQUI, Abdullah Samad",
-      "list": "SDGT"
-    },
-    "25400": {
-      "name": "MUZZAMIL, Mohammad Daoud",
       "list": "SDGT"
     },
     "25401": {
@@ -36017,10 +35661,6 @@
       "name": "GENT ELEKTRIK ENERJISI TOPTAN SATIS ANONIM SIRKETI",
       "list": "SDGT"
     },
-    "36065": {
-      "name": "JOINT STOCK COMPANY SHIPREPAIRING CENTER ZVYOZDOCHKA",
-      "list": "RUSSIA-EO14024"
-    },
     "36067": {
       "name": "PUBLIC JOINT STOCK COMPANY PROLETARSKY ZAVOD",
       "list": "RUSSIA-EO14024"
@@ -36357,10 +35997,6 @@
       "name": "SIMANOVSKIY, Alexey Yurevich",
       "list": "RUSSIA-EO14024"
     },
-    "36397": {
-      "name": "USTINOV, Vladimir Vasilyevich",
-      "list": "RUSSIA-EO14024"
-    },
     "36399": {
       "name": "LADY LEILA",
       "list": "RUSSIA-EO14024"
@@ -36395,7 +36031,7 @@
     },
     "36409": {
       "name": "SOVREMENNYE TEKHNOLOGII LIMITED LIABILITY COMPANY",
-      "list": "RUSSIA-EO14024"
+      "list": "UKRAINE-EO13662] [RUSSIA-EO14024"
     },
     "36410": {
       "name": "JOINT STOCK COMPANY SBERBANK TECHNOLOGIES",
@@ -36415,7 +36051,7 @@
     },
     "36419": {
       "name": "LIMITED LIABILITY COMPANY KORUS CONSULTING CIS",
-      "list": "RUSSIA-EO14024"
+      "list": "UKRAINE-EO13662] [RUSSIA-EO14024"
     },
     "36420": {
       "name": "VORONTSOVA, Maria Vladimirovna",
@@ -38507,10 +38143,6 @@
     },
     "37525": {
       "name": "JSC SCIENTIFIC AND PRODUCTION ASSOCIATION OF ELECTRO MECHANIC",
-      "list": "RUSSIA-EO14024"
-    },
-    "37526": {
-      "name": "JOINT STOCK COMPANY ARZAMASSKY PRIBOROSTROITELNY ZAVOD IMENI PLANDINA",
       "list": "RUSSIA-EO14024"
     },
     "37527": {
@@ -56161,10 +55793,6 @@
       "name": "NAUCHNO INZHENERNOE PREDPRIYATIE INFORMATIKA",
       "list": "RUSSIA-EO14024"
     },
-    "48745": {
-      "name": "CSOFT DEVELOPMENT",
-      "list": "RUSSIA-EO14024"
-    },
     "48746": {
       "name": "JSC CONSULTING GROUP POSTPROCESSOR",
       "list": "RUSSIA-EO14024"
@@ -58131,10 +57759,6 @@
     },
     "49462": {
       "name": "KOC GEMICILIK VE TASIMACILIK DIS TICARET LIMITED SIRKETI",
-      "list": "RUSSIA-EO14024"
-    },
-    "49463": {
-      "name": "JOINT STOCK COMPANY POLEMA",
       "list": "RUSSIA-EO14024"
     },
     "49464": {
@@ -62749,10 +62373,6 @@
       "name": "JOINT STOCK COMPANY 78 CENTRAL ENGINEERING BASE",
       "list": "RUSSIA-EO14024"
     },
-    "51149": {
-      "name": "SPECIAL SYSTEMS PHOTONICS LLC",
-      "list": "RUSSIA-EO14024"
-    },
     "51150": {
       "name": "OPEN JOINT STOCK COMPANY 136 CENTRALNAY BAZA PROIZVODSTVA I REMONTA VOORYGENIY I CREDSTV RADIACIONNOI HIMICHESKOI I BIOLOGICHESKOI ZACHITU",
       "list": "RUSSIA-EO14024"
@@ -64659,7 +64279,7 @@
     },
     "51712": {
       "name": "TASCA",
-      "list": "UKRAINE-EO13662] [RUSSIA-EO14024"
+      "list": "UKRAINE-EO13662] [IRAN-EO13846] [RUSSIA-EO14024"
     },
     "51713": {
       "name": "BOREY G",
@@ -66433,10 +66053,6 @@
       "name": "KIM, Yon Hui",
       "list": "NPWMD"
     },
-    "52293": {
-      "name": "SECOND ACADEMY OF NATURAL SCIENCES FOREIGN AFFAIRS BUREAU",
-      "list": "NPWMD"
-    },
     "52294": {
       "name": "SAFWAN AL-DUBAI COMPANY OF SHIPPING AND TRADE",
       "list": "SDGT"
@@ -66519,10 +66135,6 @@
     },
     "52326": {
       "name": "PROGRESS V",
-      "list": "IRAN-EO13846"
-    },
-    "52327": {
-      "name": "TASCA",
       "list": "IRAN-EO13846"
     },
     "52328": {
