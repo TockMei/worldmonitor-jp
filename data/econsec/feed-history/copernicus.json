@@ -1,8 +1,14 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-07-27T22:06:16.105Z",
+  "generated": "2026-07-28T22:05:39.133Z",
   "items": [
+    {
+      "title": "Copernicus Sentinel-3 Correction Notice: OLCI Level-2 Land Collection 003 Coverage and Baseline Collection Labelling",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-28-copernicus-sentinel-3-correction-notice-olci-level-2-land-collection-003-coverage",
+      "date": "Tue, 28 Jul 2026 06:54:38 UTC",
+      "firstSeen": "2026-07-28T22:05:39.133Z"
+    },
     {
       "title": "Copernicus Sentinel-3A unavailability notice for the Lunar Calibration planned on 30 July 2026 [DOY 211]",
       "link": "https://dataspace.copernicus.eu/news/2026-7-25-copernicus-sentinel-3a-unavailability-notice-lunar-calibration-planned-30-july-2026",

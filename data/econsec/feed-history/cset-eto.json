@@ -1,8 +1,14 @@
 {
   "id": "cset-eto",
   "label": "CSET ETO",
-  "generated": "2026-07-27T22:06:16.105Z",
+  "generated": "2026-07-28T22:05:39.133Z",
   "items": [
+    {
+      "title": "Chart the innovation landscape: introducing the Map of Patents",
+      "link": "https://eto.tech/blog/introducing-map-of-patents/",
+      "date": "Tue, 28 Jul 2026 00:00:00 GMT",
+      "firstSeen": "2026-07-28T22:05:39.133Z"
+    },
     {
       "title": "Exploring State AI Governance in AGORA #2: AI Regulatory Sandboxes",
       "link": "https://eto.tech/blog/agora-state-ai-governance-tracker-2/",

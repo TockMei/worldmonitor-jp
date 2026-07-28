@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-27T22:06:16.105Z"
+    "generated": "2026-07-28T22:05:39.133Z"
   },
   "alerts": [
     {
@@ -9765,6 +9765,197 @@
       "type": "page-change",
       "entity": "acquisition.gov Section 889",
       "detail": "－Last Updated 11/26/2025／＋Last Updated 07/20/2026"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "acquisition-section-889",
+      "type": "page-change",
+      "entity": "acquisition.gov Section 889",
+      "detail": "－Last Updated 07/20/2026／＋Last Updated 07/24/2026"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of OFAC Sanctions Action",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15157/notice-of-ofac-sanctions-action"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Juste-Aurèle Meissonnier: Rococo Goldsmith in Focus” Exhibition",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15224/notice-of-determinations-culturally-significant-objects-being-imported-for-exhibition-determinations"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "60-Day Notice of Proposed Information Collection: Medical Clearance Update Form",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15208/60-day-notice-of-proposed-information-collection-medical-clearance-update-form"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Department of Defense Board of Actuaries; Notice of Federal Advisory Committee Meeting",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15165/department-of-defense-board-of-actuaries-notice-of-federal-advisory-committee-meeting"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Uniform Formulary Beneficiary Advisory Panel; Notice of Federal Advisory Committee",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15164/uniform-formulary-beneficiary-advisory-panel-notice-of-federal-advisory-committee"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Personnel Demonstration Project at the United States Army Communications-Electronics Command Software Engineering Center Science and Technology Reinvention Laboratory (STRL); Correction",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15153/personnel-demonstration-project-at-the-united-states-army-communications-electronics-command"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Airworthiness Directives; The Boeing Company Airplanes",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15239/airworthiness-directives-the-boeing-company-airplanes"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Modification of Class E Airspace, Samaritan North Lincoln Hospital Heliport, Lincoln, OR",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15229/modification-of-class-e-airspace-samaritan-north-lincoln-hospital-heliport-lincoln-or"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Data Availability: Analysis of HFC Allocation Program Data for 2022-2025",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15219/notice-of-data-availability-analysis-of-hfc-allocation-program-data-for-2022-2025"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Request for Comment on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Delivered or Storable Energy Commodities",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15216/request-for-comment-on-the-extension-of-standard-futures-contracts-to-247-trading-and-on-perpetual"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors; Correction",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15213/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors-correction"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Rescission of Outdated Veterans Choice Program Regulations",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15210/rescission-of-outdated-veterans-choice-program-regulations"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "New Postal Products",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15207/new-postal-products"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to U.S. Navy Operations of Surveillance Towed Array Sensor System Low Frequency Active Sonar in the Western and Central North Pacific Ocean and Eastern Indian Ocean",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15206/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-us"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Perchloroethylene (PCE) and Carbon Tetrachloride (CTC); Regulation under the Toxic Substances Control Act (TSCA); Compliance Date Extensions",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15192/perchloroethylene-pce-and-carbon-tetrachloride-ctc-regulation-under-the-toxic-substances-control-act"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Epyrifenacil; Pesticide Tolerances; Correction",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15191/epyrifenacil-pesticide-tolerances-correction"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Affirmative Asylum Referrals Without Interview",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15190/affirmative-asylum-referrals-without-interview"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15180/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Approving Proposed Rule Change by the Options Clearing Corporation To Establish a Commercial Paper Program",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15176/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Air Plan Approval; Michigan; Redesignation of the Detroit, MI Area to Attainment of the 2015 Ozone Standards",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15168/air-plan-approval-michigan-redesignation-of-the-detroit-mi-area-to-attainment-of-the-2015-ozone"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Air Plan Approval; Michigan; Redesignation of the Berrien, MI and Muskegon, MI Areas to Attainment of the 2015 Ozone Standards",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15167/air-plan-approval-michigan-redesignation-of-the-berrien-mi-and-muskegon-mi-areas-to-attainment-of"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Agency Information Collection Activities: Notice of Intent To Extend Collection; 3038-0097; Process for Review of Swaps for Mandatory Clearing",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15166/agency-information-collection-activities-notice-of-intent-to-extend-collection-3038-0097-process-for"
+    },
+    {
+      "date": "2026-07-28T22:05:39.133Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Final Issuance on the Adoption of Administration for Native Americans Program Policies and Procedures",
+      "detail": "2026-07-28",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15150/notice-of-final-issuance-on-the-adoption-of-administration-for-native-americans-program-policies-and"
     }
   ]
 }
