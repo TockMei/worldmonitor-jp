@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-07-28T22:05:39.133Z",
+  "generated": "2026-07-29T22:04:53.340Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19157,
+  "count": 19175,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -76561,6 +76561,18 @@
       "name": "BANI, Solmaz",
       "list": "IRAN-EO13902"
     },
+    "58189": {
+      "name": "QI HANG SHIP MANAGEMENT LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58190": {
+      "name": "WELL SAIL",
+      "list": "IRAN-EO13902"
+    },
+    "58194": {
+      "name": "CONFIDENT APEX LIMITED",
+      "list": "IRAN-EO13902"
+    },
     "58195": {
       "name": "EL-ABIARY, Mahmoud",
       "list": "SDGT"
@@ -76632,6 +76644,66 @@
     "58213": {
       "name": "SANCHEZ PADRON, Gretza",
       "list": "CUBA-EO14404"
+    },
+    "58214": {
+      "name": "MARINOVA FREIGHT LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58215": {
+      "name": "VAST MIGHTY LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58216": {
+      "name": "OCEAN TRANQUILITY LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58217": {
+      "name": "BRANCH SAYING INTERNATIONAL TRADING CO LTD",
+      "list": "IRAN-EO13902"
+    },
+    "58218": {
+      "name": "NATSUMI",
+      "list": "IRAN-EO13902"
+    },
+    "58219": {
+      "name": "NIRETA",
+      "list": "IRAN-EO13902"
+    },
+    "58220": {
+      "name": "CRYSTAL",
+      "list": "IRAN-EO13902"
+    },
+    "58221": {
+      "name": "YEHOPE",
+      "list": "IRAN-EO13902"
+    },
+    "58227": {
+      "name": "LILY",
+      "list": "IRAN-EO13902"
+    },
+    "58231": {
+      "name": "BILLION NEXUS INT'L CO., LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58232": {
+      "name": "AL SALMI",
+      "list": "IRAN-EO13902"
+    },
+    "58233": {
+      "name": "PERSIAN GULF MARINE INSURANCE COMPANY",
+      "list": "IRAN-EO13902"
+    },
+    "58234": {
+      "name": "HORMUZSAFE MARINE SERVICES AUTHORITY",
+      "list": "IRAN-EO13902"
+    },
+    "58235": {
+      "name": "NEVADA SPIRIT COMPANY LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58236": {
+      "name": "BREEZE V",
+      "list": "IRAN-EO13902"
     }
   }
 }

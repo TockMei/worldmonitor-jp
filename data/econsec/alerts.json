@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-28T22:05:39.133Z"
+    "generated": "2026-07-29T22:04:53.340Z"
   },
   "alerts": [
     {
@@ -9956,6 +9956,510 @@
       "entity": "Notice of Final Issuance on the Adoption of Administration for Native Americans Program Policies and Procedures",
       "detail": "2026-07-28",
       "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15150/notice-of-final-issuance-on-the-adoption-of-administration-for-native-americans-program-policies-and"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "QI HANG SHIP MANAGEMENT LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "WELL SAIL",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "CONFIDENT APEX LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "MARINOVA FREIGHT LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "VAST MIGHTY LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "OCEAN TRANQUILITY LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "BRANCH SAYING INTERNATIONAL TRADING CO LTD",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "NATSUMI",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "NIRETA",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "CRYSTAL",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "YEHOPE",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "LILY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "BILLION NEXUS INT'L CO., LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "AL SALMI",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "PERSIAN GULF MARINE INSURANCE COMPANY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "HORMUZSAFE MARINE SERVICES AUTHORITY",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "NEVADA SPIRIT COMPANY LIMITED",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "csl",
+      "type": "add",
+      "entity": "BREEZE V",
+      "detail": "Specially Designated Nationals (SDN) - Treasury Department",
+      "url": "https://www.trade.gov/consolidated-screening-list"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "QI HANG SHIP MANAGEMENT LIMITED",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "WELL SAIL",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "CONFIDENT APEX LIMITED",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "MARINOVA FREIGHT LIMITED",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "VAST MIGHTY LIMITED",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "OCEAN TRANQUILITY LIMITED",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "BRANCH SAYING INTERNATIONAL TRADING CO LTD",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "NATSUMI",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "NIRETA",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "CRYSTAL",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "YEHOPE",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "LILY",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "BILLION NEXUS INT'L CO., LIMITED",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "AL SALMI",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "PERSIAN GULF MARINE INSURANCE COMPANY",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "HORMUZSAFE MARINE SERVICES AUTHORITY",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "NEVADA SPIRIT COMPANY LIMITED",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "ofac-sdn",
+      "type": "add",
+      "entity": "BREEZE V",
+      "detail": "IRAN-EO13902",
+      "url": "https://ofac.treasury.gov"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "60-Day Notice of Proposed Information Collection: Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15314/60-day-notice-of-proposed-information-collection-generic-clearance-for-the-collection-of-qualitative"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "30-Day Notice of Proposed Information Collection: Annual Brokering Report",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15269/30-day-notice-of-proposed-information-collection-annual-brokering-report"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "30-Day Notice of Proposed Information Collection: Petition To Classify Special Immigrant Under INA 203(b)(4) as an Employee or Former Employee of the U.S. Government Abroad, or the Surviving Spouse or Child of an Employee of the U.S. Government Abroad",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15268/30-day-notice-of-proposed-information-collection-petition-to-classify-special-immigrant-under-ina"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Determinations; Culturally Significant Object Being Imported for Exhibition-Determinations: “Mary Cassatt: After Impressionism” Exhibition",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15236/notice-of-determinations-culturally-significant-object-being-imported-for-exhibition-determinations"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15266/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15265/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15264/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15263/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15262/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15261/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15260/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15259/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15258/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Proposed Collection; Comment Request",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15257/proposed-collection-comment-request"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Airworthiness Directives; Airbus SAS Airplanes",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15308/airworthiness-directives-airbus-sas-airplanes"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Safety Zone; Lake Ontario, Olcott, NY",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15300/safety-zone-lake-ontario-olcott-ny"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Notice of Diabetes Mellitus Interagency Coordinating Committee Meeting",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15296/notice-of-diabetes-mellitus-interagency-coordinating-committee-meeting"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Implementation of Fish and Fish Product Import Provisions of the Marine Mammal Protection Act",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15294/implementation-of-fish-and-fish-product-import-provisions-of-the-marine-mammal-protection-act"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Portland Natural Gas Transmission System; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15292/portland-natural-gas-transmission-system-notice-of-request-under-blanket-authorization-and"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Tennessee Gas Pipeline Company, L.L.C.; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15289/tennessee-gas-pipeline-company-llc-notice-of-request-under-blanket-authorization-and-establishing"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Airworthiness Directives; Airbus Helicopters",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15283/airworthiness-directives-airbus-helicopters"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Privacy Act of 1974; Matching Program",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15282/privacy-act-of-1974-matching-program"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "New Postal Products",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15277/new-postal-products"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "1,1,2-Trichloroethane Draft Risk Evaluation Under the Toxic Substances Control Act (TSCA); Notice of Availability and Request for Comment",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15267/112-trichloroethane-draft-risk-evaluation-under-the-toxic-substances-control-act-tsca-notice-of"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Treasury Clearing Rules and Treasury Clearing Service Treasury Operations Policies and Liquidity Risk Management Framework",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15249/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Self-Regulatory Organizations; Investors Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Pursuant to IEX Rule 15.110(a) and (c) To Amend the Exchange's Fee Schedule",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15247/self-regulatory-organizations-investors-exchange-llc-notice-of-filing-and-immediate-effectiveness-of"
+    },
+    {
+      "date": "2026-07-29T22:04:53.340Z",
+      "source": "federal-register",
+      "type": "fr-new",
+      "entity": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend FINRA Rules 5110 (Corporate Financing Rule-Underwriting Terms and Arrangements) and 5123 (Private Placements of Securities)",
+      "detail": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15242/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"
     }
   ]
 }
