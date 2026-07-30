@@ -1,8 +1,14 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-07-29T22:04:53.340Z",
+  "generated": "2026-07-30T22:07:38.801Z",
   "items": [
+    {
+      "title": "Copernicus Sentinel-3B unavailability notice for the OLCI S09 calibration planned on 05 August 2026 [DOY 217]",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-30-copernicus-sentinel-3b-unavailability-notice-olci-s09-calibration-planned-05-august",
+      "date": "Thu, 30 Jul 2026 06:12:04 UTC",
+      "firstSeen": "2026-07-30T22:07:38.801Z"
+    },
     {
       "title": "Copernicus Sentinel-3 Correction Notice: OLCI Level-2 Land Collection 003 Coverage and Baseline Collection Labelling",
       "link": "https://dataspace.copernicus.eu/news/2026-7-28-copernicus-sentinel-3-correction-notice-olci-level-2-land-collection-003-coverage",
