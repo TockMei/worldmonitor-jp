@@ -1,9 +1,9 @@
 {
   "id": "dhs-uflpa",
   "label": "DHS UFLPA Entity List",
-  "generated": "2026-07-30T22:07:38.801Z",
+  "generated": "2026-07-31T22:06:02.178Z",
   "resolvedUrl": "https://www.dhs.gov/uflpa-entity-list",
-  "count": 52,
+  "count": 56,
   "entities": {
     "87b4f10192a9c9a8": {
       "name": "Baoding LYSZD Trade and Business Co., Ltd.",
@@ -29,9 +29,9 @@
       "name": "Xinjiang East Hope Nonferrous Metals Co., Ltd.",
       "list": "November 25, 2024"
     },
-    "78e02f9166a7471f": {
-      "name": "Xinjiang GCL New Energy Material Technology, Co. Ltd (including one alias: Xinjiang GCL New Energy Materials Technology Co.)",
-      "list": "June 21, 2022"
+    "676f50b0f0375df7": {
+      "name": "Xinjiang Goens Energy Technology Co., Ltd. (formerly known as Xinjiang GCL New Energy Material Technology Co., Ltd.; and Xinjiang GCL New Energy Materials Technology Co., Ltd.)",
+      "list": "August 3, 2026"
     },
     "3732701133fdf110": {
       "name": "Xinjiang Junggar Cotton and Linen Co., Ltd.",
@@ -129,6 +129,10 @@
       "name": "Western Gold Karamay Hatu Gold Mine Co., Ltd.",
       "list": "November 25, 2024"
     },
+    "5aa9e33ab2e13ca6": {
+      "name": "Xinjiang Communications Construction Group Co., Ltd.",
+      "list": "August 3, 2026"
+    },
     "750530b336fde32d": {
       "name": "Xinjiang Energy (Group) Co., Ltd.",
       "list": "January 15, 2025"
@@ -149,6 +153,10 @@
       "name": "Xinjiang Nonferrous Metals Industry Group Co., Ltd.",
       "list": "November 25, 2024"
     },
+    "a5dedc077dbafd18": {
+      "name": "Xinjiang Nuziline Bio-Pharmaceutical Co., Ltd. (also known as Xinjiang Xinziyuan Biopharmaceutical Co., Ltd.)",
+      "list": "August 3, 2026"
+    },
     "535259d2ae3563c5": {
       "name": "Xinjiang Production and Construction Corps (XPCC) and its subordinate and affiliated entities",
       "list": "June 21, 2022"
@@ -161,13 +169,17 @@
       "name": "Xinjiang Tengxiang Magnesium Products Co., Ltd.",
       "list": "August 9, 2024"
     },
-    "4b8a9226fb97b6d6": {
-      "name": "Xinjiang Tianmian Foundation Textile Co., Ltd.",
-      "list": "September 27, 2023"
+    "89c1de595f7b6980": {
+      "name": "Kuitun Yadasi Textile Co., Ltd. (also known as Kuitun Yadaxi Textile Co., Ltd.; and formerly known as Xinjiang Tianmian Foundation Textile Co., Ltd.; and Xinjiang Tianhong Jiye Textile Co., Ltd.)",
+      "list": "August 3, 2026"
     },
     "3628b3c14b763566": {
       "name": "Xinjiang Tianshan Wool Textile Co. Ltd.",
       "list": "September 27, 2023"
+    },
+    "762327d386e34eda": {
+      "name": "Xinjiang Tianyun Organic Agriculture Co., Ltd.",
+      "list": "August 3, 2026"
     },
     "b842ce28dec223a1": {
       "name": "Xinjiang Zhonghe Co., Ltd. (also known as Xinjiang Joinworld Co., Ltd.)",
@@ -184,6 +196,10 @@
     "1db442ed0c9bc1f2": {
       "name": "Xinjiang Zijin Zinc Industry Co., Ltd.",
       "list": "January 15, 2025"
+    },
+    "285377238690b8f9": {
+      "name": "Zhengzhou Synear Food Co., Ltd.",
+      "list": "August 3, 2026"
     },
     "e64af3a7dbc540f8": {
       "name": "Zhuhai Apex Microelectronics Co., Ltd.",
