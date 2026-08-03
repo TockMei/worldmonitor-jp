@@ -1,106 +1,8 @@
 {
   "meta": {
-    "generated": "2026-08-02T22:03:21.555Z"
+    "generated": "2026-08-03T22:06:46.986Z"
   },
   "history": {
-    "opensanctions": [
-      {
-        "title": "How Marble built on top of our open-source matcher",
-        "link": "https://www.opensanctions.org/articles/2026-07-21-marble/",
-        "date": "Mon, 20 Jul 2026 15:58:54 GMT",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "How we’re adding PEP data sources faster: The Australian example",
-        "link": "https://www.opensanctions.org/articles/2026-07-01-australia-peps/",
-        "date": "Wed, 01 Jul 2026 13:55:42 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How we reverse-engineered OFAC's sanctions screening algorithm",
-        "link": "https://www.opensanctions.org/articles/2026-07-01-ofac-matcher/",
-        "date": "Wed, 01 Jul 2026 09:13:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Should you run the OpenSanctions API yourself?",
-        "link": "https://www.opensanctions.org/articles/2026-06-25-should-you-run-the-opensanctions-api-yourself/",
-        "date": "Thu, 25 Jun 2026 11:09:13 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Dataharvest 2026: Sessions you won’t want to miss",
-        "link": "https://www.opensanctions.org/articles/2026-05-20-dataharvest/",
-        "date": "Wed, 20 May 2026 11:29:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How LLMs are changing screening",
-        "link": "https://www.opensanctions.org/articles/2026-05-12-llms-screening/",
-        "date": "Tue, 12 May 2026 09:41:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Wikidata contains many gaps in its political data. We’ve built a tool to change that",
-        "link": "https://www.opensanctions.org/articles/2026-03-24-poliloom/",
-        "date": "Tue, 24 Mar 2026 13:51:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "As the CIA closes The World Factbook, we’re opening our global map of political power",
-        "link": "https://www.opensanctions.org/articles/2026-02-18-every-politician/",
-        "date": "Wed, 18 Feb 2026 12:42:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Making the most of the OpenSanctions dataset browser",
-        "link": "https://www.opensanctions.org/articles/2026-01-28-dataset-browser/",
-        "date": "Wed, 28 Jan 2026 10:40:37 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "This was 2025 at OpenSanctions",
-        "link": "https://www.opensanctions.org/articles/2025-review/",
-        "date": "Thu, 18 Dec 2025 11:32:28 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OpenSanctions and Taktile partner to combine stronger data with smarter screening",
-        "link": "https://www.opensanctions.org/articles/2025-12-15-taktile-partnership/",
-        "date": "Mon, 15 Dec 2025 12:11:37 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Here’s everything that goes wrong when AI does text extraction (and how we’re still using it)",
-        "link": "https://www.opensanctions.org/articles/everything-that-goes-wrong-ai-text-extraction/",
-        "date": "Thu, 04 Dec 2025 11:13:55 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Launching our enforcements collection — and bringing context to OFAC sanctions",
-        "link": "https://www.opensanctions.org/articles/launching-our-enforcements-collection/",
-        "date": "Tue, 02 Dec 2025 11:39:13 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Investigating financial crime: Five things I learned at #GIJC25",
-        "link": "https://www.opensanctions.org/articles/2025-11-25-5-things-i-learnt-gijc25/",
-        "date": "Tue, 25 Nov 2025 14:56:37 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How journalists can use OpenSanctions to find leads and strengthen stories",
-        "link": "https://www.opensanctions.org/articles/2025-11-13-investigative-journalists-data/",
-        "date": "Thu, 13 Nov 2025 10:45:08 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Rosetta, not Roulette: Improving sanctions screening results with our new logic-v2 matcher",
-        "link": "https://www.opensanctions.org/articles/2025-09-11-logic-v2/",
-        "date": "Mon, 15 Sep 2025 07:06:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "cset-eto": [
       {
         "title": "Chart the innovation landscape: introducing the Map of Patents",
@@ -721,128 +623,105 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "otsi": [
+    "opensanctions": [
       {
-        "title": "Apply for a licence to carry out sanctioned trade through OTSI",
-        "link": "https://www.gov.uk/guidance/apply-for-a-licence-to-carry-out-sanctioned-trade-through-otsi",
-        "date": "2026-05-20T14:05:30Z",
+        "title": "How Marble built on top of our open-source matcher",
+        "link": "https://www.opensanctions.org/articles/2026-07-21-marble/",
+        "date": "Mon, 20 Jul 2026 15:58:54 GMT",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "How we’re adding PEP data sources faster: The Australian example",
+        "link": "https://www.opensanctions.org/articles/2026-07-01-australia-peps/",
+        "date": "Wed, 01 Jul 2026 13:55:42 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Russia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
-        "date": "2026-05-19T23:01:01Z",
+        "title": "How we reverse-engineered OFAC's sanctions screening algorithm",
+        "link": "https://www.opensanctions.org/articles/2026-07-01-ofac-matcher/",
+        "date": "Wed, 01 Jul 2026 09:13:00 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Guidance: General trade licence: maritime transportation of liquefied natural gas",
-        "link": "https://www.gov.uk/government/publications/general-trade-licence-maritime-transportation-of-liquefied-natural-gas",
-        "date": "2026-05-19T16:20:00Z",
+        "title": "Should you run the OpenSanctions API yourself?",
+        "link": "https://www.opensanctions.org/articles/2026-06-25-should-you-run-the-opensanctions-api-yourself/",
+        "date": "Thu, 25 Jun 2026 11:09:13 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
-        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
-        "date": "2026-05-08T08:40:08Z",
+        "title": "Dataharvest 2026: Sessions you won’t want to miss",
+        "link": "https://www.opensanctions.org/articles/2026-05-20-dataharvest/",
+        "date": "Wed, 20 May 2026 11:29:00 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
-        "date": "2026-05-01T10:19:55Z",
+        "title": "How LLMs are changing screening",
+        "link": "https://www.opensanctions.org/articles/2026-05-12-llms-screening/",
+        "date": "Tue, 12 May 2026 09:41:00 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Myanmar sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
-        "date": "2026-05-01T10:19:52Z",
+        "title": "Wikidata contains many gaps in its political data. We’ve built a tool to change that",
+        "link": "https://www.opensanctions.org/articles/2026-03-24-poliloom/",
+        "date": "Tue, 24 Mar 2026 13:51:00 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Syria sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
-        "date": "2026-05-01T10:19:41Z",
+        "title": "As the CIA closes The World Factbook, we’re opening our global map of political power",
+        "link": "https://www.opensanctions.org/articles/2026-02-18-every-politician/",
+        "date": "Wed, 18 Feb 2026 12:42:00 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Venezuela sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
-        "date": "2026-05-01T10:19:37Z",
+        "title": "Making the most of the OpenSanctions dataset browser",
+        "link": "https://www.opensanctions.org/articles/2026-01-28-dataset-browser/",
+        "date": "Wed, 28 Jan 2026 10:40:37 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Iran sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
-        "date": "2026-05-01T10:19:29Z",
+        "title": "This was 2025 at OpenSanctions",
+        "link": "https://www.opensanctions.org/articles/2025-review/",
+        "date": "Thu, 18 Dec 2025 11:32:28 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Trading under sanctions with Russia",
-        "link": "https://www.gov.uk/guidance/trading-under-sanctions-with-russia",
-        "date": "2026-04-23T11:26:40Z",
+        "title": "OpenSanctions and Taktile partner to combine stronger data with smarter screening",
+        "link": "https://www.opensanctions.org/articles/2025-12-15-taktile-partnership/",
+        "date": "Mon, 15 Dec 2025 12:11:37 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "How to use exceptions and licences to comply with sanctions",
-        "link": "https://www.gov.uk/guidance/how-to-use-exceptions-and-licences-to-comply-with-sanctions",
-        "date": "2026-04-23T11:26:39Z",
+        "title": "Here’s everything that goes wrong when AI does text extraction (and how we’re still using it)",
+        "link": "https://www.opensanctions.org/articles/everything-that-goes-wrong-ai-text-extraction/",
+        "date": "Thu, 04 Dec 2025 11:13:55 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "How to apply for a trade sanctions licence",
-        "link": "https://www.gov.uk/guidance/how-to-apply-for-a-trade-sanctions-licence",
-        "date": "2026-04-23T11:26:37Z",
+        "title": "Launching our enforcements collection — and bringing context to OFAC sanctions",
+        "link": "https://www.opensanctions.org/articles/launching-our-enforcements-collection/",
+        "date": "Tue, 02 Dec 2025 11:39:13 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "How OTSI assesses applications for trade sanctions licences",
-        "link": "https://www.gov.uk/guidance/how-otsi-assesses-applications-for-trade-sanctions-licences",
-        "date": "2026-04-23T11:26:00Z",
+        "title": "Investigating financial crime: Five things I learned at #GIJC25",
+        "link": "https://www.opensanctions.org/articles/2025-11-25-5-things-i-learnt-gijc25/",
+        "date": "Tue, 25 Nov 2025 14:56:37 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Statutory guidance: Democratic People's Republic of Korea sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/democratic-peoples-republic-of-korea-sanctions-guidance",
-        "date": "2026-04-23T10:50:48Z",
+        "title": "How journalists can use OpenSanctions to find leads and strengthen stories",
+        "link": "https://www.opensanctions.org/articles/2025-11-13-investigative-journalists-data/",
+        "date": "Thu, 13 Nov 2025 10:45:08 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Guidance: Sanctions End-Use Controls: guidance for businesses",
-        "link": "https://www.gov.uk/government/publications/sanctions-end-use-controls-guidance-for-businesses",
-        "date": "2026-04-22T14:37:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Starter guide to UK sanctions",
-        "link": "https://www.gov.uk/guidance/starter-guide-to-uk-sanctions",
-        "date": "2026-03-30T09:00:02Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Countering Russian sanctions evasion and circumvention",
-        "link": "https://www.gov.uk/government/publications/countering-russian-sanctions-evasion-and-circumvention",
-        "date": "2026-03-12T09:40:59Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Look up considerations for trade licences under the Belarus sanctions",
-        "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-belarus-sanctions",
-        "date": "2026-03-05T09:53:19Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Corporate report: One year of the Office of Trade Sanctions Implementation (OTSI)",
-        "link": "https://www.gov.uk/government/publications/one-year-of-the-office-of-trade-sanctions-implementation-otsi",
-        "date": "2025-12-04T11:00:11Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Countering sanctions evasion: guidance for freight and shipping",
-        "link": "https://www.gov.uk/government/publications/countering-sanctions-evasion-guidance-for-freight-and-shipping",
-        "date": "2025-11-03T12:06:26Z",
+        "title": "Rosetta, not Roulette: Improving sanctions screening results with our new logic-v2 matcher",
+        "link": "https://www.opensanctions.org/articles/2025-09-11-logic-v2/",
+        "date": "Mon, 15 Sep 2025 07:06:00 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "cistec": [],
     "cset": [
       {
         "title": "Taiwan’s Tech Hurdles Threaten Military Capability and Potential Coalition Defense",
@@ -959,8 +838,25 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "cistec": [],
     "ac-geoecon": [
+      {
+        "title": "Can al-Zaidi separate the sects from the state in Iraq?",
+        "link": "https://www.atlanticcouncil.org/blogs/menasource/can-al-zaidi-separate-the-sects-from-the-state-in-iraq/",
+        "date": "Mon, 03 Aug 2026 17:48:51 +0000",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "As Ukraine regains the initiative from Russia, Europe must seize the moment",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/as-ukraine-regains-the-initiative-from-russia-europe-must-seize-the-moment/",
+        "date": "Mon, 03 Aug 2026 16:04:17 +0000",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "ASEAN-5 in an era of geoeconomic realignment: Opportunities and risks in a fragmenting global economy",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/asean-5-in-an-era-of-geoeconomic-realignment-opportunities-and-risks-in-a-fragmenting-global-economy/",
+        "date": "Mon, 03 Aug 2026 13:00:00 +0000",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
       {
         "title": "Nepal and Bangladesh are delaying LDC graduation. Now comes the hard part.",
         "link": "https://www.atlanticcouncil.org/dispatches/nepal-and-bangladesh-are-delaying-ldc-graduation-now-comes-the-hard-part/",
@@ -2142,17 +2038,285 @@
         "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/perspectives-from-the-2026-ceo-dialogue/",
         "date": "Wed, 24 Jun 2026 16:00:48 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "ecju": [
+      {
+        "title": "Notice: Notice to exporters 2026/18: F680 licence applicants to use LITE instead of SPIRE",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202618-f680-licence-applicants-to-use-lite-instead-of-spire",
+        "date": "2026-07-31T09:00:06Z",
+        "firstSeen": "2026-07-31T22:06:02.178Z"
       },
       {
-        "title": "Dispatch from Tivat: What Montenegro still needs to do to join the European Union",
-        "link": "https://www.atlanticcouncil.org/dispatches/dispatch-from-tivat-what-montenegro-still-needs-to-do-to-join-the-european-union/",
-        "date": "Wed, 24 Jun 2026 14:19:47 +0000",
+        "title": "Notice: Notice to exporters 2026/17: company named in compound settlement for breaches of export control",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202617-compound-settlement-for-breaches-of-export-control",
+        "date": "2026-07-30T06:30:00Z",
+        "firstSeen": "2026-07-30T22:07:38.801Z"
+      },
+      {
+        "title": "Notice: Notice to exporters 2026/16: compound settlement for breaches of export control",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202616-compound-settlement-for-breaches-of-export-control",
+        "date": "2026-07-27T14:00:12Z",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "Corporate report: UK strategic export controls annual report 2025",
+        "link": "https://www.gov.uk/government/publications/uk-strategic-export-controls-annual-report-2025",
+        "date": "2026-07-20T09:32:20Z",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "Official Statistics: Strategic export controls: licensing statistics 1 January to 31 March 2026",
+        "link": "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
+        "date": "2026-07-20T07:59:26Z",
+        "firstSeen": "2026-07-20T22:05:23.456Z"
+      },
+      {
+        "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
+        "date": "2026-06-29T10:55:05Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The Greenspan legacy: How the Federal Reserve should face the AI revolution",
-        "link": "https://www.atlanticcouncil.org/dispatches/the-greenspan-legacy-how-the-federal-reserve-should-face-the-ai-revolution/",
-        "date": "Tue, 23 Jun 2026 22:00:00 +0000",
+        "title": "Guidance: Open general export licence (export of dual-use items)",
+        "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
+        "date": "2026-06-25T08:30:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Russia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
+        "date": "2026-05-19T23:01:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Military end-use controls",
+        "link": "https://www.gov.uk/guidance/military-end-use-controls",
+        "date": "2026-05-19T08:57:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202613-declaring-exports-under-ogels-and-geas-on-the-uks-customs-declarations-system",
+        "date": "2026-05-13T08:30:02Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
+        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
+        "date": "2026-05-05T14:30:41Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
+        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
+        "date": "2026-05-01T12:57:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
+        "date": "2026-05-01T10:20:09Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Libya sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
+        "date": "2026-05-01T10:20:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Somalia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
+        "date": "2026-05-01T10:20:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
+        "date": "2026-05-01T10:19:55Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Myanmar sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
+        "date": "2026-05-01T10:19:52Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Counter-terrorism international sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/counter-terrorism-international-sanctions-guidance",
+        "date": "2026-05-01T10:19:49Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: South Sudan sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/south-sudan-sanctions-guidance",
+        "date": "2026-05-01T10:19:47Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Sudan sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/sudan-sanctions-guidance",
+        "date": "2026-05-01T10:19:44Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Syria sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
+        "date": "2026-05-01T10:19:41Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Venezuela sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
+        "date": "2026-05-01T10:19:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Yemen sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/yemen-sanctions-guidance",
+        "date": "2026-05-01T10:19:35Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Zimbabwe sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/zimbabwe-sanctions-guidance",
+        "date": "2026-05-01T10:19:32Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Iran sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
+        "date": "2026-05-01T10:19:29Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "otsi": [
+      {
+        "title": "Guidance: Complying with sanctions relating to banknotes",
+        "link": "https://www.gov.uk/government/publications/complying-with-sanctions-relating-to-banknotes",
+        "date": "2026-08-03T11:30:01Z",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "Apply for a licence to carry out sanctioned trade through OTSI",
+        "link": "https://www.gov.uk/guidance/apply-for-a-licence-to-carry-out-sanctioned-trade-through-otsi",
+        "date": "2026-05-20T14:05:30Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Russia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
+        "date": "2026-05-19T23:01:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: General trade licence: maritime transportation of liquefied natural gas",
+        "link": "https://www.gov.uk/government/publications/general-trade-licence-maritime-transportation-of-liquefied-natural-gas",
+        "date": "2026-05-19T16:20:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
+        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
+        "date": "2026-05-08T08:40:08Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
+        "date": "2026-05-01T10:19:55Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Myanmar sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
+        "date": "2026-05-01T10:19:52Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Syria sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
+        "date": "2026-05-01T10:19:41Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Venezuela sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
+        "date": "2026-05-01T10:19:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Iran sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
+        "date": "2026-05-01T10:19:29Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Trading under sanctions with Russia",
+        "link": "https://www.gov.uk/guidance/trading-under-sanctions-with-russia",
+        "date": "2026-04-23T11:26:40Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How to use exceptions and licences to comply with sanctions",
+        "link": "https://www.gov.uk/guidance/how-to-use-exceptions-and-licences-to-comply-with-sanctions",
+        "date": "2026-04-23T11:26:39Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How to apply for a trade sanctions licence",
+        "link": "https://www.gov.uk/guidance/how-to-apply-for-a-trade-sanctions-licence",
+        "date": "2026-04-23T11:26:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How OTSI assesses applications for trade sanctions licences",
+        "link": "https://www.gov.uk/guidance/how-otsi-assesses-applications-for-trade-sanctions-licences",
+        "date": "2026-04-23T11:26:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Democratic People's Republic of Korea sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/democratic-peoples-republic-of-korea-sanctions-guidance",
+        "date": "2026-04-23T10:50:48Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Sanctions End-Use Controls: guidance for businesses",
+        "link": "https://www.gov.uk/government/publications/sanctions-end-use-controls-guidance-for-businesses",
+        "date": "2026-04-22T14:37:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Starter guide to UK sanctions",
+        "link": "https://www.gov.uk/guidance/starter-guide-to-uk-sanctions",
+        "date": "2026-03-30T09:00:02Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Countering Russian sanctions evasion and circumvention",
+        "link": "https://www.gov.uk/government/publications/countering-russian-sanctions-evasion-and-circumvention",
+        "date": "2026-03-12T09:40:59Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Look up considerations for trade licences under the Belarus sanctions",
+        "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-belarus-sanctions",
+        "date": "2026-03-05T09:53:19Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Corporate report: One year of the Office of Trade Sanctions Implementation (OTSI)",
+        "link": "https://www.gov.uk/government/publications/one-year-of-the-office-of-trade-sanctions-implementation-otsi",
+        "date": "2025-12-04T11:00:11Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Countering sanctions evasion: guidance for freight and shipping",
+        "link": "https://www.gov.uk/government/publications/countering-sanctions-evasion-guidance-for-freight-and-shipping",
+        "date": "2025-11-03T12:06:26Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -2359,159 +2523,19 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "ecju": [
-      {
-        "title": "Notice: Notice to exporters 2026/18: F680 licence applicants to use LITE instead of SPIRE",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202618-f680-licence-applicants-to-use-lite-instead-of-spire",
-        "date": "2026-07-31T09:00:06Z",
-        "firstSeen": "2026-07-31T22:06:02.178Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/17: company named in compound settlement for breaches of export control",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202617-compound-settlement-for-breaches-of-export-control",
-        "date": "2026-07-30T06:30:00Z",
-        "firstSeen": "2026-07-30T22:07:38.801Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/16: compound settlement for breaches of export control",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202616-compound-settlement-for-breaches-of-export-control",
-        "date": "2026-07-27T14:00:12Z",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "Corporate report: UK strategic export controls annual report 2025",
-        "link": "https://www.gov.uk/government/publications/uk-strategic-export-controls-annual-report-2025",
-        "date": "2026-07-20T09:32:20Z",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics 1 January to 31 March 2026",
-        "link": "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
-        "date": "2026-07-20T07:59:26Z",
-        "firstSeen": "2026-07-20T22:05:23.456Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
-        "date": "2026-06-29T10:55:05Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Open general export licence (export of dual-use items)",
-        "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
-        "date": "2026-06-25T08:30:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Russia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
-        "date": "2026-05-19T23:01:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Military end-use controls",
-        "link": "https://www.gov.uk/guidance/military-end-use-controls",
-        "date": "2026-05-19T08:57:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202613-declaring-exports-under-ogels-and-geas-on-the-uks-customs-declarations-system",
-        "date": "2026-05-13T08:30:02Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
-        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
-        "date": "2026-05-05T14:30:41Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
-        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
-        "date": "2026-05-01T12:57:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
-        "date": "2026-05-01T10:20:09Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Libya sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
-        "date": "2026-05-01T10:20:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Somalia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
-        "date": "2026-05-01T10:20:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
-        "date": "2026-05-01T10:19:55Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Myanmar sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
-        "date": "2026-05-01T10:19:52Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Counter-terrorism international sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/counter-terrorism-international-sanctions-guidance",
-        "date": "2026-05-01T10:19:49Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: South Sudan sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/south-sudan-sanctions-guidance",
-        "date": "2026-05-01T10:19:47Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Sudan sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/sudan-sanctions-guidance",
-        "date": "2026-05-01T10:19:44Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Syria sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
-        "date": "2026-05-01T10:19:41Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Venezuela sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
-        "date": "2026-05-01T10:19:37Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Yemen sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/yemen-sanctions-guidance",
-        "date": "2026-05-01T10:19:35Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Zimbabwe sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/zimbabwe-sanctions-guidance",
-        "date": "2026-05-01T10:19:32Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Iran sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
-        "date": "2026-05-01T10:19:29Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "sinocism": [
+      {
+        "title": "Advantage Does Not Equal Victory | Sinification: July 2026",
+        "link": "https://sinocism.com/p/advantage-does-not-equal-victory",
+        "date": "Mon, 03 Aug 2026 20:33:05 GMT",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "Politburo study session; Regulation on Exit and Entry Administration; US-China; AI; Scarborough Shoal/Huangyan Dao",
+        "link": "https://sinocism.com/p/politburo-study-session-regulation",
+        "date": "Mon, 03 Aug 2026 16:25:59 GMT",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
       {
         "title": "July 2026 Politburo meeting; Fifth Plenum set for October; Signals of marginal, incremental policy support",
         "link": "https://sinocism.com/p/july-2026-politburo-meeting-fifth",
@@ -2723,183 +2747,13 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "pekingnology": [
-      {
-        "title": "Xu Gao: Three Questions China Must Clarify to Promote Effective Investment",
-        "link": "https://www.pekingnology.com/p/xu-gao-three-questions-china-must",
-        "date": "Sun, 02 Aug 2026 17:01:17 GMT",
-        "firstSeen": "2026-08-02T22:03:21.555Z"
-      },
-      {
-        "title": "Reading the July Politburo Meeting: More Support, Same Priorities",
-        "link": "https://www.pekingnology.com/p/reading-the-july-politburo-meeting",
-        "date": "Thu, 30 Jul 2026 14:14:40 GMT",
-        "firstSeen": "2026-07-30T22:07:38.801Z"
-      },
-      {
-        "title": "Manufacturing Personality",
-        "link": "https://www.pekingnology.com/p/manufacturing-personality",
-        "date": "Tue, 28 Jul 2026 12:20:09 GMT",
-        "firstSeen": "2026-07-28T22:05:39.133Z"
-      },
-      {
-        "title": "Yan Xuetong: an autonomous knowledge system needs more than Chinese characteristics",
-        "link": "https://www.pekingnology.com/p/yan-xuetong-an-autonomous-knowledge",
-        "date": "Mon, 27 Jul 2026 02:31:53 GMT",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "Henry Huiyao Wang: To prosper, China must become a magnet for international students",
-        "link": "https://www.pekingnology.com/p/henry-huiyao-wang-to-prosper-china",
-        "date": "Tue, 21 Jul 2026 20:17:36 GMT",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "Xiaohongshu’s silence becomes part of its IPO story",
-        "link": "https://www.pekingnology.com/p/xiaohongshus-silence-becomes-part",
-        "date": "Sun, 19 Jul 2026 12:55:20 GMT",
-        "firstSeen": "2026-07-19T22:02:54.231Z"
-      },
-      {
-        "title": "The rice that grew only on paper",
-        "link": "https://www.pekingnology.com/p/the-rice-that-grew-only-on-paper",
-        "date": "Sat, 18 Jul 2026 19:18:20 GMT",
-        "firstSeen": "2026-07-18T22:01:55.971Z"
-      },
-      {
-        "title": "Cai Fang's prescription for AI job disruption in China",
-        "link": "https://www.pekingnology.com/p/cai-fangs-prescription-for-ai-job",
-        "date": "Thu, 16 Jul 2026 12:07:41 GMT",
-        "firstSeen": "2026-07-16T22:05:42.331Z"
-      },
-      {
-        "title": "Sang Baichuan on Why Foreign Investment in China Is Falling",
-        "link": "https://www.pekingnology.com/p/sang-baichuan-on-why-foreign-investment",
-        "date": "Mon, 13 Jul 2026 15:51:01 GMT",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Gao Shanwen on Chinese government and overcapacity: historical patterns, current context, and response strategies",
-        "link": "https://www.pekingnology.com/p/gao-shanwen-on-chinese-government",
-        "date": "Tue, 07 Jul 2026 14:54:31 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Select Committee on China Finds Something to Like in Pekingnology",
-        "link": "https://www.pekingnology.com/p/the-select-committee-on-china-finds",
-        "date": "Thu, 02 Jul 2026 05:39:02 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The MBA as National Security Threat",
-        "link": "https://www.pekingnology.com/p/the-mba-as-national-security-threat",
-        "date": "Wed, 01 Jul 2026 00:20:02 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The State of Taste",
-        "link": "https://www.pekingnology.com/p/the-state-of-taste",
-        "date": "Tue, 30 Jun 2026 05:29:57 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Reading Beijing’s Signal to Brussels",
-        "link": "https://www.pekingnology.com/p/reading-beijings-signal-to-brussels",
-        "date": "Sun, 28 Jun 2026 17:34:35 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Much Ado About Xinhua’s “Joint State-Private Ownership” Article",
-        "link": "https://www.pekingnology.com/p/much-ado-about-xinhuas-joint-state",
-        "date": "Fri, 26 Jun 2026 11:37:42 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Michael Jinghan Zeng: China needs a more transactional policy towards Britain",
-        "link": "https://www.pekingnology.com/p/michael-jinghan-zeng-china-needs",
-        "date": "Wed, 24 Jun 2026 07:09:59 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OECD's Subsidy-Centric Narrative of China’s Emerging Industries Is Increasingly Flawed and Outdated: CF40 research",
-        "link": "https://www.pekingnology.com/p/oecds-subsidy-centric-narrative-of",
-        "date": "Sat, 13 Jun 2026 03:08:40 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "What the Stilwell Family Still Remembers About China",
-        "link": "https://www.pekingnology.com/p/what-the-stilwell-family-still-remembers",
-        "date": "Wed, 10 Jun 2026 04:39:39 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "UNDP Report: Monitoring China's Human Development",
-        "link": "https://www.pekingnology.com/p/undp-report-monitoring-chinas-human",
-        "date": "Tue, 09 Jun 2026 02:10:34 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How Local China Built the EV Boom",
-        "link": "https://www.pekingnology.com/p/how-local-china-built-the-ev-boom",
-        "date": "Sat, 06 Jun 2026 14:57:47 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Jia Min: Beijing’s new language for managing competition with the U.S.",
-        "link": "https://www.pekingnology.com/p/jia-min-beijings-new-language-for",
-        "date": "Fri, 05 Jun 2026 01:05:35 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Report on the Military Activities of Non-US Extra-Regional Countries in the Western Pacific in 2025",
-        "link": "https://www.pekingnology.com/p/report-on-the-military-activities",
-        "date": "Sat, 30 May 2026 02:02:11 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Henry Huiyao Wang: From Strategic Rivalry to Strategic Stability",
-        "link": "https://www.pekingnology.com/p/henry-huiyao-wang-from-strategic",
-        "date": "Fri, 22 May 2026 12:20:37 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Beijing Did Not Simply “Write the Script”",
-        "link": "https://www.pekingnology.com/p/beijing-did-not-simply-write-the",
-        "date": "Thu, 21 May 2026 21:34:22 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China’s Top Court Appears to Privately Say Anti-LGBT Discrimination Is Unlawful",
-        "link": "https://www.pekingnology.com/p/chinas-top-court-appears-to-privately",
-        "date": "Wed, 20 May 2026 21:49:42 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Common Prosperity, Without Illusions",
-        "link": "https://www.pekingnology.com/p/common-prosperity-without-illusions",
-        "date": "Fri, 15 May 2026 22:20:55 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Henry Huiyao Wang on building mechanisms for managed interdependence",
-        "link": "https://www.pekingnology.com/p/henry-huiyao-wang-on-building-mechanisms",
-        "date": "Tue, 12 May 2026 15:11:12 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "This Is Not an Inspiring China Story",
-        "link": "https://www.pekingnology.com/p/this-is-not-an-inspiring-china-story",
-        "date": "Mon, 11 May 2026 11:50:04 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Bernie Sanders invited two Chinese AI researchers to talk safety cooperation. Here is what they said.",
-        "link": "https://www.pekingnology.com/p/bernie-sanders-invited-two-chinese",
-        "date": "Sat, 09 May 2026 03:16:00 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "chinatalk": [
+      {
+        "title": "$50k ChinaTalk Submission + Hiring Contest!",
+        "link": "https://www.chinatalk.media/p/50k-chinatalk-submission-hiring-contest",
+        "date": "Mon, 03 Aug 2026 16:26:33 GMT",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
       {
         "title": "Cold War Lessons for a Constrained America",
         "link": "https://www.chinatalk.media/p/cold-war-lessons-for-a-constrained",
@@ -3093,7 +2947,195 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "pekingnology": [
+      {
+        "title": "Gordon G. Liu: What AI Can—and Cannot—Fix in Chinese Healthcare",
+        "link": "https://www.pekingnology.com/p/gordon-g-liu-what-ai-canand-cannotfix",
+        "date": "Mon, 03 Aug 2026 16:11:34 GMT",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "Xu Gao: Three Questions China Must Clarify to Promote Effective Investment",
+        "link": "https://www.pekingnology.com/p/xu-gao-three-questions-china-must",
+        "date": "Sun, 02 Aug 2026 17:01:17 GMT",
+        "firstSeen": "2026-08-02T22:03:21.555Z"
+      },
+      {
+        "title": "Reading the July Politburo Meeting: More Support, Same Priorities",
+        "link": "https://www.pekingnology.com/p/reading-the-july-politburo-meeting",
+        "date": "Thu, 30 Jul 2026 14:14:40 GMT",
+        "firstSeen": "2026-07-30T22:07:38.801Z"
+      },
+      {
+        "title": "Manufacturing Personality",
+        "link": "https://www.pekingnology.com/p/manufacturing-personality",
+        "date": "Tue, 28 Jul 2026 12:20:09 GMT",
+        "firstSeen": "2026-07-28T22:05:39.133Z"
+      },
+      {
+        "title": "Yan Xuetong: an autonomous knowledge system needs more than Chinese characteristics",
+        "link": "https://www.pekingnology.com/p/yan-xuetong-an-autonomous-knowledge",
+        "date": "Mon, 27 Jul 2026 02:31:53 GMT",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "Henry Huiyao Wang: To prosper, China must become a magnet for international students",
+        "link": "https://www.pekingnology.com/p/henry-huiyao-wang-to-prosper-china",
+        "date": "Tue, 21 Jul 2026 20:17:36 GMT",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "Xiaohongshu’s silence becomes part of its IPO story",
+        "link": "https://www.pekingnology.com/p/xiaohongshus-silence-becomes-part",
+        "date": "Sun, 19 Jul 2026 12:55:20 GMT",
+        "firstSeen": "2026-07-19T22:02:54.231Z"
+      },
+      {
+        "title": "The rice that grew only on paper",
+        "link": "https://www.pekingnology.com/p/the-rice-that-grew-only-on-paper",
+        "date": "Sat, 18 Jul 2026 19:18:20 GMT",
+        "firstSeen": "2026-07-18T22:01:55.971Z"
+      },
+      {
+        "title": "Cai Fang's prescription for AI job disruption in China",
+        "link": "https://www.pekingnology.com/p/cai-fangs-prescription-for-ai-job",
+        "date": "Thu, 16 Jul 2026 12:07:41 GMT",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Sang Baichuan on Why Foreign Investment in China Is Falling",
+        "link": "https://www.pekingnology.com/p/sang-baichuan-on-why-foreign-investment",
+        "date": "Mon, 13 Jul 2026 15:51:01 GMT",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Gao Shanwen on Chinese government and overcapacity: historical patterns, current context, and response strategies",
+        "link": "https://www.pekingnology.com/p/gao-shanwen-on-chinese-government",
+        "date": "Tue, 07 Jul 2026 14:54:31 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Select Committee on China Finds Something to Like in Pekingnology",
+        "link": "https://www.pekingnology.com/p/the-select-committee-on-china-finds",
+        "date": "Thu, 02 Jul 2026 05:39:02 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The MBA as National Security Threat",
+        "link": "https://www.pekingnology.com/p/the-mba-as-national-security-threat",
+        "date": "Wed, 01 Jul 2026 00:20:02 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The State of Taste",
+        "link": "https://www.pekingnology.com/p/the-state-of-taste",
+        "date": "Tue, 30 Jun 2026 05:29:57 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Reading Beijing’s Signal to Brussels",
+        "link": "https://www.pekingnology.com/p/reading-beijings-signal-to-brussels",
+        "date": "Sun, 28 Jun 2026 17:34:35 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Much Ado About Xinhua’s “Joint State-Private Ownership” Article",
+        "link": "https://www.pekingnology.com/p/much-ado-about-xinhuas-joint-state",
+        "date": "Fri, 26 Jun 2026 11:37:42 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Michael Jinghan Zeng: China needs a more transactional policy towards Britain",
+        "link": "https://www.pekingnology.com/p/michael-jinghan-zeng-china-needs",
+        "date": "Wed, 24 Jun 2026 07:09:59 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OECD's Subsidy-Centric Narrative of China’s Emerging Industries Is Increasingly Flawed and Outdated: CF40 research",
+        "link": "https://www.pekingnology.com/p/oecds-subsidy-centric-narrative-of",
+        "date": "Sat, 13 Jun 2026 03:08:40 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "What the Stilwell Family Still Remembers About China",
+        "link": "https://www.pekingnology.com/p/what-the-stilwell-family-still-remembers",
+        "date": "Wed, 10 Jun 2026 04:39:39 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "UNDP Report: Monitoring China's Human Development",
+        "link": "https://www.pekingnology.com/p/undp-report-monitoring-chinas-human",
+        "date": "Tue, 09 Jun 2026 02:10:34 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How Local China Built the EV Boom",
+        "link": "https://www.pekingnology.com/p/how-local-china-built-the-ev-boom",
+        "date": "Sat, 06 Jun 2026 14:57:47 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Jia Min: Beijing’s new language for managing competition with the U.S.",
+        "link": "https://www.pekingnology.com/p/jia-min-beijings-new-language-for",
+        "date": "Fri, 05 Jun 2026 01:05:35 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Report on the Military Activities of Non-US Extra-Regional Countries in the Western Pacific in 2025",
+        "link": "https://www.pekingnology.com/p/report-on-the-military-activities",
+        "date": "Sat, 30 May 2026 02:02:11 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Henry Huiyao Wang: From Strategic Rivalry to Strategic Stability",
+        "link": "https://www.pekingnology.com/p/henry-huiyao-wang-from-strategic",
+        "date": "Fri, 22 May 2026 12:20:37 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Beijing Did Not Simply “Write the Script”",
+        "link": "https://www.pekingnology.com/p/beijing-did-not-simply-write-the",
+        "date": "Thu, 21 May 2026 21:34:22 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "China’s Top Court Appears to Privately Say Anti-LGBT Discrimination Is Unlawful",
+        "link": "https://www.pekingnology.com/p/chinas-top-court-appears-to-privately",
+        "date": "Wed, 20 May 2026 21:49:42 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Common Prosperity, Without Illusions",
+        "link": "https://www.pekingnology.com/p/common-prosperity-without-illusions",
+        "date": "Fri, 15 May 2026 22:20:55 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Henry Huiyao Wang on building mechanisms for managed interdependence",
+        "link": "https://www.pekingnology.com/p/henry-huiyao-wang-on-building-mechanisms",
+        "date": "Tue, 12 May 2026 15:11:12 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "This Is Not an Inspiring China Story",
+        "link": "https://www.pekingnology.com/p/this-is-not-an-inspiring-china-story",
+        "date": "Mon, 11 May 2026 11:50:04 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Bernie Sanders invited two Chinese AI researchers to talk safety cooperation. Here is what they said.",
+        "link": "https://www.pekingnology.com/p/bernie-sanders-invited-two-chinese",
+        "date": "Sat, 09 May 2026 03:16:00 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "wirechina": [
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/03/the-daily-roundup-august-3-2026/",
+        "date": "Mon, 03 Aug 2026 12:00:00 +0000",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
       {
         "title": "Alex Wang on What China Gets Right — and Wrong — on the Environment",
         "link": "https://www.thewirechina.com/2026/08/02/alex-wang-on-what-china-gets-right-and-wrong-on-the-environment/",
@@ -3594,6 +3636,24 @@
       }
     ],
     "gibsondunn": [
+      {
+        "title": "Jane Horvath Quoted in Bloomberg Law’s “Tech Firms Welcome Federal AI Regulatory Oversight, With Limits”",
+        "link": "https://www.gibsondunn.com/jane-horvath-quoted-in-bloomberg-laws-tech-firms-welcome-federal-ai-regulatory-oversight-with-limits/",
+        "date": "Mon, 03 Aug 2026 17:22:10 +0000",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "Gibson Dunn Advised Rise Baking Company on Jimmy’s Gourmet Bakery Acquisition",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advised-rise-baking-company-on-jimmys-gourmet-bakery-acquisition/",
+        "date": "Mon, 03 Aug 2026 15:56:36 +0000",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "Gibson Dunn Advised Airbus on Alta Ares Partnership",
+        "link": "https://www.gibsondunn.com/gibson-dunn-advised-airbus-on-alta-ares-partnership/",
+        "date": "Mon, 03 Aug 2026 14:50:02 +0000",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
       {
         "title": "Derivatives, Legislative and Regulatory Weekly Update (July 31, 2026)",
         "link": "https://www.gibsondunn.com/derivatives-legislative-and-regulatory-weekly-update-july-31-2026/",
@@ -4153,80 +4213,6 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "ifi": [
-      {
-        "title": "A Financial Institution’s Guide to Updated EU Market Abuse Regulation",
-        "link": "https://finintegrity.org/a-financial-institutions-guide-to-updated-eu-market-abuse-regulation/",
-        "date": "Wed, 29 Jul 2026 11:00:47 +0000",
-        "firstSeen": "2026-07-29T22:04:53.340Z"
-      },
-      {
-        "title": "The Hidden Factor Behind Effective Compliance Training",
-        "link": "https://finintegrity.org/the-hidden-factor-behind-effective-compliance-training/",
-        "date": "Wed, 22 Jul 2026 11:00:13 +0000",
-        "firstSeen": "2026-07-22T22:05:33.220Z"
-      },
-      {
-        "title": "Social Engineering Is Rewriting the Fraud Playbook",
-        "link": "https://finintegrity.org/social-engineering-is-rewriting-the-fraud-playbook/",
-        "date": "Wed, 08 Jul 2026 11:00:56 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Hadhramout Bank Selects IFI as Training Provider to Strengthen Financial Integrity and Cross-Border Payment Compliance",
-        "link": "https://finintegrity.org/hadhramout-bank-selects-ifi-as-training-provider-to-strengthen-financial-integrity-and-cross-border-payment-compliance/",
-        "date": "Tue, 07 Jul 2026 12:00:45 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "June 2026 Sanctions and Export Controls Report",
-        "link": "https://finintegrity.org/june-2026-sanctions-and-export-controls-report/",
-        "date": "Wed, 01 Jul 2026 11:00:39 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Crypto Layering",
-        "link": "https://finintegrity.org/crypto-layering/",
-        "date": "Wed, 17 Jun 2026 11:00:01 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Who Owns the Risk?",
-        "link": "https://finintegrity.org/who-owns-the-risk/",
-        "date": "Wed, 10 Jun 2026 11:00:16 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "May 2026 Sanctions and Export Controls Update",
-        "link": "https://finintegrity.org/may-2026-monthly-sanctions-and-export-controls-report/",
-        "date": "Wed, 03 Jun 2026 11:00:14 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 3",
-        "link": "https://finintegrity.org/fatf-part-3/",
-        "date": "Wed, 13 May 2026 11:00:08 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "IFI Expands Arabic Training Offering to Meet Growing Demand",
-        "link": "https://finintegrity.org/ifi-expands-arabic-training-offering-to-meet-growing-demand/",
-        "date": "Tue, 12 May 2026 12:00:16 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "April 2026 Monthly Sanctions and Export Controls Report",
-        "link": "https://finintegrity.org/april-2026-monthly-sanctions-and-export-controls-report/",
-        "date": "Tue, 05 May 2026 11:00:33 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 2",
-        "link": "https://finintegrity.org/fatf-part-2/",
-        "date": "Tue, 28 Apr 2026 11:00:03 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "aspi": [
       {
         "title": "From the old world to the new: Why German rearmament matters for Australia",
@@ -4304,6 +4290,262 @@
         "title": "North of 26 south and the security of Australia: views from The Strategist Volume 13",
         "link": "https://www.aspi.org.au/report/north-of-26-south-and-the-security-of-australia-views-from-the-strategist-volume-13/",
         "date": "Wed, 03 Jun 2026 20:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "ifi": [
+      {
+        "title": "A Financial Institution’s Guide to Updated EU Market Abuse Regulation",
+        "link": "https://finintegrity.org/a-financial-institutions-guide-to-updated-eu-market-abuse-regulation/",
+        "date": "Wed, 29 Jul 2026 11:00:47 +0000",
+        "firstSeen": "2026-07-29T22:04:53.340Z"
+      },
+      {
+        "title": "The Hidden Factor Behind Effective Compliance Training",
+        "link": "https://finintegrity.org/the-hidden-factor-behind-effective-compliance-training/",
+        "date": "Wed, 22 Jul 2026 11:00:13 +0000",
+        "firstSeen": "2026-07-22T22:05:33.220Z"
+      },
+      {
+        "title": "Social Engineering Is Rewriting the Fraud Playbook",
+        "link": "https://finintegrity.org/social-engineering-is-rewriting-the-fraud-playbook/",
+        "date": "Wed, 08 Jul 2026 11:00:56 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Hadhramout Bank Selects IFI as Training Provider to Strengthen Financial Integrity and Cross-Border Payment Compliance",
+        "link": "https://finintegrity.org/hadhramout-bank-selects-ifi-as-training-provider-to-strengthen-financial-integrity-and-cross-border-payment-compliance/",
+        "date": "Tue, 07 Jul 2026 12:00:45 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "June 2026 Sanctions and Export Controls Report",
+        "link": "https://finintegrity.org/june-2026-sanctions-and-export-controls-report/",
+        "date": "Wed, 01 Jul 2026 11:00:39 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Crypto Layering",
+        "link": "https://finintegrity.org/crypto-layering/",
+        "date": "Wed, 17 Jun 2026 11:00:01 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Who Owns the Risk?",
+        "link": "https://finintegrity.org/who-owns-the-risk/",
+        "date": "Wed, 10 Jun 2026 11:00:16 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "May 2026 Sanctions and Export Controls Update",
+        "link": "https://finintegrity.org/may-2026-monthly-sanctions-and-export-controls-report/",
+        "date": "Wed, 03 Jun 2026 11:00:14 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 3",
+        "link": "https://finintegrity.org/fatf-part-3/",
+        "date": "Wed, 13 May 2026 11:00:08 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "IFI Expands Arabic Training Offering to Meet Growing Demand",
+        "link": "https://finintegrity.org/ifi-expands-arabic-training-offering-to-meet-growing-demand/",
+        "date": "Tue, 12 May 2026 12:00:16 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "April 2026 Monthly Sanctions and Export Controls Report",
+        "link": "https://finintegrity.org/april-2026-monthly-sanctions-and-export-controls-report/",
+        "date": "Tue, 05 May 2026 11:00:33 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 2",
+        "link": "https://finintegrity.org/fatf-part-2/",
+        "date": "Tue, 28 Apr 2026 11:00:03 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "bm-sanctions": [
+      {
+        "title": "OFAC Restructures Hong Kong Sanctions Following Expiration of Executive Order 13936",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-restructures-hong-kong-sanctions-following-expiration-of-executive-order-13936/",
+        "date": "Mon, 03 Aug 2026 17:15:07 +0000",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "BIS Grants the UAE Enhanced Favorable Treatment Under the EAR",
+        "link": "https://sanctionsnews.bakermckenzie.com/bis-grants-the-uae-enhanced-favorable-treatment-under-the-ear/",
+        "date": "Wed, 29 Jul 2026 14:05:05 +0000",
+        "firstSeen": "2026-07-29T22:04:53.340Z"
+      },
+      {
+        "title": "Additional Sanctions on Sudan under the Chemical and Biological Weapons Control and Warfare Elimination Act",
+        "link": "https://sanctionsnews.bakermckenzie.com/additional-sanctions-on-sudan-under-the-chemical-and-biological-weapons-control-and-warfare-elimination-act/",
+        "date": "Wed, 29 Jul 2026 13:57:22 +0000",
+        "firstSeen": "2026-07-29T22:04:53.340Z"
+      },
+      {
+        "title": "EU adopts 21st Russia sanctions package",
+        "link": "https://sanctionsnews.bakermckenzie.com/eu-adopts-21st-russia-sanctions-package/",
+        "date": "Wed, 29 Jul 2026 13:23:24 +0000",
+        "firstSeen": "2026-07-29T22:04:53.340Z"
+      },
+      {
+        "title": "UK National Security (State Threats) Act 2026: new designation regime for state-linked threats and proxy organisations",
+        "link": "https://sanctionsnews.bakermckenzie.com/uk-national-security-state-threats-act-2026-new-designation-regime-for-state-linked-threats-and-proxy-organisations/",
+        "date": "Mon, 27 Jul 2026 12:09:05 +0000",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "OFAC Issues General License Authorizing Agricultural and Medical Transactions and Activities Related to the Democratic Republic of the Congo and the Republic of Rwanda",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-authorizing-agricultural-and-medical-transactions-and-activities-related-to-the-democratic-republic-of-the-congo-and-the-republic-of-rwanda/",
+        "date": "Wed, 22 Jul 2026 13:44:07 +0000",
+        "firstSeen": "2026-07-22T22:05:33.220Z"
+      },
+      {
+        "title": "United States: Administration Issues New Executive Order on Quantum Innovation",
+        "link": "https://sanctionsnews.bakermckenzie.com/united-states-administration-issues-new-executive-order-on-quantum-innovation/",
+        "date": "Tue, 21 Jul 2026 04:19:09 +0000",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "OFAC Targets Iranian Commercial Networks and Issues Iran-Related Wind Down General Licenses",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-targets-iranian-commercial-networks-and-issues-iran-related-wind-down-general-licenses/",
+        "date": "Fri, 17 Jul 2026 22:02:37 +0000",
+        "firstSeen": "2026-07-17T22:02:36.375Z"
+      },
+      {
+        "title": "OFAC sanctions parties for links to Brazilian Foreign Terrorist Organization PCC",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-sanctions-parties-for-links-to-brazilian-foreign-terrorist-organization-pcc/",
+        "date": "Tue, 14 Jul 2026 20:03:18 +0000",
+        "firstSeen": "2026-07-15T22:05:17.826Z"
+      },
+      {
+        "title": "US Initiates Process to Rescind Syria’s State Sponsor of Terrorism Designation",
+        "link": "https://sanctionsnews.bakermckenzie.com/us-initiates-process-to-rescind-syrias-state-sponsor-of-terrorism-designation/",
+        "date": "Mon, 13 Jul 2026 20:28:34 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "OFAC and OFSI Publish Joint Guidance Comparing US and UK Sanctions Regimes Following Latest Enhanced Partnership Exchange",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-and-ofsi-publish-joint-guidance-comparing-us-and-uk-sanctions-regimes-following-latest-enhanced-partnership-exchange/",
+        "date": "Fri, 10 Jul 2026 12:45:11 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Reverses US Sanctions Relaxation Related to US-Iran Memorandum of Understanding",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-reverses-us-sanctions-relaxation-related-to-us-iran-memorandum-of-understanding/",
+        "date": "Tue, 07 Jul 2026 20:24:46 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "U.S. House Passes Ukraine Support Act, Advancing Additional Russia-Related Sanctions and Trade Measures",
+        "link": "https://sanctionsnews.bakermckenzie.com/u-s-house-passes-ukraine-support-act-advancing-additional-russia-related-sanctions-and-trade-measures/",
+        "date": "Tue, 30 Jun 2026 09:47:31 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Venezuela Developments: New Conviasa Aircraft General License, Reissued Venezuela Telecom/Mail and PdVSA Bond Authorizations, and Updated FAQ 595",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-venezuela-developments-new-conviasa-aircraft-general-license-reissued-venezuela-telecom-mail-and-pdvsa-bond-authorizations-and-updated-faq-595/",
+        "date": "Fri, 26 Jun 2026 16:28:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "UK Introduces New Open General Export Licence for Dual-Use Items",
+        "link": "https://sanctionsnews.bakermckenzie.com/uk-introduces-new-open-general-export-licence-for-dual-use-items/",
+        "date": "Fri, 26 Jun 2026 13:54:11 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Issues General License for Earthquake Relief Efforts in Venezuela",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-for-earthquake-relief-efforts-in-venezuela/",
+        "date": "Thu, 25 Jun 2026 23:28:53 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canada Expands Russia Sanctions at G7 Summit",
+        "link": "https://sanctionsnews.bakermckenzie.com/canada-expands-russia-sanctions-at-g7-summit/",
+        "date": "Wed, 24 Jun 2026 14:15:22 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Begins to Relax US Sanctions to Implement US-Iran Memorandum of Understanding",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-begins-to-relax-us-sanctions-to-implement-us-iran-memorandum-of-understanding/",
+        "date": "Tue, 23 Jun 2026 11:47:52 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "UK Expands Russia Sanctions to Further Target Shadow Fleet, Military Procurement, and Financial Networks",
+        "link": "https://sanctionsnews.bakermckenzie.com/uk-expands-russia-sanctions-to-further-target-shadow-fleet-military-procurement-and-financial-networks/",
+        "date": "Thu, 18 Jun 2026 12:52:46 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Updates Venezuela General Licenses and Issues New Venezuela FAQs",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-updates-venezuela-general-licenses-and-issues-new-venezuela-faqs/",
+        "date": "Thu, 18 Jun 2026 03:35:07 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Publishes List of Medical Devices Excluded From the General License for Non-US Agricultural Commodities, Medicine, and Medical Devices Destined for North Korea",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-publishes-list-of-medical-devices-excluded-from-the-general-license-for-non-us-agricultural-commodities-medicine-and-medical-devices-destined-for-north-korea/",
+        "date": "Wed, 17 Jun 2026 15:13:32 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "US Government Updates 1260H List of Chinese Military Companies",
+        "link": "https://sanctionsnews.bakermckenzie.com/us-government-updates-1260h-list-of-chinese-military-companies/",
+        "date": "Tue, 16 Jun 2026 13:42:05 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Expands Guidance on Strait of Hormuz “Safe Passage” Restrictions",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-expands-guidance-on-strait-of-hormuz-safe-passage-restrictions/",
+        "date": "Mon, 15 Jun 2026 20:23:24 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "EU: Commission Announces 21st Sanctions Package against Russia Targeting Energy, Financial Sector and Trade",
+        "link": "https://sanctionsnews.bakermckenzie.com/eu-commission-announces-21st-sanctions-package-against-russia-targeting-energy-financial-sector-and-trade/",
+        "date": "Fri, 12 Jun 2026 15:00:17 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "US Continues to Expand Cuba Sanctions: New SDN Designations and Secondary Sanctions Guidance",
+        "link": "https://sanctionsnews.bakermckenzie.com/us-continues-to-expand-cuba-sanctions-new-sdn-designations-and-secondary-sanctions-guidance/",
+        "date": "Wed, 10 Jun 2026 22:23:51 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Spain’s Export Controls Regime: Recent Developments and What Comes Next",
+        "link": "https://sanctionsnews.bakermckenzie.com/spains-export-controls-regime-recent-developments-and-what-comes-next/",
+        "date": "Wed, 10 Jun 2026 10:15:50 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "BIS Clarifies That License Requirements for Advanced Computing Items to Country Group D:5- and Macau-Headquartered Entities Remain in Force Despite AI Diffusion Rule Non-Enforcement",
+        "link": "https://sanctionsnews.bakermckenzie.com/bis-clarifies-that-license-requirements-for-advanced-computing-items-to-country-group-d5-and-macau-headquartered-entities-remain-in-force-despite-ai-diffusion-rule-non-enforcement/",
+        "date": "Mon, 08 Jun 2026 23:55:11 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "UK Financial Conduct Authority publishes report indicating that financial institutions must do more to prevent sanctions breaches: key takeaways",
+        "link": "https://sanctionsnews.bakermckenzie.com/uk-financial-conduct-authority-publishes-report-indicating-that-financial-institutions-must-do-more-to-prevent-sanctions-breaches-key-takeaways/",
+        "date": "Fri, 29 May 2026 18:13:06 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Swiss Federal Supreme Court clarifies the evidentiary threshold triggering asset freeze and reporting obligations under Art. 15 para. 1 and Art. 16 para. 1 of the Ukraine Ordinance",
+        "link": "https://sanctionsnews.bakermckenzie.com/swiss-federal-supreme-court-clarifies-the-evidentiary-threshold-triggering-asset-freeze-and-reporting-obligations-under-art-15-para-1-and-art-16-para-1-of-the-ukraine-ordinance/",
+        "date": "Wed, 27 May 2026 16:14:24 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Issues General License No. 134C Extending Authorization for Certain Russia‑Origin Crude Oil and Petroleum Product Transactions",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-no-134c-extending-authorization-for-certain-russia-origin-crude-oil-and-petroleum-product-transactions/",
+        "date": "Tue, 26 May 2026 15:33:17 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -4789,183 +5031,45 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "bm-sanctions": [
+    "tradetalks": [],
+    "platracker": [
       {
-        "title": "BIS Grants the UAE Enhanced Favorable Treatment Under the EAR",
-        "link": "https://sanctionsnews.bakermckenzie.com/bis-grants-the-uae-enhanced-favorable-treatment-under-the-ear/",
-        "date": "Wed, 29 Jul 2026 14:05:05 +0000",
-        "firstSeen": "2026-07-29T22:04:53.340Z"
+        "title": "Beyond the Typhon: 1st Multi-Domain Task Force and Sea Denial in the Philippines",
+        "link": "https://www.platracker.com/post/beyond-the-typhon-1st-multi-domain-task-force-and-sea-denial-in-the-philippines",
+        "date": "Fri, 19 Dec 2025 21:50:28 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       },
       {
-        "title": "Additional Sanctions on Sudan under the Chemical and Biological Weapons Control and Warfare Elimination Act",
-        "link": "https://sanctionsnews.bakermckenzie.com/additional-sanctions-on-sudan-under-the-chemical-and-biological-weapons-control-and-warfare-elimination-act/",
-        "date": "Wed, 29 Jul 2026 13:57:22 +0000",
-        "firstSeen": "2026-07-29T22:04:53.340Z"
+        "title": "Operationalizing Intelligentized Warfare: Xi Replaces the Strategic Support Force with Three New “Arms”",
+        "link": "https://www.platracker.com/post/operationalizing-intelligentized-warfare-xi-replaces-the-strategic-support-force-with-three-new-ar",
+        "date": "Tue, 15 Jul 2025 19:57:04 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       },
       {
-        "title": "EU adopts 21st Russia sanctions package",
-        "link": "https://sanctionsnews.bakermckenzie.com/eu-adopts-21st-russia-sanctions-package/",
-        "date": "Wed, 29 Jul 2026 13:23:24 +0000",
-        "firstSeen": "2026-07-29T22:04:53.340Z"
+        "title": "Russian Activity Around Japan: 2024 in Review",
+        "link": "https://www.platracker.com/post/russian-activity-around-japan-2024-in-review",
+        "date": "Tue, 25 Mar 2025 13:05:27 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       },
       {
-        "title": "UK National Security (State Threats) Act 2026: new designation regime for state-linked threats and proxy organisations",
-        "link": "https://sanctionsnews.bakermckenzie.com/uk-national-security-state-threats-act-2026-new-designation-regime-for-state-linked-threats-and-proxy-organisations/",
-        "date": "Mon, 27 Jul 2026 12:09:05 +0000",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
+        "title": "Shangri-La Dialogue:                           A Choreographed Display of Power and Diplomacy",
+        "link": "https://www.platracker.com/post/shangri-la-dialogue-a-choreographed-display-of-power-and-diplomacy",
+        "date": "Tue, 04 Jun 2024 04:00:00 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       },
       {
-        "title": "OFAC Issues General License Authorizing Agricultural and Medical Transactions and Activities Related to the Democratic Republic of the Congo and the Republic of Rwanda",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-authorizing-agricultural-and-medical-transactions-and-activities-related-to-the-democratic-republic-of-the-congo-and-the-republic-of-rwanda/",
-        "date": "Wed, 22 Jul 2026 13:44:07 +0000",
-        "firstSeen": "2026-07-22T22:05:33.220Z"
+        "title": "ADIZ Report - February 2024",
+        "link": "https://www.platracker.com/post/adiz-report-february-2024",
+        "date": "Sun, 03 Mar 2024 00:26:00 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       },
       {
-        "title": "United States: Administration Issues New Executive Order on Quantum Innovation",
-        "link": "https://sanctionsnews.bakermckenzie.com/united-states-administration-issues-new-executive-order-on-quantum-innovation/",
-        "date": "Tue, 21 Jul 2026 04:19:09 +0000",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "OFAC Targets Iranian Commercial Networks and Issues Iran-Related Wind Down General Licenses",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-targets-iranian-commercial-networks-and-issues-iran-related-wind-down-general-licenses/",
-        "date": "Fri, 17 Jul 2026 22:02:37 +0000",
-        "firstSeen": "2026-07-17T22:02:36.375Z"
-      },
-      {
-        "title": "OFAC sanctions parties for links to Brazilian Foreign Terrorist Organization PCC",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-sanctions-parties-for-links-to-brazilian-foreign-terrorist-organization-pcc/",
-        "date": "Tue, 14 Jul 2026 20:03:18 +0000",
-        "firstSeen": "2026-07-15T22:05:17.826Z"
-      },
-      {
-        "title": "US Initiates Process to Rescind Syria’s State Sponsor of Terrorism Designation",
-        "link": "https://sanctionsnews.bakermckenzie.com/us-initiates-process-to-rescind-syrias-state-sponsor-of-terrorism-designation/",
-        "date": "Mon, 13 Jul 2026 20:28:34 +0000",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "OFAC and OFSI Publish Joint Guidance Comparing US and UK Sanctions Regimes Following Latest Enhanced Partnership Exchange",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-and-ofsi-publish-joint-guidance-comparing-us-and-uk-sanctions-regimes-following-latest-enhanced-partnership-exchange/",
-        "date": "Fri, 10 Jul 2026 12:45:11 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Reverses US Sanctions Relaxation Related to US-Iran Memorandum of Understanding",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-reverses-us-sanctions-relaxation-related-to-us-iran-memorandum-of-understanding/",
-        "date": "Tue, 07 Jul 2026 20:24:46 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "U.S. House Passes Ukraine Support Act, Advancing Additional Russia-Related Sanctions and Trade Measures",
-        "link": "https://sanctionsnews.bakermckenzie.com/u-s-house-passes-ukraine-support-act-advancing-additional-russia-related-sanctions-and-trade-measures/",
-        "date": "Tue, 30 Jun 2026 09:47:31 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Venezuela Developments: New Conviasa Aircraft General License, Reissued Venezuela Telecom/Mail and PdVSA Bond Authorizations, and Updated FAQ 595",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-venezuela-developments-new-conviasa-aircraft-general-license-reissued-venezuela-telecom-mail-and-pdvsa-bond-authorizations-and-updated-faq-595/",
-        "date": "Fri, 26 Jun 2026 16:28:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "UK Introduces New Open General Export Licence for Dual-Use Items",
-        "link": "https://sanctionsnews.bakermckenzie.com/uk-introduces-new-open-general-export-licence-for-dual-use-items/",
-        "date": "Fri, 26 Jun 2026 13:54:11 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Issues General License for Earthquake Relief Efforts in Venezuela",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-for-earthquake-relief-efforts-in-venezuela/",
-        "date": "Thu, 25 Jun 2026 23:28:53 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Canada Expands Russia Sanctions at G7 Summit",
-        "link": "https://sanctionsnews.bakermckenzie.com/canada-expands-russia-sanctions-at-g7-summit/",
-        "date": "Wed, 24 Jun 2026 14:15:22 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Begins to Relax US Sanctions to Implement US-Iran Memorandum of Understanding",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-begins-to-relax-us-sanctions-to-implement-us-iran-memorandum-of-understanding/",
-        "date": "Tue, 23 Jun 2026 11:47:52 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "UK Expands Russia Sanctions to Further Target Shadow Fleet, Military Procurement, and Financial Networks",
-        "link": "https://sanctionsnews.bakermckenzie.com/uk-expands-russia-sanctions-to-further-target-shadow-fleet-military-procurement-and-financial-networks/",
-        "date": "Thu, 18 Jun 2026 12:52:46 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Updates Venezuela General Licenses and Issues New Venezuela FAQs",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-updates-venezuela-general-licenses-and-issues-new-venezuela-faqs/",
-        "date": "Thu, 18 Jun 2026 03:35:07 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Publishes List of Medical Devices Excluded From the General License for Non-US Agricultural Commodities, Medicine, and Medical Devices Destined for North Korea",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-publishes-list-of-medical-devices-excluded-from-the-general-license-for-non-us-agricultural-commodities-medicine-and-medical-devices-destined-for-north-korea/",
-        "date": "Wed, 17 Jun 2026 15:13:32 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "US Government Updates 1260H List of Chinese Military Companies",
-        "link": "https://sanctionsnews.bakermckenzie.com/us-government-updates-1260h-list-of-chinese-military-companies/",
-        "date": "Tue, 16 Jun 2026 13:42:05 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Expands Guidance on Strait of Hormuz “Safe Passage” Restrictions",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-expands-guidance-on-strait-of-hormuz-safe-passage-restrictions/",
-        "date": "Mon, 15 Jun 2026 20:23:24 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "EU: Commission Announces 21st Sanctions Package against Russia Targeting Energy, Financial Sector and Trade",
-        "link": "https://sanctionsnews.bakermckenzie.com/eu-commission-announces-21st-sanctions-package-against-russia-targeting-energy-financial-sector-and-trade/",
-        "date": "Fri, 12 Jun 2026 15:00:17 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "US Continues to Expand Cuba Sanctions: New SDN Designations and Secondary Sanctions Guidance",
-        "link": "https://sanctionsnews.bakermckenzie.com/us-continues-to-expand-cuba-sanctions-new-sdn-designations-and-secondary-sanctions-guidance/",
-        "date": "Wed, 10 Jun 2026 22:23:51 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Spain’s Export Controls Regime: Recent Developments and What Comes Next",
-        "link": "https://sanctionsnews.bakermckenzie.com/spains-export-controls-regime-recent-developments-and-what-comes-next/",
-        "date": "Wed, 10 Jun 2026 10:15:50 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "BIS Clarifies That License Requirements for Advanced Computing Items to Country Group D:5- and Macau-Headquartered Entities Remain in Force Despite AI Diffusion Rule Non-Enforcement",
-        "link": "https://sanctionsnews.bakermckenzie.com/bis-clarifies-that-license-requirements-for-advanced-computing-items-to-country-group-d5-and-macau-headquartered-entities-remain-in-force-despite-ai-diffusion-rule-non-enforcement/",
-        "date": "Mon, 08 Jun 2026 23:55:11 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "UK Financial Conduct Authority publishes report indicating that financial institutions must do more to prevent sanctions breaches: key takeaways",
-        "link": "https://sanctionsnews.bakermckenzie.com/uk-financial-conduct-authority-publishes-report-indicating-that-financial-institutions-must-do-more-to-prevent-sanctions-breaches-key-takeaways/",
-        "date": "Fri, 29 May 2026 18:13:06 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Swiss Federal Supreme Court clarifies the evidentiary threshold triggering asset freeze and reporting obligations under Art. 15 para. 1 and Art. 16 para. 1 of the Ukraine Ordinance",
-        "link": "https://sanctionsnews.bakermckenzie.com/swiss-federal-supreme-court-clarifies-the-evidentiary-threshold-triggering-asset-freeze-and-reporting-obligations-under-art-15-para-1-and-art-16-para-1-of-the-ukraine-ordinance/",
-        "date": "Wed, 27 May 2026 16:14:24 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Issues General License No. 134C Extending Authorization for Certain Russia‑Origin Crude Oil and Petroleum Product Transactions",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-no-134c-extending-authorization-for-certain-russia-origin-crude-oil-and-petroleum-product-transactions/",
-        "date": "Tue, 26 May 2026 15:33:17 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
+        "title": "Europe Should Play a Greater Role in Upholding Freedom of Navigation in the Taiwan Strait",
+        "link": "https://www.platracker.com/post/europe-should-play-a-greater-role-in-upholding-freedom-of-navigation-in-the-taiwan-strait",
+        "date": "Tue, 13 Feb 2024 01:56:16 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       }
     ],
-    "tradetalks": [],
     "chinapower": [
       {
         "title": "Analyzing Trade Chokepoints in the South China Sea",
@@ -5026,44 +5130,6 @@
         "link": "https://chinapower.csis.org/china-increased-military-activities-indo-pacific-2025/",
         "date": "Thu, 05 Feb 2026 20:17:57 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "platracker": [
-      {
-        "title": "Beyond the Typhon: 1st Multi-Domain Task Force and Sea Denial in the Philippines",
-        "link": "https://www.platracker.com/post/beyond-the-typhon-1st-multi-domain-task-force-and-sea-denial-in-the-philippines",
-        "date": "Fri, 19 Dec 2025 21:50:28 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Operationalizing Intelligentized Warfare: Xi Replaces the Strategic Support Force with Three New “Arms”",
-        "link": "https://www.platracker.com/post/operationalizing-intelligentized-warfare-xi-replaces-the-strategic-support-force-with-three-new-ar",
-        "date": "Tue, 15 Jul 2025 19:57:04 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Russian Activity Around Japan: 2024 in Review",
-        "link": "https://www.platracker.com/post/russian-activity-around-japan-2024-in-review",
-        "date": "Tue, 25 Mar 2025 13:05:27 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Shangri-La Dialogue:                           A Choreographed Display of Power and Diplomacy",
-        "link": "https://www.platracker.com/post/shangri-la-dialogue-a-choreographed-display-of-power-and-diplomacy",
-        "date": "Tue, 04 Jun 2024 04:00:00 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "ADIZ Report - February 2024",
-        "link": "https://www.platracker.com/post/adiz-report-february-2024",
-        "date": "Sun, 03 Mar 2024 00:26:00 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Europe Should Play a Greater Role in Upholding Freedom of Navigation in the Taiwan Strait",
-        "link": "https://www.platracker.com/post/europe-should-play-a-greater-role-in-upholding-freedom-of-navigation-in-the-taiwan-strait",
-        "date": "Tue, 13 Feb 2024 01:56:16 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
       }
     ],
     "windward": [
@@ -5286,230 +5352,65 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "pancanal": [
+    "datalastic": [
       {
-        "title": "Proceso de precalificación del Corredor Energético avanza con presentación de documentos",
-        "link": "https://pancanal.com/proceso-de-precalificacion-del-corredor-energetico-avanza-con-presentacion-de-documentos/?utm_source=rss&utm_medium=rss&utm_campaign=proceso-de-precalificacion-del-corredor-energetico-avanza-con-presentacion-de-documentos",
-        "date": "Fri, 24 Jul 2026 18:20:02 +0000",
-        "firstSeen": "2026-07-24T22:05:39.748Z"
-      },
-      {
-        "title": "Canal de Panamá reporta aumento en tránsitos y tonelaje mientras se adapta para enfrentar Fenómeno de El Niño",
-        "link": "https://pancanal.com/canal-de-panama-reporta-aumento-en-transitos-y-tonelaje-mientras-se-adapta-para-enfrentar-fenomeno-de-el-nino/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-reporta-aumento-en-transitos-y-tonelaje-mientras-se-adapta-para-enfrentar-fenomeno-de-el-nino",
-        "date": "Wed, 22 Jul 2026 21:19:28 +0000",
-        "firstSeen": "2026-07-22T22:05:33.220Z"
-      },
-      {
-        "title": "Canal de Panamá celebra el listado de su bono emitido en el 2015 al mercado secundario internacional de Latinex",
-        "link": "https://pancanal.com/canal-de-panama-celebra-el-listado-de-su-bono-emitido-en-el-2015-al-mercado-secundario-internacional-de-latinex/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-celebra-el-listado-de-su-bono-emitido-en-el-2015-al-mercado-secundario-internacional-de-latinex",
-        "date": "Wed, 22 Jul 2026 15:42:45 +0000",
-        "firstSeen": "2026-07-22T22:05:33.220Z"
-      },
-      {
-        "title": "Habilitan cementerio de la comunidad de Los Cedros para nuevas inhumaciones de comunidades usuarias del cementerio de El Limón de Chagres",
-        "link": "https://pancanal.com/habilitan-cementerio-de-la-comunidad-de-los-cedros-para-nuevas-inhumaciones-de-comunidades-usuarias-del-cementerio-de-el-limon-de-chagres/?utm_source=rss&utm_medium=rss&utm_campaign=habilitan-cementerio-de-la-comunidad-de-los-cedros-para-nuevas-inhumaciones-de-comunidades-usuarias-del-cementerio-de-el-limon-de-chagres",
-        "date": "Wed, 22 Jul 2026 02:22:02 +0000",
-        "firstSeen": "2026-07-22T22:05:33.220Z"
-      },
-      {
-        "title": "El mantenimiento preventivo: la base para garantizar una vía segura, confiable y preparada para el futuro",
-        "link": "https://pancanal.com/el-mantenimiento-preventivo-la-base-para-garantizar-una-via-segura-confiable-y-preparada-para-el-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=el-mantenimiento-preventivo-la-base-para-garantizar-una-via-segura-confiable-y-preparada-para-el-futuro",
-        "date": "Tue, 21 Jul 2026 21:41:50 +0000",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "Canal de Panamá informa a coclesanos sobre el proyecto del Lago de Río Indio y otras iniciativas estratégicas",
-        "link": "https://pancanal.com/canal-de-panama-informa-a-coclesanos-sobre-el-proyecto-del-lago-de-rio-indio-y-otras-iniciativas-estrategicas/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-informa-a-coclesanos-sobre-el-proyecto-del-lago-de-rio-indio-y-otras-iniciativas-estrategicas",
-        "date": "Sat, 11 Jul 2026 19:19:39 +0000",
+        "title": "Find Vessels In The Gulf Of Oman",
+        "link": "https://datalastic.com/blog/find-vessels-in-the-gulf-of-oman/",
+        "date": "Mon, 15 Jun 2026 10:57:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Canal de Panamá es reconocido entre las mejores empresas para atraer y fidelizar talento en Panamá",
-        "link": "https://pancanal.com/canal-de-panama-es-reconocido-entre-las-mejores-empresas-para-atraer-y-fidelizar-talento-en-panama/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-es-reconocido-entre-las-mejores-empresas-para-atraer-y-fidelizar-talento-en-panama",
-        "date": "Fri, 10 Jul 2026 19:45:32 +0000",
+        "title": "Enterprise Vessel Tracking API",
+        "link": "https://datalastic.com/blog/enterprise-vessel-tracking-api/",
+        "date": "Tue, 09 Jun 2026 10:35:02 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Proceso de precalificación de terminales portuarias avanza con presentación de documentos",
-        "link": "https://pancanal.com/proceso-de-precalificacion-de-terminales-portuarias-avanza-con-presentacion-de-documentos/?utm_source=rss&utm_medium=rss&utm_campaign=proceso-de-precalificacion-de-terminales-portuarias-avanza-con-presentacion-de-documentos",
-        "date": "Thu, 09 Jul 2026 21:12:12 +0000",
+        "title": "Yacht tracking API: filter by Type, Size and Flag",
+        "link": "https://datalastic.com/blog/yacht-tracking-api-filter-by-type-size-and-flag/",
+        "date": "Tue, 19 May 2026 18:26:08 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "El Canal de Panamá y el Puerto de Houston renuevan acuerdo estratégico de cooperación",
-        "link": "https://pancanal.com/el-canal-de-panama-y-el-puerto-de-houston-renuevan-acuerdo-estrategico-de-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-y-el-puerto-de-houston-renuevan-acuerdo-estrategico-de-cooperacion",
-        "date": "Wed, 08 Jul 2026 20:55:43 +0000",
+        "title": "Oil Tanker Tracker API",
+        "link": "https://datalastic.com/blog/oil-tanker-tracker-api/",
+        "date": "Tue, 12 May 2026 13:32:19 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Canal de Panamá conmemora una década de la ampliación mirando al futuro",
-        "link": "https://pancanal.com/canal-de-panama-conmemora-una-decada-de-la-ampliacion-mirando-al-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-conmemora-una-decada-de-la-ampliacion-mirando-al-futuro",
-        "date": "Tue, 07 Jul 2026 21:35:46 +0000",
+        "title": "Strait of Hormuz Vessel Tracking API: Monitor Ships",
+        "link": "https://datalastic.com/blog/strait-of-hormuz-vessel-tracking-api-monitor-ships/",
+        "date": "Tue, 05 May 2026 10:24:21 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Canal de Panamá incorpora cinco nuevos remolcadores híbridos a su flota operativa",
-        "link": "https://pancanal.com/canal-de-panama-incorpora-cinco-nuevos-remolcadores-hibridos-a-su-flota-operativa/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-incorpora-cinco-nuevos-remolcadores-hibridos-a-su-flota-operativa",
-        "date": "Fri, 03 Jul 2026 20:53:07 +0000",
+        "title": "Most Maritime APIs Look the Same But They’re Not",
+        "link": "https://datalastic.com/blog/most-maritime-apis-look-the-same-but-theyre-not/",
+        "date": "Mon, 30 Mar 2026 10:51:48 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Ampliación del Canal de Panamá: Una década que transformó al mundo",
-        "link": "https://pancanal.com/ampliacion-del-canal-de-panama-una-decada-que-transformo-al-mundo/?utm_source=rss&utm_medium=rss&utm_campaign=ampliacion-del-canal-de-panama-una-decada-que-transformo-al-mundo",
-        "date": "Fri, 26 Jun 2026 16:36:13 +0000",
+        "title": "Top 10 Most Congested Ports Right Now (Based on AIS Data)",
+        "link": "https://datalastic.com/blog/top-10-most-congested-ports-right-now-based-on-ais-data/",
+        "date": "Sat, 14 Mar 2026 00:55:24 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Canal de Panamá realiza cámara seca para fortalecer el funcionamiento seguro y eficiente de las esclusas de Gatún",
-        "link": "https://pancanal.com/canal-de-panama-realiza-camara-seca-para-fortalecer-el-funcionamiento-seguro-y-eficiente-de-las-esclusas-de-gatun/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-realiza-camara-seca-para-fortalecer-el-funcionamiento-seguro-y-eficiente-de-las-esclusas-de-gatun",
-        "date": "Wed, 17 Jun 2026 19:58:03 +0000",
+        "title": "Instant Vessel Tracking from NMEA AIS Data",
+        "link": "https://datalastic.com/blog/instant-vessel-tracking-from-nmea-ais-data/",
+        "date": "Fri, 20 Feb 2026 11:02:49 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "El Canal de Panamá y PortMiami renuevan acuerdo de cooperación",
-        "link": "https://pancanal.com/el-canal-de-panama-y-portmiami-renuevan-acuerdo-de-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-y-portmiami-renuevan-acuerdo-de-cooperacion",
-        "date": "Thu, 11 Jun 2026 20:19:42 +0000",
+        "title": "Vessel Emission API: How to Calculate Using Engine Data",
+        "link": "https://datalastic.com/blog/vessel-emission-api-how-to-calculate-using-engine-data/",
+        "date": "Thu, 12 Feb 2026 10:27:40 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Canal de Panamá publica enmienda n.° 3 al pliego de precalificación del Corredor Energético",
-        "link": "https://pancanal.com/canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-del-corredor-energetico/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-del-corredor-energetico",
-        "date": "Fri, 05 Jun 2026 20:18:27 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Canal de Panamá publica enmienda n.° 3 al pliego de precalificación de Terminales Portuarias de Transbordo de Contenedores de Corozal y Telfers",
-        "link": "https://pancanal.com/canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-de-terminales-portuarias-de-transbordo-de-contenedores-de-corozal-y-telfers/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-de-terminales-portuarias-de-transbordo-de-contenedores-de-corozal-y-telfers",
-        "date": "Fri, 05 Jun 2026 20:16:48 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "El Canal de Panamá fortalece la vigilancia ambiental para proteger la Cuenca",
-        "link": "https://pancanal.com/el-canal-de-panama-fortalece-la-vigilancia-ambiental-para-proteger-la-cuenca/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-fortalece-la-vigilancia-ambiental-para-proteger-la-cuenca",
-        "date": "Fri, 05 Jun 2026 20:07:51 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "kse": [],
-    "crea": [
-      {
-        "title": "Quarterly energy snapshot for India: Q1 2026-27",
-        "link": "https://energyandcleanair.org/quarterly-energy-snapshot-for-india-q1-2026-27/",
-        "date": "Fri, 31 Jul 2026 07:00:00 +0000",
-        "firstSeen": "2026-07-31T22:06:02.178Z"
-      },
-      {
-        "title": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar",
-        "link": "https://energyandcleanair.org/analysis-chinas-co2-climbs-2-in-early-2026-due-to-wasted-wind-and-solar/",
-        "date": "Thu, 04 Jun 2026 04:42:47 +0000",
-        "firstSeen": "2026-07-28T22:05:39.133Z"
-      },
-      {
-        "title": "Fact sheet: Georgian ports suspected of violating sanctions on Russian oil",
-        "link": "https://energyandcleanair.org/fact-sheet-georgian-ports-suspected-of-violating-sanctions-on-russian-oil/",
-        "date": "Fri, 24 Jul 2026 08:00:00 +0000",
-        "firstSeen": "2026-07-25T22:03:18.308Z"
-      },
-      {
-        "title": "China Energy and Emissions Trends – June 2026 snapshot",
-        "link": "https://energyandcleanair.org/china-energy-and-emissions-trends-june-2026-snapshot/",
-        "date": "Mon, 20 Jul 2026 07:27:09 +0000",
-        "firstSeen": "2026-07-20T22:05:23.456Z"
-      },
-      {
-        "title": "China H1 2026 Air quality review: EV-related oil cuts emerge as a new driver for China’s clean air progress",
-        "link": "https://energyandcleanair.org/china-h1-2026-air-quality-review/",
-        "date": "Tue, 14 Jul 2026 08:41:30 +0000",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "India monthly ambient air quality snapshot: June 2026",
-        "link": "https://energyandcleanair.org/india-monthly-ambient-air-quality-snapshot-june-2026/",
-        "date": "Tue, 14 Jul 2026 01:11:27 +0000",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "June 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
-        "link": "https://energyandcleanair.org/june-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
-        "date": "Fri, 10 Jul 2026 09:45:29 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Energy systems around the world will feel the strain of a super El Niño, but none more than India’s",
-        "link": "https://energyandcleanair.org/energy-systems-around-the-world-will-feel-the-strain-of-asuper-el-nino-but-none-more-than-indias/",
-        "date": "Mon, 06 Jul 2026 06:30:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China’s new energy plan leaves emissions loose",
-        "link": "https://energyandcleanair.org/chinas-new-energy-plan-leaves-emissions-loose/",
-        "date": "Mon, 29 Jun 2026 10:30:11 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China Energy and Emissions Trends – May 2026 snapshot",
-        "link": "https://energyandcleanair.org/china-energy-and-emissions-trends-may-2026-snapshot/",
-        "date": "Thu, 18 Jun 2026 05:42:51 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Can China’s new steel capacity rules accelerate its green transition?",
-        "link": "https://energyandcleanair.org/can-chinas-new-steel-capacity-rules-accelerate-its-green-transition/",
-        "date": "Wed, 17 Jun 2026 03:51:10 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Indonesia’s currency crisis: Fossil fuel dependence and subsidies a key driver",
-        "link": "https://energyandcleanair.org/indonesia-currency-crisis-fossil-fuels/",
-        "date": "Mon, 15 Jun 2026 01:01:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "May 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
-        "link": "https://energyandcleanair.org/may-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
-        "date": "Thu, 11 Jun 2026 08:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "India monthly ambient air quality snapshot: May 2026",
-        "link": "https://energyandcleanair.org/india-monthly-ambient-air-quality-snapshot-may-2026/",
-        "date": "Wed, 10 Jun 2026 05:53:58 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China Air Quality Trends – May 2026 Snapshot",
-        "link": "https://energyandcleanair.org/china-air-quality-trends-may-2026-snapshot/",
-        "date": "Tue, 09 Jun 2026 04:43:41 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
-        "link": "https://energyandcleanair.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
-        "date": "Tue, 26 May 2026 02:13:58 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "What drove China’s historic drop in power-sector emissions?",
-        "link": "https://energyandcleanair.org/what-drove-chinas-historic-drop-in-power-sector-emissions/",
-        "date": "Thu, 21 May 2026 02:05:05 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China Energy and Emissions Trends – April 2026 snapshot",
-        "link": "https://energyandcleanair.org/china-energy-and-emissions-trends-april-2026-snapshot/",
-        "date": "Tue, 19 May 2026 11:30:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "April 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
-        "link": "https://energyandcleanair.org/april-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
-        "date": "Mon, 11 May 2026 09:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "China Air Quality Trends – April 2026 Snapshot",
-        "link": "https://energyandcleanair.org/china-air-quality-trends-april-2026-snapshot/",
-        "date": "Fri, 08 May 2026 07:14:45 +0000",
+        "title": "Choosing a Reliable Maritime API: Datalastic Uptime Explained",
+        "link": "https://datalastic.com/blog/choosing-a-reliable-maritime-api-datalastic-uptime-explained/",
+        "date": "Mon, 02 Feb 2026 08:54:50 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -5782,6 +5683,111 @@
         "title": "東証「市場区分の見直しに関するフォローアップ会議」（第25回）を開催",
         "link": "https://www.businesslawyers.jp/articles/1523",
         "date": "2026-02-10T07:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "kse": [],
+    "pancanal": [
+      {
+        "title": "Proceso de precalificación del Corredor Energético avanza con presentación de documentos",
+        "link": "https://pancanal.com/proceso-de-precalificacion-del-corredor-energetico-avanza-con-presentacion-de-documentos/?utm_source=rss&utm_medium=rss&utm_campaign=proceso-de-precalificacion-del-corredor-energetico-avanza-con-presentacion-de-documentos",
+        "date": "Fri, 24 Jul 2026 18:20:02 +0000",
+        "firstSeen": "2026-07-24T22:05:39.748Z"
+      },
+      {
+        "title": "Canal de Panamá reporta aumento en tránsitos y tonelaje mientras se adapta para enfrentar Fenómeno de El Niño",
+        "link": "https://pancanal.com/canal-de-panama-reporta-aumento-en-transitos-y-tonelaje-mientras-se-adapta-para-enfrentar-fenomeno-de-el-nino/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-reporta-aumento-en-transitos-y-tonelaje-mientras-se-adapta-para-enfrentar-fenomeno-de-el-nino",
+        "date": "Wed, 22 Jul 2026 21:19:28 +0000",
+        "firstSeen": "2026-07-22T22:05:33.220Z"
+      },
+      {
+        "title": "Canal de Panamá celebra el listado de su bono emitido en el 2015 al mercado secundario internacional de Latinex",
+        "link": "https://pancanal.com/canal-de-panama-celebra-el-listado-de-su-bono-emitido-en-el-2015-al-mercado-secundario-internacional-de-latinex/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-celebra-el-listado-de-su-bono-emitido-en-el-2015-al-mercado-secundario-internacional-de-latinex",
+        "date": "Wed, 22 Jul 2026 15:42:45 +0000",
+        "firstSeen": "2026-07-22T22:05:33.220Z"
+      },
+      {
+        "title": "Habilitan cementerio de la comunidad de Los Cedros para nuevas inhumaciones de comunidades usuarias del cementerio de El Limón de Chagres",
+        "link": "https://pancanal.com/habilitan-cementerio-de-la-comunidad-de-los-cedros-para-nuevas-inhumaciones-de-comunidades-usuarias-del-cementerio-de-el-limon-de-chagres/?utm_source=rss&utm_medium=rss&utm_campaign=habilitan-cementerio-de-la-comunidad-de-los-cedros-para-nuevas-inhumaciones-de-comunidades-usuarias-del-cementerio-de-el-limon-de-chagres",
+        "date": "Wed, 22 Jul 2026 02:22:02 +0000",
+        "firstSeen": "2026-07-22T22:05:33.220Z"
+      },
+      {
+        "title": "El mantenimiento preventivo: la base para garantizar una vía segura, confiable y preparada para el futuro",
+        "link": "https://pancanal.com/el-mantenimiento-preventivo-la-base-para-garantizar-una-via-segura-confiable-y-preparada-para-el-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=el-mantenimiento-preventivo-la-base-para-garantizar-una-via-segura-confiable-y-preparada-para-el-futuro",
+        "date": "Tue, 21 Jul 2026 21:41:50 +0000",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "Canal de Panamá informa a coclesanos sobre el proyecto del Lago de Río Indio y otras iniciativas estratégicas",
+        "link": "https://pancanal.com/canal-de-panama-informa-a-coclesanos-sobre-el-proyecto-del-lago-de-rio-indio-y-otras-iniciativas-estrategicas/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-informa-a-coclesanos-sobre-el-proyecto-del-lago-de-rio-indio-y-otras-iniciativas-estrategicas",
+        "date": "Sat, 11 Jul 2026 19:19:39 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá es reconocido entre las mejores empresas para atraer y fidelizar talento en Panamá",
+        "link": "https://pancanal.com/canal-de-panama-es-reconocido-entre-las-mejores-empresas-para-atraer-y-fidelizar-talento-en-panama/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-es-reconocido-entre-las-mejores-empresas-para-atraer-y-fidelizar-talento-en-panama",
+        "date": "Fri, 10 Jul 2026 19:45:32 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Proceso de precalificación de terminales portuarias avanza con presentación de documentos",
+        "link": "https://pancanal.com/proceso-de-precalificacion-de-terminales-portuarias-avanza-con-presentacion-de-documentos/?utm_source=rss&utm_medium=rss&utm_campaign=proceso-de-precalificacion-de-terminales-portuarias-avanza-con-presentacion-de-documentos",
+        "date": "Thu, 09 Jul 2026 21:12:12 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "El Canal de Panamá y el Puerto de Houston renuevan acuerdo estratégico de cooperación",
+        "link": "https://pancanal.com/el-canal-de-panama-y-el-puerto-de-houston-renuevan-acuerdo-estrategico-de-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-y-el-puerto-de-houston-renuevan-acuerdo-estrategico-de-cooperacion",
+        "date": "Wed, 08 Jul 2026 20:55:43 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá conmemora una década de la ampliación mirando al futuro",
+        "link": "https://pancanal.com/canal-de-panama-conmemora-una-decada-de-la-ampliacion-mirando-al-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-conmemora-una-decada-de-la-ampliacion-mirando-al-futuro",
+        "date": "Tue, 07 Jul 2026 21:35:46 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá incorpora cinco nuevos remolcadores híbridos a su flota operativa",
+        "link": "https://pancanal.com/canal-de-panama-incorpora-cinco-nuevos-remolcadores-hibridos-a-su-flota-operativa/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-incorpora-cinco-nuevos-remolcadores-hibridos-a-su-flota-operativa",
+        "date": "Fri, 03 Jul 2026 20:53:07 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Ampliación del Canal de Panamá: Una década que transformó al mundo",
+        "link": "https://pancanal.com/ampliacion-del-canal-de-panama-una-decada-que-transformo-al-mundo/?utm_source=rss&utm_medium=rss&utm_campaign=ampliacion-del-canal-de-panama-una-decada-que-transformo-al-mundo",
+        "date": "Fri, 26 Jun 2026 16:36:13 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá realiza cámara seca para fortalecer el funcionamiento seguro y eficiente de las esclusas de Gatún",
+        "link": "https://pancanal.com/canal-de-panama-realiza-camara-seca-para-fortalecer-el-funcionamiento-seguro-y-eficiente-de-las-esclusas-de-gatun/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-realiza-camara-seca-para-fortalecer-el-funcionamiento-seguro-y-eficiente-de-las-esclusas-de-gatun",
+        "date": "Wed, 17 Jun 2026 19:58:03 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "El Canal de Panamá y PortMiami renuevan acuerdo de cooperación",
+        "link": "https://pancanal.com/el-canal-de-panama-y-portmiami-renuevan-acuerdo-de-cooperacion/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-y-portmiami-renuevan-acuerdo-de-cooperacion",
+        "date": "Thu, 11 Jun 2026 20:19:42 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá publica enmienda n.° 3 al pliego de precalificación del Corredor Energético",
+        "link": "https://pancanal.com/canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-del-corredor-energetico/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-del-corredor-energetico",
+        "date": "Fri, 05 Jun 2026 20:18:27 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Canal de Panamá publica enmienda n.° 3 al pliego de precalificación de Terminales Portuarias de Transbordo de Contenedores de Corozal y Telfers",
+        "link": "https://pancanal.com/canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-de-terminales-portuarias-de-transbordo-de-contenedores-de-corozal-y-telfers/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-publica-enmienda-n-3-al-pliego-de-precalificacion-de-terminales-portuarias-de-transbordo-de-contenedores-de-corozal-y-telfers",
+        "date": "Fri, 05 Jun 2026 20:16:48 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "El Canal de Panamá fortalece la vigilancia ambiental para proteger la Cuenca",
+        "link": "https://pancanal.com/el-canal-de-panama-fortalece-la-vigilancia-ambiental-para-proteger-la-cuenca/?utm_source=rss&utm_medium=rss&utm_campaign=el-canal-de-panama-fortalece-la-vigilancia-ambiental-para-proteger-la-cuenca",
+        "date": "Fri, 05 Jun 2026 20:07:51 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -6147,65 +6153,125 @@
         "firstSeen": "2026-07-13T10:49:13.098Z"
       }
     ],
-    "datalastic": [
+    "crea": [
       {
-        "title": "Find Vessels In The Gulf Of Oman",
-        "link": "https://datalastic.com/blog/find-vessels-in-the-gulf-of-oman/",
-        "date": "Mon, 15 Jun 2026 10:57:00 +0000",
+        "title": "Quarterly energy snapshot for India: Q1 2026-27",
+        "link": "https://energyandcleanair.org/quarterly-energy-snapshot-for-india-q1-2026-27/",
+        "date": "Fri, 31 Jul 2026 07:00:00 +0000",
+        "firstSeen": "2026-07-31T22:06:02.178Z"
+      },
+      {
+        "title": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar",
+        "link": "https://energyandcleanair.org/analysis-chinas-co2-climbs-2-in-early-2026-due-to-wasted-wind-and-solar/",
+        "date": "Thu, 04 Jun 2026 04:42:47 +0000",
+        "firstSeen": "2026-07-28T22:05:39.133Z"
+      },
+      {
+        "title": "Fact sheet: Georgian ports suspected of violating sanctions on Russian oil",
+        "link": "https://energyandcleanair.org/fact-sheet-georgian-ports-suspected-of-violating-sanctions-on-russian-oil/",
+        "date": "Fri, 24 Jul 2026 08:00:00 +0000",
+        "firstSeen": "2026-07-25T22:03:18.308Z"
+      },
+      {
+        "title": "China Energy and Emissions Trends – June 2026 snapshot",
+        "link": "https://energyandcleanair.org/china-energy-and-emissions-trends-june-2026-snapshot/",
+        "date": "Mon, 20 Jul 2026 07:27:09 +0000",
+        "firstSeen": "2026-07-20T22:05:23.456Z"
+      },
+      {
+        "title": "China H1 2026 Air quality review: EV-related oil cuts emerge as a new driver for China’s clean air progress",
+        "link": "https://energyandcleanair.org/china-h1-2026-air-quality-review/",
+        "date": "Tue, 14 Jul 2026 08:41:30 +0000",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "India monthly ambient air quality snapshot: June 2026",
+        "link": "https://energyandcleanair.org/india-monthly-ambient-air-quality-snapshot-june-2026/",
+        "date": "Tue, 14 Jul 2026 01:11:27 +0000",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "June 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+        "link": "https://energyandcleanair.org/june-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+        "date": "Fri, 10 Jul 2026 09:45:29 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Enterprise Vessel Tracking API",
-        "link": "https://datalastic.com/blog/enterprise-vessel-tracking-api/",
-        "date": "Tue, 09 Jun 2026 10:35:02 +0000",
+        "title": "Energy systems around the world will feel the strain of a super El Niño, but none more than India’s",
+        "link": "https://energyandcleanair.org/energy-systems-around-the-world-will-feel-the-strain-of-asuper-el-nino-but-none-more-than-indias/",
+        "date": "Mon, 06 Jul 2026 06:30:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Yacht tracking API: filter by Type, Size and Flag",
-        "link": "https://datalastic.com/blog/yacht-tracking-api-filter-by-type-size-and-flag/",
-        "date": "Tue, 19 May 2026 18:26:08 +0000",
+        "title": "China’s new energy plan leaves emissions loose",
+        "link": "https://energyandcleanair.org/chinas-new-energy-plan-leaves-emissions-loose/",
+        "date": "Mon, 29 Jun 2026 10:30:11 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Oil Tanker Tracker API",
-        "link": "https://datalastic.com/blog/oil-tanker-tracker-api/",
-        "date": "Tue, 12 May 2026 13:32:19 +0000",
+        "title": "China Energy and Emissions Trends – May 2026 snapshot",
+        "link": "https://energyandcleanair.org/china-energy-and-emissions-trends-may-2026-snapshot/",
+        "date": "Thu, 18 Jun 2026 05:42:51 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Strait of Hormuz Vessel Tracking API: Monitor Ships",
-        "link": "https://datalastic.com/blog/strait-of-hormuz-vessel-tracking-api-monitor-ships/",
-        "date": "Tue, 05 May 2026 10:24:21 +0000",
+        "title": "Can China’s new steel capacity rules accelerate its green transition?",
+        "link": "https://energyandcleanair.org/can-chinas-new-steel-capacity-rules-accelerate-its-green-transition/",
+        "date": "Wed, 17 Jun 2026 03:51:10 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Most Maritime APIs Look the Same But They’re Not",
-        "link": "https://datalastic.com/blog/most-maritime-apis-look-the-same-but-theyre-not/",
-        "date": "Mon, 30 Mar 2026 10:51:48 +0000",
+        "title": "Indonesia’s currency crisis: Fossil fuel dependence and subsidies a key driver",
+        "link": "https://energyandcleanair.org/indonesia-currency-crisis-fossil-fuels/",
+        "date": "Mon, 15 Jun 2026 01:01:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Top 10 Most Congested Ports Right Now (Based on AIS Data)",
-        "link": "https://datalastic.com/blog/top-10-most-congested-ports-right-now-based-on-ais-data/",
-        "date": "Sat, 14 Mar 2026 00:55:24 +0000",
+        "title": "May 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+        "link": "https://energyandcleanair.org/may-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+        "date": "Thu, 11 Jun 2026 08:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Instant Vessel Tracking from NMEA AIS Data",
-        "link": "https://datalastic.com/blog/instant-vessel-tracking-from-nmea-ais-data/",
-        "date": "Fri, 20 Feb 2026 11:02:49 +0000",
+        "title": "India monthly ambient air quality snapshot: May 2026",
+        "link": "https://energyandcleanair.org/india-monthly-ambient-air-quality-snapshot-may-2026/",
+        "date": "Wed, 10 Jun 2026 05:53:58 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Vessel Emission API: How to Calculate Using Engine Data",
-        "link": "https://datalastic.com/blog/vessel-emission-api-how-to-calculate-using-engine-data/",
-        "date": "Thu, 12 Feb 2026 10:27:40 +0000",
+        "title": "China Air Quality Trends – May 2026 Snapshot",
+        "link": "https://energyandcleanair.org/china-air-quality-trends-may-2026-snapshot/",
+        "date": "Tue, 09 Jun 2026 04:43:41 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Choosing a Reliable Maritime API: Datalastic Uptime Explained",
-        "link": "https://datalastic.com/blog/choosing-a-reliable-maritime-api-datalastic-uptime-explained/",
-        "date": "Mon, 02 Feb 2026 08:54:50 +0000",
+        "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
+        "link": "https://energyandcleanair.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
+        "date": "Tue, 26 May 2026 02:13:58 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "What drove China’s historic drop in power-sector emissions?",
+        "link": "https://energyandcleanair.org/what-drove-chinas-historic-drop-in-power-sector-emissions/",
+        "date": "Thu, 21 May 2026 02:05:05 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "China Energy and Emissions Trends – April 2026 snapshot",
+        "link": "https://energyandcleanair.org/china-energy-and-emissions-trends-april-2026-snapshot/",
+        "date": "Tue, 19 May 2026 11:30:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "April 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+        "link": "https://energyandcleanair.org/april-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+        "date": "Mon, 11 May 2026 09:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "China Air Quality Trends – April 2026 Snapshot",
+        "link": "https://energyandcleanair.org/china-air-quality-trends-april-2026-snapshot/",
+        "date": "Fri, 08 May 2026 07:14:45 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ]

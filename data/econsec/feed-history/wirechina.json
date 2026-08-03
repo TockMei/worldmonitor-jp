@@ -1,8 +1,14 @@
 {
   "id": "wirechina",
   "label": "The Wire China",
-  "generated": "2026-08-02T22:03:21.555Z",
+  "generated": "2026-08-03T22:06:46.986Z",
   "items": [
+    {
+      "title": "The Daily Roundup",
+      "link": "https://www.thewirechina.com/2026/08/03/the-daily-roundup-august-3-2026/",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000",
+      "firstSeen": "2026-08-03T22:06:46.986Z"
+    },
     {
       "title": "Alex Wang on What China Gets Right — and Wrong — on the Environment",
       "link": "https://www.thewirechina.com/2026/08/02/alex-wang-on-what-china-gets-right-and-wrong-on-the-environment/",
