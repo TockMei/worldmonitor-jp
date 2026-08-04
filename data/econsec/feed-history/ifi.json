@@ -1,8 +1,14 @@
 {
   "id": "ifi",
   "label": "Institute for Financial Integrity 月次レポート",
-  "generated": "2026-08-03T22:06:46.986Z",
+  "generated": "2026-08-04T22:07:03.023Z",
   "items": [
+    {
+      "title": "July Monthly Sanctions and Export Controls Report",
+      "link": "https://finintegrity.org/july-2026-monthly-sanctions-export-controls-report/",
+      "date": "Tue, 04 Aug 2026 11:00:45 +0000",
+      "firstSeen": "2026-08-04T22:07:03.023Z"
+    },
     {
       "title": "A Financial Institution’s Guide to Updated EU Market Abuse Regulation",
       "link": "https://finintegrity.org/a-financial-institutions-guide-to-updated-eu-market-abuse-regulation/",

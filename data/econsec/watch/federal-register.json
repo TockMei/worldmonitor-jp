@@ -1,8 +1,8 @@
 {
   "id": "federal-register",
   "label": "Federal Register 新着",
-  "generated": "2026-08-03T22:06:46.986Z",
-  "count": 172,
+  "generated": "2026-08-04T22:07:03.023Z",
+  "count": 173,
   "seen": {
     "2026-13663": {
       "title": "Notice of Request for Public Comments on Section 232 National Security Investigation of Anthracite Coal",
@@ -2298,6 +2298,131 @@
       "title": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
       "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15628/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
       "date": "2026-08-03"
+    },
+    "2026-15799": {
+      "title": "Notice of Reduction of Tariffs on Patented Pharmaceuticals and Pharmaceutical Ingredients for Products of the United Kingdom Implemented by Presidential Proclamation 11020",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15799/notice-of-reduction-of-tariffs-on-patented-pharmaceuticals-and-pharmaceutical-ingredients-for",
+      "date": "2026-08-04"
+    },
+    "2026-15785": {
+      "title": "Notice of OFAC Sanctions Action",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15785/notice-of-ofac-sanctions-action",
+      "date": "2026-08-04"
+    },
+    "2026-15759": {
+      "title": "Imposition of Nonproliferation Measures Against Foreign Persons, Including a Ban on U.S. Government Procurement",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15759/imposition-of-nonproliferation-measures-against-foreign-persons-including-a-ban-on-us-government",
+      "date": "2026-08-04"
+    },
+    "2026-15766": {
+      "title": "Certificate of Alternate Compliance for the Landing Craft Utility Vessel 1710 Class (LCU 1710 Through LCU 1721)",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15766/certificate-of-alternate-compliance-for-the-landing-craft-utility-vessel-1710-class-lcu-1710-through",
+      "date": "2026-08-04"
+    },
+    "2026-15833": {
+      "title": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of Certain Health Information Technology Standards",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
+      "date": "2026-08-04"
+    },
+    "2026-15825": {
+      "title": "Airworthiness Directives; Diamond Aircraft Industries Inc. Airplanes",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15825/airworthiness-directives-diamond-aircraft-industries-inc-airplanes",
+      "date": "2026-08-04"
+    },
+    "2026-15823": {
+      "title": "Hazardous Materials: Reducing Burdens on Domestic Companies Using Battery-Powered Equipment in Trades",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15823/hazardous-materials-reducing-burdens-on-domestic-companies-using-battery-powered-equipment-in-trades",
+      "date": "2026-08-04"
+    },
+    "2026-15820": {
+      "title": "Hazardous Materials: Adoption of Department of Transportation Special Permit 21478",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15820/hazardous-materials-adoption-of-department-of-transportation-special-permit-21478",
+      "date": "2026-08-04"
+    },
+    "2026-15819": {
+      "title": "Hazardous Materials: Adoption of Department of Transportation Special Permit 14175",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15819/hazardous-materials-adoption-of-department-of-transportation-special-permit-14175",
+      "date": "2026-08-04"
+    },
+    "2026-15818": {
+      "title": "Hazardous Materials: Adoption of Department of Transportation Special Permit 21379",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15818/hazardous-materials-adoption-of-department-of-transportation-special-permit-21379",
+      "date": "2026-08-04"
+    },
+    "2026-15817": {
+      "title": "Hazardous Materials: Adoption of Department of Transportation Special Permit 21287",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15817/hazardous-materials-adoption-of-department-of-transportation-special-permit-21287",
+      "date": "2026-08-04"
+    },
+    "2026-15816": {
+      "title": "Hazardous Materials: Adoption of Department of Transportation Special Permits 12412 and 11646 Into the Hazardous Materials Regulations",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15816/hazardous-materials-adoption-of-department-of-transportation-special-permits-12412-and-11646-into",
+      "date": "2026-08-04"
+    },
+    "2026-15815": {
+      "title": "Hazardous Materials: Removing Burdensome Rail Reporting Requirements",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15815/hazardous-materials-removing-burdensome-rail-reporting-requirements",
+      "date": "2026-08-04"
+    },
+    "2026-15814": {
+      "title": "Hazardous Materials: Reduce Training Burdens for America's Farmers",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15814/hazardous-materials-reduce-training-burdens-for-americas-farmers",
+      "date": "2026-08-04"
+    },
+    "2026-15813": {
+      "title": "Hazardous Materials: Reducing Recordkeeping Requirements for Domestic Carriers",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15813/hazardous-materials-reducing-recordkeeping-requirements-for-domestic-carriers",
+      "date": "2026-08-04"
+    },
+    "2026-15812": {
+      "title": "Hazardous Materials: Modernizing Payments To and From America's Bank Account",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15812/hazardous-materials-modernizing-payments-to-and-from-americas-bank-account",
+      "date": "2026-08-04"
+    },
+    "2026-15811": {
+      "title": "Hazardous Materials: Improving Efficiencies for Special Permits and Approvals Renewals",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15811/hazardous-materials-improving-efficiencies-for-special-permits-and-approvals-renewals",
+      "date": "2026-08-04"
+    },
+    "2026-15810": {
+      "title": "Hazardous Materials: Reducing Burdens by Allowing Continued Use of Department of Transportation Special Permit Packagings",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15810/hazardous-materials-reducing-burdens-by-allowing-continued-use-of-department-of-transportation",
+      "date": "2026-08-04"
+    },
+    "2026-15809": {
+      "title": "Hazardous Materials: Remove Redundant List of U.S. EPA CERCLA Hazardous Substances",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15809/hazardous-materials-remove-redundant-list-of-us-epa-cercla-hazardous-substances",
+      "date": "2026-08-04"
+    },
+    "2026-15808": {
+      "title": "Hazardous Materials: Reducing Undue Paperwork Burdens to Domestic Carriers",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15808/hazardous-materials-reducing-undue-paperwork-burdens-to-domestic-carriers",
+      "date": "2026-08-04"
+    },
+    "2026-15805": {
+      "title": "Hazardous Materials: Reducing Costs to Domestic Shippers and Carriers of Limited Quantities",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15805/hazardous-materials-reducing-costs-to-domestic-shippers-and-carriers-of-limited-quantities",
+      "date": "2026-08-04"
+    },
+    "2026-15803": {
+      "title": "Hazardous Materials: Reducing Burdens on Domestic Aerosol Shippers",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15803/hazardous-materials-reducing-burdens-on-domestic-aerosol-shippers",
+      "date": "2026-08-04"
+    },
+    "2026-15800": {
+      "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Requests",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15800/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
+      "date": "2026-08-04"
+    },
+    "2026-15798": {
+      "title": "Requests for Arbitration Panels",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15798/requests-for-arbitration-panels",
+      "date": "2026-08-04"
+    },
+    "2026-15860": {
+      "title": "Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15860/authorizing-cameron-county-texas-to-own-operate-and-maintain-the-brownsville-and-matamoros-bridge-in",
+      "date": "2026-08-04"
     }
   }
 }

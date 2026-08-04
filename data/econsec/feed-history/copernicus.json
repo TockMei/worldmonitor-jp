@@ -1,8 +1,14 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-08-03T22:06:46.986Z",
+  "generated": "2026-08-04T22:07:03.023Z",
   "items": [
+    {
+      "title": "Copernicus Browser now also supports external WMS and WMTS layers",
+      "link": "https://dataspace.copernicus.eu/news/2026-7-31-copernicus-browser-now-also-supports-external-wms-and-wmts-layers",
+      "date": "Fri, 31 Jul 2026 04:46:46 UTC",
+      "firstSeen": "2026-08-04T22:07:03.023Z"
+    },
     {
       "title": "Copernicus Sentinel-3B unavailability notice for the OLCI S09 calibration planned on 05 August 2026 [DOY 217]",
       "link": "https://dataspace.copernicus.eu/news/2026-7-30-copernicus-sentinel-3b-unavailability-notice-olci-s09-calibration-planned-05-august",
