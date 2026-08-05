@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-08-04T22:07:03.023Z",
+  "generated": "2026-08-05T22:07:14.071Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19181,
+  "count": 19178,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -39845,10 +39845,6 @@
       "name": "THITSAR, Myo",
       "list": "BURMA-EO14014"
     },
-    "39236": {
-      "name": "FLY BAGHDAD AIRLINES COMPANY",
-      "list": "SDGT"
-    },
     "39256": {
       "name": "HEIDARI, Kiyumars",
       "list": "IRAN-HR"
@@ -51463,14 +51459,6 @@
     },
     "47168": {
       "name": "AL-SHABBANI, Basheer Abdulkadhim Alwan",
-      "list": "SDGT"
-    },
-    "47169": {
-      "name": "YI-BAF",
-      "list": "SDGT"
-    },
-    "47170": {
-      "name": "YI-BAN",
       "list": "SDGT"
     },
     "47171": {

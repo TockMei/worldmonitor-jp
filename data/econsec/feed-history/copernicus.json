@@ -1,8 +1,26 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-08-04T22:07:03.023Z",
+  "generated": "2026-08-05T22:07:14.071Z",
   "items": [
+    {
+      "title": "Sentinel-5p planned maintenance activities on 18/08/2026",
+      "link": "https://dataspace.copernicus.eu/news/2026-8-5-sentinel-5p-planned-maintenance-activities-18082026",
+      "date": "Wed, 05 Aug 2026 11:06:20 UTC",
+      "firstSeen": "2026-08-05T22:07:14.071Z"
+    },
+    {
+      "title": "Copernicus Sentinel-3B unavailability notice IP Manoeuvre IP #164 planned on 06 August 2026 [DOY 218]",
+      "link": "https://dataspace.copernicus.eu/news/2026-8-5-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-ip-164-planned-06-august",
+      "date": "Wed, 05 Aug 2026 07:01:30 UTC",
+      "firstSeen": "2026-08-05T22:07:14.071Z"
+    },
+    {
+      "title": "Copernicus Sentinel-3A unavailability notice IP Manoeuvre IP #159 planned on 06 August 2026 [DOY 218]",
+      "link": "https://dataspace.copernicus.eu/news/2026-8-5-copernicus-sentinel-3a-unavailability-notice-ip-manoeuvre-ip-159-planned-06-august",
+      "date": "Wed, 05 Aug 2026 06:56:54 UTC",
+      "firstSeen": "2026-08-05T22:07:14.071Z"
+    },
     {
       "title": "Copernicus Browser now also supports external WMS and WMTS layers",
       "link": "https://dataspace.copernicus.eu/news/2026-7-31-copernicus-browser-now-also-supports-external-wms-and-wmts-layers",

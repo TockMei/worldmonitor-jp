@@ -1,8 +1,26 @@
 {
   "id": "cset",
   "label": "CSET（Georgetown）",
-  "generated": "2026-08-04T22:07:03.023Z",
+  "generated": "2026-08-05T22:07:14.071Z",
   "items": [
+    {
+      "title": "Helen Toner: the Hugging Face hack was just a matter of time and exposes a huge blind spot in AI policy",
+      "link": "https://cset.georgetown.edu/article/helen-toner-the-hugging-face-hack-was-just-a-matter-of-time-and-exposes-a-huge-blind-spot-in-ai-policy/",
+      "date": "Tue, 28 Jul 2026 21:00:00 +0000",
+      "firstSeen": "2026-08-05T22:07:14.071Z"
+    },
+    {
+      "title": "As China advances in AI, Trump faces a new test in the technology race",
+      "link": "https://cset.georgetown.edu/article/as-china-advances-in-ai-trump-faces-a-new-test-in-the-technology-race/",
+      "date": "Wed, 22 Jul 2026 21:00:00 +0000",
+      "firstSeen": "2026-08-05T22:07:14.071Z"
+    },
+    {
+      "title": "Why blocking AI models won’t stop the cyber threats they create",
+      "link": "https://cset.georgetown.edu/article/why-blocking-ai-models-wont-stop-the-cyber-threats-they-create/",
+      "date": "Mon, 20 Jul 2026 09:00:00 +0000",
+      "firstSeen": "2026-08-05T22:07:14.071Z"
+    },
     {
       "title": "Assessing Sovereign AI: A Two-Pronged Framework",
       "link": "https://cset.georgetown.edu/article/assessing-sovereign-ai-a-two-pronged-framework/",
