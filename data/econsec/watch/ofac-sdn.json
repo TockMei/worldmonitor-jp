@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-08-05T22:07:14.071Z",
+  "generated": "2026-08-06T23:45:46.532Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19178,
+  "count": 19189,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -29950,8 +29950,8 @@
       "list": "BELARUS"
     },
     "32628": {
-      "name": "LOPEZ MIERA, Alvaro",
-      "list": "GLOMAG"
+      "name": "LOPEZ MIERA, Alvaro Victoriano",
+      "list": "GLOMAG] [CUBA-EO14404"
     },
     "32630": {
       "name": "KENIUKH, Ihar Ryhoravich",
@@ -30295,7 +30295,7 @@
     },
     "33020": {
       "name": "LEGRA SOTOLONGO, Roberto",
-      "list": "GLOMAG"
+      "list": "GLOMAG] [CUBA-EO14404"
     },
     "33021": {
       "name": "GONZALEZ BRITO, Andres Laureano",
@@ -76716,6 +76716,50 @@
     "58236": {
       "name": "BREEZE V",
       "list": "IRAN-EO13902"
+    },
+    "58290": {
+      "name": "UNION DE INDUSTRIA MILITAR",
+      "list": "CUBA-EO14404"
+    },
+    "58291": {
+      "name": "VICIANA MOUSSET, Roberto Jesus",
+      "list": "CUBA-EO14404"
+    },
+    "58292": {
+      "name": "EMPRESA CUBANA IMPORTADA Y EXPORTADA DE PRODUCTOS TECNICOS",
+      "list": "CUBA-EO14404"
+    },
+    "58293": {
+      "name": "SANCHEZ ALLEYNE, Heriberto",
+      "list": "CUBA-EO14404"
+    },
+    "58294": {
+      "name": "SOCIEDAD MERCANTIL DUNA SA",
+      "list": "CUBA-EO14404"
+    },
+    "58295": {
+      "name": "EMPRESA CUBANA EXPORTADORA E IMPORTADORA DE SERVICIOS, ARTICULOS Y PRODUCTOS TECNICOS ESPECIALIZADOS SA",
+      "list": "CUBA-EO14404"
+    },
+    "58296": {
+      "name": "EMPRESA MILITAR INDUSTRIAL YURI GAGARIN",
+      "list": "CUBA-EO14404"
+    },
+    "58297": {
+      "name": "REMON RODRIGUEZ, Jose Antonio",
+      "list": "CUBA-EO14404"
+    },
+    "58298": {
+      "name": "BIOSCA GALLEGO, Oscar Enrique",
+      "list": "CUBA-EO14404"
+    },
+    "58299": {
+      "name": "MILIAN GOMEZ, Monica",
+      "list": "CUBA-EO14404"
+    },
+    "58300": {
+      "name": "PEREZ CORTES, Waldo",
+      "list": "CUBA-EO14404"
     }
   }
 }

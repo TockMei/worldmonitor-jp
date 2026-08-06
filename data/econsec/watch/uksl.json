@@ -1,9 +1,9 @@
 {
   "id": "uksl",
   "label": "UK Sanctions List (UKSL, successor to the OFSI Consolidated List)",
-  "generated": "2026-08-05T22:07:14.071Z",
+  "generated": "2026-08-06T23:45:46.532Z",
   "resolvedUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
-  "count": 6315,
+  "count": 6334,
   "entities": {
     "AFG0001": {
       "name": "Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah",
@@ -23276,6 +23276,82 @@
     "RUS3700": {
       "name": "Denis Valeryevich Shchukin",
       "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜個人"
+    },
+    "RUS3701": {
+      "name": "Severniy Inzhiniring LLC",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3702": {
+      "name": "IMO 9333591 ('ARCTIC EXPRESS')",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜Ship"
+    },
+    "RUS3703": {
+      "name": "FRION SHIP MANAGEMENT LLP",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3704": {
+      "name": "METALLKOMPLEKT OOO",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3705": {
+      "name": "OOO NIKOM",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3706": {
+      "name": "Limited Liability Company PROMSIZ",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3707": {
+      "name": "TECHNOLUX LLC",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3708": {
+      "name": "Alexander Alexandrovich Zhdanov",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜個人"
+    },
+    "RUS3709": {
+      "name": "OZON BANK LLC",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3710": {
+      "name": "ROSEKSIM BANK",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3711": {
+      "name": "PJSC CENTER-INVEST",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3712": {
+      "name": "JSC 'REALIST BANK'",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3713": {
+      "name": "Public Joint-Stock Company Investment and Commercial Industrial and Construction Bank 'Stavropolye'",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3714": {
+      "name": "TELEPORT BANK",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜団体"
+    },
+    "RUS3715": {
+      "name": "IMO 9326811 ('PERSEAS')",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜Ship"
+    },
+    "RUS3716": {
+      "name": "IMO 9470131 ('TORVIAN')",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜Ship"
+    },
+    "RUS3717": {
+      "name": "IMO 9402263 ('ASTERAS')",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜Ship"
+    },
+    "RUS3718": {
+      "name": "IMO 9378864 ('VISUND')",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜Ship"
+    },
+    "RUS3719": {
+      "name": "IMO 9346885 ('ZENTURO')",
+      "list": "The Russia (Sanctions) (EU Exit) Regulations 2019｜Ship"
     },
     "SOM0001": {
       "name": "YOUTH WING",

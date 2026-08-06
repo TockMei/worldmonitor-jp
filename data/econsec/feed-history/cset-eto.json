@@ -1,8 +1,14 @@
 {
   "id": "cset-eto",
   "label": "CSET ETO",
-  "generated": "2026-08-05T22:07:14.071Z",
+  "generated": "2026-08-06T23:45:46.532Z",
   "items": [
+    {
+      "title": "Announcing Expanded AGORA Collaboration",
+      "link": "https://eto.tech/blog/announcing-expanded-agora-collaboration/",
+      "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "firstSeen": "2026-08-06T23:45:46.532Z"
+    },
     {
       "title": "Chart the innovation landscape: introducing the Map of Patents",
       "link": "https://eto.tech/blog/introducing-map-of-patents/",
