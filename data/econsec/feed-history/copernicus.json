@@ -1,8 +1,20 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-08-06T23:45:46.532Z",
+  "generated": "2026-08-07T21:57:11.415Z",
   "items": [
+    {
+      "title": "Copernicus Sentinel-3 TBD OLCI and SLSTR L1: New Processing Baseline 3.37",
+      "link": "https://dataspace.copernicus.eu/news/2026-8-7-copernicus-sentinel-3-tbd-olci-and-slstr-l1-new-processing-baseline-337",
+      "date": "Fri, 07 Aug 2026 08:31:31 UTC",
+      "firstSeen": "2026-08-07T21:57:11.415Z"
+    },
+    {
+      "title": "Monitoring Europe's Drought in using EU Infrastructures with openEO API",
+      "link": "https://dataspace.copernicus.eu/news/2026-8-6-monitoring-europes-drought-using-eu-infrastructures-openeo-api",
+      "date": "Thu, 06 Aug 2026 11:36:11 UTC",
+      "firstSeen": "2026-08-07T21:57:11.415Z"
+    },
     {
       "title": "Sentinel-5p planned maintenance activities on 18/08/2026",
       "link": "https://dataspace.copernicus.eu/news/2026-8-5-sentinel-5p-planned-maintenance-activities-18082026",

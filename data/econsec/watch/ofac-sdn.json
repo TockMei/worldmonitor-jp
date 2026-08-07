@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-08-06T23:45:46.532Z",
+  "generated": "2026-08-07T21:57:11.415Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19189,
+  "count": 19199,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -6233,10 +6233,6 @@
       "name": "TASCON ROJAS, Servio Tulio",
       "list": "SDNT"
     },
-    "11753": {
-      "name": "SATIZABAL RENGIFO, Mario German",
-      "list": "SDNT"
-    },
     "11755": {
       "name": "SAAVEDRA ARCE, Rodrigo Eugenio",
       "list": "SDNT"
@@ -6351,10 +6347,6 @@
     },
     "11811": {
       "name": "AGUILAR DUARTE, Jose Lenoir",
-      "list": "SDNTK"
-    },
-    "11812": {
-      "name": "AYALA BARRERA, Rubi Yiceth",
       "list": "SDNTK"
     },
     "11813": {
@@ -11401,18 +11393,6 @@
       "name": "LIMON SANCHEZ, Alfonso",
       "list": "SDNTK"
     },
-    "16580": {
-      "name": "ZAZUETA GODOY, Heriberto",
-      "list": "SDNTK"
-    },
-    "16581": {
-      "name": "ZAZUETA GOMEZ, Leopoldo",
-      "list": "SDNTK"
-    },
-    "16582": {
-      "name": "ROMERO ZEVADA, Demetrio",
-      "list": "SDNTK"
-    },
     "16601": {
       "name": "ZAKHARCHENKO, Vitaliy Yuriyovych",
       "list": "UKRAINE-EO13660"
@@ -11428,14 +11408,6 @@
     "16606": {
       "name": "TANOUE, Fumio",
       "list": "TCO"
-    },
-    "16607": {
-      "name": "PRODUCCION PESQUERA DONA MARIELA, S.A. DE C.V.",
-      "list": "SDNTK"
-    },
-    "16608": {
-      "name": "TAIPEN, S.A. DE C.V.",
-      "list": "SDNTK"
     },
     "16622": {
       "name": "LOS VALLES DRUG TRAFFICKING ORGANIZATION",
@@ -11476,10 +11448,6 @@
     "16642": {
       "name": "AKSYONOV, Sergey Valeryevich",
       "list": "UKRAINE-EO13660"
-    },
-    "16643": {
-      "name": "COMERCIALIZADORA Y FRIGORIFICOS DE LA PERLA DEL PACIFICO, S.A. DE C.V.",
-      "list": "SDNTK"
     },
     "16646": {
       "name": "TAMADDON, Morteza",
@@ -76716,6 +76684,78 @@
     "58236": {
       "name": "BREEZE V",
       "list": "IRAN-EO13902"
+    },
+    "58239": {
+      "name": "ABAN TETHER EXCHANGE",
+      "list": "IRAN-EO13902"
+    },
+    "58258": {
+      "name": "CRYPTO HOME DMCC",
+      "list": "SDGT"
+    },
+    "58259": {
+      "name": "NFT HOME DMCC",
+      "list": "SDGT"
+    },
+    "58266": {
+      "name": "SHARIFI, Shima",
+      "list": "IRAN-EO13902"
+    },
+    "58267": {
+      "name": "GHASEMPOUR, Saeed",
+      "list": "IRAN-EO13902"
+    },
+    "58268": {
+      "name": "ALPS INTERNATIONAL L.L.C-FZ",
+      "list": "IRAN-EO13902"
+    },
+    "58269": {
+      "name": "MOHAMMAD, Peivand",
+      "list": "IRAN-EO13902"
+    },
+    "58270": {
+      "name": "OVIEDO OVERSEAS COMPANY LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58271": {
+      "name": "CAILAFANG PTE. LTD.",
+      "list": "IRAN-EO13902"
+    },
+    "58272": {
+      "name": "TITAN EXCHANGE",
+      "list": "IRAN-EO13902"
+    },
+    "58274": {
+      "name": "AYDENIZ GENERAL TRADING L.L.C",
+      "list": "IRAN-EO13902"
+    },
+    "58275": {
+      "name": "BLUE DASH GENERAL TRADING COMPANY LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58276": {
+      "name": "GLEAMING HK TRADING LIMITED",
+      "list": "IRAN-EO13902"
+    },
+    "58277": {
+      "name": "HENDI, Amir",
+      "list": "IRAN-EO13902"
+    },
+    "58284": {
+      "name": "KAYVANPOUR, Siavash",
+      "list": "SDGT] [IRGC"
+    },
+    "58285": {
+      "name": "SHELBIT GENERAL TRADING LLC",
+      "list": "SDGT"
+    },
+    "58287": {
+      "name": "SHPS SHELBIT",
+      "list": "SDGT"
+    },
+    "58288": {
+      "name": "SHELBIT TECHNOLOGIES LTD SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA W LIKWIDACJI",
+      "list": "SDGT"
     },
     "58290": {
       "name": "UNION DE INDUSTRIA MILITAR",
