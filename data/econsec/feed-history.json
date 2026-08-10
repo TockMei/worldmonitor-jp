@@ -1,8 +1,154 @@
 {
   "meta": {
-    "generated": "2026-08-09T21:53:57.562Z"
+    "generated": "2026-08-10T21:58:00.040Z"
   },
   "history": {
+    "ofsi": [
+      {
+        "title": "Guidance: OFSI General licence INT/2025/5635700",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20255635700",
+        "date": "2026-08-06T13:08:25Z",
+        "firstSeen": "2026-08-06T23:45:46.532Z"
+      },
+      {
+        "title": "Guidance: Check if an email or communication claiming to be from OFSI is genuine",
+        "link": "https://www.gov.uk/government/publications/check-if-an-email-or-communication-claiming-to-be-from-ofsi-is-genuine",
+        "date": "2026-07-24T09:32:01Z",
+        "firstSeen": "2026-07-24T22:05:39.748Z"
+      },
+      {
+        "title": "Guidance: OFSI General licence INT/2025/5787748",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20255787748",
+        "date": "2026-07-16T15:03:10Z",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Guidance: OFSI General Licence - INT/2025/6641960",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20256641960",
+        "date": "2026-07-13T15:06:07Z",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Guidance: OFSI General Licence INT/2026/8893924",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20268893924",
+        "date": "2026-07-06T11:21:19Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: OFSI General Licence INT/2026/9491628",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269491628",
+        "date": "2026-06-24T14:31:48Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: UK Financial Sanctions FAQs",
+        "link": "https://www.gov.uk/government/publications/uk-financial-sanctions-faqs",
+        "date": "2026-06-24T14:29:48Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: The U.S. and UK Economic Sanctions Authorities: A Comparative Overview",
+        "link": "https://www.gov.uk/government/publications/the-us-and-uk-economic-sanctions-authorities-a-comparative-overview",
+        "date": "2026-06-23T14:34:02Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: OFSI General Licence INT/2025/8031092",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20258031092",
+        "date": "2026-06-19T13:00:28Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "UK issues largest penalty for financial sanctions breaches since Russia’s 2022 illegal invasion of Ukraine",
+        "link": "https://www.gov.uk/government/news/uk-issues-largest-penalty-for-financial-sanctions-breaches-since-russias-2022-illegal-invasion-of-ukraine",
+        "date": "2026-06-17T11:04:35Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Notice: Imposition of Monetary Penalty - Sabre Global Technologies Limited (SGTL)",
+        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-sabre-global-technologies-limited-sgtl",
+        "date": "2026-06-17T10:44:07Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: OFSI General Licence - INT/2026/9559192",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269559192",
+        "date": "2026-06-15T17:27:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: OFSI General licence INT/2024/4761108",
+        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20244761108",
+        "date": "2026-05-26T12:48:47Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Russia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
+        "date": "2026-05-19T23:01:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Notice: Imposition of Monetary Penalty – Deutsche Bank AG London Branch (“DBLB”)",
+        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-deutsche-bank-ag-london-branch-dblb",
+        "date": "2026-05-19T09:52:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Sanctions compliance in the Art Market Participants and High Value Goods sector: Threat Assessment",
+        "link": "https://www.gov.uk/government/publications/sanctions-compliance-in-the-art-market-participants-and-high-value-goods-sector-threat-assessment",
+        "date": "2026-05-12T09:27:04Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Financial sanctions general guidance",
+        "link": "https://www.gov.uk/government/publications/financial-sanctions-general-guidance",
+        "date": "2026-05-12T09:26:45Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Financial sanctions guidance for high value dealers and art market participants",
+        "link": "https://www.gov.uk/government/publications/financial-sanctions-guidance-for-high-value-dealers-and-art-market-participants",
+        "date": "2026-05-12T09:26:35Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
+        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
+        "date": "2026-05-08T08:40:08Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
+        "date": "2026-05-01T10:20:09Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Libya sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
+        "date": "2026-05-01T10:20:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Somalia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
+        "date": "2026-05-01T10:20:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
+        "date": "2026-05-01T10:19:55Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Myanmar sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
+        "date": "2026-05-01T10:19:52Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "opensanctions": [
       {
         "title": "How Marble built on top of our open-source matcher",
@@ -727,7 +873,177 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "ecju": [
+      {
+        "title": "Notice: Notice to exporters 2026/18: F680 licence applicants to use LITE instead of SPIRE",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202618-f680-licence-applicants-to-use-lite-instead-of-spire",
+        "date": "2026-07-31T09:00:06Z",
+        "firstSeen": "2026-07-31T22:06:02.178Z"
+      },
+      {
+        "title": "Notice: Notice to exporters 2026/17: company named in compound settlement for breaches of export control",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202617-compound-settlement-for-breaches-of-export-control",
+        "date": "2026-07-30T06:30:00Z",
+        "firstSeen": "2026-07-30T22:07:38.801Z"
+      },
+      {
+        "title": "Notice: Notice to exporters 2026/16: compound settlement for breaches of export control",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202616-compound-settlement-for-breaches-of-export-control",
+        "date": "2026-07-27T14:00:12Z",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "Corporate report: UK strategic export controls annual report 2025",
+        "link": "https://www.gov.uk/government/publications/uk-strategic-export-controls-annual-report-2025",
+        "date": "2026-07-20T09:32:20Z",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "Official Statistics: Strategic export controls: licensing statistics 1 January to 31 March 2026",
+        "link": "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
+        "date": "2026-07-20T07:59:26Z",
+        "firstSeen": "2026-07-20T22:05:23.456Z"
+      },
+      {
+        "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
+        "date": "2026-06-29T10:55:05Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Open general export licence (export of dual-use items)",
+        "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
+        "date": "2026-06-25T08:30:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Russia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
+        "date": "2026-05-19T23:01:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Military end-use controls",
+        "link": "https://www.gov.uk/guidance/military-end-use-controls",
+        "date": "2026-05-19T08:57:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202613-declaring-exports-under-ogels-and-geas-on-the-uks-customs-declarations-system",
+        "date": "2026-05-13T08:30:02Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
+        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
+        "date": "2026-05-05T14:30:41Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
+        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
+        "date": "2026-05-01T12:57:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
+        "date": "2026-05-01T10:20:09Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Libya sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
+        "date": "2026-05-01T10:20:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Somalia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
+        "date": "2026-05-01T10:20:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
+        "date": "2026-05-01T10:19:55Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Myanmar sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
+        "date": "2026-05-01T10:19:52Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Counter-terrorism international sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/counter-terrorism-international-sanctions-guidance",
+        "date": "2026-05-01T10:19:49Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: South Sudan sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/south-sudan-sanctions-guidance",
+        "date": "2026-05-01T10:19:47Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Sudan sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/sudan-sanctions-guidance",
+        "date": "2026-05-01T10:19:44Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Syria sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
+        "date": "2026-05-01T10:19:41Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Venezuela sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
+        "date": "2026-05-01T10:19:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Yemen sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/yemen-sanctions-guidance",
+        "date": "2026-05-01T10:19:35Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Zimbabwe sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/zimbabwe-sanctions-guidance",
+        "date": "2026-05-01T10:19:32Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Iran sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
+        "date": "2026-05-01T10:19:29Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "cset": [
+      {
+        "title": "They said they would build AI safely. Then it went rogue.",
+        "link": "https://cset.georgetown.edu/article/they-said-they-would-build-ai-safely-then-it-went-rogue/",
+        "date": "Mon, 10 Aug 2026 16:00:00 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
+        "title": "Inside the Race to Make AI Build Itself",
+        "link": "https://cset.georgetown.edu/article/inside-the-race-to-make-ai-build-itself/",
+        "date": "Fri, 07 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
+        "title": "How America’s Dizzying AI Strategy Plays Into China’s Hands",
+        "link": "https://cset.georgetown.edu/article/how-americas-dizzying-ai-strategy-plays-into-chinas-hands/",
+        "date": "Fri, 07 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
       {
         "title": "SpaceX’s revenue rises as its once-soaring stock price drifts back to Earth",
         "link": "https://cset.georgetown.edu/article/spacexs-revenue-rises-as-its-once-soaring-stock-price-drifts-back-to-earth/",
@@ -903,153 +1219,25 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "ofsi": [
-      {
-        "title": "Guidance: OFSI General licence INT/2025/5635700",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20255635700",
-        "date": "2026-08-06T13:08:25Z",
-        "firstSeen": "2026-08-06T23:45:46.532Z"
-      },
-      {
-        "title": "Guidance: Check if an email or communication claiming to be from OFSI is genuine",
-        "link": "https://www.gov.uk/government/publications/check-if-an-email-or-communication-claiming-to-be-from-ofsi-is-genuine",
-        "date": "2026-07-24T09:32:01Z",
-        "firstSeen": "2026-07-24T22:05:39.748Z"
-      },
-      {
-        "title": "Guidance: OFSI General licence INT/2025/5787748",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20255787748",
-        "date": "2026-07-16T15:03:10Z",
-        "firstSeen": "2026-07-16T22:05:42.331Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence - INT/2025/6641960",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20256641960",
-        "date": "2026-07-13T15:06:07Z",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence INT/2026/8893924",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20268893924",
-        "date": "2026-07-06T11:21:19Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence INT/2026/9491628",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269491628",
-        "date": "2026-06-24T14:31:48Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: UK Financial Sanctions FAQs",
-        "link": "https://www.gov.uk/government/publications/uk-financial-sanctions-faqs",
-        "date": "2026-06-24T14:29:48Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: The U.S. and UK Economic Sanctions Authorities: A Comparative Overview",
-        "link": "https://www.gov.uk/government/publications/the-us-and-uk-economic-sanctions-authorities-a-comparative-overview",
-        "date": "2026-06-23T14:34:02Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence INT/2025/8031092",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20258031092",
-        "date": "2026-06-19T13:00:28Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "UK issues largest penalty for financial sanctions breaches since Russia’s 2022 illegal invasion of Ukraine",
-        "link": "https://www.gov.uk/government/news/uk-issues-largest-penalty-for-financial-sanctions-breaches-since-russias-2022-illegal-invasion-of-ukraine",
-        "date": "2026-06-17T11:04:35Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notice: Imposition of Monetary Penalty - Sabre Global Technologies Limited (SGTL)",
-        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-sabre-global-technologies-limited-sgtl",
-        "date": "2026-06-17T10:44:07Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General Licence - INT/2026/9559192",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20269559192",
-        "date": "2026-06-15T17:27:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: OFSI General licence INT/2024/4761108",
-        "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20244761108",
-        "date": "2026-05-26T12:48:47Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Russia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
-        "date": "2026-05-19T23:01:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notice: Imposition of Monetary Penalty – Deutsche Bank AG London Branch (“DBLB”)",
-        "link": "https://www.gov.uk/government/publications/imposition-of-monetary-penalty-deutsche-bank-ag-london-branch-dblb",
-        "date": "2026-05-19T09:52:37Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Sanctions compliance in the Art Market Participants and High Value Goods sector: Threat Assessment",
-        "link": "https://www.gov.uk/government/publications/sanctions-compliance-in-the-art-market-participants-and-high-value-goods-sector-threat-assessment",
-        "date": "2026-05-12T09:27:04Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Financial sanctions general guidance",
-        "link": "https://www.gov.uk/government/publications/financial-sanctions-general-guidance",
-        "date": "2026-05-12T09:26:45Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Financial sanctions guidance for high value dealers and art market participants",
-        "link": "https://www.gov.uk/government/publications/financial-sanctions-guidance-for-high-value-dealers-and-art-market-participants",
-        "date": "2026-05-12T09:26:35Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
-        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
-        "date": "2026-05-08T08:40:08Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
-        "date": "2026-05-01T10:20:09Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Libya sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
-        "date": "2026-05-01T10:20:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Somalia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
-        "date": "2026-05-01T10:20:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
-        "date": "2026-05-01T10:19:55Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Myanmar sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
-        "date": "2026-05-01T10:19:52Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "ac-geoecon": [
+      {
+        "title": "How to push back against Mali’s propagandists? Help factual creators go viral.",
+        "link": "https://www.atlanticcouncil.org/blogs/africasource/how-to-push-back-against-malis-propagandists-help-factual-creators-go-viral/",
+        "date": "Mon, 10 Aug 2026 19:43:12 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
+        "title": "When a few stocks become the market",
+        "link": "https://www.atlanticcouncil.org/blogs/econographics/stock-market-concentration/",
+        "date": "Mon, 10 Aug 2026 15:40:08 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
+        "title": "Smart glasses are the blind spot in US privacy law",
+        "link": "https://www.atlanticcouncil.org/dispatches/smart-glasses-are-the-blind-spot-in-us-privacy-law/",
+        "date": "Mon, 10 Aug 2026 13:06:43 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
       {
         "title": "The GCC’s wartime borrowing machine is helping counter the Iran war",
         "link": "https://www.atlanticcouncil.org/blogs/menasource/the-gccs-wartime-borrowing-machine-is-helping-counter-the-iran-war/",
@@ -2231,177 +2419,6 @@
         "link": "https://www.atlanticcouncil.org/blogs/menasource/the-us-is-sending-syrian-asylees-back-syria-isnt-ready/",
         "date": "Wed, 01 Jul 2026 15:00:53 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "At 250 years old, the US must continue to refine the message it sends abroad—including to Africa",
-        "link": "https://www.atlanticcouncil.org/blogs/africasource/at-250-years-old-the-us-must-continue-to-refine-the-message-it-sends-abroad-including-to-africa/",
-        "date": "Wed, 01 Jul 2026 14:37:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How NATO is facing mounting cybersecurity challenges",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-is-facing-mounting-cybersecurity-challenges/",
-        "date": "Wed, 01 Jul 2026 14:00:56 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Alliance evolving: The Ankara summit and NATO readiness",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/alliance-evolving-the-ankara-summit-and-nato-readiness/",
-        "date": "Wed, 01 Jul 2026 14:00:50 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "rusi": [],
-    "ecju": [
-      {
-        "title": "Notice: Notice to exporters 2026/18: F680 licence applicants to use LITE instead of SPIRE",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202618-f680-licence-applicants-to-use-lite-instead-of-spire",
-        "date": "2026-07-31T09:00:06Z",
-        "firstSeen": "2026-07-31T22:06:02.178Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/17: company named in compound settlement for breaches of export control",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202617-compound-settlement-for-breaches-of-export-control",
-        "date": "2026-07-30T06:30:00Z",
-        "firstSeen": "2026-07-30T22:07:38.801Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/16: compound settlement for breaches of export control",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202616-compound-settlement-for-breaches-of-export-control",
-        "date": "2026-07-27T14:00:12Z",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "Corporate report: UK strategic export controls annual report 2025",
-        "link": "https://www.gov.uk/government/publications/uk-strategic-export-controls-annual-report-2025",
-        "date": "2026-07-20T09:32:20Z",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics 1 January to 31 March 2026",
-        "link": "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
-        "date": "2026-07-20T07:59:26Z",
-        "firstSeen": "2026-07-20T22:05:23.456Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
-        "date": "2026-06-29T10:55:05Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Open general export licence (export of dual-use items)",
-        "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
-        "date": "2026-06-25T08:30:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Russia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
-        "date": "2026-05-19T23:01:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Military end-use controls",
-        "link": "https://www.gov.uk/guidance/military-end-use-controls",
-        "date": "2026-05-19T08:57:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202613-declaring-exports-under-ogels-and-geas-on-the-uks-customs-declarations-system",
-        "date": "2026-05-13T08:30:02Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
-        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
-        "date": "2026-05-05T14:30:41Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
-        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
-        "date": "2026-05-01T12:57:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
-        "date": "2026-05-01T10:20:09Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Libya sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
-        "date": "2026-05-01T10:20:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Somalia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
-        "date": "2026-05-01T10:20:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
-        "date": "2026-05-01T10:19:55Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Myanmar sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
-        "date": "2026-05-01T10:19:52Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Counter-terrorism international sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/counter-terrorism-international-sanctions-guidance",
-        "date": "2026-05-01T10:19:49Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: South Sudan sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/south-sudan-sanctions-guidance",
-        "date": "2026-05-01T10:19:47Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Sudan sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/sudan-sanctions-guidance",
-        "date": "2026-05-01T10:19:44Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Syria sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
-        "date": "2026-05-01T10:19:41Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Venezuela sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
-        "date": "2026-05-01T10:19:37Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Yemen sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/yemen-sanctions-guidance",
-        "date": "2026-05-01T10:19:35Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Zimbabwe sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/zimbabwe-sanctions-guidance",
-        "date": "2026-05-01T10:19:32Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Iran sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
-        "date": "2026-05-01T10:19:29Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
     "otsi": [
@@ -2532,6 +2549,7 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "rusi": [],
     "sinocism": [
       {
         "title": "Advantage Does Not Equal Victory | Sinification: July 2026",
@@ -2757,6 +2775,12 @@
       }
     ],
     "chinatalk": [
+      {
+        "title": "$25k Contest: Evals for the Situation Room",
+        "link": "https://www.chinatalk.media/p/25k-contest-evals-for-the-situation",
+        "date": "Mon, 10 Aug 2026 10:23:34 GMT",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
       {
         "title": "WarTalk: Odyssey Edition",
         "link": "https://www.chinatalk.media/p/wartalk-odyssey-edition",
@@ -3236,7 +3260,14 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "cistec": [],
     "wirechina": [
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/10/the-daily-roundup-august-10-2026/",
+        "date": "Mon, 10 Aug 2026 12:54:21 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
       {
         "title": "Lily Qi on Choosing to be an American",
         "link": "https://www.thewirechina.com/2026/08/09/lily-qi-on-choosing-to-be-an-american/",
@@ -3802,7 +3833,6 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "cistec": [],
     "ifi": [
       {
         "title": "July Monthly Sanctions and Export Controls Report",
@@ -3884,6 +3914,18 @@
       }
     ],
     "gibsondunn": [
+      {
+        "title": "The Wages of Fear: France Extends the Limitation Period for Anxiety Claims",
+        "link": "https://www.gibsondunn.com/the-wages-of-fear-france-extends-the-limitation-period-for-anxiety-claims/",
+        "date": "Mon, 10 Aug 2026 20:29:33 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
+        "title": "Jillian London and Marissa Mulligan Author Daily Journal’s “Revisiting Familiar Assumptions About California Arbitration”",
+        "link": "https://www.gibsondunn.com/jillian-london-and-marissa-mulligan-author-daily-journals-revisiting-familiar-assumptions-about-california-arbitration/",
+        "date": "Mon, 10 Aug 2026 18:20:36 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
       {
         "title": "Derivatives, Legislative and Regulatory Weekly Update (August 7, 2026)",
         "link": "https://www.gibsondunn.com/derivatives-legislative-and-regulatory-weekly-update-august-7-2026/",
@@ -5081,6 +5123,7 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "tradetalks": [],
     "bm-sanctions": [
       {
         "title": "OFAC Restructures Hong Kong Sanctions Following Expiration of Executive Order 13936",
@@ -5263,45 +5306,6 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "tradetalks": [],
-    "platracker": [
-      {
-        "title": "Beyond the Typhon: 1st Multi-Domain Task Force and Sea Denial in the Philippines",
-        "link": "https://www.platracker.com/post/beyond-the-typhon-1st-multi-domain-task-force-and-sea-denial-in-the-philippines",
-        "date": "Fri, 19 Dec 2025 21:50:28 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Operationalizing Intelligentized Warfare: Xi Replaces the Strategic Support Force with Three New “Arms”",
-        "link": "https://www.platracker.com/post/operationalizing-intelligentized-warfare-xi-replaces-the-strategic-support-force-with-three-new-ar",
-        "date": "Tue, 15 Jul 2025 19:57:04 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Russian Activity Around Japan: 2024 in Review",
-        "link": "https://www.platracker.com/post/russian-activity-around-japan-2024-in-review",
-        "date": "Tue, 25 Mar 2025 13:05:27 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Shangri-La Dialogue:                           A Choreographed Display of Power and Diplomacy",
-        "link": "https://www.platracker.com/post/shangri-la-dialogue-a-choreographed-display-of-power-and-diplomacy",
-        "date": "Tue, 04 Jun 2024 04:00:00 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "ADIZ Report - February 2024",
-        "link": "https://www.platracker.com/post/adiz-report-february-2024",
-        "date": "Sun, 03 Mar 2024 00:26:00 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      },
-      {
-        "title": "Europe Should Play a Greater Role in Upholding Freedom of Navigation in the Taiwan Strait",
-        "link": "https://www.platracker.com/post/europe-should-play-a-greater-role-in-upholding-freedom-of-navigation-in-the-taiwan-strait",
-        "date": "Tue, 13 Feb 2024 01:56:16 GMT",
-        "firstSeen": "2026-07-13T11:23:09.088Z"
-      }
-    ],
     "aspi": [
       {
         "title": "From the old world to the new: Why German rearmament matters for Australia",
@@ -5382,72 +5386,42 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "datalastic": [
+    "platracker": [
       {
-        "title": "How to Connect Datalastic to Claude and ChatGPT?",
-        "link": "https://datalastic.com/blog/how-to-connect-datalastic-to-claude-and-chatgpt/",
-        "date": "Fri, 31 Jul 2026 16:46:33 +0000",
-        "firstSeen": "2026-08-04T22:07:03.023Z"
+        "title": "Beyond the Typhon: 1st Multi-Domain Task Force and Sea Denial in the Philippines",
+        "link": "https://www.platracker.com/post/beyond-the-typhon-1st-multi-domain-task-force-and-sea-denial-in-the-philippines",
+        "date": "Fri, 19 Dec 2025 21:50:28 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       },
       {
-        "title": "Find Vessels In The Gulf Of Oman",
-        "link": "https://datalastic.com/blog/find-vessels-in-the-gulf-of-oman/",
-        "date": "Mon, 15 Jun 2026 10:57:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
+        "title": "Operationalizing Intelligentized Warfare: Xi Replaces the Strategic Support Force with Three New “Arms”",
+        "link": "https://www.platracker.com/post/operationalizing-intelligentized-warfare-xi-replaces-the-strategic-support-force-with-three-new-ar",
+        "date": "Tue, 15 Jul 2025 19:57:04 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       },
       {
-        "title": "Enterprise Vessel Tracking API",
-        "link": "https://datalastic.com/blog/enterprise-vessel-tracking-api/",
-        "date": "Tue, 09 Jun 2026 10:35:02 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
+        "title": "Russian Activity Around Japan: 2024 in Review",
+        "link": "https://www.platracker.com/post/russian-activity-around-japan-2024-in-review",
+        "date": "Tue, 25 Mar 2025 13:05:27 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       },
       {
-        "title": "Yacht tracking API: filter by Type, Size and Flag",
-        "link": "https://datalastic.com/blog/yacht-tracking-api-filter-by-type-size-and-flag/",
-        "date": "Tue, 19 May 2026 18:26:08 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
+        "title": "Shangri-La Dialogue:                           A Choreographed Display of Power and Diplomacy",
+        "link": "https://www.platracker.com/post/shangri-la-dialogue-a-choreographed-display-of-power-and-diplomacy",
+        "date": "Tue, 04 Jun 2024 04:00:00 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       },
       {
-        "title": "Oil Tanker Tracker API",
-        "link": "https://datalastic.com/blog/oil-tanker-tracker-api/",
-        "date": "Tue, 12 May 2026 13:32:19 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
+        "title": "ADIZ Report - February 2024",
+        "link": "https://www.platracker.com/post/adiz-report-february-2024",
+        "date": "Sun, 03 Mar 2024 00:26:00 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       },
       {
-        "title": "Strait of Hormuz Vessel Tracking API: Monitor Ships",
-        "link": "https://datalastic.com/blog/strait-of-hormuz-vessel-tracking-api-monitor-ships/",
-        "date": "Tue, 05 May 2026 10:24:21 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Most Maritime APIs Look the Same But They’re Not",
-        "link": "https://datalastic.com/blog/most-maritime-apis-look-the-same-but-theyre-not/",
-        "date": "Mon, 30 Mar 2026 10:51:48 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Top 10 Most Congested Ports Right Now (Based on AIS Data)",
-        "link": "https://datalastic.com/blog/top-10-most-congested-ports-right-now-based-on-ais-data/",
-        "date": "Sat, 14 Mar 2026 00:55:24 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Instant Vessel Tracking from NMEA AIS Data",
-        "link": "https://datalastic.com/blog/instant-vessel-tracking-from-nmea-ais-data/",
-        "date": "Fri, 20 Feb 2026 11:02:49 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Vessel Emission API: How to Calculate Using Engine Data",
-        "link": "https://datalastic.com/blog/vessel-emission-api-how-to-calculate-using-engine-data/",
-        "date": "Thu, 12 Feb 2026 10:27:40 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Choosing a Reliable Maritime API: Datalastic Uptime Explained",
-        "link": "https://datalastic.com/blog/choosing-a-reliable-maritime-api-datalastic-uptime-explained/",
-        "date": "Mon, 02 Feb 2026 08:54:50 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
+        "title": "Europe Should Play a Greater Role in Upholding Freedom of Navigation in the Taiwan Strait",
+        "link": "https://www.platracker.com/post/europe-should-play-a-greater-role-in-upholding-freedom-of-navigation-in-the-taiwan-strait",
+        "date": "Tue, 13 Feb 2024 01:56:16 GMT",
+        "firstSeen": "2026-07-13T11:23:09.088Z"
       }
     ],
     "chinapower": [
@@ -5513,6 +5487,12 @@
       }
     ],
     "windward": [
+      {
+        "title": "Resolving Charter Disputes When Vessels Go Dark in the Strait of Hormuz",
+        "link": "https://windward.ai/blog/resolving-charter-disputes-over-dark-periods-in-hormuz/",
+        "date": "Mon, 10 Aug 2026 06:58:56 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
       {
         "title": "Kharg Is at a Standstill, and a Russian Shadow Fleet Convoy Runs the Arctic",
         "link": "https://windward.ai/blog/kharg-standstill-and-a-russian-convoy-on-the-arctic-route/",
@@ -5751,6 +5731,12 @@
       }
     ],
     "pancanal": [
+      {
+        "title": "Canal de Panamá invierte en futuro del país a través de la Escuela de Aprendices",
+        "link": "https://pancanal.com/canal-de-panama-invierte-en-futuro-del-pais-a-traves-de-la-escuela-de-aprendices/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-invierte-en-futuro-del-pais-a-traves-de-la-escuela-de-aprendices",
+        "date": "Mon, 10 Aug 2026 19:58:54 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
       {
         "title": "Canal de Panamá anuncia nuevos ajustes de calado en las esclusas neopanamax",
         "link": "https://pancanal.com/canal-de-panama-anuncia-nuevos-ajustes-de-calado-en-las-esclusas-neopanamax/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-anuncia-nuevos-ajustes-de-calado-en-las-esclusas-neopanamax",
@@ -6261,6 +6247,18 @@
     ],
     "crea": [
       {
+        "title": "July 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+        "link": "https://energyandcleanair.org/july-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+        "date": "Mon, 10 Aug 2026 08:00:00 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
+        "title": "India monthly ambient air quality snapshot: July 2026",
+        "link": "https://energyandcleanair.org/india-monthly-ambient-air-quality-snapshot-july-2026/",
+        "date": "Mon, 10 Aug 2026 07:37:09 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
         "title": "CREA EU CO2 emissions tracking: Early estimates hold up, provide valuable advance insights for public and policy",
         "link": "https://energyandcleanair.org/crea-eu-co2-emissions-tracking-early-estimates-hold-up/",
         "date": "Tue, 04 Aug 2026 08:00:00 +0000",
@@ -6388,6 +6386,18 @@
       }
     ],
     "bizlawyers": [
+      {
+        "title": "経済産業省「成長投資ガイダンス―価値創造の拡大を通じた企業の持続的成長に向けて―」を公表",
+        "link": "https://www.businesslawyers.jp/articles/1566",
+        "date": "2026-08-10T11:00:00+09:00",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
+        "title": "2026年8月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1562",
+        "date": "2026-08-10T08:00:00+09:00",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
       {
         "title": "令和8年改正個人情報保護法の金融機関等における実務対応",
         "link": "https://www.businesslawyers.jp/articles/1565",
@@ -6662,6 +6672,74 @@
         "title": "東証「市場区分の見直しに関するフォローアップ会議」（第25回）を開催",
         "link": "https://www.businesslawyers.jp/articles/1523",
         "date": "2026-02-10T07:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "datalastic": [
+      {
+        "title": "How to Connect Datalastic to Claude and ChatGPT?",
+        "link": "https://datalastic.com/blog/how-to-connect-datalastic-to-claude-and-chatgpt/",
+        "date": "Fri, 31 Jul 2026 16:46:33 +0000",
+        "firstSeen": "2026-08-04T22:07:03.023Z"
+      },
+      {
+        "title": "Find Vessels In The Gulf Of Oman",
+        "link": "https://datalastic.com/blog/find-vessels-in-the-gulf-of-oman/",
+        "date": "Mon, 15 Jun 2026 10:57:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Enterprise Vessel Tracking API",
+        "link": "https://datalastic.com/blog/enterprise-vessel-tracking-api/",
+        "date": "Tue, 09 Jun 2026 10:35:02 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Yacht tracking API: filter by Type, Size and Flag",
+        "link": "https://datalastic.com/blog/yacht-tracking-api-filter-by-type-size-and-flag/",
+        "date": "Tue, 19 May 2026 18:26:08 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Oil Tanker Tracker API",
+        "link": "https://datalastic.com/blog/oil-tanker-tracker-api/",
+        "date": "Tue, 12 May 2026 13:32:19 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Strait of Hormuz Vessel Tracking API: Monitor Ships",
+        "link": "https://datalastic.com/blog/strait-of-hormuz-vessel-tracking-api-monitor-ships/",
+        "date": "Tue, 05 May 2026 10:24:21 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Most Maritime APIs Look the Same But They’re Not",
+        "link": "https://datalastic.com/blog/most-maritime-apis-look-the-same-but-theyre-not/",
+        "date": "Mon, 30 Mar 2026 10:51:48 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Top 10 Most Congested Ports Right Now (Based on AIS Data)",
+        "link": "https://datalastic.com/blog/top-10-most-congested-ports-right-now-based-on-ais-data/",
+        "date": "Sat, 14 Mar 2026 00:55:24 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Instant Vessel Tracking from NMEA AIS Data",
+        "link": "https://datalastic.com/blog/instant-vessel-tracking-from-nmea-ais-data/",
+        "date": "Fri, 20 Feb 2026 11:02:49 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Vessel Emission API: How to Calculate Using Engine Data",
+        "link": "https://datalastic.com/blog/vessel-emission-api-how-to-calculate-using-engine-data/",
+        "date": "Thu, 12 Feb 2026 10:27:40 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Choosing a Reliable Maritime API: Datalastic Uptime Explained",
+        "link": "https://datalastic.com/blog/choosing-a-reliable-maritime-api-datalastic-uptime-explained/",
+        "date": "Mon, 02 Feb 2026 08:54:50 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ]
