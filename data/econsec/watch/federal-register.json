@@ -1,8 +1,8 @@
 {
   "id": "federal-register",
   "label": "Federal Register 新着",
-  "generated": "2026-08-10T21:58:00.040Z",
-  "count": 174,
+  "generated": "2026-08-11T22:00:37.514Z",
+  "count": 173,
   "seen": {
     "2026-13663": {
       "title": "Notice of Request for Public Comments on Section 232 National Security Investigation of Anthracite Coal",
@@ -2848,6 +2848,111 @@
       "title": "Radiology Devices; Reclassification of Digital Breast Tomosynthesis System",
       "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16209/radiology-devices-reclassification-of-digital-breast-tomosynthesis-system",
       "date": "2026-08-10"
+    },
+    "2026-16307": {
+      "title": "30-Day Notice of Proposed Information Collection: Employee Self-Certification and Ability To Perform in Emergencies (ESCAPE) Posts, Pre-Deployment Physical Exam Acknowledgement Form",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16307/30-day-notice-of-proposed-information-collection-employee-self-certification-and-ability-to-perform",
+      "date": "2026-08-11"
+    },
+    "2026-16359": {
+      "title": "Danger Zone: Pacific Ocean at Marine Corps Base Hawaii, Kaneohe Bay, Island of Oahu, Hawaii",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16359/danger-zone-pacific-ocean-at-marine-corps-base-hawaii-kaneohe-bay-island-of-oahu-hawaii",
+      "date": "2026-08-11"
+    },
+    "2026-16357": {
+      "title": "Restricted Area: Naval Weapons Station Seal Beach",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16357/restricted-area-naval-weapons-station-seal-beach",
+      "date": "2026-08-11"
+    },
+    "2026-16375": {
+      "title": "Schedules of Controlled Substances: Rescheduling of Suvorexant, Lemborexant, and Daridorexant From Schedule IV Into Schedule V",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16375/schedules-of-controlled-substances-rescheduling-of-suvorexant-lemborexant-and-daridorexant-from",
+      "date": "2026-08-11"
+    },
+    "2026-16374": {
+      "title": "NRC Modernization: Rulemaking Procedure, Federal Advisory Committee Act Alignment, Access, and Security",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16374/nrc-modernization-rulemaking-procedure-federal-advisory-committee-act-alignment-access-and-security",
+      "date": "2026-08-11"
+    },
+    "2026-16370": {
+      "title": "Reforms to 13 CFR 124.103 To Remove SBA's 8(a) Program's Rebuttable Presumption of Social Disadvantage for Individually Owned Firms Only. Reforms Do Not Impact Entity-Owned Firms",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16370/reforms-to-13-cfr-124103-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage",
+      "date": "2026-08-11"
+    },
+    "2026-16366": {
+      "title": "Privacy Act of 1974; System of Records",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16366/privacy-act-of-1974-system-of-records",
+      "date": "2026-08-11"
+    },
+    "2026-16354": {
+      "title": "Special Local Regulation; Great Lakes Annual Marine Events-Cuyahoga River, Cleveland, OH",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16354/special-local-regulation-great-lakes-annual-marine-events-cuyahoga-river-cleveland-oh",
+      "date": "2026-08-11"
+    },
+    "2026-16350": {
+      "title": "Establishment of Class E Airspace; Canton, IL",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16350/establishment-of-class-e-airspace-canton-il",
+      "date": "2026-08-11"
+    },
+    "2026-16341": {
+      "title": "Safety Zone; Lake Michigan, Chicago, IL",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16341/safety-zone-lake-michigan-chicago-il",
+      "date": "2026-08-11"
+    },
+    "2026-16335": {
+      "title": "Air Quality Plan; Arizona; Maricopa County Air Quality Department; Gasoline Loading",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16335/air-quality-plan-arizona-maricopa-county-air-quality-department-gasoline-loading",
+      "date": "2026-08-11"
+    },
+    "2026-16334": {
+      "title": "Determination To Defer Sanctions; Arizona; Maricopa County Air Quality Department; Gasoline Loading",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16334/determination-to-defer-sanctions-arizona-maricopa-county-air-quality-department-gasoline-loading",
+      "date": "2026-08-11"
+    },
+    "2026-16333": {
+      "title": "Amendment of Class D Airspace and Class E Airspace Over Tri-Cities, TN",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16333/amendment-of-class-d-airspace-and-class-e-airspace-over-tri-cities-tn",
+      "date": "2026-08-11"
+    },
+    "2026-16330": {
+      "title": "Air Plan Approval; New Hampshire; Repeal of Motor Vehicle Inspection and Maintenance Program",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16330/air-plan-approval-new-hampshire-repeal-of-motor-vehicle-inspection-and-maintenance-program",
+      "date": "2026-08-11"
+    },
+    "2026-16329": {
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Washington State Parks and Recreation Commission's Marine Facilities Replacement Program in North Puget Sound, Washington",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16329/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the",
+      "date": "2026-08-11"
+    },
+    "2026-16320": {
+      "title": "New Postal Products",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16320/new-postal-products",
+      "date": "2026-08-11"
+    },
+    "2026-16319": {
+      "title": "Regulatory Changes Required by the Energy Security and Lightering Independence Act of 2022",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16319/regulatory-changes-required-by-the-energy-security-and-lightering-independence-act-of-2022",
+      "date": "2026-08-11"
+    },
+    "2026-16318": {
+      "title": "North Dakota Regulatory Program",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16318/north-dakota-regulatory-program",
+      "date": "2026-08-11"
+    },
+    "2026-16314": {
+      "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16314/employer-contributions-to-trump-accounts-and-nondiscrimination-rules-for-dependent-care-assistance",
+      "date": "2026-08-11"
+    },
+    "2026-16313": {
+      "title": "Mandatory Electronic Filing (e-Filing)",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing",
+      "date": "2026-08-11"
+    },
+    "2026-16311": {
+      "title": "Agency Information Collection Activities; Proposed Renewal Collection and Request for Comment; Generic Clearance for TSCA Section 4 Test Rules, Test Orders, Enforceable Consent Agreements (ECAs), Voluntary Data Submissions, and Exemptions From Testing Requirement (Renewal)",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16311/agency-information-collection-activities-proposed-renewal-collection-and-request-for-comment-generic",
+      "date": "2026-08-11"
     }
   }
 }

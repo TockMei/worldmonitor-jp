@@ -1,8 +1,14 @@
 {
   "id": "cset-eto",
   "label": "CSET ETO",
-  "generated": "2026-08-10T21:58:00.040Z",
+  "generated": "2026-08-11T22:00:37.514Z",
   "items": [
+    {
+      "title": "Announcing Updates to the Research Almanac",
+      "link": "https://eto.tech/blog/research-almanac-2026-updates/",
+      "date": "Tue, 11 Aug 2026 00:00:00 GMT",
+      "firstSeen": "2026-08-11T22:00:37.514Z"
+    },
     {
       "title": "Announcing Expanded AGORA Collaboration",
       "link": "https://eto.tech/blog/announcing-expanded-agora-collaboration/",
