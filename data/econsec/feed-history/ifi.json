@@ -1,8 +1,14 @@
 {
   "id": "ifi",
   "label": "Institute for Financial Integrity 月次レポート",
-  "generated": "2026-08-11T22:00:37.514Z",
+  "generated": "2026-08-12T22:00:14.782Z",
   "items": [
+    {
+      "title": "Beyond the Course Library",
+      "link": "https://finintegrity.org/beyond-the-course-library/",
+      "date": "Wed, 12 Aug 2026 11:00:23 +0000",
+      "firstSeen": "2026-08-12T22:00:14.782Z"
+    },
     {
       "title": "July Monthly Sanctions and Export Controls Report",
       "link": "https://finintegrity.org/july-2026-monthly-sanctions-export-controls-report/",

@@ -1,8 +1,20 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-08-11T22:00:37.514Z",
+  "generated": "2026-08-12T22:00:14.782Z",
   "items": [
+    {
+      "title": "Product update: High Resolution Vegetated Land Cover Characteristics 2024",
+      "link": "https://dataspace.copernicus.eu/news/2026-8-12-product-update-high-resolution-vegetated-land-cover-characteristics-2024",
+      "date": "Wed, 12 Aug 2026 12:33:36 UTC",
+      "firstSeen": "2026-08-12T22:00:14.782Z"
+    },
+    {
+      "title": "Monitoring Drought using openEO API",
+      "link": "https://dataspace.copernicus.eu/news/2026-8-6-monitoring-drought-using-openeo-api",
+      "date": "Thu, 06 Aug 2026 11:36:11 UTC",
+      "firstSeen": "2026-08-12T22:00:14.782Z"
+    },
     {
       "title": "Copernicus Sentinel-3 TBD OLCI and SLSTR L1: New Processing Baseline 3.37",
       "link": "https://dataspace.copernicus.eu/news/2026-8-7-copernicus-sentinel-3-tbd-olci-and-slstr-l1-new-processing-baseline-337",
