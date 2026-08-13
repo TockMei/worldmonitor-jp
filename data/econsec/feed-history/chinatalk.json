@@ -1,8 +1,14 @@
 {
   "id": "chinatalk",
   "label": "ChinaTalk",
-  "generated": "2026-08-12T22:00:14.782Z",
+  "generated": "2026-08-13T22:00:01.338Z",
   "items": [
+    {
+      "title": "The DeepSeek Thesis",
+      "link": "https://www.chinatalk.media/p/the-deepseek-thesis",
+      "date": "Thu, 13 Aug 2026 10:19:25 GMT",
+      "firstSeen": "2026-08-13T22:00:01.338Z"
+    },
     {
       "title": "China's Quantum Flywheel",
       "link": "https://www.chinatalk.media/p/chinas-quantum-flywheel",

@@ -1,7 +1,7 @@
 {
   "id": "uksl",
   "label": "UK Sanctions List (UKSL, successor to the OFSI Consolidated List)",
-  "generated": "2026-08-12T22:00:14.782Z",
+  "generated": "2026-08-13T22:00:01.338Z",
   "resolvedUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
   "count": 6334,
   "entities": {

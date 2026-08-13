@@ -1,8 +1,14 @@
 {
   "id": "opensanctions",
   "label": "OpenSanctions",
-  "generated": "2026-08-12T22:00:14.782Z",
+  "generated": "2026-08-13T22:00:01.338Z",
   "items": [
+    {
+      "title": "Down the ownership chain: introducing sanction.control",
+      "link": "https://www.opensanctions.org/articles/2026-08-13-sanction-control/",
+      "date": "Fri, 31 Jul 2026 15:56:38 GMT",
+      "firstSeen": "2026-08-13T22:00:01.338Z"
+    },
     {
       "title": "How Marble built on top of our open-source matcher",
       "link": "https://www.opensanctions.org/articles/2026-07-21-marble/",
