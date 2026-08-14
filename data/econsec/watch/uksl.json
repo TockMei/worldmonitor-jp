@@ -1,7 +1,7 @@
 {
   "id": "uksl",
   "label": "UK Sanctions List (UKSL, successor to the OFSI Consolidated List)",
-  "generated": "2026-08-13T22:00:01.338Z",
+  "generated": "2026-08-14T21:50:24.437Z",
   "resolvedUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
   "count": 6334,
   "entities": {
@@ -1674,7 +1674,7 @@
       "list": "Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019｜個人"
     },
     "AQD0312": {
-      "name": "Muhamad Ibrahim MAKKAWI",
+      "name": "Muhannad Salem",
       "list": "Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019｜個人"
     },
     "AQD0313": {
