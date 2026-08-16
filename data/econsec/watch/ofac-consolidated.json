@@ -1,7 +1,7 @@
 {
   "id": "ofac-consolidated",
   "label": "OFAC Non-SDN Consolidated List (incl. NS-CMIC)",
-  "generated": "2026-08-15T21:48:57.773Z",
+  "generated": "2026-08-16T21:48:45.005Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONSOLIDATED.XML",
   "count": 481,
   "entities": {
