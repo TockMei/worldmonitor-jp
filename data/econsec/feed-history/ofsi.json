@@ -1,8 +1,14 @@
 {
   "id": "ofsi",
   "label": "英OFSI",
-  "generated": "2026-08-16T21:48:45.005Z",
+  "generated": "2026-08-17T21:50:39.931Z",
   "items": [
+    {
+      "title": "Financial sanctions webinars and events",
+      "link": "https://www.gov.uk/guidance/financial-sanctions-webinars-and-events",
+      "date": "2026-08-17T10:27:43Z",
+      "firstSeen": "2026-08-17T21:50:39.931Z"
+    },
     {
       "title": "Guidance: OFSI General Licence INT/2025/7895596",
       "link": "https://www.gov.uk/government/publications/ofsi-general-licence-int20257895596",

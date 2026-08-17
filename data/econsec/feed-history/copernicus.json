@@ -1,8 +1,14 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-08-16T21:48:45.005Z",
+  "generated": "2026-08-17T21:50:39.931Z",
   "items": [
+    {
+      "title": "Introduction of Copernicus Sentinel-2 Processing Baseline 05.13",
+      "link": "https://dataspace.copernicus.eu/news/2026-8-7-introduction-copernicus-sentinel-2-processing-baseline-0513",
+      "date": "Fri, 07 Aug 2026 08:15:29 UTC",
+      "firstSeen": "2026-08-17T21:50:39.931Z"
+    },
     {
       "title": "Product update: High Resolution Vegetated Land Cover Characteristics 2024",
       "link": "https://dataspace.copernicus.eu/news/2026-8-12-product-update-high-resolution-vegetated-land-cover-characteristics-2024",
