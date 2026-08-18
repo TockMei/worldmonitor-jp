@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-08-17T21:50:39.931Z",
+  "generated": "2026-08-18T21:49:42.444Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19199,
+  "count": 19202,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -76741,6 +76741,10 @@
       "name": "HENDI, Amir",
       "list": "IRAN-EO13902"
     },
+    "58278": {
+      "name": "BLUWAVES PROPERTIES LIMITED",
+      "list": "VENEZUELA-EO13850"
+    },
     "58284": {
       "name": "KAYVANPOUR, Siavash",
       "list": "SDGT] [IRGC"
@@ -76800,6 +76804,14 @@
     "58300": {
       "name": "PEREZ CORTES, Waldo",
       "list": "CUBA-EO14404"
+    },
+    "58410": {
+      "name": "AKANE, Tomoko",
+      "list": "ICC-EO14203"
+    },
+    "58411": {
+      "name": "SEYE, Abdoulaye",
+      "list": "ICC-EO14203"
     }
   }
 }

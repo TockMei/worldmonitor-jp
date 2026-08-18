@@ -1,8 +1,14 @@
 {
   "id": "cset-eto",
   "label": "CSET ETO",
-  "generated": "2026-08-17T21:50:39.931Z",
+  "generated": "2026-08-18T21:49:42.444Z",
   "items": [
+    {
+      "title": "Predicting Areas of Extreme Growth with the Map of Science",
+      "link": "https://eto.tech/blog/predicting-areas-of-extreme-growth-with-map-of-science/",
+      "date": "Tue, 18 Aug 2026 00:00:00 GMT",
+      "firstSeen": "2026-08-18T21:49:42.444Z"
+    },
     {
       "title": "Announcing Updates to the Research Almanac",
       "link": "https://eto.tech/blog/research-almanac-2026-updates/",
