@@ -1,8 +1,14 @@
 {
   "id": "ifi",
   "label": "Institute for Financial Integrity 月次レポート",
-  "generated": "2026-08-18T21:49:42.444Z",
+  "generated": "2026-08-19T21:50:53.181Z",
   "items": [
+    {
+      "title": "The Illicit Oil Pipeline: How Criminal Networks Turn Crude into Clean Cash",
+      "link": "https://finintegrity.org/the-illicit-oil-pipeline/",
+      "date": "Wed, 19 Aug 2026 11:00:06 +0000",
+      "firstSeen": "2026-08-19T21:50:53.181Z"
+    },
     {
       "title": "Beyond the Course Library",
       "link": "https://finintegrity.org/beyond-the-course-library/",
