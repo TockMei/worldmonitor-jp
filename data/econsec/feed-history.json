@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-08-19T21:50:53.181Z"
+    "generated": "2026-08-20T21:51:59.448Z"
   },
   "history": {
     "opensanctions": [
@@ -745,286 +745,6 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "ecju": [
-      {
-        "title": "Notice: Notice to exporters 2026/18: F680 licence applicants to use LITE instead of SPIRE",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202618-f680-licence-applicants-to-use-lite-instead-of-spire",
-        "date": "2026-07-31T09:00:06Z",
-        "firstSeen": "2026-07-31T22:06:02.178Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/17: company named in compound settlement for breaches of export control",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202617-compound-settlement-for-breaches-of-export-control",
-        "date": "2026-07-30T06:30:00Z",
-        "firstSeen": "2026-07-30T22:07:38.801Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/16: compound settlement for breaches of export control",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202616-compound-settlement-for-breaches-of-export-control",
-        "date": "2026-07-27T14:00:12Z",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "Corporate report: UK strategic export controls annual report 2025",
-        "link": "https://www.gov.uk/government/publications/uk-strategic-export-controls-annual-report-2025",
-        "date": "2026-07-20T09:32:20Z",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics 1 January to 31 March 2026",
-        "link": "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
-        "date": "2026-07-20T07:59:26Z",
-        "firstSeen": "2026-07-20T22:05:23.456Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
-        "date": "2026-06-29T10:55:05Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Open general export licence (export of dual-use items)",
-        "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
-        "date": "2026-06-25T08:30:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Russia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
-        "date": "2026-05-19T23:01:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Military end-use controls",
-        "link": "https://www.gov.uk/guidance/military-end-use-controls",
-        "date": "2026-05-19T08:57:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
-        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202613-declaring-exports-under-ogels-and-geas-on-the-uks-customs-declarations-system",
-        "date": "2026-05-13T08:30:02Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
-        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
-        "date": "2026-05-05T14:30:41Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
-        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
-        "date": "2026-05-01T12:57:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
-        "date": "2026-05-01T10:20:09Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Libya sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
-        "date": "2026-05-01T10:20:06Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Somalia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
-        "date": "2026-05-01T10:20:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
-        "date": "2026-05-01T10:19:55Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Myanmar sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
-        "date": "2026-05-01T10:19:52Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Counter-terrorism international sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/counter-terrorism-international-sanctions-guidance",
-        "date": "2026-05-01T10:19:49Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: South Sudan sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/south-sudan-sanctions-guidance",
-        "date": "2026-05-01T10:19:47Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Sudan sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/sudan-sanctions-guidance",
-        "date": "2026-05-01T10:19:44Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Syria sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
-        "date": "2026-05-01T10:19:41Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Venezuela sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
-        "date": "2026-05-01T10:19:37Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Yemen sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/yemen-sanctions-guidance",
-        "date": "2026-05-01T10:19:35Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Zimbabwe sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/zimbabwe-sanctions-guidance",
-        "date": "2026-05-01T10:19:32Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Iran sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
-        "date": "2026-05-01T10:19:29Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "otsi": [
-      {
-        "title": "Guidance: Complying with sanctions relating to banknotes",
-        "link": "https://www.gov.uk/government/publications/complying-with-sanctions-relating-to-banknotes",
-        "date": "2026-08-03T11:30:01Z",
-        "firstSeen": "2026-08-03T22:06:46.986Z"
-      },
-      {
-        "title": "Apply for a licence to carry out sanctioned trade through OTSI",
-        "link": "https://www.gov.uk/guidance/apply-for-a-licence-to-carry-out-sanctioned-trade-through-otsi",
-        "date": "2026-05-20T14:05:30Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Russia sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
-        "date": "2026-05-19T23:01:01Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: General trade licence: maritime transportation of liquefied natural gas",
-        "link": "https://www.gov.uk/government/publications/general-trade-licence-maritime-transportation-of-liquefied-natural-gas",
-        "date": "2026-05-19T16:20:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
-        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
-        "date": "2026-05-08T08:40:08Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
-        "date": "2026-05-01T10:19:55Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Myanmar sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
-        "date": "2026-05-01T10:19:52Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Syria sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
-        "date": "2026-05-01T10:19:41Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Venezuela sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
-        "date": "2026-05-01T10:19:37Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Iran sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
-        "date": "2026-05-01T10:19:29Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Trading under sanctions with Russia",
-        "link": "https://www.gov.uk/guidance/trading-under-sanctions-with-russia",
-        "date": "2026-04-23T11:26:40Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How to use exceptions and licences to comply with sanctions",
-        "link": "https://www.gov.uk/guidance/how-to-use-exceptions-and-licences-to-comply-with-sanctions",
-        "date": "2026-04-23T11:26:39Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How to apply for a trade sanctions licence",
-        "link": "https://www.gov.uk/guidance/how-to-apply-for-a-trade-sanctions-licence",
-        "date": "2026-04-23T11:26:37Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "How OTSI assesses applications for trade sanctions licences",
-        "link": "https://www.gov.uk/guidance/how-otsi-assesses-applications-for-trade-sanctions-licences",
-        "date": "2026-04-23T11:26:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Statutory guidance: Democratic People's Republic of Korea sanctions: guidance",
-        "link": "https://www.gov.uk/government/publications/democratic-peoples-republic-of-korea-sanctions-guidance",
-        "date": "2026-04-23T10:50:48Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Sanctions End-Use Controls: guidance for businesses",
-        "link": "https://www.gov.uk/government/publications/sanctions-end-use-controls-guidance-for-businesses",
-        "date": "2026-04-22T14:37:00Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Starter guide to UK sanctions",
-        "link": "https://www.gov.uk/guidance/starter-guide-to-uk-sanctions",
-        "date": "2026-03-30T09:00:02Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Countering Russian sanctions evasion and circumvention",
-        "link": "https://www.gov.uk/government/publications/countering-russian-sanctions-evasion-and-circumvention",
-        "date": "2026-03-12T09:40:59Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Look up considerations for trade licences under the Belarus sanctions",
-        "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-belarus-sanctions",
-        "date": "2026-03-05T09:53:19Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Corporate report: One year of the Office of Trade Sanctions Implementation (OTSI)",
-        "link": "https://www.gov.uk/government/publications/one-year-of-the-office-of-trade-sanctions-implementation-otsi",
-        "date": "2025-12-04T11:00:11Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Guidance: Countering sanctions evasion: guidance for freight and shipping",
-        "link": "https://www.gov.uk/government/publications/countering-sanctions-evasion-guidance-for-freight-and-shipping",
-        "date": "2025-11-03T12:06:26Z",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "ofsi": [
       {
         "title": "Financial sanctions webinars and events",
@@ -1184,6 +904,30 @@
       }
     ],
     "cset": [
+      {
+        "title": "How AI Could Hollow Out the U.S. Military",
+        "link": "https://cset.georgetown.edu/article/how-ai-could-hollow-out-the-u-s-military/",
+        "date": "Thu, 20 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Protected: Technical Blog: Comparative Cost-Benefit Analysis of Approaches for Location Verification of AI Chips",
+        "link": "https://cset.georgetown.edu/article/technical-blog-comparative-cost-benefit-analysis-of-approaches-for-location-verification-of-ai-chips/",
+        "date": "Thu, 20 Aug 2026 20:24:19 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Protected: Inside Beijing’s Chipmaking Offensive, One Year On",
+        "link": "https://cset.georgetown.edu/article/inside-beijings-chipmaking-offensive-one-year-on/",
+        "date": "Thu, 20 Aug 2026 20:19:34 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+        "link": "https://cset.georgetown.edu/article/chinese-start-up-lands-reusable-rocket-for-the-first-time/",
+        "date": "Wed, 19 Aug 2026 23:00:00 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
       {
         "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
         "link": "https://cset.georgetown.edu/article/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies/",
@@ -1396,6 +1140,60 @@
       }
     ],
     "ac-geoecon": [
+      {
+        "title": "As pressure mounts on Putin, Russia is escalating against Ukraine’s allies",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/as-pressure-mounts-on-putin-russia-is-escalating-against-ukraines-allies/",
+        "date": "Thu, 20 Aug 2026 20:37:47 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "To stop escalation in the Black Sea, Turkey needs a new regional strategy",
+        "link": "https://www.atlanticcouncil.org/blogs/turkeysource/turkey-black-sea-maritime-security-strategy/",
+        "date": "Thu, 20 Aug 2026 19:52:55 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "With war in the region, Egypt must recalibrate its energy policy",
+        "link": "https://www.atlanticcouncil.org/blogs/menasource/with-war-in-the-region-egypt-must-recalibrate-its-energy-policy/",
+        "date": "Thu, 20 Aug 2026 18:12:00 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Opening Africa’s skies to trade, growth, and jobs",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/opening-africas-skies-to-trade-growth-and-jobs/",
+        "date": "Thu, 20 Aug 2026 18:07:07 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Zelenskyy’s recent Serbia visit was a win for Ukraine and the West",
+        "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/zelenskyys-recent-serbia-visit-was-a-win-for-ukraine-and-the-west/",
+        "date": "Thu, 20 Aug 2026 16:35:24 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Why Iran has not folded yet",
+        "link": "https://www.atlanticcouncil.org/dispatches/why-iran-has-not-folded-yet/",
+        "date": "Thu, 20 Aug 2026 16:06:11 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Faster, cheaper, safer? The G20 should address the tradeoffs in cross-border payments.",
+        "link": "https://www.atlanticcouncil.org/blogs/econographics/faster-cheaper-safer-the-g20-should-address-the-tradeoffs-in-cross-border-payments/",
+        "date": "Thu, 20 Aug 2026 13:33:52 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "A Colombia-Venezuela agenda for recovery, security, and economic growth",
+        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/a-colombia-venezuela-agenda-for-recovery-security-and-economic-growth/",
+        "date": "Thu, 20 Aug 2026 13:00:00 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "The global munitions crisis requires Foreign Military Sales reform",
+        "link": "https://www.atlanticcouncil.org/blogs/menasource/the-global-munitions-crisis-requires-foreign-military-sales-reform/",
+        "date": "Thu, 20 Aug 2026 12:24:24 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
       {
         "title": "Bosnia’s high representative succession dispute exposes a deeper transatlantic rift",
         "link": "https://www.atlanticcouncil.org/dispatches/bosnias-high-representative-fight-exposes-transatlantic-rift/",
@@ -2541,306 +2339,161 @@
         "link": "https://www.atlanticcouncil.org/content-series/strategic-litigation/strategic-litigation-project-quarterly-newsletter-responding-to-emerging-crises/",
         "date": "Wed, 08 Jul 2026 20:42:09 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "ecju": [
+      {
+        "title": "Notice: Notice to exporters 2026/18: F680 licence applicants to use LITE instead of SPIRE",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202618-f680-licence-applicants-to-use-lite-instead-of-spire",
+        "date": "2026-07-31T09:00:06Z",
+        "firstSeen": "2026-07-31T22:06:02.178Z"
       },
       {
-        "title": "Kroenig interviewed in NPR on the Ankara Summit",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-interviewed-in-npr-on-the-ankara-summit/",
-        "date": "Wed, 08 Jul 2026 20:23:27 +0000",
+        "title": "Notice: Notice to exporters 2026/17: company named in compound settlement for breaches of export control",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202617-compound-settlement-for-breaches-of-export-control",
+        "date": "2026-07-30T06:30:00Z",
+        "firstSeen": "2026-07-30T22:07:38.801Z"
+      },
+      {
+        "title": "Notice: Notice to exporters 2026/16: compound settlement for breaches of export control",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202616-compound-settlement-for-breaches-of-export-control",
+        "date": "2026-07-27T14:00:12Z",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "Corporate report: UK strategic export controls annual report 2025",
+        "link": "https://www.gov.uk/government/publications/uk-strategic-export-controls-annual-report-2025",
+        "date": "2026-07-20T09:32:20Z",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "Official Statistics: Strategic export controls: licensing statistics 1 January to 31 March 2026",
+        "link": "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
+        "date": "2026-07-20T07:59:26Z",
+        "firstSeen": "2026-07-20T22:05:23.456Z"
+      },
+      {
+        "title": "Notice: Notice to exporters 2026/15: firm named after Russia sanctions breach settlement",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202615-firm-named-after-russia-sanctions-breach-settlement",
+        "date": "2026-06-29T10:55:05Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Braw in Foreign Policy on European response to Russia’s shadow fleet",
-        "link": "https://www.atlanticcouncil.org/commentary/braw-in-foreign-policy-on-european-response-to-russias-shadow-fleet/",
-        "date": "Wed, 08 Jul 2026 16:34:23 +0000",
+        "title": "Guidance: Open general export licence (export of dual-use items)",
+        "link": "https://www.gov.uk/government/publications/open-general-export-licence-export-of-dual-use-items",
+        "date": "2026-06-25T08:30:00Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The US paper fleet: The Jones Act and the 2026 Iran war stress test",
-        "link": "https://www.atlanticcouncil.org/blogs/energysource/the-us-paper-fleet-the-jones-act-and-the-2026-iran-war-stress-test/",
-        "date": "Wed, 08 Jul 2026 15:45:28 +0000",
+        "title": "Statutory guidance: Russia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
+        "date": "2026-05-19T23:01:01Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Can soccer unite Bosnia beyond politics? | A Debrief With Jasmin Mujanović And Dženeta Karabegović",
-        "link": "https://www.atlanticcouncil.org/content-series/balkans-debrief/can-soccer-unite-bosnia-beyond-politics-a-debrief-with-jasmin-mujanovic-and-dzeneta-karabegovic/",
-        "date": "Wed, 08 Jul 2026 14:52:54 +0000",
+        "title": "Military end-use controls",
+        "link": "https://www.gov.uk/guidance/military-end-use-controls",
+        "date": "2026-05-19T08:57:06Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Kroenig quoted in The New York Times on US leadership in NATO",
-        "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-quoted-in-the-new-york-times-on-us-leadership-in-nato/",
-        "date": "Wed, 08 Jul 2026 13:50:15 +0000",
+        "title": "Notice: Notice to exporters 2026/13: declaring exports under OGELs and GEAs on the UK’s customs declarations system",
+        "link": "https://www.gov.uk/government/publications/notice-to-exporters-202613-declaring-exports-under-ogels-and-geas-on-the-uks-customs-declarations-system",
+        "date": "2026-05-13T08:30:02Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "AI is the next major biodefense tech priority",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/ai-is-the-next-major-biodefense-tech-priority/",
-        "date": "Tue, 07 Jul 2026 19:36:55 +0000",
+        "title": "Official Statistics: Strategic export controls: licensing statistics, 2025",
+        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-2025",
+        "date": "2026-05-05T14:30:41Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "India’s AI playbook: From talent incubator to AI leader",
-        "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/indias-ai-playbook-from-talent-incubator-to-ai-leader/",
-        "date": "Tue, 07 Jul 2026 17:27:19 +0000",
+        "title": "Official Statistics: Strategic export controls: licensing statistics: 1 October to 31 December 2025",
+        "link": "https://www.gov.uk/government/statistics/strategic-export-controls-licensing-statistics-1-october-to-31-december-2025",
+        "date": "2026-05-01T12:57:06Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "NATO can emerge from the Ankara summit stronger. Here’s how.",
-        "link": "https://www.atlanticcouncil.org/dispatches/nato-can-emerge-from-the-ankara-summit-stronger-heres-how/",
-        "date": "Tue, 07 Jul 2026 16:45:03 +0000",
+        "title": "Statutory guidance: ISIL (Da’esh) and Al-Qaida sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/isil-daesh-and-al-qaida-sanctions-guidance",
+        "date": "2026-05-01T10:20:09Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "A weak yen spells trouble for Japan—at home and abroad",
-        "link": "https://www.atlanticcouncil.org/blogs/econographics/a-weak-yen-spells-trouble-for-japan-at-home-and-abroad/",
-        "date": "Tue, 07 Jul 2026 16:37:16 +0000",
+        "title": "Statutory guidance: Libya sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/libya-sanctions-guidance",
+        "date": "2026-05-01T10:20:06Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Somalia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/somalia-sanctions-guidance",
+        "date": "2026-05-01T10:20:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
+        "date": "2026-05-01T10:19:55Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Myanmar sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
+        "date": "2026-05-01T10:19:52Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Counter-terrorism international sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/counter-terrorism-international-sanctions-guidance",
+        "date": "2026-05-01T10:19:49Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: South Sudan sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/south-sudan-sanctions-guidance",
+        "date": "2026-05-01T10:19:47Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Sudan sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/sudan-sanctions-guidance",
+        "date": "2026-05-01T10:19:44Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Syria sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
+        "date": "2026-05-01T10:19:41Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Venezuela sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
+        "date": "2026-05-01T10:19:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Yemen sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/yemen-sanctions-guidance",
+        "date": "2026-05-01T10:19:35Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Zimbabwe sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/zimbabwe-sanctions-guidance",
+        "date": "2026-05-01T10:19:32Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Iran sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
+        "date": "2026-05-01T10:19:29Z",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
     "rusi": [],
-    "cistec": [],
-    "sinocism": [
-      {
-        "title": "Funeral for Zhu Rongji; Xi meets Ecuadorian President Noboa; Jiang Zemin; Housing provident fund; Consumption; What does China want?",
-        "link": "https://sinocism.com/p/funeral-for-zhu-rongji-xi-meets-ecuadorian",
-        "date": "Tue, 18 Aug 2026 22:52:05 GMT",
-        "firstSeen": "2026-08-19T21:50:53.181Z"
-      },
-      {
-        "title": "More weak July economic data; State Council Plenary session; Jiang Zemin Commemoration; AI tokens; Xi's DC visit; “Once Upon a Time in the Middle East”",
-        "link": "https://sinocism.com/p/more-weak-july-economic-data-state",
-        "date": "Mon, 17 Aug 2026 22:33:36 GMT",
-        "firstSeen": "2026-08-18T21:49:42.444Z"
-      },
-      {
-        "title": "\"Beidaihe Break\" is over; Jiang Zemin's 100th; RIP Zhu Rongji; US-China; July economic data; New Qiushi",
-        "link": "https://sinocism.com/p/beidaihe-break-is-over-jiang-zemins",
-        "date": "Sun, 16 Aug 2026 18:16:02 GMT",
-        "firstSeen": "2026-08-16T21:48:45.005Z"
-      },
-      {
-        "title": "Advantage Does Not Equal Victory | Sinification: July 2026",
-        "link": "https://sinocism.com/p/advantage-does-not-equal-victory",
-        "date": "Mon, 03 Aug 2026 20:33:05 GMT",
-        "firstSeen": "2026-08-03T22:06:46.986Z"
-      },
-      {
-        "title": "Politburo study session; Regulation on Exit and Entry Administration; US-China; AI; Scarborough Shoal/Huangyan Dao",
-        "link": "https://sinocism.com/p/politburo-study-session-regulation",
-        "date": "Mon, 03 Aug 2026 16:25:59 GMT",
-        "firstSeen": "2026-08-03T22:06:46.986Z"
-      },
-      {
-        "title": "July 2026 Politburo meeting; Fifth Plenum set for October; Signals of marginal, incremental policy support",
-        "link": "https://sinocism.com/p/july-2026-politburo-meeting-fifth",
-        "date": "Thu, 30 Jul 2026 12:59:37 GMT",
-        "firstSeen": "2026-07-30T22:07:38.801Z"
-      },
-      {
-        "title": "A Memory-Maker Makes History; New Robot Rules; The Open Weights Debate Rages; End of July News and Notes",
-        "link": "https://sinocism.com/p/a-memory-maker-makes-history-new",
-        "date": "Thu, 30 Jul 2026 09:01:56 GMT",
-        "firstSeen": "2026-07-30T22:07:38.801Z"
-      },
-      {
-        "title": "RMB and global imbalances; PRC missiles to Iran?; National Plan for Addressing Climate Change; Commercial space industry",
-        "link": "https://sinocism.com/p/rmb-and-global-imbalances-prc-missiles",
-        "date": "Wed, 29 Jul 2026 22:10:05 GMT",
-        "firstSeen": "2026-07-30T22:07:38.801Z"
-      },
-      {
-        "title": "Xi meets Slovak president; “Excess capacity” or “Overcapacity”? ; CXMT IPO; Overseas Chinese affairs conference; Li Qiang in Tangshan; Chips and AI",
-        "link": "https://sinocism.com/p/xi-meets-slovak-president-excess",
-        "date": "Tue, 28 Jul 2026 23:14:50 GMT",
-        "firstSeen": "2026-07-29T22:04:53.340Z"
-      },
-      {
-        "title": "CXMT IPO; Taxing offshore assets; Fang Xinghai; US-China; AI; Lula supports China-Mercosur deal",
-        "link": "https://sinocism.com/p/cxmt-ipo-taxing-offshore-assets-fang",
-        "date": "Mon, 27 Jul 2026 22:34:47 GMT",
-        "firstSeen": "2026-07-28T22:05:39.133Z"
-      },
-      {
-        "title": "Another CSRC meeting; DeepSeek CEO comments; SAMR warns about \"externalization of involution 内卷外化\"; US-China; Strengthening social work",
-        "link": "https://sinocism.com/p/another-csrc-meeting-deepseek-ceo",
-        "date": "Thu, 23 Jul 2026 22:29:22 GMT",
-        "firstSeen": "2026-07-24T22:05:39.748Z"
-      },
-      {
-        "title": "Wang Huning tours Tibet; US government officials go after Moonshot; Wang Yi-Rubio meeting; PRC-Philippines; H1 fiscal revenue and expenditure data",
-        "link": "https://sinocism.com/p/wang-huning-tours-tibet-us-government",
-        "date": "Wed, 22 Jul 2026 22:12:05 GMT",
-        "firstSeen": "2026-07-23T22:05:56.839Z"
-      },
-      {
-        "title": "Stock market rescue progress; \"Open\" AI with Chinese characteristics?; PRC-Philippines trade accusations as Wang Yi arrives for ASEAN; EU-China discussions",
-        "link": "https://sinocism.com/p/stock-market-rescue-progress-open",
-        "date": "Tue, 21 Jul 2026 22:45:10 GMT",
-        "firstSeen": "2026-07-22T22:05:33.220Z"
-      },
-      {
-        "title": "Sharp China: Kimi Madness; Xi's AI Vision and US Questions; Trump's Election Data Claims; The Connected Vehicle Security Act",
-        "link": "https://sinocism.com/p/sharp-china-kimi-madness-xis-ai-vision",
-        "date": "Tue, 21 Jul 2026 09:01:59 GMT",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "Stock market rescue; World AI Conference and open models; Second Thomas Shoal fight; Involution battles",
-        "link": "https://sinocism.com/p/stock-market-rescue-world-ai-conference",
-        "date": "Mon, 20 Jul 2026 22:32:10 GMT",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "WAIC; Another order for AI; Kimi's new model; Smart China hire by Australian government; Consumption; Extended dog days of summer 三伏天",
-        "link": "https://sinocism.com/p/waic-another-order-for-ai-kimis-new",
-        "date": "Thu, 16 Jul 2026 22:11:28 GMT",
-        "firstSeen": "2026-07-17T22:02:36.375Z"
-      },
-      {
-        "title": "Sharp China: K-Shaped Economic Data And Its Implications; Ma Xingrui News; Closing Window for Open Source AI?; The SCS and International Law",
-        "link": "https://sinocism.com/p/sharp-china-k-shaped-economic-data",
-        "date": "Thu, 16 Jul 2026 09:01:11 GMT",
-        "firstSeen": "2026-07-16T22:05:42.331Z"
-      },
-      {
-        "title": "Xi inspects Shanghai; GDP data; Problems in the US-China trade deal; Foreign Correspondents Club on reporting challenges",
-        "link": "https://sinocism.com/p/xi-inspects-shanghai-gdp-data-problems",
-        "date": "Wed, 15 Jul 2026 22:20:30 GMT",
-        "firstSeen": "2026-07-16T22:05:42.331Z"
-      },
-      {
-        "title": "Ma Xingrui case; Trade data; Themes for Xi's WAIC speech; Kevin Rudd on Xi and China",
-        "link": "https://sinocism.com/p/ma-xingrui-case-trade-data-themes",
-        "date": "Tue, 14 Jul 2026 22:07:57 GMT",
-        "firstSeen": "2026-07-15T22:05:17.826Z"
-      },
-      {
-        "title": "Xi to speak at WAIC; Preparing for July Politburo meeting on the economy; Unemployment at 10.2%?; Another American arrested for spying",
-        "link": "https://sinocism.com/p/xi-to-speak-at-waic-preparing-for",
-        "date": "Mon, 13 Jul 2026 22:38:53 GMT",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "China-Russia military cooperation; Deadly shoe factory fire; June price data; Developing the retail sector; Carbon peaking action plan",
-        "link": "https://sinocism.com/p/china-russia-military-cooperation",
-        "date": "Thu, 09 Jul 2026 22:25:34 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Sharp China: A Missile Test and New PLA Generals; The CITIC Plane Crash; America's Taiwan Interests; Guo Wengui Jailed and Ezra Jin Released",
-        "link": "https://sinocism.com/p/sharp-china-a-missile-test-and-new",
-        "date": "Thu, 09 Jul 2026 09:00:43 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Xi on Science and Technology; PBoC Q2 Monetary Policy Committee meeting; H200 orders?; PRC open-source and global AI governance",
-        "link": "https://sinocism.com/p/xi-on-science-and-technology-pboc",
-        "date": "Wed, 08 Jul 2026 22:28:39 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Floods and Xi’s instructions; PRC to limit access to top AI models?; PBoC policy support for Hong Kong; Tax burden on private firms",
-        "link": "https://sinocism.com/p/floods-and-xis-instructions-prc-to",
-        "date": "Tue, 07 Jul 2026 21:49:43 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Two new PLA generals; Submarine-launched missile test; Ezra Jin released; \"Routine\" patrols of waters east of Taiwan",
-        "link": "https://sinocism.com/p/two-new-pla-generals-submarine-launched",
-        "date": "Mon, 06 Jul 2026 21:48:32 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "American Decline, Chinese Exposure | Sinification: June 2026",
-        "link": "https://sinocism.com/p/american-decline-chinese-exposure",
-        "date": "Sun, 05 Jul 2026 22:31:12 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Official explanation of CITIC Tower crash; EU-China; Japan-PRC; Tungsten; Global significance of Xi Thought on Party Building",
-        "link": "https://sinocism.com/p/official-explanation-of-citic-tower",
-        "date": "Thu, 02 Jul 2026 21:20:03 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "CPC’s 105th anniversary ceremony; July 1 Medal recipients; AI model regulation; Coupang's Shanghai adventure; Alibaba settles with US government",
-        "link": "https://sinocism.com/p/cpcs-105th-anniversary-ceremony-july",
-        "date": "Wed, 01 Jul 2026 22:29:14 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "June Politburo meeting; CPC turns 105; Decent June economic data; Meituan's LLM; 30 years for Guo Wengui",
-        "link": "https://sinocism.com/p/june-politburo-meeting-cpc-turns",
-        "date": "Tue, 30 Jun 2026 22:28:41 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Plane flies into Beijing’s tallest building; More export controls on Japanese firms; Pause in march towards EU-China trade war?; Premier Li on AI",
-        "link": "https://sinocism.com/p/plane-flies-into-beijings-tallest",
-        "date": "Mon, 29 Jun 2026 21:14:27 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Xi in Shandong; Premier Li on “China Opportunity 2.0”; Tightening Supply Chain Security; Long Arm of the Law on Promoting Ethnic Unity and Progress; Basic Research",
-        "link": "https://sinocism.com/p/xi-in-shandong-premier-li-on-china",
-        "date": "Wed, 24 Jun 2026 21:55:44 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Sharp China: Party Building and Xi's Dominance; Memory Chips and ASML Accusations; Germany's Puzzling Push for Plaza Accords",
-        "link": "https://sinocism.com/p/sharp-china-party-building-and-xis",
-        "date": "Wed, 24 Jun 2026 11:48:38 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Wang Yi on lessons of US-Iran war; Selected Works of Xi Jinping on Party Building; Policy support for auto consumption; Liu Guozhong and biopharma and brain interfaces; Alibaba sues US government",
-        "link": "https://sinocism.com/p/wang-yi-on-lessons-of-us-iran-war",
-        "date": "Tue, 23 Jun 2026 22:00:08 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Li Qiang inspects Dalian; Response to US expansion of China military companies list; Contaminated diapers; No \"Plaza Accord\" to help the EU; Invest in China",
-        "link": "https://sinocism.com/p/li-qiang-inspects-dalian-response",
-        "date": "Mon, 22 Jun 2026 22:41:23 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "AI+ consumption; Xi Jinping Thought on Party Building; Network data security risk assessment",
-        "link": "https://sinocism.com/p/ai-consumption-xi-jinping-thought",
-        "date": "Thu, 18 Jun 2026 21:45:10 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Wang Yi speaks with Iranian FM; Global governance white paper; Employment plan; G7; US holds back tech restrictions",
-        "link": "https://sinocism.com/p/wang-yi-speaks-with-iranian-fm-global",
-        "date": "Wed, 17 Jun 2026 22:36:29 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Xi Thought on Party Building; May economic activity; Myanmar President in Beijing; Wang Yi on the Iran deal",
-        "link": "https://sinocism.com/p/xi-thought-on-party-building-may",
-        "date": "Tue, 16 Jun 2026 21:55:36 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "No newsletter today",
-        "link": "https://sinocism.com/p/no-newsletter-today-44a",
-        "date": "Mon, 15 Jun 2026 20:34:58 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "AI and workers' rights; Selected Works of Xi Jinping on Diplomacy; Busy regulators; Philippine Secretary of National Defense",
-        "link": "https://sinocism.com/p/ai-and-workers-rights-selected-works",
-        "date": "Thu, 11 Jun 2026 23:10:50 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Sharp China: Xi Goes to North Korea; Inspecting Xinjiang; A $295 Billion AI Buildout; The Pentagon Alleges PLA Links for Alibaba and Others",
-        "link": "https://sinocism.com/p/sharp-china-xi-goes-to-north-korea",
-        "date": "Thu, 11 Jun 2026 09:01:56 GMT",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
     "chinatalk": [
       {
         "title": "North Korean Messiah",
@@ -3104,6 +2757,261 @@
         "title": "Notes on Egypt",
         "link": "https://www.chinatalk.media/p/notes-on-egypt",
         "date": "Sun, 14 Jun 2026 11:09:24 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "cistec": [],
+    "sinocism": [
+      {
+        "title": "Sharp China: Wang Yi Visits South Korea; Remembering Zhu Rongji; US-China Ahead of Xi's Visit; How China Monitors Foreigners",
+        "link": "https://sinocism.com/p/sharp-china-wang-yi-visits-south",
+        "date": "Thu, 20 Aug 2026 09:02:13 GMT",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Wang Yi in South Korea; Unitree IPO; PRC tells EU to pound sand over JD.com; H200 purchases; Youth unemployment rises",
+        "link": "https://sinocism.com/p/wang-yi-in-south-korea-unitree-ipo",
+        "date": "Wed, 19 Aug 2026 23:02:55 GMT",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Funeral for Zhu Rongji; Xi meets Ecuadorian President Noboa; Jiang Zemin; Housing provident fund; Consumption; What does China want?",
+        "link": "https://sinocism.com/p/funeral-for-zhu-rongji-xi-meets-ecuadorian",
+        "date": "Tue, 18 Aug 2026 22:52:05 GMT",
+        "firstSeen": "2026-08-19T21:50:53.181Z"
+      },
+      {
+        "title": "More weak July economic data; State Council Plenary session; Jiang Zemin Commemoration; AI tokens; Xi's DC visit; “Once Upon a Time in the Middle East”",
+        "link": "https://sinocism.com/p/more-weak-july-economic-data-state",
+        "date": "Mon, 17 Aug 2026 22:33:36 GMT",
+        "firstSeen": "2026-08-18T21:49:42.444Z"
+      },
+      {
+        "title": "\"Beidaihe Break\" is over; Jiang Zemin's 100th; RIP Zhu Rongji; US-China; July economic data; New Qiushi",
+        "link": "https://sinocism.com/p/beidaihe-break-is-over-jiang-zemins",
+        "date": "Sun, 16 Aug 2026 18:16:02 GMT",
+        "firstSeen": "2026-08-16T21:48:45.005Z"
+      },
+      {
+        "title": "Advantage Does Not Equal Victory | Sinification: July 2026",
+        "link": "https://sinocism.com/p/advantage-does-not-equal-victory",
+        "date": "Mon, 03 Aug 2026 20:33:05 GMT",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "Politburo study session; Regulation on Exit and Entry Administration; US-China; AI; Scarborough Shoal/Huangyan Dao",
+        "link": "https://sinocism.com/p/politburo-study-session-regulation",
+        "date": "Mon, 03 Aug 2026 16:25:59 GMT",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "July 2026 Politburo meeting; Fifth Plenum set for October; Signals of marginal, incremental policy support",
+        "link": "https://sinocism.com/p/july-2026-politburo-meeting-fifth",
+        "date": "Thu, 30 Jul 2026 12:59:37 GMT",
+        "firstSeen": "2026-07-30T22:07:38.801Z"
+      },
+      {
+        "title": "A Memory-Maker Makes History; New Robot Rules; The Open Weights Debate Rages; End of July News and Notes",
+        "link": "https://sinocism.com/p/a-memory-maker-makes-history-new",
+        "date": "Thu, 30 Jul 2026 09:01:56 GMT",
+        "firstSeen": "2026-07-30T22:07:38.801Z"
+      },
+      {
+        "title": "RMB and global imbalances; PRC missiles to Iran?; National Plan for Addressing Climate Change; Commercial space industry",
+        "link": "https://sinocism.com/p/rmb-and-global-imbalances-prc-missiles",
+        "date": "Wed, 29 Jul 2026 22:10:05 GMT",
+        "firstSeen": "2026-07-30T22:07:38.801Z"
+      },
+      {
+        "title": "Xi meets Slovak president; “Excess capacity” or “Overcapacity”? ; CXMT IPO; Overseas Chinese affairs conference; Li Qiang in Tangshan; Chips and AI",
+        "link": "https://sinocism.com/p/xi-meets-slovak-president-excess",
+        "date": "Tue, 28 Jul 2026 23:14:50 GMT",
+        "firstSeen": "2026-07-29T22:04:53.340Z"
+      },
+      {
+        "title": "CXMT IPO; Taxing offshore assets; Fang Xinghai; US-China; AI; Lula supports China-Mercosur deal",
+        "link": "https://sinocism.com/p/cxmt-ipo-taxing-offshore-assets-fang",
+        "date": "Mon, 27 Jul 2026 22:34:47 GMT",
+        "firstSeen": "2026-07-28T22:05:39.133Z"
+      },
+      {
+        "title": "Another CSRC meeting; DeepSeek CEO comments; SAMR warns about \"externalization of involution 内卷外化\"; US-China; Strengthening social work",
+        "link": "https://sinocism.com/p/another-csrc-meeting-deepseek-ceo",
+        "date": "Thu, 23 Jul 2026 22:29:22 GMT",
+        "firstSeen": "2026-07-24T22:05:39.748Z"
+      },
+      {
+        "title": "Wang Huning tours Tibet; US government officials go after Moonshot; Wang Yi-Rubio meeting; PRC-Philippines; H1 fiscal revenue and expenditure data",
+        "link": "https://sinocism.com/p/wang-huning-tours-tibet-us-government",
+        "date": "Wed, 22 Jul 2026 22:12:05 GMT",
+        "firstSeen": "2026-07-23T22:05:56.839Z"
+      },
+      {
+        "title": "Stock market rescue progress; \"Open\" AI with Chinese characteristics?; PRC-Philippines trade accusations as Wang Yi arrives for ASEAN; EU-China discussions",
+        "link": "https://sinocism.com/p/stock-market-rescue-progress-open",
+        "date": "Tue, 21 Jul 2026 22:45:10 GMT",
+        "firstSeen": "2026-07-22T22:05:33.220Z"
+      },
+      {
+        "title": "Sharp China: Kimi Madness; Xi's AI Vision and US Questions; Trump's Election Data Claims; The Connected Vehicle Security Act",
+        "link": "https://sinocism.com/p/sharp-china-kimi-madness-xis-ai-vision",
+        "date": "Tue, 21 Jul 2026 09:01:59 GMT",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "Stock market rescue; World AI Conference and open models; Second Thomas Shoal fight; Involution battles",
+        "link": "https://sinocism.com/p/stock-market-rescue-world-ai-conference",
+        "date": "Mon, 20 Jul 2026 22:32:10 GMT",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "WAIC; Another order for AI; Kimi's new model; Smart China hire by Australian government; Consumption; Extended dog days of summer 三伏天",
+        "link": "https://sinocism.com/p/waic-another-order-for-ai-kimis-new",
+        "date": "Thu, 16 Jul 2026 22:11:28 GMT",
+        "firstSeen": "2026-07-17T22:02:36.375Z"
+      },
+      {
+        "title": "Sharp China: K-Shaped Economic Data And Its Implications; Ma Xingrui News; Closing Window for Open Source AI?; The SCS and International Law",
+        "link": "https://sinocism.com/p/sharp-china-k-shaped-economic-data",
+        "date": "Thu, 16 Jul 2026 09:01:11 GMT",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Xi inspects Shanghai; GDP data; Problems in the US-China trade deal; Foreign Correspondents Club on reporting challenges",
+        "link": "https://sinocism.com/p/xi-inspects-shanghai-gdp-data-problems",
+        "date": "Wed, 15 Jul 2026 22:20:30 GMT",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "Ma Xingrui case; Trade data; Themes for Xi's WAIC speech; Kevin Rudd on Xi and China",
+        "link": "https://sinocism.com/p/ma-xingrui-case-trade-data-themes",
+        "date": "Tue, 14 Jul 2026 22:07:57 GMT",
+        "firstSeen": "2026-07-15T22:05:17.826Z"
+      },
+      {
+        "title": "Xi to speak at WAIC; Preparing for July Politburo meeting on the economy; Unemployment at 10.2%?; Another American arrested for spying",
+        "link": "https://sinocism.com/p/xi-to-speak-at-waic-preparing-for",
+        "date": "Mon, 13 Jul 2026 22:38:53 GMT",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "China-Russia military cooperation; Deadly shoe factory fire; June price data; Developing the retail sector; Carbon peaking action plan",
+        "link": "https://sinocism.com/p/china-russia-military-cooperation",
+        "date": "Thu, 09 Jul 2026 22:25:34 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Sharp China: A Missile Test and New PLA Generals; The CITIC Plane Crash; America's Taiwan Interests; Guo Wengui Jailed and Ezra Jin Released",
+        "link": "https://sinocism.com/p/sharp-china-a-missile-test-and-new",
+        "date": "Thu, 09 Jul 2026 09:00:43 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Xi on Science and Technology; PBoC Q2 Monetary Policy Committee meeting; H200 orders?; PRC open-source and global AI governance",
+        "link": "https://sinocism.com/p/xi-on-science-and-technology-pboc",
+        "date": "Wed, 08 Jul 2026 22:28:39 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Floods and Xi’s instructions; PRC to limit access to top AI models?; PBoC policy support for Hong Kong; Tax burden on private firms",
+        "link": "https://sinocism.com/p/floods-and-xis-instructions-prc-to",
+        "date": "Tue, 07 Jul 2026 21:49:43 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Two new PLA generals; Submarine-launched missile test; Ezra Jin released; \"Routine\" patrols of waters east of Taiwan",
+        "link": "https://sinocism.com/p/two-new-pla-generals-submarine-launched",
+        "date": "Mon, 06 Jul 2026 21:48:32 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "American Decline, Chinese Exposure | Sinification: June 2026",
+        "link": "https://sinocism.com/p/american-decline-chinese-exposure",
+        "date": "Sun, 05 Jul 2026 22:31:12 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Official explanation of CITIC Tower crash; EU-China; Japan-PRC; Tungsten; Global significance of Xi Thought on Party Building",
+        "link": "https://sinocism.com/p/official-explanation-of-citic-tower",
+        "date": "Thu, 02 Jul 2026 21:20:03 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "CPC’s 105th anniversary ceremony; July 1 Medal recipients; AI model regulation; Coupang's Shanghai adventure; Alibaba settles with US government",
+        "link": "https://sinocism.com/p/cpcs-105th-anniversary-ceremony-july",
+        "date": "Wed, 01 Jul 2026 22:29:14 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "June Politburo meeting; CPC turns 105; Decent June economic data; Meituan's LLM; 30 years for Guo Wengui",
+        "link": "https://sinocism.com/p/june-politburo-meeting-cpc-turns",
+        "date": "Tue, 30 Jun 2026 22:28:41 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Plane flies into Beijing’s tallest building; More export controls on Japanese firms; Pause in march towards EU-China trade war?; Premier Li on AI",
+        "link": "https://sinocism.com/p/plane-flies-into-beijings-tallest",
+        "date": "Mon, 29 Jun 2026 21:14:27 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Xi in Shandong; Premier Li on “China Opportunity 2.0”; Tightening Supply Chain Security; Long Arm of the Law on Promoting Ethnic Unity and Progress; Basic Research",
+        "link": "https://sinocism.com/p/xi-in-shandong-premier-li-on-china",
+        "date": "Wed, 24 Jun 2026 21:55:44 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Sharp China: Party Building and Xi's Dominance; Memory Chips and ASML Accusations; Germany's Puzzling Push for Plaza Accords",
+        "link": "https://sinocism.com/p/sharp-china-party-building-and-xis",
+        "date": "Wed, 24 Jun 2026 11:48:38 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Wang Yi on lessons of US-Iran war; Selected Works of Xi Jinping on Party Building; Policy support for auto consumption; Liu Guozhong and biopharma and brain interfaces; Alibaba sues US government",
+        "link": "https://sinocism.com/p/wang-yi-on-lessons-of-us-iran-war",
+        "date": "Tue, 23 Jun 2026 22:00:08 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Li Qiang inspects Dalian; Response to US expansion of China military companies list; Contaminated diapers; No \"Plaza Accord\" to help the EU; Invest in China",
+        "link": "https://sinocism.com/p/li-qiang-inspects-dalian-response",
+        "date": "Mon, 22 Jun 2026 22:41:23 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "AI+ consumption; Xi Jinping Thought on Party Building; Network data security risk assessment",
+        "link": "https://sinocism.com/p/ai-consumption-xi-jinping-thought",
+        "date": "Thu, 18 Jun 2026 21:45:10 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Wang Yi speaks with Iranian FM; Global governance white paper; Employment plan; G7; US holds back tech restrictions",
+        "link": "https://sinocism.com/p/wang-yi-speaks-with-iranian-fm-global",
+        "date": "Wed, 17 Jun 2026 22:36:29 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Xi Thought on Party Building; May economic activity; Myanmar President in Beijing; Wang Yi on the Iran deal",
+        "link": "https://sinocism.com/p/xi-thought-on-party-building-may",
+        "date": "Tue, 16 Jun 2026 21:55:36 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "No newsletter today",
+        "link": "https://sinocism.com/p/no-newsletter-today-44a",
+        "date": "Mon, 15 Jun 2026 20:34:58 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "AI and workers' rights; Selected Works of Xi Jinping on Diplomacy; Busy regulators; Philippine Secretary of National Defense",
+        "link": "https://sinocism.com/p/ai-and-workers-rights-selected-works",
+        "date": "Thu, 11 Jun 2026 23:10:50 GMT",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Sharp China: Xi Goes to North Korea; Inspecting Xinjiang; A $295 Billion AI Buildout; The Pentagon Alleges PLA Links for Alibaba and Others",
+        "link": "https://sinocism.com/p/sharp-china-xi-goes-to-north-korea",
+        "date": "Thu, 11 Jun 2026 09:01:56 GMT",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -3405,7 +3313,919 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
+    "otsi": [
+      {
+        "title": "Guidance: Complying with sanctions relating to banknotes",
+        "link": "https://www.gov.uk/government/publications/complying-with-sanctions-relating-to-banknotes",
+        "date": "2026-08-03T11:30:01Z",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "Apply for a licence to carry out sanctioned trade through OTSI",
+        "link": "https://www.gov.uk/guidance/apply-for-a-licence-to-carry-out-sanctioned-trade-through-otsi",
+        "date": "2026-05-20T14:05:30Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Russia sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/russia-sanctions-guidance",
+        "date": "2026-05-19T23:01:01Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: General trade licence: maritime transportation of liquefied natural gas",
+        "link": "https://www.gov.uk/government/publications/general-trade-licence-maritime-transportation-of-liquefied-natural-gas",
+        "date": "2026-05-19T16:20:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Policy paper: Sanctions enforcement: cross-government approach, March 2026",
+        "link": "https://www.gov.uk/government/publications/sanctions-enforcement-cross-government-approach-march-2026",
+        "date": "2026-05-08T08:40:08Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Republic of Belarus sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance",
+        "date": "2026-05-01T10:19:55Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Myanmar sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/myanmar-sanctions-guidance",
+        "date": "2026-05-01T10:19:52Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Syria sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/syria-sanctions-guidance",
+        "date": "2026-05-01T10:19:41Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Venezuela sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/venezuela-sanctions-guidance",
+        "date": "2026-05-01T10:19:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Iran sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/iran-sanctions-guidance",
+        "date": "2026-05-01T10:19:29Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Trading under sanctions with Russia",
+        "link": "https://www.gov.uk/guidance/trading-under-sanctions-with-russia",
+        "date": "2026-04-23T11:26:40Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How to use exceptions and licences to comply with sanctions",
+        "link": "https://www.gov.uk/guidance/how-to-use-exceptions-and-licences-to-comply-with-sanctions",
+        "date": "2026-04-23T11:26:39Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How to apply for a trade sanctions licence",
+        "link": "https://www.gov.uk/guidance/how-to-apply-for-a-trade-sanctions-licence",
+        "date": "2026-04-23T11:26:37Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "How OTSI assesses applications for trade sanctions licences",
+        "link": "https://www.gov.uk/guidance/how-otsi-assesses-applications-for-trade-sanctions-licences",
+        "date": "2026-04-23T11:26:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Statutory guidance: Democratic People's Republic of Korea sanctions: guidance",
+        "link": "https://www.gov.uk/government/publications/democratic-peoples-republic-of-korea-sanctions-guidance",
+        "date": "2026-04-23T10:50:48Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Sanctions End-Use Controls: guidance for businesses",
+        "link": "https://www.gov.uk/government/publications/sanctions-end-use-controls-guidance-for-businesses",
+        "date": "2026-04-22T14:37:00Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Starter guide to UK sanctions",
+        "link": "https://www.gov.uk/guidance/starter-guide-to-uk-sanctions",
+        "date": "2026-03-30T09:00:02Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Countering Russian sanctions evasion and circumvention",
+        "link": "https://www.gov.uk/government/publications/countering-russian-sanctions-evasion-and-circumvention",
+        "date": "2026-03-12T09:40:59Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Look up considerations for trade licences under the Belarus sanctions",
+        "link": "https://www.gov.uk/guidance/look-up-considerations-for-trade-licences-under-the-belarus-sanctions",
+        "date": "2026-03-05T09:53:19Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Corporate report: One year of the Office of Trade Sanctions Implementation (OTSI)",
+        "link": "https://www.gov.uk/government/publications/one-year-of-the-office-of-trade-sanctions-implementation-otsi",
+        "date": "2025-12-04T11:00:11Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Guidance: Countering sanctions evasion: guidance for freight and shipping",
+        "link": "https://www.gov.uk/government/publications/countering-sanctions-evasion-guidance-for-freight-and-shipping",
+        "date": "2025-11-03T12:06:26Z",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "wirechina": [
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/20/the-daily-roundup-august-20-2026/",
+        "date": "Thu, 20 Aug 2026 12:30:00 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/19/the-daily-roundup-august-19-2026/",
+        "date": "Wed, 19 Aug 2026 12:00:00 +0000",
+        "firstSeen": "2026-08-19T21:50:53.181Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/18/the-daily-roundup-august-18-2026/",
+        "date": "Tue, 18 Aug 2026 12:00:00 +0000",
+        "firstSeen": "2026-08-18T21:49:42.444Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/17/the-daily-roundup-august-17-2026/",
+        "date": "Mon, 17 Aug 2026 12:00:00 +0000",
+        "firstSeen": "2026-08-17T21:50:39.931Z"
+      },
+      {
+        "title": "Michael Dillon On Shanghai — China’s Most Dynamic City",
+        "link": "https://www.thewirechina.com/2026/08/16/michael-dillon-on-shanghai-chinas-most-dynamic-city/",
+        "date": "Sun, 16 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-16T21:48:45.005Z"
+      },
+      {
+        "title": "The Moonshot Moment",
+        "link": "https://www.thewirechina.com/2026/08/16/the-moonshot-moment/",
+        "date": "Sun, 16 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-16T21:48:45.005Z"
+      },
+      {
+        "title": "Company in the News: Geely",
+        "link": "https://www.thewirechina.com/2026/08/16/company-in-the-news-geely/",
+        "date": "Sun, 16 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-16T21:48:45.005Z"
+      },
+      {
+        "title": "China’s Anti-Corruption Campaign Roils On",
+        "link": "https://www.thewirechina.com/2026/08/16/chinas-anti-corruption-campaign-roils-on/",
+        "date": "Sun, 16 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-16T21:48:45.005Z"
+      },
+      {
+        "title": "Moonshot AI’s Yang Zhilin takes his shot, Zhu Rongji RIP, and the fall of Fang Xinghai",
+        "link": "https://www.thewirechina.com/2026/08/16/moonshot-ais-yang-zhilin-takes-his-shot-zhu-rongji-rip-and-the-fall-of-fang-xinghai/",
+        "date": "Sun, 16 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-16T21:48:45.005Z"
+      },
+      {
+        "title": "Zhu Rongji: A Reformer Who Centralized More Power in the Chinese State",
+        "link": "https://www.thewirechina.com/2026/08/15/zhu-rongji-a-reformer-who-centralized-more-power-in-the-chinese-state/",
+        "date": "Sat, 15 Aug 2026 08:30:00 +0000",
+        "firstSeen": "2026-08-15T21:48:57.773Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/14/the-daily-roundup-august-14-2026/",
+        "date": "Fri, 14 Aug 2026 13:00:20 +0000",
+        "firstSeen": "2026-08-14T21:50:24.437Z"
+      },
+      {
+        "title": "The Great Premier",
+        "link": "https://www.thewirechina.com/2026/08/13/the-great-premier/",
+        "date": "Thu, 13 Aug 2026 14:30:00 +0000",
+        "firstSeen": "2026-08-13T22:00:01.338Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/13/the-daily-roundup-august-13-2026/",
+        "date": "Thu, 13 Aug 2026 13:03:26 +0000",
+        "firstSeen": "2026-08-13T22:00:01.338Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/12/the-daily-roundup-august-12-2026/",
+        "date": "Wed, 12 Aug 2026 13:08:06 +0000",
+        "firstSeen": "2026-08-12T22:00:14.782Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/11/the-daily-roundup-august-11-2026/",
+        "date": "Tue, 11 Aug 2026 12:52:54 +0000",
+        "firstSeen": "2026-08-11T22:00:37.514Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/10/the-daily-roundup-august-10-2026/",
+        "date": "Mon, 10 Aug 2026 12:54:21 +0000",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
+        "title": "Lily Qi on Choosing to be an American",
+        "link": "https://www.thewirechina.com/2026/08/09/lily-qi-on-choosing-to-be-an-american/",
+        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-09T21:53:57.562Z"
+      },
+      {
+        "title": "China Readies for a Record Number of Humanoids",
+        "link": "https://www.thewirechina.com/2026/08/09/china-readies-for-a-record-number-of-humanoids/",
+        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-09T21:53:57.562Z"
+      },
+      {
+        "title": "From 5G to NearLink: Europe’s Next Digital Dependency Risk",
+        "link": "https://www.thewirechina.com/2026/08/09/from-5g-to-nearlink-europes-next-digital-dependency-risk/",
+        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-09T21:53:57.562Z"
+      },
+      {
+        "title": "Jupiter’s Descent",
+        "link": "https://www.thewirechina.com/2026/08/09/jupiters-descent/",
+        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-09T21:53:57.562Z"
+      },
+      {
+        "title": "The Bargain Hunters",
+        "link": "https://www.thewirechina.com/2026/08/09/the-bargain-hunters/",
+        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-09T21:53:57.562Z"
+      },
+      {
+        "title": "Jupiter Systems, Part II",
+        "link": "https://www.thewirechina.com/2026/08/09/jupiter-systems-part-ii/",
+        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-09T21:53:57.562Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/07/the-daily-roundup-august-7-2026/",
+        "date": "Fri, 07 Aug 2026 12:45:59 +0000",
+        "firstSeen": "2026-08-07T21:57:11.415Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/06/the-daily-roundup-august-6-2026/",
+        "date": "Thu, 06 Aug 2026 12:45:00 +0000",
+        "firstSeen": "2026-08-06T23:45:46.532Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/05/the-daily-roundup-august-5-2026/",
+        "date": "Wed, 05 Aug 2026 12:45:00 +0000",
+        "firstSeen": "2026-08-05T22:07:14.071Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/04/the-daily-roundup-august-4-2026/",
+        "date": "Tue, 04 Aug 2026 12:45:00 +0000",
+        "firstSeen": "2026-08-04T22:07:03.023Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/08/03/the-daily-roundup-august-3-2026/",
+        "date": "Mon, 03 Aug 2026 12:00:00 +0000",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "Alex Wang on What China Gets Right — and Wrong — on the Environment",
+        "link": "https://www.thewirechina.com/2026/08/02/alex-wang-on-what-china-gets-right-and-wrong-on-the-environment/",
+        "date": "Sun, 02 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-02T22:03:21.555Z"
+      },
+      {
+        "title": "DJI Gets into a Fight in the U.S. — With Another Chinese Dronemaker",
+        "link": "https://www.thewirechina.com/2026/08/02/dji-gets-into-a-fight-in-the-u-s-with-another-chinese-dronemaker/",
+        "date": "Sun, 02 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-02T22:03:21.555Z"
+      },
+      {
+        "title": "From “Hide and Bide” to “Loud and Proud”",
+        "link": "https://www.thewirechina.com/2026/08/02/from-hide-and-bide-to-loud-and-proud/",
+        "date": "Sun, 02 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-02T22:03:21.555Z"
+      },
+      {
+        "title": "Xi Jinping, Ambassador to Everywhere",
+        "link": "https://www.thewirechina.com/2026/08/02/xi-jinping-ambassador-to-everywhere/",
+        "date": "Sun, 02 Aug 2026 21:00:00 +0000",
+        "firstSeen": "2026-08-02T22:03:21.555Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/31/the-daily-roundup-july-31-2026/",
+        "date": "Fri, 31 Jul 2026 12:52:29 +0000",
+        "firstSeen": "2026-07-31T22:06:02.178Z"
+      },
+      {
+        "title": "China’s Tech Stocks Are Falling Despite Their Own Breakthroughs",
+        "link": "https://www.thewirechina.com/2026/07/30/chinas-tech-stocks-are-falling-despite-their-own-breakthroughs/",
+        "date": "Thu, 30 Jul 2026 16:00:00 +0000",
+        "firstSeen": "2026-07-30T22:07:38.801Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/30/the-daily-roundup-july-30-2026/",
+        "date": "Thu, 30 Jul 2026 12:35:18 +0000",
+        "firstSeen": "2026-07-30T22:07:38.801Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/29/the-daily-roundup-july-29-2026/",
+        "date": "Wed, 29 Jul 2026 12:46:35 +0000",
+        "firstSeen": "2026-07-29T22:04:53.340Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/28/the-daily-roundup-july-28-2026/",
+        "date": "Tue, 28 Jul 2026 12:47:05 +0000",
+        "firstSeen": "2026-07-28T22:05:39.133Z"
+      },
+      {
+        "title": "Unboxing Shein’s Hong Kong IPO",
+        "link": "https://www.thewirechina.com/2026/07/27/unboxing-sheins-hong-kong-ipo/",
+        "date": "Mon, 27 Jul 2026 21:50:58 +0000",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/27/the-daily-roundup-july-27-2026/",
+        "date": "Mon, 27 Jul 2026 12:31:31 +0000",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "Geremie Barmé on the ‘Other China’",
+        "link": "https://www.thewirechina.com/2026/07/26/geremie-barme-on-the-other-china/",
+        "date": "Sun, 26 Jul 2026 23:00:00 +0000",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "Nvidia’s China Partners and the PLA",
+        "link": "https://www.thewirechina.com/2026/07/26/nvidias-china-partners-and-the-pla/",
+        "date": "Sun, 26 Jul 2026 23:00:00 +0000",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "Can China Keep Its AI Open?",
+        "link": "https://www.thewirechina.com/2026/07/26/can-china-keep-its-ai-open/",
+        "date": "Sun, 26 Jul 2026 23:00:00 +0000",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "Company in the News: CXMT",
+        "link": "https://www.thewirechina.com/2026/07/26/company-in-the-news-cxmt/",
+        "date": "Sun, 26 Jul 2026 23:00:00 +0000",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "Nvidia’s China Partners and the PLA",
+        "link": "https://www.thewirechina.com/2026/07/26/nvidias-china-partners-and-the-pla-newsletter/",
+        "date": "Sun, 26 Jul 2026 23:00:00 +0000",
+        "firstSeen": "2026-07-27T22:06:16.105Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/24/the-daily-roundup-july-24-2026/",
+        "date": "Fri, 24 Jul 2026 12:15:00 +0000",
+        "firstSeen": "2026-07-24T22:05:39.748Z"
+      },
+      {
+        "title": "China’s New Technology Trap",
+        "link": "https://www.thewirechina.com/2026/07/23/chinas-new-technology-trap/",
+        "date": "Thu, 23 Jul 2026 13:00:00 +0000",
+        "firstSeen": "2026-07-23T22:05:56.839Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/23/the-daily-roundup-july-23-2026/",
+        "date": "Thu, 23 Jul 2026 13:00:00 +0000",
+        "firstSeen": "2026-07-23T22:05:56.839Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/22/the-daily-roundup-july-22-2026/",
+        "date": "Wed, 22 Jul 2026 12:45:00 +0000",
+        "firstSeen": "2026-07-22T22:05:33.220Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/21/the-daily-roundup-july-21-2026/",
+        "date": "Tue, 21 Jul 2026 12:45:00 +0000",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/20/the-daily-roundup-july-20-2026/",
+        "date": "Mon, 20 Jul 2026 13:00:00 +0000",
+        "firstSeen": "2026-07-20T22:05:23.456Z"
+      },
+      {
+        "title": "Rongbin Han on the Internet Writers Making China Great Again",
+        "link": "https://www.thewirechina.com/2026/07/19/rongbin-han-on-the-internet-writers-making-china-great-again/",
+        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-19T22:02:54.231Z"
+      },
+      {
+        "title": "The United States and China Are Leaving a Dangerous Vacuum in Global Leadership",
+        "link": "https://www.thewirechina.com/2026/07/19/the-united-states-and-china-are-leaving-a-dangerous-vacuum-in-global-leadership/",
+        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-19T22:02:54.231Z"
+      },
+      {
+        "title": "The Return of the Taiwan Tiger",
+        "link": "https://www.thewirechina.com/2026/07/19/the-return-of-the-taiwan-tiger/",
+        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-19T22:02:54.231Z"
+      },
+      {
+        "title": "Tsinghua’s Central Role in China’s AI Revolution",
+        "link": "https://www.thewirechina.com/2026/07/19/tsinghuas-central-role-in-chinas-ai-revolution/",
+        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-19T22:02:54.231Z"
+      },
+      {
+        "title": "The Return of the Taiwan Tiger",
+        "link": "https://www.thewirechina.com/2026/07/19/the-return-of-the-taiwan-tiger-newsletter/",
+        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-19T22:02:54.231Z"
+      },
+      {
+        "title": "China Applies its Industrial Playbook to Brain Chips",
+        "link": "https://www.thewirechina.com/2026/07/19/china-applies-its-industrial-playbook-to-brain-chips/",
+        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-19T22:02:54.231Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/17/the-daily-roundup-july-17-2026/",
+        "date": "Fri, 17 Jul 2026 13:06:33 +0000",
+        "firstSeen": "2026-07-17T22:02:36.375Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/16/the-daily-roundup-july-16-2026/",
+        "date": "Thu, 16 Jul 2026 12:08:54 +0000",
+        "firstSeen": "2026-07-16T22:05:42.331Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/15/the-daily-roundup-july-15-2026/",
+        "date": "Wed, 15 Jul 2026 13:03:21 +0000",
+        "firstSeen": "2026-07-15T22:05:17.826Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/14/the-daily-roundup-july-14-2026/",
+        "date": "Tue, 14 Jul 2026 12:16:43 +0000",
+        "firstSeen": "2026-07-14T22:04:58.078Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/13/the-daily-roundup-july-13-2026/",
+        "date": "Mon, 13 Jul 2026 12:44:21 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "Benn Steil on Why the Global Order is Falling Apart",
+        "link": "https://www.thewirechina.com/2026/07/12/benn-steil-on-why-the-global-order-is-falling-apart/",
+        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "China’s Planners Are Preparing for a Major Financial Crash",
+        "link": "https://www.thewirechina.com/2026/07/12/chinas-planners-are-preparing-for-a-major-financial-crash/",
+        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Sun Sets for Chinese Solar in the U.S.",
+        "link": "https://www.thewirechina.com/2026/07/12/the-sun-sets-for-chinese-solar-in-the-u-s/",
+        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Why Europe is Facing Up to the China Shock Now",
+        "link": "https://www.thewirechina.com/2026/07/12/why-europe-is-facing-up-to-the-china-shock-now/",
+        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "America’s EV Reckoning",
+        "link": "https://www.thewirechina.com/2026/07/12/americas-ev-reckoning/",
+        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "A Shadow Falls Over Chinese Solar Investments in the U.S.",
+        "link": "https://www.thewirechina.com/2026/07/12/a-shadow-falls-over-chinese-solar-investments-in-the-u-s/",
+        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/10/the-daily-roundup-july-10-2026/",
+        "date": "Fri, 10 Jul 2026 12:15:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/09/the-daily-roundup-july-9-2026/",
+        "date": "Thu, 09 Jul 2026 12:45:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/08/the-daily-roundup-july-8-2026/",
+        "date": "Wed, 08 Jul 2026 12:30:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/07/the-daily-roundup-july-7-2026/",
+        "date": "Tue, 07 Jul 2026 12:45:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/06/the-daily-roundup-july-6-2026/",
+        "date": "Mon, 06 Jul 2026 12:30:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/03/the-daily-roundup-july-3-2026/",
+        "date": "Fri, 03 Jul 2026 12:07:45 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Nvidia Uses The Specter of Huawei to Make Its Chip Exports Case",
+        "link": "https://www.thewirechina.com/2026/07/02/nvidia-uses-the-specter-of-huawei-to-make-its-chip-exports-case/",
+        "date": "Thu, 02 Jul 2026 15:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/02/the-daily-roundup-july-2-2026/",
+        "date": "Thu, 02 Jul 2026 12:18:09 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/07/01/the-daily-roundup-july-1-2026/",
+        "date": "Wed, 01 Jul 2026 12:53:41 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/30/the-daily-roundup-june-30-2026/",
+        "date": "Tue, 30 Jun 2026 11:03:14 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/29/the-daily-roundup-june-29-2026/",
+        "date": "Mon, 29 Jun 2026 12:46:53 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Katrina Manson on How AI is Changing the Nature of War",
+        "link": "https://www.thewirechina.com/2026/06/28/katrina-manson-on-how-ai-is-changing-the-nature-of-war/",
+        "date": "Sun, 28 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Mr Yu’s Dream Machine",
+        "link": "https://www.thewirechina.com/2026/06/28/mr-yus-dream-machine/",
+        "date": "Sun, 28 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "A Now Or Never Moment For Xiaohongshu",
+        "link": "https://www.thewirechina.com/2026/06/28/a-now-or-never-moment-for-xiaohongshu/",
+        "date": "Sun, 28 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Company in the News: Zhongji Innolight",
+        "link": "https://www.thewirechina.com/2026/06/28/company-in-the-news-zhongji-innolight/",
+        "date": "Sun, 28 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Mr Yu’s Dream Machine",
+        "link": "https://www.thewirechina.com/2026/06/28/mr-yus-dream-machine-newsletter/",
+        "date": "Sun, 28 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/26/the-daily-roundup-june-26-2026/",
+        "date": "Fri, 26 Jun 2026 12:15:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/25/the-daily-roundup-june-25-2026/",
+        "date": "Thu, 25 Jun 2026 12:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The EU Must Confront China’s Trade Challenge",
+        "link": "https://www.thewirechina.com/2026/06/25/the-eu-must-confront-chinas-trade-challenge/",
+        "date": "Thu, 25 Jun 2026 08:30:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/24/the-daily-roundup-june-24-2026/",
+        "date": "Wed, 24 Jun 2026 12:30:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/23/the-daily-roundup-june-23-2026/",
+        "date": "Tue, 23 Jun 2026 12:30:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/22/the-daily-roundup-june-22-2026/",
+        "date": "Mon, 22 Jun 2026 12:45:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Alan Estevez on Why Export Controls Work",
+        "link": "https://www.thewirechina.com/2026/06/21/alan-estevez-on-why-export-controls-work/",
+        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Are Government Stakes the Key to AI Sovereignty?",
+        "link": "https://www.thewirechina.com/2026/06/21/are-government-stakes-the-key-to-ai-sovereignty/",
+        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Surrounding American AI from the South",
+        "link": "https://www.thewirechina.com/2026/06/21/surrounding-american-ai-from-the-south/",
+        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Chinese Academy of Sciences",
+        "link": "https://www.thewirechina.com/2026/06/21/the-chinese-academy-of-sciences/",
+        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Chinese Auto Companies Test U.S. Tech Rules",
+        "link": "https://www.thewirechina.com/2026/06/21/chinese-auto-companies-test-u-s-tech-rules/",
+        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Long Arm of the Chinese Academy of Sciences",
+        "link": "https://www.thewirechina.com/2026/06/21/the-long-arm-of-the-chinese-academy-of-sciences/",
+        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/19/the-daily-roundup-june-19-2026/",
+        "date": "Fri, 19 Jun 2026 12:42:30 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/18/the-daily-roundup-june-18-2026/",
+        "date": "Thu, 18 Jun 2026 13:07:37 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/17/the-daily-roundup-june-17-2026/",
+        "date": "Wed, 17 Jun 2026 11:55:27 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/16/the-daily-roundup-june-16-2026/",
+        "date": "Tue, 16 Jun 2026 12:52:51 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/15/the-daily-roundup-june-15-2026/",
+        "date": "Mon, 15 Jun 2026 12:30:48 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The AI Issue America and China Can Cooperate On Now",
+        "link": "https://www.thewirechina.com/2026/06/14/the-ai-issue-america-and-china-can-cooperate-on-now/",
+        "date": "Sun, 14 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Behind the Screens",
+        "link": "https://www.thewirechina.com/2026/06/14/behind-the-screens/",
+        "date": "Sun, 14 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Where Is China’s Trillion-Dollar Trade Surplus Going?",
+        "link": "https://www.thewirechina.com/2026/06/14/where-is-chinas-trillion-dollar-trade-surplus-going/",
+        "date": "Sun, 14 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Soumaya Keynes and Chad Bown on Fighting and Winning Trade Wars",
+        "link": "https://www.thewirechina.com/2026/06/14/soumaya-keynes-and-chad-bown-on-fighting-and-winning-trade-wars/",
+        "date": "Sun, 14 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "A CFIUS Thriller",
+        "link": "https://www.thewirechina.com/2026/06/14/a-cfius-thriller/",
+        "date": "Sun, 14 Jun 2026 21:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/12/the-daily-roundup-june-12-2026/",
+        "date": "Fri, 12 Jun 2026 12:15:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/11/the-daily-roundup-june-11-2026/",
+        "date": "Thu, 11 Jun 2026 12:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Getting Strict on Chinese Military Companies",
+        "link": "https://www.thewirechina.com/2026/06/10/getting-strict-on-chinese-military-companies/",
+        "date": "Wed, 10 Jun 2026 20:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/10/the-daily-roundup-june-10-2026/",
+        "date": "Wed, 10 Jun 2026 12:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/09/the-daily-roundup-june-9-2026/",
+        "date": "Tue, 09 Jun 2026 11:30:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "The Daily Roundup",
+        "link": "https://www.thewirechina.com/2026/06/08/the-daily-roundup-june-8-2026/",
+        "date": "Mon, 08 Jun 2026 12:00:00 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
+    "ifi": [
+      {
+        "title": "The Illicit Oil Pipeline: How Criminal Networks Turn Crude into Clean Cash",
+        "link": "https://finintegrity.org/the-illicit-oil-pipeline/",
+        "date": "Wed, 19 Aug 2026 11:00:06 +0000",
+        "firstSeen": "2026-08-19T21:50:53.181Z"
+      },
+      {
+        "title": "Beyond the Course Library",
+        "link": "https://finintegrity.org/beyond-the-course-library/",
+        "date": "Wed, 12 Aug 2026 11:00:23 +0000",
+        "firstSeen": "2026-08-12T22:00:14.782Z"
+      },
+      {
+        "title": "July Monthly Sanctions and Export Controls Report",
+        "link": "https://finintegrity.org/july-2026-monthly-sanctions-export-controls-report/",
+        "date": "Tue, 04 Aug 2026 11:00:45 +0000",
+        "firstSeen": "2026-08-04T22:07:03.023Z"
+      },
+      {
+        "title": "A Financial Institution’s Guide to Updated EU Market Abuse Regulation",
+        "link": "https://finintegrity.org/a-financial-institutions-guide-to-updated-eu-market-abuse-regulation/",
+        "date": "Wed, 29 Jul 2026 11:00:47 +0000",
+        "firstSeen": "2026-07-29T22:04:53.340Z"
+      },
+      {
+        "title": "The Hidden Factor Behind Effective Compliance Training",
+        "link": "https://finintegrity.org/the-hidden-factor-behind-effective-compliance-training/",
+        "date": "Wed, 22 Jul 2026 11:00:13 +0000",
+        "firstSeen": "2026-07-22T22:05:33.220Z"
+      },
+      {
+        "title": "Social Engineering Is Rewriting the Fraud Playbook",
+        "link": "https://finintegrity.org/social-engineering-is-rewriting-the-fraud-playbook/",
+        "date": "Wed, 08 Jul 2026 11:00:56 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Hadhramout Bank Selects IFI as Training Provider to Strengthen Financial Integrity and Cross-Border Payment Compliance",
+        "link": "https://finintegrity.org/hadhramout-bank-selects-ifi-as-training-provider-to-strengthen-financial-integrity-and-cross-border-payment-compliance/",
+        "date": "Tue, 07 Jul 2026 12:00:45 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "June 2026 Sanctions and Export Controls Report",
+        "link": "https://finintegrity.org/june-2026-sanctions-and-export-controls-report/",
+        "date": "Wed, 01 Jul 2026 11:00:39 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Crypto Layering",
+        "link": "https://finintegrity.org/crypto-layering/",
+        "date": "Wed, 17 Jun 2026 11:00:01 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Who Owns the Risk?",
+        "link": "https://finintegrity.org/who-owns-the-risk/",
+        "date": "Wed, 10 Jun 2026 11:00:16 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "May 2026 Sanctions and Export Controls Update",
+        "link": "https://finintegrity.org/may-2026-monthly-sanctions-and-export-controls-report/",
+        "date": "Wed, 03 Jun 2026 11:00:14 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 3",
+        "link": "https://finintegrity.org/fatf-part-3/",
+        "date": "Wed, 13 May 2026 11:00:08 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "IFI Expands Arabic Training Offering to Meet Growing Demand",
+        "link": "https://finintegrity.org/ifi-expands-arabic-training-offering-to-meet-growing-demand/",
+        "date": "Tue, 12 May 2026 12:00:16 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "April 2026 Monthly Sanctions and Export Controls Report",
+        "link": "https://finintegrity.org/april-2026-monthly-sanctions-and-export-controls-report/",
+        "date": "Tue, 05 May 2026 11:00:33 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 2",
+        "link": "https://finintegrity.org/fatf-part-2/",
+        "date": "Tue, 28 Apr 2026 11:00:03 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "gibsondunn": [
+      {
+        "title": "Candice Choh, Ari Lanin, Ryan Murr Recognized as Private Equity and M&A Business Visionaries by LA Times Magazine",
+        "link": "https://www.gibsondunn.com/candice-choh-ari-lanin-ryan-murr-recognized-as-private-equity-and-ma-business-visionaries-by-la-times-magazine/",
+        "date": "Thu, 20 Aug 2026 21:39:02 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Gibson Dunn Lawyers Recognized in The Best Lawyers in America® Ones to Watch 2027",
+        "link": "https://www.gibsondunn.com/gibson-dunn-lawyers-recognized-in-the-best-lawyers-in-america-ones-to-watch-2027/",
+        "date": "Thu, 20 Aug 2026 17:47:22 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Gibson Dunn Lawyers Recognized in the Best Lawyers in America® 2027",
+        "link": "https://www.gibsondunn.com/gibson-dunn-lawyers-recognized-in-the-best-lawyers-in-america-2027/",
+        "date": "Thu, 20 Aug 2026 17:31:48 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "In Tax Executive, Saul Mezei and Adam Smith Discuss Enforcement Risks at Intersection of Tariffs and Transfer Pricing",
+        "link": "https://www.gibsondunn.com/in-tax-executive-saul-mezei-and-adam-smith-discuss-enforcement-risks-at-intersection-of-tariffs-and-transfer-pricing/",
+        "date": "Thu, 20 Aug 2026 15:06:21 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Partner Mark Leverkus Shares Insights on Career in Space Law with Financial News",
+        "link": "https://www.gibsondunn.com/partner-mark-leverkus-shares-insights-on-career-in-space-law-with-financial-news/",
+        "date": "Thu, 20 Aug 2026 14:59:43 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
       {
         "title": "Gibson Dunn Represented SCIH Salt Holdings in $1.6 Billion Notes Offering, $3.2 Billion Term Loan B Facility, and $550 Million Revolving Credit Facility",
         "link": "https://www.gibsondunn.com/gibson-dunn-represented-scih-salt-holdings-in-1-6-billion-notes-offering-3-2-billion-term-loan-b-facility-and-550-million-revolving-credit-facility/",
@@ -4331,963 +5151,95 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "wirechina": [
+    "aspi": [
       {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/19/the-daily-roundup-august-19-2026/",
-        "date": "Wed, 19 Aug 2026 12:00:00 +0000",
-        "firstSeen": "2026-08-19T21:50:53.181Z"
+        "title": "Digital infrastructure in South Asia: China’s role and the potential for Australia–India cooperation",
+        "link": "https://www.aspi.org.au/report/digital-infrastructure-in-south-asia/",
+        "date": "Wed, 19 Aug 2026 20:00:00 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
       },
       {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/18/the-daily-roundup-august-18-2026/",
-        "date": "Tue, 18 Aug 2026 12:00:00 +0000",
-        "firstSeen": "2026-08-18T21:49:42.444Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/17/the-daily-roundup-august-17-2026/",
-        "date": "Mon, 17 Aug 2026 12:00:00 +0000",
-        "firstSeen": "2026-08-17T21:50:39.931Z"
-      },
-      {
-        "title": "Michael Dillon On Shanghai — China’s Most Dynamic City",
-        "link": "https://www.thewirechina.com/2026/08/16/michael-dillon-on-shanghai-chinas-most-dynamic-city/",
-        "date": "Sun, 16 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-16T21:48:45.005Z"
-      },
-      {
-        "title": "The Moonshot Moment",
-        "link": "https://www.thewirechina.com/2026/08/16/the-moonshot-moment/",
-        "date": "Sun, 16 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-16T21:48:45.005Z"
-      },
-      {
-        "title": "Company in the News: Geely",
-        "link": "https://www.thewirechina.com/2026/08/16/company-in-the-news-geely/",
-        "date": "Sun, 16 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-16T21:48:45.005Z"
-      },
-      {
-        "title": "China’s Anti-Corruption Campaign Roils On",
-        "link": "https://www.thewirechina.com/2026/08/16/chinas-anti-corruption-campaign-roils-on/",
-        "date": "Sun, 16 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-16T21:48:45.005Z"
-      },
-      {
-        "title": "Moonshot AI’s Yang Zhilin takes his shot, Zhu Rongji RIP, and the fall of Fang Xinghai",
-        "link": "https://www.thewirechina.com/2026/08/16/moonshot-ais-yang-zhilin-takes-his-shot-zhu-rongji-rip-and-the-fall-of-fang-xinghai/",
-        "date": "Sun, 16 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-16T21:48:45.005Z"
-      },
-      {
-        "title": "Zhu Rongji: A Reformer Who Centralized More Power in the Chinese State",
-        "link": "https://www.thewirechina.com/2026/08/15/zhu-rongji-a-reformer-who-centralized-more-power-in-the-chinese-state/",
-        "date": "Sat, 15 Aug 2026 08:30:00 +0000",
-        "firstSeen": "2026-08-15T21:48:57.773Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/14/the-daily-roundup-august-14-2026/",
-        "date": "Fri, 14 Aug 2026 13:00:20 +0000",
-        "firstSeen": "2026-08-14T21:50:24.437Z"
-      },
-      {
-        "title": "The Great Premier",
-        "link": "https://www.thewirechina.com/2026/08/13/the-great-premier/",
-        "date": "Thu, 13 Aug 2026 14:30:00 +0000",
-        "firstSeen": "2026-08-13T22:00:01.338Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/13/the-daily-roundup-august-13-2026/",
-        "date": "Thu, 13 Aug 2026 13:03:26 +0000",
-        "firstSeen": "2026-08-13T22:00:01.338Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/12/the-daily-roundup-august-12-2026/",
-        "date": "Wed, 12 Aug 2026 13:08:06 +0000",
+        "title": "Russia’s Pacific submarine fleet: Sino-Russian cooperation in a conventional Pacific conflict",
+        "link": "https://www.aspi.org.au/report/russias-pacific-submarine-fleet-sino-russian-cooperation-in-a-conventional-pacific-conflict/",
+        "date": "Wed, 12 Aug 2026 20:00:00 +0000",
         "firstSeen": "2026-08-12T22:00:14.782Z"
       },
       {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/11/the-daily-roundup-august-11-2026/",
-        "date": "Tue, 11 Aug 2026 12:52:54 +0000",
-        "firstSeen": "2026-08-11T22:00:37.514Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/10/the-daily-roundup-august-10-2026/",
-        "date": "Mon, 10 Aug 2026 12:54:21 +0000",
-        "firstSeen": "2026-08-10T21:58:00.040Z"
-      },
-      {
-        "title": "Lily Qi on Choosing to be an American",
-        "link": "https://www.thewirechina.com/2026/08/09/lily-qi-on-choosing-to-be-an-american/",
-        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-09T21:53:57.562Z"
-      },
-      {
-        "title": "China Readies for a Record Number of Humanoids",
-        "link": "https://www.thewirechina.com/2026/08/09/china-readies-for-a-record-number-of-humanoids/",
-        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-09T21:53:57.562Z"
-      },
-      {
-        "title": "From 5G to NearLink: Europe’s Next Digital Dependency Risk",
-        "link": "https://www.thewirechina.com/2026/08/09/from-5g-to-nearlink-europes-next-digital-dependency-risk/",
-        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-09T21:53:57.562Z"
-      },
-      {
-        "title": "Jupiter’s Descent",
-        "link": "https://www.thewirechina.com/2026/08/09/jupiters-descent/",
-        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-09T21:53:57.562Z"
-      },
-      {
-        "title": "The Bargain Hunters",
-        "link": "https://www.thewirechina.com/2026/08/09/the-bargain-hunters/",
-        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-09T21:53:57.562Z"
-      },
-      {
-        "title": "Jupiter Systems, Part II",
-        "link": "https://www.thewirechina.com/2026/08/09/jupiter-systems-part-ii/",
-        "date": "Sun, 09 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-09T21:53:57.562Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/07/the-daily-roundup-august-7-2026/",
-        "date": "Fri, 07 Aug 2026 12:45:59 +0000",
-        "firstSeen": "2026-08-07T21:57:11.415Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/06/the-daily-roundup-august-6-2026/",
-        "date": "Thu, 06 Aug 2026 12:45:00 +0000",
-        "firstSeen": "2026-08-06T23:45:46.532Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/05/the-daily-roundup-august-5-2026/",
-        "date": "Wed, 05 Aug 2026 12:45:00 +0000",
-        "firstSeen": "2026-08-05T22:07:14.071Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/04/the-daily-roundup-august-4-2026/",
-        "date": "Tue, 04 Aug 2026 12:45:00 +0000",
-        "firstSeen": "2026-08-04T22:07:03.023Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/08/03/the-daily-roundup-august-3-2026/",
-        "date": "Mon, 03 Aug 2026 12:00:00 +0000",
-        "firstSeen": "2026-08-03T22:06:46.986Z"
-      },
-      {
-        "title": "Alex Wang on What China Gets Right — and Wrong — on the Environment",
-        "link": "https://www.thewirechina.com/2026/08/02/alex-wang-on-what-china-gets-right-and-wrong-on-the-environment/",
-        "date": "Sun, 02 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-02T22:03:21.555Z"
-      },
-      {
-        "title": "DJI Gets into a Fight in the U.S. — With Another Chinese Dronemaker",
-        "link": "https://www.thewirechina.com/2026/08/02/dji-gets-into-a-fight-in-the-u-s-with-another-chinese-dronemaker/",
-        "date": "Sun, 02 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-02T22:03:21.555Z"
-      },
-      {
-        "title": "From “Hide and Bide” to “Loud and Proud”",
-        "link": "https://www.thewirechina.com/2026/08/02/from-hide-and-bide-to-loud-and-proud/",
-        "date": "Sun, 02 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-02T22:03:21.555Z"
-      },
-      {
-        "title": "Xi Jinping, Ambassador to Everywhere",
-        "link": "https://www.thewirechina.com/2026/08/02/xi-jinping-ambassador-to-everywhere/",
-        "date": "Sun, 02 Aug 2026 21:00:00 +0000",
-        "firstSeen": "2026-08-02T22:03:21.555Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/31/the-daily-roundup-july-31-2026/",
-        "date": "Fri, 31 Jul 2026 12:52:29 +0000",
-        "firstSeen": "2026-07-31T22:06:02.178Z"
-      },
-      {
-        "title": "China’s Tech Stocks Are Falling Despite Their Own Breakthroughs",
-        "link": "https://www.thewirechina.com/2026/07/30/chinas-tech-stocks-are-falling-despite-their-own-breakthroughs/",
-        "date": "Thu, 30 Jul 2026 16:00:00 +0000",
+        "title": "From the old world to the new: Why German rearmament matters for Australia",
+        "link": "https://www.aspi.org.au/report/from-old-world-new/",
+        "date": "Wed, 29 Jul 2026 20:00:00 +0000",
         "firstSeen": "2026-07-30T22:07:38.801Z"
       },
       {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/30/the-daily-roundup-july-30-2026/",
-        "date": "Thu, 30 Jul 2026 12:35:18 +0000",
-        "firstSeen": "2026-07-30T22:07:38.801Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/29/the-daily-roundup-july-29-2026/",
-        "date": "Wed, 29 Jul 2026 12:46:35 +0000",
-        "firstSeen": "2026-07-29T22:04:53.340Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/28/the-daily-roundup-july-28-2026/",
-        "date": "Tue, 28 Jul 2026 12:47:05 +0000",
-        "firstSeen": "2026-07-28T22:05:39.133Z"
-      },
-      {
-        "title": "Unboxing Shein’s Hong Kong IPO",
-        "link": "https://www.thewirechina.com/2026/07/27/unboxing-sheins-hong-kong-ipo/",
-        "date": "Mon, 27 Jul 2026 21:50:58 +0000",
+        "title": "Past its use-by-date: Turning end-of-life technology risk into national advantage",
+        "link": "https://www.aspi.org.au/report/past-its-use-by-date-turning-end-of-life-technology-risk-into-national-advantage/",
+        "date": "Mon, 27 Jul 2026 20:00:00 +0000",
         "firstSeen": "2026-07-27T22:06:16.105Z"
       },
       {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/27/the-daily-roundup-july-27-2026/",
-        "date": "Mon, 27 Jul 2026 12:31:31 +0000",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "Geremie Barmé on the ‘Other China’",
-        "link": "https://www.thewirechina.com/2026/07/26/geremie-barme-on-the-other-china/",
-        "date": "Sun, 26 Jul 2026 23:00:00 +0000",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "Nvidia’s China Partners and the PLA",
-        "link": "https://www.thewirechina.com/2026/07/26/nvidias-china-partners-and-the-pla/",
-        "date": "Sun, 26 Jul 2026 23:00:00 +0000",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "Can China Keep Its AI Open?",
-        "link": "https://www.thewirechina.com/2026/07/26/can-china-keep-its-ai-open/",
-        "date": "Sun, 26 Jul 2026 23:00:00 +0000",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "Company in the News: CXMT",
-        "link": "https://www.thewirechina.com/2026/07/26/company-in-the-news-cxmt/",
-        "date": "Sun, 26 Jul 2026 23:00:00 +0000",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "Nvidia’s China Partners and the PLA",
-        "link": "https://www.thewirechina.com/2026/07/26/nvidias-china-partners-and-the-pla-newsletter/",
-        "date": "Sun, 26 Jul 2026 23:00:00 +0000",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/24/the-daily-roundup-july-24-2026/",
-        "date": "Fri, 24 Jul 2026 12:15:00 +0000",
-        "firstSeen": "2026-07-24T22:05:39.748Z"
-      },
-      {
-        "title": "China’s New Technology Trap",
-        "link": "https://www.thewirechina.com/2026/07/23/chinas-new-technology-trap/",
-        "date": "Thu, 23 Jul 2026 13:00:00 +0000",
-        "firstSeen": "2026-07-23T22:05:56.839Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/23/the-daily-roundup-july-23-2026/",
-        "date": "Thu, 23 Jul 2026 13:00:00 +0000",
-        "firstSeen": "2026-07-23T22:05:56.839Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/22/the-daily-roundup-july-22-2026/",
-        "date": "Wed, 22 Jul 2026 12:45:00 +0000",
-        "firstSeen": "2026-07-22T22:05:33.220Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/21/the-daily-roundup-july-21-2026/",
-        "date": "Tue, 21 Jul 2026 12:45:00 +0000",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/20/the-daily-roundup-july-20-2026/",
-        "date": "Mon, 20 Jul 2026 13:00:00 +0000",
-        "firstSeen": "2026-07-20T22:05:23.456Z"
-      },
-      {
-        "title": "Rongbin Han on the Internet Writers Making China Great Again",
-        "link": "https://www.thewirechina.com/2026/07/19/rongbin-han-on-the-internet-writers-making-china-great-again/",
-        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-19T22:02:54.231Z"
-      },
-      {
-        "title": "The United States and China Are Leaving a Dangerous Vacuum in Global Leadership",
-        "link": "https://www.thewirechina.com/2026/07/19/the-united-states-and-china-are-leaving-a-dangerous-vacuum-in-global-leadership/",
-        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-19T22:02:54.231Z"
-      },
-      {
-        "title": "The Return of the Taiwan Tiger",
-        "link": "https://www.thewirechina.com/2026/07/19/the-return-of-the-taiwan-tiger/",
-        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-19T22:02:54.231Z"
-      },
-      {
-        "title": "Tsinghua’s Central Role in China’s AI Revolution",
-        "link": "https://www.thewirechina.com/2026/07/19/tsinghuas-central-role-in-chinas-ai-revolution/",
-        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-19T22:02:54.231Z"
-      },
-      {
-        "title": "The Return of the Taiwan Tiger",
-        "link": "https://www.thewirechina.com/2026/07/19/the-return-of-the-taiwan-tiger-newsletter/",
-        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-19T22:02:54.231Z"
-      },
-      {
-        "title": "China Applies its Industrial Playbook to Brain Chips",
-        "link": "https://www.thewirechina.com/2026/07/19/china-applies-its-industrial-playbook-to-brain-chips/",
-        "date": "Sun, 19 Jul 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-19T22:02:54.231Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/17/the-daily-roundup-july-17-2026/",
-        "date": "Fri, 17 Jul 2026 13:06:33 +0000",
-        "firstSeen": "2026-07-17T22:02:36.375Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/16/the-daily-roundup-july-16-2026/",
-        "date": "Thu, 16 Jul 2026 12:08:54 +0000",
-        "firstSeen": "2026-07-16T22:05:42.331Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/15/the-daily-roundup-july-15-2026/",
-        "date": "Wed, 15 Jul 2026 13:03:21 +0000",
+        "title": "Polar security: Strategic competition at the ends of the Earth",
+        "link": "https://www.aspi.org.au/report/polar-security/",
+        "date": "Wed, 15 Jul 2026 20:00:00 +0000",
         "firstSeen": "2026-07-15T22:05:17.826Z"
       },
       {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/14/the-daily-roundup-july-14-2026/",
-        "date": "Tue, 14 Jul 2026 12:16:43 +0000",
-        "firstSeen": "2026-07-14T22:04:58.078Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/13/the-daily-roundup-july-13-2026/",
-        "date": "Mon, 13 Jul 2026 12:44:21 +0000",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "Benn Steil on Why the Global Order is Falling Apart",
-        "link": "https://www.thewirechina.com/2026/07/12/benn-steil-on-why-the-global-order-is-falling-apart/",
-        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "title": "Northern Australia’s strategic operating system: Industry, infrastructure and national resilience",
+        "link": "https://www.aspi.org.au/report/northern-australias-strategic-operating-system/",
+        "date": "Wed, 08 Jul 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "China’s Planners Are Preparing for a Major Financial Crash",
-        "link": "https://www.thewirechina.com/2026/07/12/chinas-planners-are-preparing-for-a-major-financial-crash/",
-        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "title": "Primed for pressure: A Preparedness, Resilience and Redundancy Scorecard",
+        "link": "https://www.aspi.org.au/report/primed-for-pressure/",
+        "date": "Wed, 01 Jul 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The Sun Sets for Chinese Solar in the U.S.",
-        "link": "https://www.thewirechina.com/2026/07/12/the-sun-sets-for-chinese-solar-in-the-u-s/",
-        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "title": "Australian security in an era of uncertainty: Views from the Defence Strategy Program in The Strategist: 2025-26 edition",
+        "link": "https://www.aspi.org.au/report/australian-security-era-uncertainty/",
+        "date": "Sun, 28 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Why Europe is Facing Up to the China Shock Now",
-        "link": "https://www.thewirechina.com/2026/07/12/why-europe-is-facing-up-to-the-china-shock-now/",
-        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "title": "From common threats to narrative defence: An intelligence-led mission approach for Australia–Japan cooperation",
+        "link": "https://www.aspi.org.au/report/from-common-threats-narrative-defence/",
+        "date": "Thu, 25 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "America’s EV Reckoning",
-        "link": "https://www.thewirechina.com/2026/07/12/americas-ev-reckoning/",
-        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "title": "Synergies for the future: Australia–South Korea pathways in strategic defence technology cooperation",
+        "link": "https://www.aspi.org.au/report/synergies-for-the-future/",
+        "date": "Mon, 22 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "A Shadow Falls Over Chinese Solar Investments in the U.S.",
-        "link": "https://www.thewirechina.com/2026/07/12/a-shadow-falls-over-chinese-solar-investments-in-the-u-s/",
-        "date": "Sun, 12 Jul 2026 21:00:00 +0000",
+        "title": "Pressure Points Part 3: China in the Pacific and Indian oceans",
+        "link": "https://www.aspi.org.au/report/pressure-points-china-pacific-indian-oceans/",
+        "date": "Wed, 17 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/10/the-daily-roundup-july-10-2026/",
-        "date": "Fri, 10 Jul 2026 12:15:00 +0000",
+        "title": "Reading the room: Redesigning intelligence product for the AI age",
+        "link": "https://www.aspi.org.au/report/reading-the-room/",
+        "date": "Mon, 15 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/09/the-daily-roundup-july-9-2026/",
-        "date": "Thu, 09 Jul 2026 12:45:00 +0000",
+        "title": "Make stuff here…or else: A framework for deciding what Australia must produce, repair or regenerate domestically",
+        "link": "https://www.aspi.org.au/report/make-stuff-here-or-else/",
+        "date": "Thu, 11 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/08/the-daily-roundup-july-8-2026/",
-        "date": "Wed, 08 Jul 2026 12:30:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/07/the-daily-roundup-july-7-2026/",
-        "date": "Tue, 07 Jul 2026 12:45:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/06/the-daily-roundup-july-6-2026/",
-        "date": "Mon, 06 Jul 2026 12:30:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/03/the-daily-roundup-july-3-2026/",
-        "date": "Fri, 03 Jul 2026 12:07:45 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Nvidia Uses The Specter of Huawei to Make Its Chip Exports Case",
-        "link": "https://www.thewirechina.com/2026/07/02/nvidia-uses-the-specter-of-huawei-to-make-its-chip-exports-case/",
-        "date": "Thu, 02 Jul 2026 15:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/02/the-daily-roundup-july-2-2026/",
-        "date": "Thu, 02 Jul 2026 12:18:09 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/07/01/the-daily-roundup-july-1-2026/",
-        "date": "Wed, 01 Jul 2026 12:53:41 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/30/the-daily-roundup-june-30-2026/",
-        "date": "Tue, 30 Jun 2026 11:03:14 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/29/the-daily-roundup-june-29-2026/",
-        "date": "Mon, 29 Jun 2026 12:46:53 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Katrina Manson on How AI is Changing the Nature of War",
-        "link": "https://www.thewirechina.com/2026/06/28/katrina-manson-on-how-ai-is-changing-the-nature-of-war/",
-        "date": "Sun, 28 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Mr Yu’s Dream Machine",
-        "link": "https://www.thewirechina.com/2026/06/28/mr-yus-dream-machine/",
-        "date": "Sun, 28 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "A Now Or Never Moment For Xiaohongshu",
-        "link": "https://www.thewirechina.com/2026/06/28/a-now-or-never-moment-for-xiaohongshu/",
-        "date": "Sun, 28 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Company in the News: Zhongji Innolight",
-        "link": "https://www.thewirechina.com/2026/06/28/company-in-the-news-zhongji-innolight/",
-        "date": "Sun, 28 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Mr Yu’s Dream Machine",
-        "link": "https://www.thewirechina.com/2026/06/28/mr-yus-dream-machine-newsletter/",
-        "date": "Sun, 28 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/26/the-daily-roundup-june-26-2026/",
-        "date": "Fri, 26 Jun 2026 12:15:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/25/the-daily-roundup-june-25-2026/",
-        "date": "Thu, 25 Jun 2026 12:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The EU Must Confront China’s Trade Challenge",
-        "link": "https://www.thewirechina.com/2026/06/25/the-eu-must-confront-chinas-trade-challenge/",
-        "date": "Thu, 25 Jun 2026 08:30:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/24/the-daily-roundup-june-24-2026/",
-        "date": "Wed, 24 Jun 2026 12:30:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/23/the-daily-roundup-june-23-2026/",
-        "date": "Tue, 23 Jun 2026 12:30:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/22/the-daily-roundup-june-22-2026/",
-        "date": "Mon, 22 Jun 2026 12:45:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Alan Estevez on Why Export Controls Work",
-        "link": "https://www.thewirechina.com/2026/06/21/alan-estevez-on-why-export-controls-work/",
-        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Are Government Stakes the Key to AI Sovereignty?",
-        "link": "https://www.thewirechina.com/2026/06/21/are-government-stakes-the-key-to-ai-sovereignty/",
-        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Surrounding American AI from the South",
-        "link": "https://www.thewirechina.com/2026/06/21/surrounding-american-ai-from-the-south/",
-        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Chinese Academy of Sciences",
-        "link": "https://www.thewirechina.com/2026/06/21/the-chinese-academy-of-sciences/",
-        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Chinese Auto Companies Test U.S. Tech Rules",
-        "link": "https://www.thewirechina.com/2026/06/21/chinese-auto-companies-test-u-s-tech-rules/",
-        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Long Arm of the Chinese Academy of Sciences",
-        "link": "https://www.thewirechina.com/2026/06/21/the-long-arm-of-the-chinese-academy-of-sciences/",
-        "date": "Sun, 21 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/19/the-daily-roundup-june-19-2026/",
-        "date": "Fri, 19 Jun 2026 12:42:30 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/18/the-daily-roundup-june-18-2026/",
-        "date": "Thu, 18 Jun 2026 13:07:37 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/17/the-daily-roundup-june-17-2026/",
-        "date": "Wed, 17 Jun 2026 11:55:27 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/16/the-daily-roundup-june-16-2026/",
-        "date": "Tue, 16 Jun 2026 12:52:51 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/15/the-daily-roundup-june-15-2026/",
-        "date": "Mon, 15 Jun 2026 12:30:48 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The AI Issue America and China Can Cooperate On Now",
-        "link": "https://www.thewirechina.com/2026/06/14/the-ai-issue-america-and-china-can-cooperate-on-now/",
-        "date": "Sun, 14 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Behind the Screens",
-        "link": "https://www.thewirechina.com/2026/06/14/behind-the-screens/",
-        "date": "Sun, 14 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Where Is China’s Trillion-Dollar Trade Surplus Going?",
-        "link": "https://www.thewirechina.com/2026/06/14/where-is-chinas-trillion-dollar-trade-surplus-going/",
-        "date": "Sun, 14 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Soumaya Keynes and Chad Bown on Fighting and Winning Trade Wars",
-        "link": "https://www.thewirechina.com/2026/06/14/soumaya-keynes-and-chad-bown-on-fighting-and-winning-trade-wars/",
-        "date": "Sun, 14 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "A CFIUS Thriller",
-        "link": "https://www.thewirechina.com/2026/06/14/a-cfius-thriller/",
-        "date": "Sun, 14 Jun 2026 21:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/12/the-daily-roundup-june-12-2026/",
-        "date": "Fri, 12 Jun 2026 12:15:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/11/the-daily-roundup-june-11-2026/",
-        "date": "Thu, 11 Jun 2026 12:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Getting Strict on Chinese Military Companies",
-        "link": "https://www.thewirechina.com/2026/06/10/getting-strict-on-chinese-military-companies/",
+        "title": "Darwin Dialogue 2026 – From exposure to endurance: competitive architecture for high-ESG mineral-specific supply chains",
+        "link": "https://www.aspi.org.au/report/darwin-dialogue-2026/",
         "date": "Wed, 10 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/10/the-daily-roundup-june-10-2026/",
-        "date": "Wed, 10 Jun 2026 12:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/09/the-daily-roundup-june-9-2026/",
-        "date": "Tue, 09 Jun 2026 11:30:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "The Daily Roundup",
-        "link": "https://www.thewirechina.com/2026/06/08/the-daily-roundup-june-8-2026/",
-        "date": "Mon, 08 Jun 2026 12:00:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "ifi": [
-      {
-        "title": "The Illicit Oil Pipeline: How Criminal Networks Turn Crude into Clean Cash",
-        "link": "https://finintegrity.org/the-illicit-oil-pipeline/",
-        "date": "Wed, 19 Aug 2026 11:00:06 +0000",
-        "firstSeen": "2026-08-19T21:50:53.181Z"
-      },
-      {
-        "title": "Beyond the Course Library",
-        "link": "https://finintegrity.org/beyond-the-course-library/",
-        "date": "Wed, 12 Aug 2026 11:00:23 +0000",
-        "firstSeen": "2026-08-12T22:00:14.782Z"
-      },
-      {
-        "title": "July Monthly Sanctions and Export Controls Report",
-        "link": "https://finintegrity.org/july-2026-monthly-sanctions-export-controls-report/",
-        "date": "Tue, 04 Aug 2026 11:00:45 +0000",
-        "firstSeen": "2026-08-04T22:07:03.023Z"
-      },
-      {
-        "title": "A Financial Institution’s Guide to Updated EU Market Abuse Regulation",
-        "link": "https://finintegrity.org/a-financial-institutions-guide-to-updated-eu-market-abuse-regulation/",
-        "date": "Wed, 29 Jul 2026 11:00:47 +0000",
-        "firstSeen": "2026-07-29T22:04:53.340Z"
-      },
-      {
-        "title": "The Hidden Factor Behind Effective Compliance Training",
-        "link": "https://finintegrity.org/the-hidden-factor-behind-effective-compliance-training/",
-        "date": "Wed, 22 Jul 2026 11:00:13 +0000",
-        "firstSeen": "2026-07-22T22:05:33.220Z"
-      },
-      {
-        "title": "Social Engineering Is Rewriting the Fraud Playbook",
-        "link": "https://finintegrity.org/social-engineering-is-rewriting-the-fraud-playbook/",
-        "date": "Wed, 08 Jul 2026 11:00:56 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Hadhramout Bank Selects IFI as Training Provider to Strengthen Financial Integrity and Cross-Border Payment Compliance",
-        "link": "https://finintegrity.org/hadhramout-bank-selects-ifi-as-training-provider-to-strengthen-financial-integrity-and-cross-border-payment-compliance/",
-        "date": "Tue, 07 Jul 2026 12:00:45 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "June 2026 Sanctions and Export Controls Report",
-        "link": "https://finintegrity.org/june-2026-sanctions-and-export-controls-report/",
-        "date": "Wed, 01 Jul 2026 11:00:39 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Crypto Layering",
-        "link": "https://finintegrity.org/crypto-layering/",
-        "date": "Wed, 17 Jun 2026 11:00:01 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Who Owns the Risk?",
-        "link": "https://finintegrity.org/who-owns-the-risk/",
-        "date": "Wed, 10 Jun 2026 11:00:16 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "May 2026 Sanctions and Export Controls Update",
-        "link": "https://finintegrity.org/may-2026-monthly-sanctions-and-export-controls-report/",
-        "date": "Wed, 03 Jun 2026 11:00:14 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 3",
-        "link": "https://finintegrity.org/fatf-part-3/",
-        "date": "Wed, 13 May 2026 11:00:08 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "IFI Expands Arabic Training Offering to Meet Growing Demand",
-        "link": "https://finintegrity.org/ifi-expands-arabic-training-offering-to-meet-growing-demand/",
-        "date": "Tue, 12 May 2026 12:00:16 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "April 2026 Monthly Sanctions and Export Controls Report",
-        "link": "https://finintegrity.org/april-2026-monthly-sanctions-and-export-controls-report/",
-        "date": "Tue, 05 May 2026 11:00:33 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Understanding the FATF: A Guide for Private Sector Stakeholders Part 2",
-        "link": "https://finintegrity.org/fatf-part-2/",
-        "date": "Tue, 28 Apr 2026 11:00:03 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
-    "bm-sanctions": [
-      {
-        "title": "US Government Expands Cuba Sanctions Program with New Designations and General Licenses",
-        "link": "https://sanctionsnews.bakermckenzie.com/us-government-expands-cuba-sanctions-program-with-new-designations-and-general-licenses/",
-        "date": "Mon, 17 Aug 2026 17:14:08 +0000",
-        "firstSeen": "2026-08-17T21:50:39.931Z"
-      },
-      {
-        "title": "FinCEN Commits to Forbear from BSA Enforcement for Authorized Financial Services in Venezuela",
-        "link": "https://sanctionsnews.bakermckenzie.com/fincen-commits-to-forbear-from-bsa-enforcement-for-authorized-financial-services-in-venezuela/",
-        "date": "Mon, 17 Aug 2026 17:07:10 +0000",
-        "firstSeen": "2026-08-17T21:50:39.931Z"
-      },
-      {
-        "title": "Multiple Governments Issue Joint Alert on North Korean IT Workers",
-        "link": "https://sanctionsnews.bakermckenzie.com/multiple-governments-issue-joint-alert-on-north-korean-it-workers/",
-        "date": "Fri, 14 Aug 2026 20:04:31 +0000",
-        "firstSeen": "2026-08-14T21:50:24.437Z"
-      },
-      {
-        "title": "US: FCC Adds Inverters and Robotics to Covered List",
-        "link": "https://sanctionsnews.bakermckenzie.com/us-fcc-adds-inverters-and-robotics-to-covered-list/",
-        "date": "Fri, 14 Aug 2026 05:03:06 +0000",
-        "firstSeen": "2026-08-14T21:50:24.437Z"
-      },
-      {
-        "title": "BIS Restricts Exports of Black Mass and Tungsten Waste and Scrap without a License",
-        "link": "https://sanctionsnews.bakermckenzie.com/bis-restricts-exports-of-black-mass-and-tungsten-waste-and-scrap-without-a-license/",
-        "date": "Tue, 11 Aug 2026 19:25:27 +0000",
-        "firstSeen": "2026-08-11T22:00:37.514Z"
-      },
-      {
-        "title": "OFAC Restructures Hong Kong Sanctions Following Expiration of Executive Order 13936",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-restructures-hong-kong-sanctions-following-expiration-of-executive-order-13936/",
-        "date": "Mon, 03 Aug 2026 17:15:07 +0000",
-        "firstSeen": "2026-08-03T22:06:46.986Z"
-      },
-      {
-        "title": "BIS Grants the UAE Enhanced Favorable Treatment Under the EAR",
-        "link": "https://sanctionsnews.bakermckenzie.com/bis-grants-the-uae-enhanced-favorable-treatment-under-the-ear/",
-        "date": "Wed, 29 Jul 2026 14:05:05 +0000",
-        "firstSeen": "2026-07-29T22:04:53.340Z"
-      },
-      {
-        "title": "Additional Sanctions on Sudan under the Chemical and Biological Weapons Control and Warfare Elimination Act",
-        "link": "https://sanctionsnews.bakermckenzie.com/additional-sanctions-on-sudan-under-the-chemical-and-biological-weapons-control-and-warfare-elimination-act/",
-        "date": "Wed, 29 Jul 2026 13:57:22 +0000",
-        "firstSeen": "2026-07-29T22:04:53.340Z"
-      },
-      {
-        "title": "EU adopts 21st Russia sanctions package",
-        "link": "https://sanctionsnews.bakermckenzie.com/eu-adopts-21st-russia-sanctions-package/",
-        "date": "Wed, 29 Jul 2026 13:23:24 +0000",
-        "firstSeen": "2026-07-29T22:04:53.340Z"
-      },
-      {
-        "title": "UK National Security (State Threats) Act 2026: new designation regime for state-linked threats and proxy organisations",
-        "link": "https://sanctionsnews.bakermckenzie.com/uk-national-security-state-threats-act-2026-new-designation-regime-for-state-linked-threats-and-proxy-organisations/",
-        "date": "Mon, 27 Jul 2026 12:09:05 +0000",
-        "firstSeen": "2026-07-27T22:06:16.105Z"
-      },
-      {
-        "title": "OFAC Issues General License Authorizing Agricultural and Medical Transactions and Activities Related to the Democratic Republic of the Congo and the Republic of Rwanda",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-authorizing-agricultural-and-medical-transactions-and-activities-related-to-the-democratic-republic-of-the-congo-and-the-republic-of-rwanda/",
-        "date": "Wed, 22 Jul 2026 13:44:07 +0000",
-        "firstSeen": "2026-07-22T22:05:33.220Z"
-      },
-      {
-        "title": "United States: Administration Issues New Executive Order on Quantum Innovation",
-        "link": "https://sanctionsnews.bakermckenzie.com/united-states-administration-issues-new-executive-order-on-quantum-innovation/",
-        "date": "Tue, 21 Jul 2026 04:19:09 +0000",
-        "firstSeen": "2026-07-21T22:05:28.619Z"
-      },
-      {
-        "title": "OFAC Targets Iranian Commercial Networks and Issues Iran-Related Wind Down General Licenses",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-targets-iranian-commercial-networks-and-issues-iran-related-wind-down-general-licenses/",
-        "date": "Fri, 17 Jul 2026 22:02:37 +0000",
-        "firstSeen": "2026-07-17T22:02:36.375Z"
-      },
-      {
-        "title": "OFAC sanctions parties for links to Brazilian Foreign Terrorist Organization PCC",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-sanctions-parties-for-links-to-brazilian-foreign-terrorist-organization-pcc/",
-        "date": "Tue, 14 Jul 2026 20:03:18 +0000",
-        "firstSeen": "2026-07-15T22:05:17.826Z"
-      },
-      {
-        "title": "US Initiates Process to Rescind Syria’s State Sponsor of Terrorism Designation",
-        "link": "https://sanctionsnews.bakermckenzie.com/us-initiates-process-to-rescind-syrias-state-sponsor-of-terrorism-designation/",
-        "date": "Mon, 13 Jul 2026 20:28:34 +0000",
-        "firstSeen": "2026-07-13T22:03:34.597Z"
-      },
-      {
-        "title": "OFAC and OFSI Publish Joint Guidance Comparing US and UK Sanctions Regimes Following Latest Enhanced Partnership Exchange",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-and-ofsi-publish-joint-guidance-comparing-us-and-uk-sanctions-regimes-following-latest-enhanced-partnership-exchange/",
-        "date": "Fri, 10 Jul 2026 12:45:11 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Reverses US Sanctions Relaxation Related to US-Iran Memorandum of Understanding",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-reverses-us-sanctions-relaxation-related-to-us-iran-memorandum-of-understanding/",
-        "date": "Tue, 07 Jul 2026 20:24:46 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "U.S. House Passes Ukraine Support Act, Advancing Additional Russia-Related Sanctions and Trade Measures",
-        "link": "https://sanctionsnews.bakermckenzie.com/u-s-house-passes-ukraine-support-act-advancing-additional-russia-related-sanctions-and-trade-measures/",
-        "date": "Tue, 30 Jun 2026 09:47:31 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Venezuela Developments: New Conviasa Aircraft General License, Reissued Venezuela Telecom/Mail and PdVSA Bond Authorizations, and Updated FAQ 595",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-venezuela-developments-new-conviasa-aircraft-general-license-reissued-venezuela-telecom-mail-and-pdvsa-bond-authorizations-and-updated-faq-595/",
-        "date": "Fri, 26 Jun 2026 16:28:00 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "UK Introduces New Open General Export Licence for Dual-Use Items",
-        "link": "https://sanctionsnews.bakermckenzie.com/uk-introduces-new-open-general-export-licence-for-dual-use-items/",
-        "date": "Fri, 26 Jun 2026 13:54:11 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Issues General License for Earthquake Relief Efforts in Venezuela",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-for-earthquake-relief-efforts-in-venezuela/",
-        "date": "Thu, 25 Jun 2026 23:28:53 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Canada Expands Russia Sanctions at G7 Summit",
-        "link": "https://sanctionsnews.bakermckenzie.com/canada-expands-russia-sanctions-at-g7-summit/",
-        "date": "Wed, 24 Jun 2026 14:15:22 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Begins to Relax US Sanctions to Implement US-Iran Memorandum of Understanding",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-begins-to-relax-us-sanctions-to-implement-us-iran-memorandum-of-understanding/",
-        "date": "Tue, 23 Jun 2026 11:47:52 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "UK Expands Russia Sanctions to Further Target Shadow Fleet, Military Procurement, and Financial Networks",
-        "link": "https://sanctionsnews.bakermckenzie.com/uk-expands-russia-sanctions-to-further-target-shadow-fleet-military-procurement-and-financial-networks/",
-        "date": "Thu, 18 Jun 2026 12:52:46 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Updates Venezuela General Licenses and Issues New Venezuela FAQs",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-updates-venezuela-general-licenses-and-issues-new-venezuela-faqs/",
-        "date": "Thu, 18 Jun 2026 03:35:07 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Publishes List of Medical Devices Excluded From the General License for Non-US Agricultural Commodities, Medicine, and Medical Devices Destined for North Korea",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-publishes-list-of-medical-devices-excluded-from-the-general-license-for-non-us-agricultural-commodities-medicine-and-medical-devices-destined-for-north-korea/",
-        "date": "Wed, 17 Jun 2026 15:13:32 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "US Government Updates 1260H List of Chinese Military Companies",
-        "link": "https://sanctionsnews.bakermckenzie.com/us-government-updates-1260h-list-of-chinese-military-companies/",
-        "date": "Tue, 16 Jun 2026 13:42:05 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Expands Guidance on Strait of Hormuz “Safe Passage” Restrictions",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-expands-guidance-on-strait-of-hormuz-safe-passage-restrictions/",
-        "date": "Mon, 15 Jun 2026 20:23:24 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "EU: Commission Announces 21st Sanctions Package against Russia Targeting Energy, Financial Sector and Trade",
-        "link": "https://sanctionsnews.bakermckenzie.com/eu-commission-announces-21st-sanctions-package-against-russia-targeting-energy-financial-sector-and-trade/",
-        "date": "Fri, 12 Jun 2026 15:00:17 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "US Continues to Expand Cuba Sanctions: New SDN Designations and Secondary Sanctions Guidance",
-        "link": "https://sanctionsnews.bakermckenzie.com/us-continues-to-expand-cuba-sanctions-new-sdn-designations-and-secondary-sanctions-guidance/",
-        "date": "Wed, 10 Jun 2026 22:23:51 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Spain’s Export Controls Regime: Recent Developments and What Comes Next",
-        "link": "https://sanctionsnews.bakermckenzie.com/spains-export-controls-regime-recent-developments-and-what-comes-next/",
-        "date": "Wed, 10 Jun 2026 10:15:50 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "BIS Clarifies That License Requirements for Advanced Computing Items to Country Group D:5- and Macau-Headquartered Entities Remain in Force Despite AI Diffusion Rule Non-Enforcement",
-        "link": "https://sanctionsnews.bakermckenzie.com/bis-clarifies-that-license-requirements-for-advanced-computing-items-to-country-group-d5-and-macau-headquartered-entities-remain-in-force-despite-ai-diffusion-rule-non-enforcement/",
-        "date": "Mon, 08 Jun 2026 23:55:11 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "UK Financial Conduct Authority publishes report indicating that financial institutions must do more to prevent sanctions breaches: key takeaways",
-        "link": "https://sanctionsnews.bakermckenzie.com/uk-financial-conduct-authority-publishes-report-indicating-that-financial-institutions-must-do-more-to-prevent-sanctions-breaches-key-takeaways/",
-        "date": "Fri, 29 May 2026 18:13:06 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "Swiss Federal Supreme Court clarifies the evidentiary threshold triggering asset freeze and reporting obligations under Art. 15 para. 1 and Art. 16 para. 1 of the Ukraine Ordinance",
-        "link": "https://sanctionsnews.bakermckenzie.com/swiss-federal-supreme-court-clarifies-the-evidentiary-threshold-triggering-asset-freeze-and-reporting-obligations-under-art-15-para-1-and-art-16-para-1-of-the-ukraine-ordinance/",
-        "date": "Wed, 27 May 2026 16:14:24 +0000",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "OFAC Issues General License No. 134C Extending Authorization for Certain Russia‑Origin Crude Oil and Petroleum Product Transactions",
-        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-no-134c-extending-authorization-for-certain-russia-origin-crude-oil-and-petroleum-product-transactions/",
-        "date": "Tue, 26 May 2026 15:33:17 +0000",
+        "title": "North of 26 south and the security of Australia: views from The Strategist Volume 13",
+        "link": "https://www.aspi.org.au/report/north-of-26-south-and-the-security-of-australia-views-from-the-strategist-volume-13/",
+        "date": "Wed, 03 Jun 2026 20:00:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -5773,89 +5725,215 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "aspi": [
+    "bm-sanctions": [
       {
-        "title": "Russia’s Pacific submarine fleet: Sino-Russian cooperation in a conventional Pacific conflict",
-        "link": "https://www.aspi.org.au/report/russias-pacific-submarine-fleet-sino-russian-cooperation-in-a-conventional-pacific-conflict/",
-        "date": "Wed, 12 Aug 2026 20:00:00 +0000",
-        "firstSeen": "2026-08-12T22:00:14.782Z"
+        "title": "US Government Expands Cuba Sanctions Program with New Designations and General Licenses",
+        "link": "https://sanctionsnews.bakermckenzie.com/us-government-expands-cuba-sanctions-program-with-new-designations-and-general-licenses/",
+        "date": "Mon, 17 Aug 2026 17:14:08 +0000",
+        "firstSeen": "2026-08-17T21:50:39.931Z"
       },
       {
-        "title": "From the old world to the new: Why German rearmament matters for Australia",
-        "link": "https://www.aspi.org.au/report/from-old-world-new/",
-        "date": "Wed, 29 Jul 2026 20:00:00 +0000",
-        "firstSeen": "2026-07-30T22:07:38.801Z"
+        "title": "FinCEN Commits to Forbear from BSA Enforcement for Authorized Financial Services in Venezuela",
+        "link": "https://sanctionsnews.bakermckenzie.com/fincen-commits-to-forbear-from-bsa-enforcement-for-authorized-financial-services-in-venezuela/",
+        "date": "Mon, 17 Aug 2026 17:07:10 +0000",
+        "firstSeen": "2026-08-17T21:50:39.931Z"
       },
       {
-        "title": "Past its use-by-date: Turning end-of-life technology risk into national advantage",
-        "link": "https://www.aspi.org.au/report/past-its-use-by-date-turning-end-of-life-technology-risk-into-national-advantage/",
-        "date": "Mon, 27 Jul 2026 20:00:00 +0000",
+        "title": "Multiple Governments Issue Joint Alert on North Korean IT Workers",
+        "link": "https://sanctionsnews.bakermckenzie.com/multiple-governments-issue-joint-alert-on-north-korean-it-workers/",
+        "date": "Fri, 14 Aug 2026 20:04:31 +0000",
+        "firstSeen": "2026-08-14T21:50:24.437Z"
+      },
+      {
+        "title": "US: FCC Adds Inverters and Robotics to Covered List",
+        "link": "https://sanctionsnews.bakermckenzie.com/us-fcc-adds-inverters-and-robotics-to-covered-list/",
+        "date": "Fri, 14 Aug 2026 05:03:06 +0000",
+        "firstSeen": "2026-08-14T21:50:24.437Z"
+      },
+      {
+        "title": "BIS Restricts Exports of Black Mass and Tungsten Waste and Scrap without a License",
+        "link": "https://sanctionsnews.bakermckenzie.com/bis-restricts-exports-of-black-mass-and-tungsten-waste-and-scrap-without-a-license/",
+        "date": "Tue, 11 Aug 2026 19:25:27 +0000",
+        "firstSeen": "2026-08-11T22:00:37.514Z"
+      },
+      {
+        "title": "OFAC Restructures Hong Kong Sanctions Following Expiration of Executive Order 13936",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-restructures-hong-kong-sanctions-following-expiration-of-executive-order-13936/",
+        "date": "Mon, 03 Aug 2026 17:15:07 +0000",
+        "firstSeen": "2026-08-03T22:06:46.986Z"
+      },
+      {
+        "title": "BIS Grants the UAE Enhanced Favorable Treatment Under the EAR",
+        "link": "https://sanctionsnews.bakermckenzie.com/bis-grants-the-uae-enhanced-favorable-treatment-under-the-ear/",
+        "date": "Wed, 29 Jul 2026 14:05:05 +0000",
+        "firstSeen": "2026-07-29T22:04:53.340Z"
+      },
+      {
+        "title": "Additional Sanctions on Sudan under the Chemical and Biological Weapons Control and Warfare Elimination Act",
+        "link": "https://sanctionsnews.bakermckenzie.com/additional-sanctions-on-sudan-under-the-chemical-and-biological-weapons-control-and-warfare-elimination-act/",
+        "date": "Wed, 29 Jul 2026 13:57:22 +0000",
+        "firstSeen": "2026-07-29T22:04:53.340Z"
+      },
+      {
+        "title": "EU adopts 21st Russia sanctions package",
+        "link": "https://sanctionsnews.bakermckenzie.com/eu-adopts-21st-russia-sanctions-package/",
+        "date": "Wed, 29 Jul 2026 13:23:24 +0000",
+        "firstSeen": "2026-07-29T22:04:53.340Z"
+      },
+      {
+        "title": "UK National Security (State Threats) Act 2026: new designation regime for state-linked threats and proxy organisations",
+        "link": "https://sanctionsnews.bakermckenzie.com/uk-national-security-state-threats-act-2026-new-designation-regime-for-state-linked-threats-and-proxy-organisations/",
+        "date": "Mon, 27 Jul 2026 12:09:05 +0000",
         "firstSeen": "2026-07-27T22:06:16.105Z"
       },
       {
-        "title": "Polar security: Strategic competition at the ends of the Earth",
-        "link": "https://www.aspi.org.au/report/polar-security/",
-        "date": "Wed, 15 Jul 2026 20:00:00 +0000",
+        "title": "OFAC Issues General License Authorizing Agricultural and Medical Transactions and Activities Related to the Democratic Republic of the Congo and the Republic of Rwanda",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-authorizing-agricultural-and-medical-transactions-and-activities-related-to-the-democratic-republic-of-the-congo-and-the-republic-of-rwanda/",
+        "date": "Wed, 22 Jul 2026 13:44:07 +0000",
+        "firstSeen": "2026-07-22T22:05:33.220Z"
+      },
+      {
+        "title": "United States: Administration Issues New Executive Order on Quantum Innovation",
+        "link": "https://sanctionsnews.bakermckenzie.com/united-states-administration-issues-new-executive-order-on-quantum-innovation/",
+        "date": "Tue, 21 Jul 2026 04:19:09 +0000",
+        "firstSeen": "2026-07-21T22:05:28.619Z"
+      },
+      {
+        "title": "OFAC Targets Iranian Commercial Networks and Issues Iran-Related Wind Down General Licenses",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-targets-iranian-commercial-networks-and-issues-iran-related-wind-down-general-licenses/",
+        "date": "Fri, 17 Jul 2026 22:02:37 +0000",
+        "firstSeen": "2026-07-17T22:02:36.375Z"
+      },
+      {
+        "title": "OFAC sanctions parties for links to Brazilian Foreign Terrorist Organization PCC",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-sanctions-parties-for-links-to-brazilian-foreign-terrorist-organization-pcc/",
+        "date": "Tue, 14 Jul 2026 20:03:18 +0000",
         "firstSeen": "2026-07-15T22:05:17.826Z"
       },
       {
-        "title": "Northern Australia’s strategic operating system: Industry, infrastructure and national resilience",
-        "link": "https://www.aspi.org.au/report/northern-australias-strategic-operating-system/",
-        "date": "Wed, 08 Jul 2026 20:00:00 +0000",
+        "title": "US Initiates Process to Rescind Syria’s State Sponsor of Terrorism Designation",
+        "link": "https://sanctionsnews.bakermckenzie.com/us-initiates-process-to-rescind-syrias-state-sponsor-of-terrorism-designation/",
+        "date": "Mon, 13 Jul 2026 20:28:34 +0000",
+        "firstSeen": "2026-07-13T22:03:34.597Z"
+      },
+      {
+        "title": "OFAC and OFSI Publish Joint Guidance Comparing US and UK Sanctions Regimes Following Latest Enhanced Partnership Exchange",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-and-ofsi-publish-joint-guidance-comparing-us-and-uk-sanctions-regimes-following-latest-enhanced-partnership-exchange/",
+        "date": "Fri, 10 Jul 2026 12:45:11 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Primed for pressure: A Preparedness, Resilience and Redundancy Scorecard",
-        "link": "https://www.aspi.org.au/report/primed-for-pressure/",
-        "date": "Wed, 01 Jul 2026 20:00:00 +0000",
+        "title": "OFAC Reverses US Sanctions Relaxation Related to US-Iran Memorandum of Understanding",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-reverses-us-sanctions-relaxation-related-to-us-iran-memorandum-of-understanding/",
+        "date": "Tue, 07 Jul 2026 20:24:46 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Australian security in an era of uncertainty: Views from the Defence Strategy Program in The Strategist: 2025-26 edition",
-        "link": "https://www.aspi.org.au/report/australian-security-era-uncertainty/",
-        "date": "Sun, 28 Jun 2026 20:00:00 +0000",
+        "title": "U.S. House Passes Ukraine Support Act, Advancing Additional Russia-Related Sanctions and Trade Measures",
+        "link": "https://sanctionsnews.bakermckenzie.com/u-s-house-passes-ukraine-support-act-advancing-additional-russia-related-sanctions-and-trade-measures/",
+        "date": "Tue, 30 Jun 2026 09:47:31 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "From common threats to narrative defence: An intelligence-led mission approach for Australia–Japan cooperation",
-        "link": "https://www.aspi.org.au/report/from-common-threats-narrative-defence/",
-        "date": "Thu, 25 Jun 2026 20:00:00 +0000",
+        "title": "OFAC Venezuela Developments: New Conviasa Aircraft General License, Reissued Venezuela Telecom/Mail and PdVSA Bond Authorizations, and Updated FAQ 595",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-venezuela-developments-new-conviasa-aircraft-general-license-reissued-venezuela-telecom-mail-and-pdvsa-bond-authorizations-and-updated-faq-595/",
+        "date": "Fri, 26 Jun 2026 16:28:00 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Synergies for the future: Australia–South Korea pathways in strategic defence technology cooperation",
-        "link": "https://www.aspi.org.au/report/synergies-for-the-future/",
-        "date": "Mon, 22 Jun 2026 20:00:00 +0000",
+        "title": "UK Introduces New Open General Export Licence for Dual-Use Items",
+        "link": "https://sanctionsnews.bakermckenzie.com/uk-introduces-new-open-general-export-licence-for-dual-use-items/",
+        "date": "Fri, 26 Jun 2026 13:54:11 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Pressure Points Part 3: China in the Pacific and Indian oceans",
-        "link": "https://www.aspi.org.au/report/pressure-points-china-pacific-indian-oceans/",
-        "date": "Wed, 17 Jun 2026 20:00:00 +0000",
+        "title": "OFAC Issues General License for Earthquake Relief Efforts in Venezuela",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-for-earthquake-relief-efforts-in-venezuela/",
+        "date": "Thu, 25 Jun 2026 23:28:53 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Reading the room: Redesigning intelligence product for the AI age",
-        "link": "https://www.aspi.org.au/report/reading-the-room/",
-        "date": "Mon, 15 Jun 2026 20:00:00 +0000",
+        "title": "Canada Expands Russia Sanctions at G7 Summit",
+        "link": "https://sanctionsnews.bakermckenzie.com/canada-expands-russia-sanctions-at-g7-summit/",
+        "date": "Wed, 24 Jun 2026 14:15:22 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Make stuff here…or else: A framework for deciding what Australia must produce, repair or regenerate domestically",
-        "link": "https://www.aspi.org.au/report/make-stuff-here-or-else/",
-        "date": "Thu, 11 Jun 2026 20:00:00 +0000",
+        "title": "OFAC Begins to Relax US Sanctions to Implement US-Iran Memorandum of Understanding",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-begins-to-relax-us-sanctions-to-implement-us-iran-memorandum-of-understanding/",
+        "date": "Tue, 23 Jun 2026 11:47:52 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "Darwin Dialogue 2026 – From exposure to endurance: competitive architecture for high-ESG mineral-specific supply chains",
-        "link": "https://www.aspi.org.au/report/darwin-dialogue-2026/",
-        "date": "Wed, 10 Jun 2026 20:00:00 +0000",
+        "title": "UK Expands Russia Sanctions to Further Target Shadow Fleet, Military Procurement, and Financial Networks",
+        "link": "https://sanctionsnews.bakermckenzie.com/uk-expands-russia-sanctions-to-further-target-shadow-fleet-military-procurement-and-financial-networks/",
+        "date": "Thu, 18 Jun 2026 12:52:46 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       },
       {
-        "title": "North of 26 south and the security of Australia: views from The Strategist Volume 13",
-        "link": "https://www.aspi.org.au/report/north-of-26-south-and-the-security-of-australia-views-from-the-strategist-volume-13/",
-        "date": "Wed, 03 Jun 2026 20:00:00 +0000",
+        "title": "OFAC Updates Venezuela General Licenses and Issues New Venezuela FAQs",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-updates-venezuela-general-licenses-and-issues-new-venezuela-faqs/",
+        "date": "Thu, 18 Jun 2026 03:35:07 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Publishes List of Medical Devices Excluded From the General License for Non-US Agricultural Commodities, Medicine, and Medical Devices Destined for North Korea",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-publishes-list-of-medical-devices-excluded-from-the-general-license-for-non-us-agricultural-commodities-medicine-and-medical-devices-destined-for-north-korea/",
+        "date": "Wed, 17 Jun 2026 15:13:32 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "US Government Updates 1260H List of Chinese Military Companies",
+        "link": "https://sanctionsnews.bakermckenzie.com/us-government-updates-1260h-list-of-chinese-military-companies/",
+        "date": "Tue, 16 Jun 2026 13:42:05 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Expands Guidance on Strait of Hormuz “Safe Passage” Restrictions",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-expands-guidance-on-strait-of-hormuz-safe-passage-restrictions/",
+        "date": "Mon, 15 Jun 2026 20:23:24 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "EU: Commission Announces 21st Sanctions Package against Russia Targeting Energy, Financial Sector and Trade",
+        "link": "https://sanctionsnews.bakermckenzie.com/eu-commission-announces-21st-sanctions-package-against-russia-targeting-energy-financial-sector-and-trade/",
+        "date": "Fri, 12 Jun 2026 15:00:17 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "US Continues to Expand Cuba Sanctions: New SDN Designations and Secondary Sanctions Guidance",
+        "link": "https://sanctionsnews.bakermckenzie.com/us-continues-to-expand-cuba-sanctions-new-sdn-designations-and-secondary-sanctions-guidance/",
+        "date": "Wed, 10 Jun 2026 22:23:51 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Spain’s Export Controls Regime: Recent Developments and What Comes Next",
+        "link": "https://sanctionsnews.bakermckenzie.com/spains-export-controls-regime-recent-developments-and-what-comes-next/",
+        "date": "Wed, 10 Jun 2026 10:15:50 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "BIS Clarifies That License Requirements for Advanced Computing Items to Country Group D:5- and Macau-Headquartered Entities Remain in Force Despite AI Diffusion Rule Non-Enforcement",
+        "link": "https://sanctionsnews.bakermckenzie.com/bis-clarifies-that-license-requirements-for-advanced-computing-items-to-country-group-d5-and-macau-headquartered-entities-remain-in-force-despite-ai-diffusion-rule-non-enforcement/",
+        "date": "Mon, 08 Jun 2026 23:55:11 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "UK Financial Conduct Authority publishes report indicating that financial institutions must do more to prevent sanctions breaches: key takeaways",
+        "link": "https://sanctionsnews.bakermckenzie.com/uk-financial-conduct-authority-publishes-report-indicating-that-financial-institutions-must-do-more-to-prevent-sanctions-breaches-key-takeaways/",
+        "date": "Fri, 29 May 2026 18:13:06 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "Swiss Federal Supreme Court clarifies the evidentiary threshold triggering asset freeze and reporting obligations under Art. 15 para. 1 and Art. 16 para. 1 of the Ukraine Ordinance",
+        "link": "https://sanctionsnews.bakermckenzie.com/swiss-federal-supreme-court-clarifies-the-evidentiary-threshold-triggering-asset-freeze-and-reporting-obligations-under-art-15-para-1-and-art-16-para-1-of-the-ukraine-ordinance/",
+        "date": "Wed, 27 May 2026 16:14:24 +0000",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "OFAC Issues General License No. 134C Extending Authorization for Certain Russia‑Origin Crude Oil and Petroleum Product Transactions",
+        "link": "https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-no-134c-extending-authorization-for-certain-russia-origin-crude-oil-and-petroleum-product-transactions/",
+        "date": "Tue, 26 May 2026 15:33:17 +0000",
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
@@ -5961,6 +6039,18 @@
       }
     ],
     "windward": [
+      {
+        "title": "What Defensible Marine Insurance Compliance Looks Like in 2026",
+        "link": "https://windward.ai/blog/what-defensible-marine-insurance-compliance-looks-like-in-2026/",
+        "date": "Thu, 20 Aug 2026 10:09:31 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
+      {
+        "title": "Beyond AIS: Why Raw Tracking Data Isn’t Enough for Naval Procurement Anymore",
+        "link": "https://windward.ai/blog/beyond-ais-why-tracking-data-falls-short-for-navies/",
+        "date": "Thu, 20 Aug 2026 06:00:00 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
       {
         "title": "A Fatal Strike and the First Seizure Since June as Iran’s Transit Rules Take Effect",
         "link": "https://windward.ai/blog/a-fatal-hormuz-strike-and-irans-first-seizure-since-june/",
@@ -6270,8 +6360,321 @@
         "firstSeen": "2026-07-13T10:44:54.654Z"
       }
     ],
-    "kse": [],
+    "bizlawyers": [
+      {
+        "title": "「漫画だから、読んでもらえる」工場で働く人たちが当事者意識を持てるコンプライアンス研修へ",
+        "link": "https://www.businesslawyers.jp/articles/1567",
+        "date": "2026-08-17T10:00:00+09:00",
+        "firstSeen": "2026-08-17T21:50:39.931Z"
+      },
+      {
+        "title": "令和8年改正金商法によるインサイダー取引規制の変更点",
+        "link": "https://www.businesslawyers.jp/articles/1564",
+        "date": "2026-08-13T08:00:00+09:00",
+        "firstSeen": "2026-08-13T22:00:01.338Z"
+      },
+      {
+        "title": "「AI利活用における民事責任の解釈適用に関する手引き」の解説",
+        "link": "https://www.businesslawyers.jp/articles/1561",
+        "date": "2026-08-12T08:00:00+09:00",
+        "firstSeen": "2026-08-12T22:00:14.782Z"
+      },
+      {
+        "title": "経済産業省「成長投資ガイダンス―価値創造の拡大を通じた企業の持続的成長に向けて―」を公表",
+        "link": "https://www.businesslawyers.jp/articles/1566",
+        "date": "2026-08-10T11:00:00+09:00",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
+        "title": "2026年8月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1562",
+        "date": "2026-08-10T08:00:00+09:00",
+        "firstSeen": "2026-08-10T21:58:00.040Z"
+      },
+      {
+        "title": "令和8年改正個人情報保護法の金融機関等における実務対応",
+        "link": "https://www.businesslawyers.jp/articles/1565",
+        "date": "2026-08-07T15:00:00+09:00",
+        "firstSeen": "2026-08-07T21:57:11.415Z"
+      },
+      {
+        "title": "懲戒処分の基礎知識を弁護士がわかりやすく解説 〜懲戒の必要性、法的要件、フロー、証拠化のノウハウなど",
+        "link": "https://www.businesslawyers.jp/articles/1563",
+        "date": "2026-08-03T07:00:00+09:00",
+        "firstSeen": "2026-08-02T22:03:21.555Z"
+      },
+      {
+        "title": "2026年改訂コーポレートガバナンス・コードの解説",
+        "link": "https://www.businesslawyers.jp/articles/1560",
+        "date": "2026-07-31T10:00:00+09:00",
+        "firstSeen": "2026-07-31T22:06:02.178Z"
+      },
+      {
+        "title": "「営業表彰の文化を、コンプライアンスにも」。\"セゾンらしさ\"で進める、全従業員参加型のコンプライアンス推進とBLC活用",
+        "link": "https://www.businesslawyers.jp/articles/1557",
+        "date": "2026-07-22T18:50:00+09:00",
+        "firstSeen": "2026-07-22T22:05:33.220Z"
+      },
+      {
+        "title": "令和8年改正個人情報保護法の衆議院・参議院の附帯決議（各14項目）の全文と比較分析",
+        "link": "https://www.businesslawyers.jp/articles/1559",
+        "date": "2026-07-17T08:40:00+09:00",
+        "firstSeen": "2026-07-17T22:02:36.375Z"
+      },
+      {
+        "title": "ランサムウェア被害時のフォレンジック調査はどう進む？ 費用・期間・対応フローと平時の備えを専門家に聞く",
+        "link": "https://www.businesslawyers.jp/articles/1558",
+        "date": "2026-07-16T07:00:00+09:00",
+        "firstSeen": "2026-07-15T22:05:17.826Z"
+      },
+      {
+        "title": "2026年7月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1555",
+        "date": "2026-07-09T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "宇賀克也教授に聞く令和8年個人情報保護法改正",
+        "link": "https://www.businesslawyers.jp/articles/1556",
+        "date": "2026-07-07T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "従業員による資料印刷・持ち出しの法的リスク クラウド環境・テレワーク下での法的解釈や対策を弁護士解説",
+        "link": "https://www.businesslawyers.jp/practices/1493",
+        "date": "2026-07-01T15:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "内製のコンプライアンス研修からの脱却。法務イントラへの常設で実現した、\"いつでも届く\"コンプライアンス教育",
+        "link": "https://www.businesslawyers.jp/articles/1553",
+        "date": "2026-06-29T17:30:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "退職金の全額不支給を認めた最高裁判決からみるコンプライアンスの引き締め方",
+        "link": "https://www.businesslawyers.jp/articles/1554",
+        "date": "2026-06-23T09:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "「答え合わせができない仕事」に確信を。実務経験豊富な弁護士のロールプレイ研修で磨いた、グループ全体の内部通報対応力",
+        "link": "https://www.businesslawyers.jp/articles/1546",
+        "date": "2026-06-19T15:10:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "株主総会における取締役等の説明義務および株主発言における最近のキーワード",
+        "link": "https://www.businesslawyers.jp/articles/1552",
+        "date": "2026-06-18T12:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "「いまさら聞けない法務の基本」シリーズ一覧―若手法務の基礎固めから経験者の知識アップデートまで",
+        "link": "https://www.businesslawyers.jp/articles/1551",
+        "date": "2026-06-16T16:21:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "「部門任せ」の研修体制から脱却。顧客の信頼を守る、全従業員3,000名へのコンプライアンス浸透の仕組みづくり",
+        "link": "https://www.businesslawyers.jp/articles/1541",
+        "date": "2026-06-16T10:30:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "物流特殊指定・優越ガイドライン改正と製造委託等代金支払特殊指定の解説",
+        "link": "https://www.businesslawyers.jp/articles/1548",
+        "date": "2026-06-12T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年6月に押さえておくべき海外法の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1550",
+        "date": "2026-06-11T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年6月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1549",
+        "date": "2026-06-10T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "会社法改正中間試案「株主が見えない」問題にどう応えるか―東京大学・田中亘教授が語るオプションの拡大と資本市場の活用",
+        "link": "https://www.businesslawyers.jp/articles/1547",
+        "date": "2026-06-05T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "「コーポレートガバナンス・コード改訂案」に関する想定問答例",
+        "link": "https://www.businesslawyers.jp/articles/1545",
+        "date": "2026-05-28T14:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "経済安全保障時代に注目「オープンソース・インテリジェンス」を活用したリスク管理とは？",
+        "link": "https://www.businesslawyers.jp/articles/1538",
+        "date": "2026-05-27T10:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "東京証券取引所「『資本コストや株価を意識した経営』に関する4年目の取組み」を公表",
+        "link": "https://www.businesslawyers.jp/articles/1544",
+        "date": "2026-05-13T16:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年5月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1543",
+        "date": "2026-05-11T07:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "役員とは？会社法上の定義と役割、選任・解任の手順、役員報酬など",
+        "link": "https://www.businesslawyers.jp/articles/1540",
+        "date": "2026-05-07T17:30:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "事務局が知っておくべき株主総会の基本　近年の傾向、準備、当日運営など",
+        "link": "https://www.businesslawyers.jp/articles/1539",
+        "date": "2026-04-27T15:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "アクティビストや敵対的買収への対応実務〜大量保有報告制度の改正を踏まえて〜",
+        "link": "https://www.businesslawyers.jp/articles/1536",
+        "date": "2026-04-17T11:30:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "サイバー法令は「リスクマネジメントのツール」 海外サイバー規制動向とセキュリティ実務への影響を弁護士に聞く",
+        "link": "https://www.businesslawyers.jp/articles/1537",
+        "date": "2026-04-17T07:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "4月施行の改正法ほか2026年4月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1533",
+        "date": "2026-04-10T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "金融庁「有価証券報告書を定時株主総会前に提出する場合の留意点」を更新",
+        "link": "https://www.businesslawyers.jp/articles/1534",
+        "date": "2026-04-08T07:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "アクティビストとは？活動の具体例やトレンド、企業の対応策など",
+        "link": "https://www.businesslawyers.jp/articles/1535",
+        "date": "2026-04-03T18:45:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "AIに個人情報を入れてはいけない？　個人情報保護法改正を見据えて弁護士が解説",
+        "link": "https://www.businesslawyers.jp/articles/1532",
+        "date": "2026-03-31T10:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "NTTデータの出資法務・知財担当者が語る、事業成長を加速させる法務の役割とは",
+        "link": "https://www.businesslawyers.jp/articles/1530",
+        "date": "2026-03-26T10:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "アクティビストから面談を申し込まれたらどうする？弁護士が解説",
+        "link": "https://www.businesslawyers.jp/practices/1492",
+        "date": "2026-03-17T15:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "東証「従属上場会社における少数株主保護の在り方等に関する研究会」（第9回）を開催",
+        "link": "https://www.businesslawyers.jp/articles/1528",
+        "date": "2026-03-16T10:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "判例リサーチで事業の意思決定を支援するユーザベース流「判例秘書」の使い方",
+        "link": "https://www.businesslawyers.jp/articles/1529",
+        "date": "2026-03-13T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年3月に押さえておくべき海外法の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1526",
+        "date": "2026-03-11T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年3月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1527",
+        "date": "2026-03-10T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "妥協なき講師選定で現場が納得する研修を。形式的運用から脱却し、実務に直結させるまで",
+        "link": "https://www.businesslawyers.jp/articles/1531",
+        "date": "2026-03-06T14:30:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "取適法違反のリスクは？勧告・公表、指導などペナルティを解説",
+        "link": "https://www.businesslawyers.jp/practices/1491",
+        "date": "2026-02-26T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "有価証券報告書の総会前開示 2026年総会に向けた実務ポイント",
+        "link": "https://www.businesslawyers.jp/articles/1525",
+        "date": "2026-02-25T09:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "「経済安全保障と独占禁止法に関する事例集」の目的と背景",
+        "link": "https://www.businesslawyers.jp/articles/1524",
+        "date": "2026-02-19T11:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "取適法で禁止される「協議に応じない一方的な代金決定」を具体例とともに解説",
+        "link": "https://www.businesslawyers.jp/practices/1490",
+        "date": "2026-02-17T18:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "JT・稲村氏 × BoostDraft・渡邊氏対談　法務DXの本質は「人間性の回復」",
+        "link": "https://www.businesslawyers.jp/articles/1520",
+        "date": "2026-02-16T10:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "取適法が適用される特定運送委託を具体例とともにわかりやすく解説",
+        "link": "https://www.businesslawyers.jp/practices/1489",
+        "date": "2026-02-12T08:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "2026年2月に押さえておくべき企業法務の最新動向",
+        "link": "https://www.businesslawyers.jp/articles/1522",
+        "date": "2026-02-10T11:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      },
+      {
+        "title": "東証「市場区分の見直しに関するフォローアップ会議」（第25回）を開催",
+        "link": "https://www.businesslawyers.jp/articles/1523",
+        "date": "2026-02-10T07:00:00+09:00",
+        "firstSeen": "2026-07-13T10:44:54.654Z"
+      }
+    ],
     "pancanal": [
+      {
+        "title": "Canal de Panamá adopta medidas adicionales para atender la reducción de precipitaciones en la Cuenca Hidrográfica",
+        "link": "https://pancanal.com/canal-de-panama-adopta-medidas-adicionales-para-atender-la-reduccion-de-precipitaciones-en-la-cuenca-hidrografica/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-adopta-medidas-adicionales-para-atender-la-reduccion-de-precipitaciones-en-la-cuenca-hidrografica",
+        "date": "Thu, 20 Aug 2026 21:08:21 +0000",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
       {
         "title": "Canal de Panamá cumple 112 años de operaciones manteniendo su visión a futuro",
         "link": "https://pancanal.com/canal-de-panama-cumple-112-de-operaciones-manteniendo-su-vision-a-futuro/?utm_source=rss&utm_medium=rss&utm_campaign=canal-de-panama-cumple-112-de-operaciones-manteniendo-su-vision-a-futuro",
@@ -6546,6 +6949,12 @@
       }
     ],
     "copernicus": [
+      {
+        "title": "New openEO Community Example: Understanding SCL Dilation Masks process in openEO",
+        "link": "https://dataspace.copernicus.eu/news/2026-8-19-new-openeo-community-example-understanding-scl-dilation-masks-process-openeo",
+        "date": "Wed, 19 Aug 2026 08:37:59 UTC",
+        "firstSeen": "2026-08-20T21:51:59.448Z"
+      },
       {
         "title": "Introduction of Copernicus Sentinel-2 Processing Baseline 05.13",
         "link": "https://dataspace.copernicus.eu/news/2026-8-7-introduction-copernicus-sentinel-2-processing-baseline-0513",
@@ -6961,314 +7370,7 @@
         "firstSeen": "2026-07-13T10:49:13.098Z"
       }
     ],
-    "bizlawyers": [
-      {
-        "title": "「漫画だから、読んでもらえる」工場で働く人たちが当事者意識を持てるコンプライアンス研修へ",
-        "link": "https://www.businesslawyers.jp/articles/1567",
-        "date": "2026-08-17T10:00:00+09:00",
-        "firstSeen": "2026-08-17T21:50:39.931Z"
-      },
-      {
-        "title": "令和8年改正金商法によるインサイダー取引規制の変更点",
-        "link": "https://www.businesslawyers.jp/articles/1564",
-        "date": "2026-08-13T08:00:00+09:00",
-        "firstSeen": "2026-08-13T22:00:01.338Z"
-      },
-      {
-        "title": "「AI利活用における民事責任の解釈適用に関する手引き」の解説",
-        "link": "https://www.businesslawyers.jp/articles/1561",
-        "date": "2026-08-12T08:00:00+09:00",
-        "firstSeen": "2026-08-12T22:00:14.782Z"
-      },
-      {
-        "title": "経済産業省「成長投資ガイダンス―価値創造の拡大を通じた企業の持続的成長に向けて―」を公表",
-        "link": "https://www.businesslawyers.jp/articles/1566",
-        "date": "2026-08-10T11:00:00+09:00",
-        "firstSeen": "2026-08-10T21:58:00.040Z"
-      },
-      {
-        "title": "2026年8月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1562",
-        "date": "2026-08-10T08:00:00+09:00",
-        "firstSeen": "2026-08-10T21:58:00.040Z"
-      },
-      {
-        "title": "令和8年改正個人情報保護法の金融機関等における実務対応",
-        "link": "https://www.businesslawyers.jp/articles/1565",
-        "date": "2026-08-07T15:00:00+09:00",
-        "firstSeen": "2026-08-07T21:57:11.415Z"
-      },
-      {
-        "title": "懲戒処分の基礎知識を弁護士がわかりやすく解説 〜懲戒の必要性、法的要件、フロー、証拠化のノウハウなど",
-        "link": "https://www.businesslawyers.jp/articles/1563",
-        "date": "2026-08-03T07:00:00+09:00",
-        "firstSeen": "2026-08-02T22:03:21.555Z"
-      },
-      {
-        "title": "2026年改訂コーポレートガバナンス・コードの解説",
-        "link": "https://www.businesslawyers.jp/articles/1560",
-        "date": "2026-07-31T10:00:00+09:00",
-        "firstSeen": "2026-07-31T22:06:02.178Z"
-      },
-      {
-        "title": "「営業表彰の文化を、コンプライアンスにも」。\"セゾンらしさ\"で進める、全従業員参加型のコンプライアンス推進とBLC活用",
-        "link": "https://www.businesslawyers.jp/articles/1557",
-        "date": "2026-07-22T18:50:00+09:00",
-        "firstSeen": "2026-07-22T22:05:33.220Z"
-      },
-      {
-        "title": "令和8年改正個人情報保護法の衆議院・参議院の附帯決議（各14項目）の全文と比較分析",
-        "link": "https://www.businesslawyers.jp/articles/1559",
-        "date": "2026-07-17T08:40:00+09:00",
-        "firstSeen": "2026-07-17T22:02:36.375Z"
-      },
-      {
-        "title": "ランサムウェア被害時のフォレンジック調査はどう進む？ 費用・期間・対応フローと平時の備えを専門家に聞く",
-        "link": "https://www.businesslawyers.jp/articles/1558",
-        "date": "2026-07-16T07:00:00+09:00",
-        "firstSeen": "2026-07-15T22:05:17.826Z"
-      },
-      {
-        "title": "2026年7月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1555",
-        "date": "2026-07-09T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "宇賀克也教授に聞く令和8年個人情報保護法改正",
-        "link": "https://www.businesslawyers.jp/articles/1556",
-        "date": "2026-07-07T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "従業員による資料印刷・持ち出しの法的リスク クラウド環境・テレワーク下での法的解釈や対策を弁護士解説",
-        "link": "https://www.businesslawyers.jp/practices/1493",
-        "date": "2026-07-01T15:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "内製のコンプライアンス研修からの脱却。法務イントラへの常設で実現した、\"いつでも届く\"コンプライアンス教育",
-        "link": "https://www.businesslawyers.jp/articles/1553",
-        "date": "2026-06-29T17:30:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "退職金の全額不支給を認めた最高裁判決からみるコンプライアンスの引き締め方",
-        "link": "https://www.businesslawyers.jp/articles/1554",
-        "date": "2026-06-23T09:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "「答え合わせができない仕事」に確信を。実務経験豊富な弁護士のロールプレイ研修で磨いた、グループ全体の内部通報対応力",
-        "link": "https://www.businesslawyers.jp/articles/1546",
-        "date": "2026-06-19T15:10:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "株主総会における取締役等の説明義務および株主発言における最近のキーワード",
-        "link": "https://www.businesslawyers.jp/articles/1552",
-        "date": "2026-06-18T12:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "「いまさら聞けない法務の基本」シリーズ一覧―若手法務の基礎固めから経験者の知識アップデートまで",
-        "link": "https://www.businesslawyers.jp/articles/1551",
-        "date": "2026-06-16T16:21:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "「部門任せ」の研修体制から脱却。顧客の信頼を守る、全従業員3,000名へのコンプライアンス浸透の仕組みづくり",
-        "link": "https://www.businesslawyers.jp/articles/1541",
-        "date": "2026-06-16T10:30:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "物流特殊指定・優越ガイドライン改正と製造委託等代金支払特殊指定の解説",
-        "link": "https://www.businesslawyers.jp/articles/1548",
-        "date": "2026-06-12T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年6月に押さえておくべき海外法の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1550",
-        "date": "2026-06-11T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年6月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1549",
-        "date": "2026-06-10T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "会社法改正中間試案「株主が見えない」問題にどう応えるか―東京大学・田中亘教授が語るオプションの拡大と資本市場の活用",
-        "link": "https://www.businesslawyers.jp/articles/1547",
-        "date": "2026-06-05T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "「コーポレートガバナンス・コード改訂案」に関する想定問答例",
-        "link": "https://www.businesslawyers.jp/articles/1545",
-        "date": "2026-05-28T14:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "経済安全保障時代に注目「オープンソース・インテリジェンス」を活用したリスク管理とは？",
-        "link": "https://www.businesslawyers.jp/articles/1538",
-        "date": "2026-05-27T10:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "東京証券取引所「『資本コストや株価を意識した経営』に関する4年目の取組み」を公表",
-        "link": "https://www.businesslawyers.jp/articles/1544",
-        "date": "2026-05-13T16:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年5月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1543",
-        "date": "2026-05-11T07:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "役員とは？会社法上の定義と役割、選任・解任の手順、役員報酬など",
-        "link": "https://www.businesslawyers.jp/articles/1540",
-        "date": "2026-05-07T17:30:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "事務局が知っておくべき株主総会の基本　近年の傾向、準備、当日運営など",
-        "link": "https://www.businesslawyers.jp/articles/1539",
-        "date": "2026-04-27T15:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "アクティビストや敵対的買収への対応実務〜大量保有報告制度の改正を踏まえて〜",
-        "link": "https://www.businesslawyers.jp/articles/1536",
-        "date": "2026-04-17T11:30:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "サイバー法令は「リスクマネジメントのツール」 海外サイバー規制動向とセキュリティ実務への影響を弁護士に聞く",
-        "link": "https://www.businesslawyers.jp/articles/1537",
-        "date": "2026-04-17T07:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "4月施行の改正法ほか2026年4月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1533",
-        "date": "2026-04-10T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "金融庁「有価証券報告書を定時株主総会前に提出する場合の留意点」を更新",
-        "link": "https://www.businesslawyers.jp/articles/1534",
-        "date": "2026-04-08T07:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "アクティビストとは？活動の具体例やトレンド、企業の対応策など",
-        "link": "https://www.businesslawyers.jp/articles/1535",
-        "date": "2026-04-03T18:45:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "AIに個人情報を入れてはいけない？　個人情報保護法改正を見据えて弁護士が解説",
-        "link": "https://www.businesslawyers.jp/articles/1532",
-        "date": "2026-03-31T10:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "NTTデータの出資法務・知財担当者が語る、事業成長を加速させる法務の役割とは",
-        "link": "https://www.businesslawyers.jp/articles/1530",
-        "date": "2026-03-26T10:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "アクティビストから面談を申し込まれたらどうする？弁護士が解説",
-        "link": "https://www.businesslawyers.jp/practices/1492",
-        "date": "2026-03-17T15:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "東証「従属上場会社における少数株主保護の在り方等に関する研究会」（第9回）を開催",
-        "link": "https://www.businesslawyers.jp/articles/1528",
-        "date": "2026-03-16T10:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "判例リサーチで事業の意思決定を支援するユーザベース流「判例秘書」の使い方",
-        "link": "https://www.businesslawyers.jp/articles/1529",
-        "date": "2026-03-13T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年3月に押さえておくべき海外法の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1526",
-        "date": "2026-03-11T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年3月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1527",
-        "date": "2026-03-10T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "妥協なき講師選定で現場が納得する研修を。形式的運用から脱却し、実務に直結させるまで",
-        "link": "https://www.businesslawyers.jp/articles/1531",
-        "date": "2026-03-06T14:30:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "取適法違反のリスクは？勧告・公表、指導などペナルティを解説",
-        "link": "https://www.businesslawyers.jp/practices/1491",
-        "date": "2026-02-26T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "有価証券報告書の総会前開示 2026年総会に向けた実務ポイント",
-        "link": "https://www.businesslawyers.jp/articles/1525",
-        "date": "2026-02-25T09:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "「経済安全保障と独占禁止法に関する事例集」の目的と背景",
-        "link": "https://www.businesslawyers.jp/articles/1524",
-        "date": "2026-02-19T11:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "取適法で禁止される「協議に応じない一方的な代金決定」を具体例とともに解説",
-        "link": "https://www.businesslawyers.jp/practices/1490",
-        "date": "2026-02-17T18:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "JT・稲村氏 × BoostDraft・渡邊氏対談　法務DXの本質は「人間性の回復」",
-        "link": "https://www.businesslawyers.jp/articles/1520",
-        "date": "2026-02-16T10:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "取適法が適用される特定運送委託を具体例とともにわかりやすく解説",
-        "link": "https://www.businesslawyers.jp/practices/1489",
-        "date": "2026-02-12T08:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "2026年2月に押さえておくべき企業法務の最新動向",
-        "link": "https://www.businesslawyers.jp/articles/1522",
-        "date": "2026-02-10T11:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      },
-      {
-        "title": "東証「市場区分の見直しに関するフォローアップ会議」（第25回）を開催",
-        "link": "https://www.businesslawyers.jp/articles/1523",
-        "date": "2026-02-10T07:00:00+09:00",
-        "firstSeen": "2026-07-13T10:44:54.654Z"
-      }
-    ],
+    "kse": [],
     "datalastic": [
       {
         "title": "How To Use ChatGPT To Track Ships in Real Time?",

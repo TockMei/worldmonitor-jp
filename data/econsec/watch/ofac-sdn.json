@@ -1,9 +1,9 @@
 {
   "id": "ofac-sdn",
   "label": "OFAC SDN List",
-  "generated": "2026-08-19T21:50:53.181Z",
+  "generated": "2026-08-20T21:51:59.448Z",
   "resolvedUrl": "https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV",
-  "count": 19202,
+  "count": 19249,
   "entities": {
     "36": {
       "name": "AEROCARIBBEAN AIRLINES",
@@ -359,7 +359,7 @@
     },
     "4697": {
       "name": "HIZBALLAH",
-      "list": "FTO] [SDGT"
+      "list": "FTO] [SDGT] [IRGC] [IFSR"
     },
     "4700": {
       "name": "KAHANE CHAI",
@@ -75901,6 +75901,10 @@
       "name": "ANSARI, Ali",
       "list": "SDGT] [IRGC] [IFSR] [IRAN-EO13876"
     },
+    "57958": {
+      "name": "ALARCON HOLGUIN, Jimmy Leonidas",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
     "57960": {
       "name": "SMART GLOBAL LIMITED",
       "list": "SDGT] [IRAN-EO13876"
@@ -76689,6 +76693,10 @@
       "name": "ABAN TETHER EXCHANGE",
       "list": "IRAN-EO13902"
     },
+    "58253": {
+      "name": "DEDE, Onder",
+      "list": "SDGT] [IFSR"
+    },
     "58258": {
       "name": "CRYPTO HOME DMCC",
       "list": "SDGT"
@@ -76696,6 +76704,10 @@
     "58259": {
       "name": "NFT HOME DMCC",
       "list": "SDGT"
+    },
+    "58265": {
+      "name": "YILMAZ, Yunus Alper",
+      "list": "SDGT] [IFSR"
     },
     "58266": {
       "name": "SHARIFI, Shima",
@@ -76753,6 +76765,10 @@
       "name": "SHELBIT GENERAL TRADING LLC",
       "list": "SDGT"
     },
+    "58286": {
+      "name": "AKYUZ, Vasfi",
+      "list": "SDGT"
+    },
     "58287": {
       "name": "SHPS SHELBIT",
       "list": "SDGT"
@@ -76805,6 +76821,130 @@
       "name": "PEREZ CORTES, Waldo",
       "list": "CUBA-EO14404"
     },
+    "58301": {
+      "name": "KARASALIH, Feyyad",
+      "list": "SDGT"
+    },
+    "58303": {
+      "name": "MOUSAFAR, Masoud",
+      "list": "SDGT"
+    },
+    "58305": {
+      "name": "KACMAZ, Halil Ibrahim",
+      "list": "SDGT] [IFSR"
+    },
+    "58306": {
+      "name": "AKYUZ, Mehmet",
+      "list": "SDGT"
+    },
+    "58307": {
+      "name": "ACUR, Mehmet",
+      "list": "SDGT"
+    },
+    "58308": {
+      "name": "SAVCI, Gulay Kaya",
+      "list": "SDGT"
+    },
+    "58309": {
+      "name": "AYAZ, Emrah",
+      "list": "SDGT"
+    },
+    "58345": {
+      "name": "MERO MERO, Alfonso",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58353": {
+      "name": "TODOS VUELVEN",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58354": {
+      "name": "ARCA DE NOE III",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58355": {
+      "name": "ARCA DE NOE III JR",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58356": {
+      "name": "ARCA DE NOE IV",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58357": {
+      "name": "ARCA DE NOE V",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58358": {
+      "name": "REY DE ARCA",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58363": {
+      "name": "SIEMPRE MI ARCA",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58364": {
+      "name": "MERO ARCENTALES, Roberth Alfonso",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58366": {
+      "name": "MERO FRANCO, Julio Javier",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58367": {
+      "name": "CONQUISTA",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58369": {
+      "name": "MERO ARCENTALES, Edwar Alexis",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58370": {
+      "name": "SOLO ES MEJOR",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58371": {
+      "name": "COSTA MARLIN",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58372": {
+      "name": "MARTINEZ MENDOZA, Milton Edixson",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58373": {
+      "name": "VERA LAZ, Jhonny Francisco",
+      "list": "SDGT] [ILLICIT-DRUGS-EO14059"
+    },
+    "58375": {
+      "name": "MERO BERMELLO, Byron Aladino",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58377": {
+      "name": "ARCASDENOE, S.A.",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58378": {
+      "name": "ALHO FISH, S.A.",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58379": {
+      "name": "GLOBALDISTRIAL, S.A.S.",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58380": {
+      "name": "JAH-HMH, S.A.S.",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58381": {
+      "name": "NEGOCIOS JIMAR, S.A.S.",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58382": {
+      "name": "PROYECTOS NEYZOA, S.A.S.",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
+    "58383": {
+      "name": "SOISAMAR, S.A.S.",
+      "list": "ILLICIT-DRUGS-EO14059"
+    },
     "58410": {
       "name": "AKANE, Tomoko",
       "list": "ICC-EO14203"
@@ -76812,6 +76952,54 @@
     "58411": {
       "name": "SEYE, Abdoulaye",
       "list": "ICC-EO14203"
+    },
+    "58443": {
+      "name": "GRUPO EMPRESARIAL GEOMINERO SALINERO",
+      "list": "CUBA-EO14404"
+    },
+    "58444": {
+      "name": "MARTINEZ FREIRE, Leima",
+      "list": "CUBA-EO14404"
+    },
+    "58445": {
+      "name": "MINISTRY OF CONSTRUCTION OF CUBA",
+      "list": "CUBA-EO14404"
+    },
+    "58446": {
+      "name": "RABAZA FERNANDEZ, Noemi Ramona",
+      "list": "CUBA-EO14404"
+    },
+    "58447": {
+      "name": "EMPRESA DE NIQUEL COMANDANTE ERNESTO CHE GUEVARA",
+      "list": "CUBA-EO14404"
+    },
+    "58448": {
+      "name": "EMPRESA IMPORTADORA EXPORTADORA Y COMERCIALIZADORA DE METALES",
+      "list": "CUBA-EO14404"
+    },
+    "58449": {
+      "name": "EMPRESA COMERCIALIZADORA DE ARTICULOS EN GENERAL",
+      "list": "CUBA-EO14404"
+    },
+    "58450": {
+      "name": "ACINOX COMERCIAL",
+      "list": "CUBA-EO14404"
+    },
+    "58451": {
+      "name": "EMPRESA CENTRAL DE ABASTECIMIENTO Y VENTAS DE EQUIPOS DE TRANSPORTE PESADO Y SUS PIEZAS",
+      "list": "CUBA-EO14404"
+    },
+    "58452": {
+      "name": "CORATUR S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58453": {
+      "name": "AGENCIA DE CONTRATACION A REPRESENTACIONES COMERCIALES S.A.",
+      "list": "CUBA-EO14404"
+    },
+    "58454": {
+      "name": "GONZALEZ LLORT, Fernando",
+      "list": "CUBA-EO14404"
     }
   }
 }

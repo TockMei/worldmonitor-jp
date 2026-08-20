@@ -1,8 +1,14 @@
 {
   "id": "copernicus",
   "label": "Copernicus Data Space",
-  "generated": "2026-08-19T21:50:53.181Z",
+  "generated": "2026-08-20T21:51:59.448Z",
   "items": [
+    {
+      "title": "New openEO Community Example: Understanding SCL Dilation Masks process in openEO",
+      "link": "https://dataspace.copernicus.eu/news/2026-8-19-new-openeo-community-example-understanding-scl-dilation-masks-process-openeo",
+      "date": "Wed, 19 Aug 2026 08:37:59 UTC",
+      "firstSeen": "2026-08-20T21:51:59.448Z"
+    },
     {
       "title": "Introduction of Copernicus Sentinel-2 Processing Baseline 05.13",
       "link": "https://dataspace.copernicus.eu/news/2026-8-7-introduction-copernicus-sentinel-2-processing-baseline-0513",

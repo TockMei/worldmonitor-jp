@@ -1,7 +1,7 @@
 {
   "id": "uksl",
   "label": "UK Sanctions List (UKSL, successor to the OFSI Consolidated List)",
-  "generated": "2026-08-19T21:50:53.181Z",
+  "generated": "2026-08-20T21:51:59.448Z",
   "resolvedUrl": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
   "count": 6334,
   "entities": {
@@ -1022,7 +1022,7 @@
       "list": "Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019｜個人"
     },
     "AQD0124": {
-      "name": "Abd El Illah",
+      "name": "Said Dit Merrikh",
       "list": "Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019｜個人"
     },
     "AQD0125": {
@@ -1450,7 +1450,7 @@
       "list": "Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019｜個人"
     },
     "AQD0250": {
-      "name": "Abu Adam",
+      "name": "Abu Hamza",
       "list": "Isil (Da'esh) and Al-Qaeda (United Nations Sanctions) (EU Exit) Regulations 2019｜個人"
     },
     "AQD0251": {
